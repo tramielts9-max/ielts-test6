@@ -1,0 +1,547 @@
+{
+  "title": "IELTS Academic 18 - Test 3 - Passage 1: Materials to take us beyond concrete",
+  "answers": {
+    "q1": "G",
+    "q2": "D",
+    "q3": "C",
+    "q4": "F",
+    "q5": "architects",
+    "q6": "moisture",
+    "q7": "layers",
+    "q8": "speed",
+    "q9": "C",
+    "q10": "A",
+    "q11": "B",
+    "q12": "D",
+    "q13": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>Materials to take us beyond concrete</h3><p><em>Concrete is everywhere, but it's bad for the planet, generating large amounts of carbon dioxide – alternatives are being developed</em></p><p><strong>Paragraph A.</strong> Concrete is the second most used substance in the global economy, after water – and one of the world's biggest single sources of greenhouse gas emissions. The chemical process by which cement, the key ingredient of concrete, is created results in large quantities of carbon dioxide. The UN estimates that there will be 9.8 billion people living on the planet by mid-century. They will need somewhere to live. If concrete is the only answer to the construction of new cities, then carbon emissions will soar, aggravating global warming. And so scientists have started innovating with other materials, in a scramble for alternatives to a universal commodity that has underpinned our modern life for many years.</p><p><strong>Paragraph B.</strong> The problem with replacing concrete is that it is so very good at what it does. Chris Cheeseman, an engineering professor at Imperial College London, says the key thing to consider is the extent to which concrete is used around the world, and is likely to continue to be used. 'Concrete is not a high-carbon product. Cement is high carbon, but concrete is not. But <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">it is the scale on which it is used that makes it high carbon. The sheer scale of manufacture is so huge, that is the issue</span>.'</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Not only are the ingredients of concrete relatively cheap and found in abundance in most places around the globe</span>, the stuff itself has marvellous properties: Portland cement, the vital component of concrete, is mouldable and pourable, but quickly sets hard. Cheeseman also notes another advantage: concrete and steel have similar thermal expansion properties, so steel can be used to reinforce concrete, making it far stronger and more flexible as a building material than it could be on its own. According to Cheeseman, all these factors together make concrete hard to beat. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">'Concrete is amazing stuff. Making anything with similar properties is going to be very difficult.'</span></p><p><strong>Paragraph D.</strong> A possible alternative to concrete is wood. Making buildings from wood may seem like a rather medieval idea, but climate change is driving <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">architects</span></span> to turn to treated timber as a possible resource. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Recent years have seen the emergence of tall buildings constructed almost entirely from timber. Vancouver, Vienna and Brumunddal in Norway are all home to constructed tall, wooden buildings</span>.</p><p><strong>Paragraph E.</strong> Using wood to construct buildings, however, is not straightforward. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Wood expands as it absorbs <span class=\"kw\">moisture</span> from the air</span> and is susceptible to pests, not to mention fire. But treating wood and combining it with other materials can improve its properties. Cross-laminated timber is engineered wood. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">An adhesive is used to stick <span class=\"kw\">layers</span> of solid-sawn timber together</span>, crosswise, to form building blocks. This material is light but has the strength of concrete and steel. Construction experts say that wooden buildings can be constructed at a <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">greater <span class=\"kw\">speed</span></span> than ones of concrete and steel and the process, it seems, is quieter.</p><p><strong>Paragraph F.</strong> Stora Enso is Europe's biggest supplier of cross-laminated timber, and its vice-president Markus Mannström reports that the company is seeing increasing demand globally for building in wood, <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">with climate change concerns the key driver</span>. Finland, with its large forests, where Stora Enso is based, has been leading the way, but the company is seeing a rise in demand for its timber products across the world, including in Asia. Of course, using timber in a building also locks away the carbon that it absorbed as it grew. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">But even treated wood has its limitations and only when a wider range of construction projects has been proven in practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings</span>.</p><p><strong>Paragraph G.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Fly ash and slag from iron ore are possible alternatives to cement in a concrete mix. Fly ash, a byproduct of coal-burning power plants, can be incorporated into concrete mixes to make up as much as 15 to 30% of the cement, without harming the strength or durability of the resulting mix. Iron-ore slag, a byproduct of the iron-ore smelting process, can be used in a similar way. Their incorporation into concrete mixes has the potential to reduce greenhouse gas emissions</span>.<br><br>But Anna Surgenor, of the UK's Green Building Council, notes that although these waste products can save carbon in the concrete mix, their use is not always straightforward. 'It's possible to replace the cement content in concrete with waste products to lower the overall carbon impact. But there are several calculations that need to be considered across the entire life cycle of the building – these include factoring in where these materials are being shipped from. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">If they are transported over long distances, using fossil fuels, the use of alternative materials might not make sense from an overall carbon reduction perspective.'</span></p><p><strong>Paragraph H.</strong> While these technologies are all promising ideas, they are either unproven or based on materials that are not abundant. In their overview of innovation in the concrete industry, Felix Preston and Johanna Lehne of the UK's Royal Institute of International Affairs reached the conclusion that, 'Some novel cements have been discussed for more than a decade within the research community, without breaking through. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">At present, these alternatives are rarely as cost-effective as conventional cement, and they face raw-material shortages and resistance from customers.'</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "title": "Questions 1-4",
+      "instructions": "<i>Reading Passage 1 has eight sections, <b>A-H</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A-H</b>, in boxes 1-4 on your answer sheet.</i>",
+      "questionIds": ["q1", "q2", "q3", "q4"]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "title": "Questions 5-8",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 5-8 on your answer sheet.</i>",
+      "summaryTitle": "Making buildings with wood",
+      "questionIds": ["q5", "q6", "q7", "q8"],
+      "template": "<p>Wood is a traditional building material, but current environmental concerns are encouraging <b>5.</b> {{q5}} to use wood in modern construction projects. Using wood, however, has its challenges. For example, as <b>6.</b> {{q6}} in the atmosphere enters wood, it increases in size. In addition, wood is prone to pests and the risk of fire is greater. However, wood can be turned into a better construction material if it is treated and combined with other materials. In one process, <b>7.</b> {{q7}} of solid wood are glued together to create building blocks. These blocks are lighter than concrete and steel but equal them in strength. Experts say that wooden buildings are an improvement on those made of concrete and steel in terms of the <b>8.</b> {{q8}} with which they can be constructed and how much noise is generated by the process.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "title": "Questions 9-13",
+      "instructions": "<i>Look at the following statements (Questions 9-13) and the list of people below.<br>Match each statement with the correct person, <b>A, B, C or D</b>.<br>Write the correct letter, <b>A, B, C or D</b>, in boxes 9-13 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of People:</b><br><b>A.</b> Chris Cheeseman<br><b>B.</b> Markus Mannström<br><b>C.</b> Anna Surgenor<br><b>D.</b> Felix Preston and Johanna Lehne",
+      "questionIds": ["q9", "q10", "q11", "q12", "q13"]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "an explanation of the industrial processes that create potential raw materials for concrete",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "G",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 1 hỏi về điều gì? Hãy chú ý cụm: lời giải thích về các quy trình công nghiệp ('industrial processes') tạo ra các nguyên liệu thô tiềm năng ('potential raw materials') cho bê tông.",
+            "guide": "Em cần tìm Paragraph nào nhắc đến các quy trình sản xuất công nghiệp thải ra phụ phẩm có thể dùng thay xi măng.",
+            "bridge": "Mình cùng xem Paragraph G nói về tro bay và xỉ quặng sắt nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph G, tro bay và xỉ quặng được tạo ra từ những quy trình công nghiệp nào?",
+            "guide": "Paragraph G viết: tro bay là phụ phẩm từ các nhà máy điện đốt than ('byproduct of coal-burning power plants'), còn xỉ quặng sắt là phụ phẩm từ quá trình luyện quặng sắt ('byproduct of the iron-ore smelting process').",
+            "bridge": "Nhà máy điện đốt than và quá trình luyện kim chính là các 'industrial processes'."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào giải thích các quy trình công nghiệp này?",
+            "guide": "Đáp án chính xác là Paragraph G.",
+            "bridge": "Chốt câu 1: G."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Giải thích các quy trình công nghiệp tạo ra nguyên liệu tiềm năng cho bê tông.",
+          "<b>Paragraph G (dòng 1-4):</b> Nhắc đến tro bay từ nhà máy nhiệt điện đốt than (<i>'coal-burning power plants'</i>) và xỉ quặng từ quá trình luyện kim (<i>'iron-ore smelting process'</i>) có thể thay thế một phần xi măng.",
+          "<b>Khớp ý:</b> <i>industrial processes</i> = <i>coal-burning power plants / smelting process</i>; <i>potential raw materials</i> = <i>fly ash / slag</i>.",
+          "<b>Kết luận:</b> Chọn <b>G</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "a reference to the various locations where high-rise wooden buildings can be found",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "D",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 2 muốn tìm thông tin gì? Hãy để ý cụm: những địa điểm khác nhau ('various locations') nơi có các tòa nhà cao tầng bằng gỗ ('high-rise wooden buildings').",
+            "guide": "Em hãy quét tên riêng các thành phố hoặc quốc gia nơi người ta đã xây dựng những tòa nhà cao tầng bằng gỗ.",
+            "bridge": "Cùng đọc Paragraph D xem có những địa danh nào nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph D kể tên những thành phố nào có các tòa nhà cao tầng bằng gỗ?",
+            "guide": "Paragraph D viết: 'Recent years have seen the emergence of tall buildings constructed almost entirely from timber. Vancouver, Vienna and Brumunddal in Norway are all home to constructed tall, wooden buildings.'",
+            "bridge": "Vancouver, Vienna và Brumunddal (Na Uy) chính là các địa điểm khác nhau."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa danh sách các địa điểm này?",
+            "guide": "Đáp án là Paragraph D.",
+            "bridge": "Chốt câu 2: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Đề cập đến các địa điểm khác nhau có các tòa nhà cao tầng bằng gỗ.",
+          "<b>Paragraph D (dòng 3-5):</b> <i>'Recent years have seen the emergence of tall buildings constructed almost entirely from timber. Vancouver, Vienna and Brumunddal in Norway are all home to constructed tall, wooden buildings.'</i>",
+          "<b>Khớp ý:</b> <i>various locations</i> = Vancouver, Vienna và Brumunddal in Norway; <i>high-rise wooden buildings</i> = <i>tall, wooden buildings</i>.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "an indication of how widely available the raw materials of concrete are",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 3 hỏi về điều gì? Hãy chú ý cụm: mức độ phổ biến, dễ tìm của các nguyên liệu thô làm bê tông ('how widely available the raw materials of concrete are').",
+            "guide": "Em cần tìm Paragraph nói về việc nguyên liệu làm bê tông có nhiều và dễ kiếm ở khắp mọi nơi.",
+            "bridge": "Hãy đọc câu đầu tiên của Paragraph C."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Câu đầu tiên của Paragraph C nói các thành phần của bê tông có đặc điểm gì?",
+            "guide": "Paragraph C viết: 'Not only are the ingredients of concrete relatively cheap and found in abundance in most places around the globe...' (Không chỉ rẻ, các thành phần của bê tông còn có sẵn với số lượng dồi dào ở hầu hết mọi nơi trên trái đất).",
+            "bridge": "'found in abundance in most places around the globe' chính là 'widely available'."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nói về độ phổ biến rộng khắp của nguyên liệu làm bê tông?",
+            "guide": "Đáp án chính xác là Paragraph C.",
+            "bridge": "Chốt câu 3: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Nêu rõ nguyên liệu thô của bê tông có sẵn phổ biến như thế nào.",
+          "<b>Paragraph C (câu đầu):</b> <i>'Not only are the ingredients of concrete relatively cheap and found in abundance in most places around the globe...'</i>",
+          "<b>Khớp ý:</b> <i>raw materials of concrete</i> = <i>ingredients of concrete</i>; <i>widely available</i> = <i>found in abundance in most places around the globe</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "the belief that more high-rise wooden buildings are needed before wood can be regarded as a viable construction material",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "F",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 4 nói gì? Quan điểm cho rằng cần phải xây thêm nhiều tòa nhà gỗ cao tầng nữa ('more high-rise wooden buildings are needed') thì gỗ mới được coi là vật liệu xây dựng khả thi ('viable construction material').",
+            "guide": "Em cần tìm Paragraph nói về việc cần thêm nhiều dự án thực tế chứng minh hiệu quả của gỗ trong việc xây nhà cao tầng.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph F nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Câu cuối Paragraph F nói điều kiện gì để gỗ trở thành vật liệu thay thế thực sự cho bê tông?",
+            "guide": "Paragraph F viết: '...only when a wider range of construction projects has been proven in practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings.' (chỉ khi có thêm nhiều dự án xây dựng được chứng minh qua thực tế thì gỗ mới có thể là vật liệu thay thế thực sự).",
+            "bridge": "'only when a wider range of construction projects has been proven' chính là cần thêm nhiều công trình thực tế nữa."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa quan điểm này?",
+            "guide": "Đáp án là Paragraph F.",
+            "bridge": "Chốt câu 4: F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Niềm tin rằng cần xây dựng thêm nhiều công trình gỗ cao tầng nữa trước khi gỗ được xem là vật liệu khả thi.",
+          "<b>Paragraph F (câu cuối):</b> <i>'...only when a wider range of construction projects has been proven in practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings.'</i>",
+          "<b>Khớp ý:</b> <i>more high-rise wooden buildings are needed</i> = <i>a wider range of construction projects</i>; <i>viable construction material</i> = <i>real alternative to concrete</i>.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "architects",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 5: Những lo ngại về môi trường hiện nay đang khuyến khích ai ('encouraging 5 ______') sử dụng gỗ trong các dự án xây dựng hiện đại?",
+            "guide": "Sau động từ 'encouraging' cần một danh từ chỉ người làm việc trong ngành thiết kế, xây dựng.",
+            "bridge": "Hãy đọc những câu đầu của Paragraph D."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph D nói biến đổi khí hậu đang thôi thúc ai tìm đến gỗ đã qua xử lý?",
+            "guide": "Paragraph D viết: '...climate change is driving architects to turn to treated timber as a possible resource.' (biến đổi khí hậu đang thôi thúc các kiến trúc sư hướng tới gỗ đã qua xử lý).",
+            "bridge": "'driving' tương đương với 'encouraging'. Đối tượng được thôi thúc là ai?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ nghề nghiệp ở đây là gì?",
+            "guide": "Đáp án là 'architects' (các kiến trúc sư).",
+            "bridge": "Chốt câu 5: architects."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Mối lo môi trường thúc đẩy đối tượng nào dùng gỗ trong xây dựng.",
+          "<b>Paragraph D (dòng 2):</b> <i>'...climate change is driving architects to turn to treated timber as a possible resource.'</i>",
+          "<b>Khớp từ:</b> <i>current environmental concerns</i> = <i>climate change</i>; <i>encouraging</i> = <i>driving</i>.",
+          "<b>Từ cần điền:</b> <b>architects</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "moisture",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 6: Khi cái gì trong không khí ngấm vào gỗ ('as 6 ______ in the atmosphere enters wood'), nó làm thanh gỗ nở to ra?",
+            "guide": "Cần một danh từ chỉ yếu tố tự nhiên trong không khí có thể ngấm vào gỗ làm nó phồng lên.",
+            "bridge": "Hãy đọc câu đầu tiên của Paragraph E."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph E giải thích tại sao gỗ lại bị giãn nở?",
+            "guide": "Paragraph E viết: 'Wood expands as it absorbs moisture from the air...' (Gỗ giãn nở khi nó hút độ ẩm từ không khí).",
+            "bridge": "'absorbs moisture from the air' chính là hơi ẩm trong không khí ngấm vào gỗ."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất chỉ độ ẩm là gì?",
+            "guide": "Đáp án là 'moisture'.",
+            "bridge": "Chốt câu 6: moisture."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Thứ gì trong không khí ngấm vào làm gỗ giãn nở kích thước.",
+          "<b>Paragraph E (dòng 1):</b> <i>'Wood expands as it absorbs moisture from the air...'</i>",
+          "<b>Khớp từ:</b> <i>in the atmosphere</i> = <i>from the air</i>; <i>increases in size</i> = <i>expands</i>.",
+          "<b>Từ cần điền:</b> <b>moisture</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "layers",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 7: Trong một quy trình, các phần gì của gỗ đặc ('7 ______ of solid wood') được dán lại với nhau bằng keo để tạo thành khối xây dựng?",
+            "guide": "Đứng trước cụm 'of solid wood' cần một danh từ số nhiều chỉ các lớp gỗ xếp chồng lên nhau.",
+            "bridge": "Hãy đọc phần giữa Paragraph E nói về gỗ ép chéo (Cross-laminated timber)."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph E nói người ta dùng keo dán cái gì của gỗ lại với nhau?",
+            "guide": "Paragraph E viết: 'An adhesive is used to stick layers of solid-sawn timber together, crosswise, to form building blocks.'",
+            "bridge": "'stick... together' chính là 'glued together'. Thứ được dán lại là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều trong bài là gì?",
+            "guide": "Đáp án là 'layers' (các lớp).",
+            "bridge": "Chốt câu 7: layers."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Thứ gì của gỗ xẻ được gắn keo lại với nhau để tạo thành khối chịu lực.",
+          "<b>Paragraph E (dòng 4-5):</b> <i>'An adhesive is used to stick layers of solid-sawn timber together...'</i>",
+          "<b>Khớp từ:</b> <i>glued together</i> = <i>adhesive is used to stick... together</i>; <i>solid wood</i> = <i>solid-sawn timber</i>.",
+          "<b>Từ cần điền:</b> <b>layers</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "speed",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 8: Các chuyên gia nói nhà bằng gỗ là một sự cải tiến so với bê tông và thép xét về mặt gì ('in terms of the 8 ______') khi thi công và độ ồn ít hơn?",
+            "guide": "Sau mạo từ 'the' cần một danh từ chỉ ưu điểm về tiến độ, thời gian thi công nhanh hơn.",
+            "bridge": "Hãy đọc những câu cuối của Paragraph E."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph E so sánh tốc độ thi công nhà gỗ với nhà bê tông cốt thép như thế nào?",
+            "guide": "Paragraph E viết: 'Construction experts say that wooden buildings can be constructed at a greater speed than ones of concrete and steel...' (có thể được xây dựng với tốc độ nhanh hơn).",
+            "bridge": "'constructed at a greater speed' chính là ưu thế về mặt tốc độ xây dựng."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất chỉ tốc độ là gì?",
+            "guide": "Đáp án là 'speed'.",
+            "bridge": "Hoàn thành phần điền từ! Chốt câu 8: speed."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Nhà gỗ vượt trội hơn bê tông về mặt nào trong quá trình xây dựng.",
+          "<b>Paragraph E (dòng 6):</b> <i>'...wooden buildings can be constructed at a greater speed than ones of concrete and steel...'</i>",
+          "<b>Khớp từ:</b> <i>in terms of the speed with which they can be constructed</i> = <i>constructed at a greater speed</i>.",
+          "<b>Từ cần điền:</b> <b>speed</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The environmental advantage of cement alternatives may not be as great as initially assumed.",
+      "options": [
+        "A. Chris Cheeseman",
+        "B. Markus Mannström",
+        "C. Anna Surgenor",
+        "D. Felix Preston and Johanna Lehne"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 9 nói gì? Lợi ích môi trường của các vật liệu thay thế xi măng có thể không lớn như người ta lầm tưởng lúc đầu ('may not be as great as initially assumed').",
+            "guide": "Em cần tìm xem chuyên gia nào cảnh báo rằng việc dùng vật liệu thay thế đôi khi không giảm được phát thải do quá trình vận chuyển xa bằng nhiên liệu hóa thạch.",
+            "bridge": "Hãy đọc phần phát biểu của bà Anna Surgenor ở Paragraph G."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Bà Anna Surgenor giải thích điều gì về việc vận chuyển nguyên liệu thay thế ở Paragraph G?",
+            "guide": "Bà nói: nếu những phụ phẩm này phải vận chuyển trên quãng đường dài bằng nhiên liệu hóa thạch, thì 'the use of alternative materials might not make sense from an overall carbon reduction perspective' (việc dùng vật liệu thay thế có thể không còn ý nghĩa xét trên góc độ giảm phát thải carbon tổng thể).",
+            "bridge": "'might not make sense from an overall carbon reduction perspective' chính là lợi ích môi trường không lớn như tưởng tượng ban đầu."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra cảnh báo này?",
+            "guide": "Đó là bà Anna Surgenor (đáp án C).",
+            "bridge": "Chốt câu 9: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Lợi ích môi trường của vật liệu thay thế xi măng có thể không lớn như kỳ vọng ban đầu.",
+          "<b>Paragraph G (cuối đoạn):</b> Anna Surgenor nói: <i>'If they are transported over long distances, using fossil fuels, the use of alternative materials might not make sense from an overall carbon reduction perspective.'</i>",
+          "<b>Khớp ý:</b> Chọn <b>C (Anna Surgenor)</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "It would be hard to create a construction alternative to concrete that offers so many comparable benefits.",
+      "options": [
+        "A. Chris Cheeseman",
+        "B. Markus Mannström",
+        "C. Anna Surgenor",
+        "D. Felix Preston and Johanna Lehne"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 10 nói gì? Sẽ rất khó để tạo ra một vật liệu thay thế cho bê tông mà lại có nhiều ưu điểm tương đương như vậy ('offers so many comparable benefits').",
+            "guide": "Em hãy tìm chuyên gia ca ngợi những đặc tính tuyệt vời của bê tông và cho rằng rất khó để chế ra thứ tương tự.",
+            "bridge": "Hãy đọc phát biểu của giáo sư Chris Cheeseman ở Paragraph C."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Ở cuối Paragraph C, giáo sư Chris Cheeseman khẳng định điều gì?",
+            "guide": "Ông nói: 'Concrete is amazing stuff. Making anything with similar properties is going to be very difficult.' (Bê tông là một thứ tuyệt vời. Tạo ra bất cứ thứ gì có đặc tính tương tự sẽ là vô cùng khó khăn).",
+            "bridge": "'Making anything with similar properties is going to be very difficult' chính là 'hard to create a construction alternative that offers so many comparable benefits'."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người khẳng định điều này?",
+            "guide": "Đó là giáo sư Chris Cheeseman (đáp án A).",
+            "bridge": "Chốt câu 10: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Rất khó để tạo ra vật liệu thay thế có nhiều ưu điểm tương tự như bê tông.",
+          "<b>Paragraph C (câu cuối):</b> Chris Cheeseman nói: <i>'Concrete is amazing stuff. Making anything with similar properties is going to be very difficult.'</i>",
+          "<b>Khớp từ:</b> <i>hard to create</i> = <i>very difficult</i>; <i>comparable benefits / similar properties</i> = <i>similar properties</i>.",
+          "<b>Kết luận:</b> Chọn <b>A (Chris Cheeseman)</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Worries about the environment have led to increased interest in wood as a construction material.",
+      "options": [
+        "A. Chris Cheeseman",
+        "B. Markus Mannström",
+        "C. Anna Surgenor",
+        "D. Felix Preston and Johanna Lehne"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 11 nói gì? Những lo lắng về môi trường ('Worries about the environment') đã thúc đẩy sự quan tâm ngày càng tăng đối với gỗ như một vật liệu xây dựng.",
+            "guide": "Em cần tìm xem người đại diện công ty gỗ nào nhận thấy nhu cầu xây dựng bằng gỗ tăng lên vì biến đổi khí hậu.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph F nhé."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph F, ông Markus Mannström báo cáo điều gì về nhu cầu gỗ?",
+            "guide": "Ông nói: công ty đang chứng kiến nhu cầu xây dựng bằng gỗ tăng lên trên toàn cầu, 'with climate change concerns the key driver' (trong đó mối lo ngại về biến đổi khí hậu chính là động lực then chốt).",
+            "bridge": "'climate change concerns the key driver' chính là những lo lắng về môi trường đã thúc đẩy sự quan tâm đến gỗ."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra thông tin này?",
+            "guide": "Đó là ông Markus Mannström (đáp án B).",
+            "bridge": "Chốt câu 11: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Lo ngại về môi trường dẫn đến sự gia tăng quan tâm tới gỗ xây dựng.",
+          "<b>Paragraph F (dòng 1-3):</b> Markus Mannström báo cáo: <i>'...seeing increasing demand globally for building in wood, with climate change concerns the key driver.'</i>",
+          "<b>Khớp từ:</b> <i>Worries about the environment</i> = <i>climate change concerns</i>; <i>increased interest in wood</i> = <i>increasing demand globally for building in wood</i>.",
+          "<b>Kết luận:</b> Chọn <b>B (Markus Mannström)</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Expense has been a factor in the negative response to the development of new cements.",
+      "options": [
+        "A. Chris Cheeseman",
+        "B. Markus Mannström",
+        "C. Anna Surgenor",
+        "D. Felix Preston and Johanna Lehne"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 12 nói gì? Chi phí đắt đỏ ('Expense') là một lý do dẫn tới phản ứng thiếu tích cực đối với việc phát triển các loại xi măng mới.",
+            "guide": "Em cần tìm xem ai là người chỉ ra các loại xi măng mới không hiệu quả về mặt chi phí và bị khách hàng ngần ngại.",
+            "bridge": "Hãy đọc phát biểu của các nhà nghiên cứu ở Paragraph H."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph H, Felix Preston và Johanna Lehne kết luận điều gì về các loại xi măng cải tiến?",
+            "guide": "Họ kết luận: 'At present, these alternatives are rarely as cost-effective as conventional cement, and they face raw-material shortages and resistance from customers.' (Hiện nay, các lựa chọn này hiếm khi có hiệu quả kinh tế/rẻ bằng xi măng thông thường, và gặp phải sự ngần ngại từ khách hàng).",
+            "bridge": "'rarely as cost-effective' (hiếm khi rẻ) chính là yếu tố chi phí đắt đỏ (expense)."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra kết luận này?",
+            "guide": "Đó là Felix Preston và Johanna Lehne (đáp án D).",
+            "bridge": "Chốt câu 12: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Vấn đề chi phí là một nhân tố dẫn đến phản ứng tiêu cực đối với việc phát triển xi măng mới.",
+          "<b>Paragraph H (cuối đoạn):</b> Felix Preston và Johanna Lehne kết luận: <i>'At present, these alternatives are rarely as cost-effective as conventional cement, and they face raw-material shortages and resistance from customers.'</i>",
+          "<b>Khớp từ:</b> <i>Expense</i> = <i>rarely as cost-effective</i>; <i>negative response</i> = <i>resistance from customers</i>.",
+          "<b>Kết luận:</b> Chọn <b>D (Felix Preston and Johanna Lehne)</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "The environmental damage caused by concrete is due to it being produced in large quantities.",
+      "options": [
+        "A. Chris Cheeseman",
+        "B. Markus Mannström",
+        "C. Anna Surgenor",
+        "D. Felix Preston and Johanna Lehne"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 13 nói gì? Tác hại môi trường do bê tông gây ra là bởi vì nó được sản xuất với số lượng khổng lồ ('produced in large quantities').",
+            "guide": "Em cần tìm xem chuyên gia nào giải thích bản thân bê tông không chứa nhiều carbon, mà vấn đề cốt lõi là quy mô sản xuất quá lớn.",
+            "bridge": "Hãy đọc lại lời của giáo sư Chris Cheeseman ở Paragraph B."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph B, giáo sư Chris Cheeseman nói yếu tố nào biến bê tông thành nguồn phát thải lớn?",
+            "guide": "Ông nói: 'Concrete is not a high-carbon product... But it is the scale on which it is used that makes it high carbon. The sheer scale of manufacture is so huge, that is the issue.' (Quy mô sử dụng và sản xuất khổng lồ của nó mới chính là mấu chốt vấn đề).",
+            "bridge": "'The sheer scale of manufacture is so huge' chính là 'produced in large quantities'."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra nhận định này?",
+            "guide": "Đó là giáo sư Chris Cheeseman (đáp án A).",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Thiệt hại môi trường của bê tông là do nó được sản xuất với quy mô số lượng quá lớn.",
+          "<b>Paragraph B (câu cuối):</b> Chris Cheeseman nói: <i>'...it is the scale on which it is used that makes it high carbon. The sheer scale of manufacture is so huge, that is the issue.'</i>",
+          "<b>Khớp từ:</b> <i>produced in large quantities</i> = <i>sheer scale of manufacture is so huge</i>.",
+          "<b>Kết luận:</b> Chọn <b>A (Chris Cheeseman)</b>."
+        ]
+      }
+    }
+  }
+}
