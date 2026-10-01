@@ -1,0 +1,589 @@
+{
+  "title": "IELTS Academic 18 - Test 1 - Passage 3: Conquering Earth's space junk problem",
+  "answers": {
+    "q27": "C",
+    "q28": "F",
+    "q29": "A",
+    "q30": "E",
+    "q31": "B",
+    "q32": "sustainability",
+    "q33": "fuel",
+    "q34": "explosions",
+    "q35": "bankrupt",
+    "q36": "C",
+    "q37": "D",
+    "q38": "B",
+    "q39": "D",
+    "q40": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 3</h2><h3>Conquering Earth's space junk problem</h3><p><em>Satellites, rocket shards and collision debris are creating major traffic risks in orbit around the planet. Researchers are working to reduce these threats</em></p><p><strong>Paragraph A.</strong> Last year, commercial companies, military and civil departments and amateurs sent more than 400 satellites into orbit, over four times the yearly average in the previous decade. Numbers could rise even more sharply if leading space companies follow through on plans to deploy hundreds to thousands of large constellations of satellites to space in the next few years.<br><br>All that traffic can lead to disaster. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251, creating thousands of new pieces of space shrapnel that now threaten other satellites in low Earth orbit</span> – the zone stretching up to 2,000 kilometres in altitude. Altogether, there are roughly 20,000 human-made objects in orbit, from working satellites to small rocket pieces. And satellite operators can't steer away from every potential crash, because each move consumes time and fuel that could otherwise be used for the spacecraft's main job.</p><p><strong>Paragraph B.</strong> Concern about space junk goes back to the beginning of the satellite era, but the number of objects in orbit is rising so rapidly that researchers are investigating new ways of attacking the problem. Several teams are trying to improve methods for assessing what is in orbit, so that satellite operators can work more efficiently in ever-more-crowded space. Some researchers are now starting to compile a massive data set that includes the best possible information on where everything is in orbit. <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">Others are developing taxonomies of space debris – working on measuring properties such as the shape and size of an object, so that satellite operators know how much to worry about what's coming their way</span>.<br><br>The alternative, many say, is unthinkable. Just a few uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">'If we go on like this, we will reach a point of no return,' says Carolin Frueh, an astrodynamical researcher at Purdue University in West Lafayette, Indiana</span>.</p><p><strong>Paragraph C.</strong> Even as our ability to monitor space objects increases, so too does the total number of items in orbit. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">That means companies, governments and other players in space are collaborating in new ways to avoid a shared threat. International groups such as the Inter-Agency Space Debris Coordination Committee have developed guidelines on space <span class=\"kw\"><span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">sustainability</span></span></span>. Those include inactivating satellites at the end of their useful life by venting pressurised materials or leftover <span class=\"kw\"><span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">fuel</span></span> that might lead to <span class=\"kw\"><span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">explosions</span></span>. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">The intergovernmental groups also advise lowering satellites deep enough into the atmosphere that they will burn up or disintegrate within 25 years. But so far, only about half of all missions have abided by this 25-year goal, says Holger Krag, head of the European Space Agency's space-debris office in Darmstadt, Germany</span>. Operators of the planned large constellations of satellites say they will be responsible stewards in their enterprises in space, but Krag worries that problems could increase, despite their best intentions. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">'What happens to those that fail or go <span class=\"kw\">bankrupt</span>?' he asks. 'They are probably not going to spend money to remove their satellites from space.'</span></p><p><strong>Paragraph D.</strong> In theory, given the vastness of space, satellite operators should have plenty of room for all these missions to fly safely without ever nearing another object. So some scientists are tackling the problem of space junk by trying to find out where all the debris is to a high degree of precision. That would alleviate the need for many of the unnecessary manoeuvres that are carried out to avoid potential collisions. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">'If you knew precisely where everything was, you would almost never have a problem,' says Marlon Sorge, a space-debris specialist at the Aerospace Corporation in El Segundo, California</span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">The field is called space traffic management, because it's similar to managing traffic on the roads or in the air. Think about a busy day at an airport, says Moriba Jah, an astrodynamicist at the University of Texas at Austin: planes line up in the sky, landing and taking off close to one another in a carefully choreographed routine. Air-traffic controllers know the location of the planes down to one metre in accuracy. The same can't be said for space debris</span>. Not all objects in orbit are known, and even those included in databases are not tracked consistently.</p><p><strong>Paragraph F.</strong> An additional problem is that there is no authoritative catalogue that accurately lists the orbits of all known space debris. Jah illustrates this with a web-based database that he has developed. It draws on several sources, such as catalogues maintained by the US and Russian governments, to visualise where objects are in space. When he types in an identifier for a particular space object, the database draws a purple line to designate its orbit. Only this doesn't quite work for a number of objects, such as a Russian rocket body designated in the database as object number 32280. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">When Jah enters that number, the database draws two purple lines: the US and Russian sources contain two completely different orbits for the same object. Jah says that it is almost impossible to tell which is correct, unless a third source of information made it possible to cross-correlate</span>.<br><br><span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Jah describes himself as a space environmentalist: 'I want to make space a place that is safe to operate, that is free and useful for generations to come.'</span></span> Until that happens, he argues, the space community will continue devolving into a tragedy in which all spaceflight operators are polluting a common resource.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "title": "Questions 27-31",
+      "instructions": "<i>Reading Passage 3 has six sections, <b>A-F</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A-F</b>, in boxes 27-31 on your answer sheet.</i>",
+      "questionIds": ["q27", "q28", "q29", "q30", "q31"]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "title": "Questions 32-35",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 32-35 on your answer sheet.</i>",
+      "summaryTitle": "The Inter-Agency Space Debris Coordination Committee",
+      "questionIds": ["q32", "q33", "q34", "q35"],
+      "template": "<p>The committee gives advice on how the <b>32.</b> {{q32}} of space can be achieved. The committee advises that when satellites are no longer active, any unused <b>33.</b> {{q33}} or pressurised material that could cause <b>34.</b> {{q34}} should be removed.</p><p>Although operators of large satellite constellations accept that they have obligations as stewards of space, Holger Krag points out that the operators that become <b>35.</b> {{q35}} are unlikely to prioritise removing their satellites from space.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "title": "Questions 36-40",
+      "instructions": "<i>Look at the following statements (Questions 36-40) and the list of people below.<br>Match each statement with the correct person, <b>A, B, C or D</b>.<br>Write the correct letter, <b>A, B, C or D</b>, in boxes 36-40 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of People:</b><br><b>A.</b> Carolin Frueh<br><b>B.</b> Holger Krag<br><b>C.</b> Marlon Sorge<br><b>D.</b> Moriba Jah",
+      "questionIds": ["q36", "q37", "q38", "q39", "q40"]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "a reference to the cooperation that takes place to try and minimise risk",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q27",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 27 hỏi về điều gì? Hãy chú ý cụm: sự hợp tác ('cooperation') diễn ra nhằm giảm thiểu rủi ro ('minimise risk').",
+            "guide": "Em cần tìm Paragraph nào nói về việc các công ty, chính phủ hoặc tổ chức quốc tế phối hợp làm việc cùng nhau để tránh nguy hiểm.",
+            "bridge": "Mình cùng tìm xem Paragraph nào nhắc đến từ hợp tác nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph C, câu nào nói về sự hợp tác giữa các bên?",
+            "guide": "Paragraph C viết: '...companies, governments and other players in space are collaborating in new ways to avoid a shared threat. International groups... have developed guidelines...' (các công ty, chính phủ và các bên khác đang hợp tác theo những cách mới để tránh mối đe dọa chung).",
+            "bridge": "'collaborating' chính là sự hợp tác (cooperation); 'avoid a shared threat' chính là giảm thiểu rủi ro."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa thông tin về sự hợp tác này?",
+            "guide": "Đáp án chính xác là Paragraph C.",
+            "bridge": "Chốt câu 27: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Đề cập đến sự hợp tác diễn ra nhằm cố gắng giảm thiểu rủi ro.",
+          "<b>Paragraph C (dòng 2-3):</b> <i>'...companies, governments and other players in space are collaborating in new ways to avoid a shared threat. International groups... have developed guidelines on space sustainability.'</i>",
+          "<b>Khớp từ:</b> <i>cooperation</i> = <i>collaborating</i>; <i>try and minimise risk</i> = <i>avoid a shared threat</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "an explanation of a person's aims",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "F",
+      "highlightId": "hl-q28",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 28 muốn tìm thông tin gì? Hãy chú ý cụm 'a person's aims' (mục tiêu, mong muốn của một cá nhân cụ thể).",
+            "guide": "Em cần tìm một Paragraph có một chuyên gia đứng ra giải thích về mục tiêu cá nhân hoặc lý tưởng mà mình đang hướng tới.",
+            "bridge": "Hãy tìm xem Paragraph nào có câu nói bắt đầu bằng 'Tôi muốn...' (I want...)."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Ở cuối Paragraph F, nhà khoa học Moriba Jah đã chia sẻ về mục tiêu của mình như thế nào?",
+            "guide": "Paragraph F viết: 'Jah describes himself as a space environmentalist: \"I want to make space a place that is safe to operate, that is free and useful for generations to come.\"' (Tôi muốn biến không gian thành nơi an toàn để vận hành, tự do và hữu ích cho các thế hệ tương lai).",
+            "bridge": "Câu nói 'I want to make...' chính là lời giải thích về mục tiêu của ông ấy."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nêu rõ mục tiêu của một người?",
+            "guide": "Đáp án là Paragraph F.",
+            "bridge": "Chốt câu 28: F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Lời giải thích về mục tiêu của một cá nhân.",
+          "<b>Paragraph F (cuối đoạn):</b> Moriba Jah chia sẻ: <i>'I want to make space a place that is safe to operate, that is free and useful for generations to come.'</i>",
+          "<b>Khớp từ:</b> <i>a person's aims</i> = mong muốn của Moriba Jah (<i>I want to make space a place that is safe...</i>).",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "a description of a major collision that occurred in space",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 29 hỏi về điều gì? Hãy chú ý cụm: miêu tả về một vụ đâm va lớn ('a major collision') đã từng xảy ra ngoài không gian ('occurred in space').",
+            "guide": "Em cần tìm Paragraph kể lại sự việc hai vật thể ngoài không gian va chạm mạnh vào nhau.",
+            "bridge": "Hãy tìm những từ như va chạm ('smashed', 'crash') ở Paragraph A."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph A, vụ va chạm lịch sử nào giữa hai vệ tinh đã được miêu tả?",
+            "guide": "Paragraph A viết: 'Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251, creating thousands of new pieces of space shrapnel...' (Mười năm trước, vệ tinh Iridium của Mỹ đã đâm sầm vào vệ tinh Cosmos-2251 của Nga, tạo ra hàng ngàn mảnh vỡ vụn).",
+            "bridge": "Vệ tinh Mỹ đâm vào vệ tinh Nga chính là một vụ va chạm lớn ngoài không gian."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào miêu tả vụ đâm va này?",
+            "guide": "Đáp án là Paragraph A.",
+            "bridge": "Chốt câu 29: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Miêu tả một vụ va chạm lớn xảy ra ngoài không gian.",
+          "<b>Paragraph A (dòng 4-6):</b> <i>'Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251, creating thousands of new pieces of space shrapnel...'</i>",
+          "<b>Khớp từ:</b> <i>a major collision that occurred in space</i> = vệ tinh Mỹ đâm vào vệ tinh Nga (<i>smashed into</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "a comparison between tracking objects in space and the efficiency of a transportation system",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "E",
+      "highlightId": "hl-q30",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 30 hỏi về điều gì? Hãy chú ý: sự so sánh giữa việc theo dõi vật thể ngoài không gian với độ hiệu quả của một hệ thống giao thông ('efficiency of a transportation system').",
+            "guide": "Em hãy tìm Paragraph nào nhắc đến việc kiểm soát máy bay hoặc xe cộ trên mặt đất để so với rác không gian.",
+            "bridge": "Cùng đọc Paragraph E xem có nói về sân bay hay máy bay không nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph E, tác giả so sánh việc quản lý rác không gian với hệ thống giao thông nào?",
+            "guide": "Paragraph E viết: ngành này gọi là quản lý giao thông vũ trụ vì nó giống giao thông đường bộ hay đường hàng không. Hãy nghĩ về một sân bay bận rộn: máy bay xếp hàng cất hạ cánh nhịp nhàng và kiểm soát viên biết vị trí chính xác đến từng mét, trong khi rác vũ trụ thì không theo dõi được như vậy.",
+            "bridge": "Hình ảnh sân bay và điều hành bay chính là sự so sánh với hệ thống giao thông."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa phép so sánh này?",
+            "guide": "Đáp án chính xác là Paragraph E.",
+            "bridge": "Chốt câu 30: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> So sánh việc theo dõi vật thể không gian với sự hiệu quả của hệ thống giao thông.",
+          "<b>Paragraph E:</b> <i>'The field is called space traffic management, because it's similar to managing traffic on the roads or in the air. Think about a busy day at an airport... Air-traffic controllers know the location of the planes down to one metre... The same can't be said for space debris.'</i>",
+          "<b>Khớp ý:</b> So sánh việc theo dõi rác không gian với hệ thống điều hành bay tại sân bay (<i>transportation system</i>).",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "a reference to efforts to classify space junk",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "B",
+      "highlightId": "hl-q31",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 31 hỏi về điều gì? Hãy chú ý cụm: những nỗ lực nhằm phân loại rác vũ trụ ('efforts to classify space junk').",
+            "guide": "Em hãy tìm một Paragraph nói về việc các nhà khoa học đang phân loại, đo đạc kích thước, hình dáng của các mảnh vỡ.",
+            "bridge": "Hãy tìm từ mang nghĩa phân loại (như taxonomy) ở Paragraph B."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph B, câu nào nói về việc phân loại các mảnh vỡ rác không gian?",
+            "guide": "Paragraph B viết: 'Others are developing taxonomies of space debris – working on measuring properties such as the shape and size of an object, so that satellite operators know how much to worry...' (những người khác đang xây dựng bảng phân loại rác vũ trụ – đo lường hình dạng và kích thước của các vật thể).",
+            "bridge": "'developing taxonomies of space debris' chính là nỗ lực phân loại rác không gian (efforts to classify space junk)."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào đề cập đến việc phân loại này?",
+            "guide": "Đáp án là Paragraph B.",
+            "bridge": "Chốt câu 31: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Đề cập đến nỗ lực phân loại rác vũ trụ.",
+          "<b>Paragraph B (dòng 5-6):</b> <i>'Others are developing taxonomies of space debris – working on measuring properties such as the shape and size of an object...'</i>",
+          "<b>Khớp từ:</b> <i>classify space junk</i> = <i>developing taxonomies of space debris</i> (xây dựng hệ thống phân loại rác không gian).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "The committee gives advice on how the 32 __________ of space can be achieved.",
+      "finalAnswer": "sustainability",
+      "inputWidth": "140px",
+      "highlightId": "hl-q32",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 32: Ủy ban đưa ra lời khuyên về cách đạt được điều gì cho không gian ('how the 32 ______ of space can be achieved')?",
+            "guide": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ chỉ mục tiêu lâu dài cho môi trường không gian.",
+            "bridge": "Hãy quét tên riêng của ủy ban: 'Inter-Agency Space Debris Coordination Committee' ở Paragraph C."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph C nói ủy ban này đưa ra hướng dẫn về vấn đề gì của không gian: 'guidelines on space ______'?",
+            "guide": "Paragraph C viết: 'International groups such as the Inter-Agency Space Debris Coordination Committee have developed guidelines on space sustainability.'",
+            "bridge": "'guidelines on space sustainability' chính là lời khuyên về việc đạt được tính bền vững của không gian."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'sustainability' (sự bền vững).",
+            "bridge": "Chốt câu 32: sustainability."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau mạo từ <i>the</i> và trước <i>of space</i>.",
+          "<b>Paragraph C (dòng 3-4):</b> <i>'...the Inter-Agency Space Debris Coordination Committee have developed guidelines on space sustainability.'</i>",
+          "<b>Khớp từ:</b> <i>gives advice on how ... can be achieved</i> = <i>developed guidelines on</i>.",
+          "<b>Từ cần điền:</b> <b>sustainability</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "The committee advises that when satellites are no longer active, any unused 33 __________ or pressurised material that could cause explosions should be removed.",
+      "finalAnswer": "fuel",
+      "inputWidth": "100px",
+      "highlightId": "hl-q33",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 33: Khi vệ tinh hết hạn sử dụng, bất kỳ lượng chất gì không dùng hết ('any unused 33 ______') hoặc vật liệu chịu áp suất cần phải được xả bỏ?",
+            "guide": "Sau tính từ 'unused' và trước từ nối 'or' cần một danh từ chỉ nhiên liệu hoặc chất dễ cháy nổ còn sót lại.",
+            "bridge": "Đọc tiếp câu ngay sau cụm 'space sustainability' ở Paragraph C."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph C nói cần phải xả vật liệu chịu áp suất hoặc cái gì còn sót lại: 'venting pressurised materials or leftover ______'?",
+            "guide": "Paragraph C viết: '...by venting pressurised materials or leftover fuel that might lead to explosions.'",
+            "bridge": "'leftover' chính là 'unused' (còn thừa, chưa dùng hết). Thứ đi cùng là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ chỉ nhiên liệu là gì?",
+            "guide": "Đáp án là 'fuel' (nhiên liệu).",
+            "bridge": "Chốt câu 33: fuel."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau tính từ <i>unused</i>.",
+          "<b>Paragraph C (dòng 4-5):</b> <i>'...by venting pressurised materials or leftover fuel that might lead to explosions.'</i>",
+          "<b>Khớp từ:</b> <i>unused</i> = <i>leftover</i>; từ song song với <i>pressurised material</i> là <i>fuel</i>.",
+          "<b>Từ cần điền:</b> <b>fuel</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "any unused fuel or pressurised material that could cause 34 __________ should be removed.",
+      "finalAnswer": "explosions",
+      "inputWidth": "120px",
+      "highlightId": "hl-q34",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 34: Cần loại bỏ nhiên liệu thừa vì chúng có thể gây ra điều gì nguy hiểm ('that could cause 34 ______')?",
+            "guide": "Sau động từ 'cause' cần một danh từ chỉ tai nạn cháy nổ mà nhiên liệu thừa gây ra.",
+            "bridge": "Nhìn ngay vế sau của từ 'fuel' ở Paragraph C."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph C nói nhiên liệu thừa có thể dẫn tới cái gì: 'might lead to ______'?",
+            "guide": "Paragraph C viết: '...leftover fuel that might lead to explosions.' (nhiên liệu còn sót lại có thể dẫn đến các vụ nổ).",
+            "bridge": "'cause' đồng nghĩa với 'lead to'. Hậu quả ở đây là các vụ nổ."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ số nhiều chỉ các vụ nổ trong bài là gì?",
+            "guide": "Đáp án là 'explosions'.",
+            "bridge": "Chốt câu 34: explosions."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ hậu quả sau động từ <i>cause</i>.",
+          "<b>Paragraph C (dòng 5):</b> <i>'...leftover fuel that might lead to explosions.'</i>",
+          "<b>Khớp từ:</b> <i>could cause</i> = <i>might lead to</i>.",
+          "<b>Từ cần điền:</b> <b>explosions</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Holger Krag points out that the operators that become 35 __________ are unlikely to prioritise removing their satellites from space.",
+      "finalAnswer": "bankrupt",
+      "inputWidth": "110px",
+      "highlightId": "hl-q35",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 35: Ông Holger Krag chỉ ra rằng những nhà vận hành vệ tinh rơi vào tình trạng gì ('become 35 ______') sẽ ít có khả năng chi tiền để thu hồi vệ tinh?",
+            "guide": "Sau 'become' cần một tính từ chỉ tình trạng kiệt quệ tài chính hoặc làm ăn thua lỗ.",
+            "bridge": "Hãy tìm tên riêng 'Holger Krag' ở nửa sau Paragraph C."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph C trích câu hỏi của Holger Krag: 'What happens to those that fail or go ______?'",
+            "guide": "Paragraph C viết: '\"What happens to those that fail or go bankrupt?\" he asks. \"They are probably not going to spend money to remove their satellites from space.\"' (Điều gì sẽ xảy ra với những công ty thất bại hoặc phá sản? Họ chắc chắn sẽ không bỏ tiền ra để thu dọn vệ tinh).",
+            "bridge": "'become' khớp với 'go'; tình trạng không còn tiền là phá sản."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ tình trạng phá sản trong bài là gì?",
+            "guide": "Đáp án là 'bankrupt'.",
+            "bridge": "Hoàn thành bài điền từ! Chốt câu 35: bankrupt."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần tính từ sau động từ nối <i>become</i>.",
+          "<b>Paragraph C (cuối đoạn):</b> <i>'\"What happens to those that fail or go bankrupt?\" he asks. \"They are probably not going to spend money to remove their satellites from space.\"'</i>",
+          "<b>Khớp từ:</b> <i>become bankrupt</i> = <i>go bankrupt</i>.",
+          "<b>Từ cần điền:</b> <b>bankrupt</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Knowing the exact location of space junk would help prevent any possible danger.",
+      "options": [
+        "A. Carolin Frueh",
+        "B. Holger Krag",
+        "C. Marlon Sorge",
+        "D. Moriba Jah"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q36",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 36 nói gì? Biết được vị trí chính xác của rác không gian ('Knowing the exact location of space junk') sẽ giúp ngăn chặn mọi mối nguy hiểm có thể xảy ra.",
+            "guide": "Em cần tìm xem chuyên gia nào nói rằng nếu biết chuẩn xác từng vị trí của các mảnh vỡ thì sẽ không bao giờ gặp sự cố.",
+            "bridge": "Hãy đọc phát ngôn của chuyên gia ở Paragraph D."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph D, ông Marlon Sorge nói gì về việc biết chính xác vị trí của rác?",
+            "guide": "Paragraph D viết: '\"If you knew precisely where everything was, you would almost never have a problem,\" says Marlon Sorge...' (Nếu bạn biết chính xác mọi thứ đang ở đâu, bạn gần như sẽ không bao giờ gặp vấn đề gì).",
+            "bridge": "'knew precisely where everything was' = 'knowing the exact location'; 'almost never have a problem' = 'help prevent any possible danger'."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra khẳng định này?",
+            "guide": "Đó là ông Marlon Sorge (đáp án C).",
+            "bridge": "Chốt câu 36: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Biết vị trí chính xác của rác không gian sẽ giúp ngăn ngừa nguy hiểm.",
+          "<b>Paragraph D (câu cuối):</b> Marlon Sorge nói: <i>'\"If you knew precisely where everything was, you would almost never have a problem\"'</i>",
+          "<b>Khớp từ:</b> <i>knowing the exact location</i> = <i>knew precisely where everything was</i>; <i>prevent any possible danger</i> = <i>almost never have a problem</i>.",
+          "<b>Kết luận:</b> Chọn <b>C (Marlon Sorge)</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Space should be available to everyone and should be preserved for the future.",
+      "options": [
+        "A. Carolin Frueh",
+        "B. Holger Krag",
+        "C. Marlon Sorge",
+        "D. Moriba Jah"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q37",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 37 nói gì? Không gian vũ trụ cần phải rộng mở cho tất cả mọi người ('available to everyone') và cần được giữ gìn cho tương lai ('preserved for the future').",
+            "guide": "Em cần tìm xem chuyên gia nào coi mình là người bảo vệ môi trường không gian và muốn giữ gìn không gian cho các thế hệ sau.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph F nhé."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph F, ông Moriba Jah nói gì về ước muốn của mình đối với không gian?",
+            "guide": "Paragraph F viết: 'Jah describes himself as a space environmentalist: \"I want to make space a place that is safe to operate, that is free and useful for generations to come.\"' (Tôi muốn làm cho không gian trở thành nơi an toàn, tự do và hữu ích cho các thế hệ mai sau).",
+            "bridge": "'free and useful for generations to come' chính là mở cho mọi người và bảo tồn cho tương lai."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người có quan điểm này?",
+            "guide": "Đó là ông Moriba Jah (đáp án D).",
+            "bridge": "Chốt câu 37: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Không gian nên dành cho tất cả mọi người và cần được bảo tồn cho tương lai.",
+          "<b>Paragraph F (cuối đoạn):</b> Moriba Jah nói: <i>'I want to make space a place that is safe to operate, that is free and useful for generations to come.'</i>",
+          "<b>Khớp từ:</b> <i>available to everyone</i> = <i>free and useful</i>; <i>preserved for the future</i> = <i>for generations to come</i>.",
+          "<b>Kết luận:</b> Chọn <b>D (Moriba Jah)</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "A recommendation regarding satellites is widely ignored.",
+      "options": [
+        "A. Carolin Frueh",
+        "B. Holger Krag",
+        "C. Marlon Sorge",
+        "D. Moriba Jah"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q38",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 38 nói gì? Một khuyến nghị/hướng dẫn liên quan đến vệ tinh đang bị phớt lờ rộng rãi ('widely ignored').",
+            "guide": "Em hãy tìm xem chuyên gia nào than phiền rằng hướng dẫn hạ độ cao vệ tinh sau 25 năm hầu như không được các bên tuân thủ đầy đủ.",
+            "bridge": "Hãy tìm tên ông Holger Krag ở Paragraph C."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph C, ông Holger Krag nói tỷ lệ tuân thủ mục tiêu 25 năm là bao nhiêu?",
+            "guide": "Paragraph C viết: các nhóm quốc tế khuyến nghị hạ vệ tinh để chúng tự cháy hủy trong 25 năm, 'But so far, only about half of all missions have abided by this 25-year goal, says Holger Krag...' (nhưng cho đến nay mới chỉ có khoảng một nửa số nhiệm vụ tuân theo mục tiêu này).",
+            "bridge": "Có một nửa số nhiệm vụ không tuân thủ nghĩa là khuyến nghị này đang bị rất nhiều bên phớt lờ."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra thông tin này?",
+            "guide": "Đó là ông Holger Krag (đáp án B).",
+            "bridge": "Chốt câu 38: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Một khuyến nghị về vệ tinh đang bị phớt lờ rộng rãi.",
+          "<b>Paragraph C (dòng 7-9):</b> Holger Krag chỉ ra: khuyến nghị đưa vệ tinh về để tự cháy trong vòng 25 năm nhưng <i>'only about half of all missions have abided by this 25-year goal'</i> (chỉ khoảng 50% tuân thủ, nghĩa là phần còn lại phớt lờ quy định này).",
+          "<b>Khớp ý:</b> Chọn <b>B (Holger Krag)</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "There is conflicting information about where some satellites are in space.",
+      "options": [
+        "A. Carolin Frueh",
+        "B. Holger Krag",
+        "C. Marlon Sorge",
+        "D. Moriba Jah"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q39",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 39 nói gì? Có những thông tin mâu thuẫn, đá nhau ('conflicting information') về vị trí của một số vật thể/vệ tinh ngoài không gian.",
+            "guide": "Em cần tìm xem chuyên gia nào đưa ra ví dụ về việc các cơ sở dữ liệu cho ra hai quỹ đạo khác nhau cho cùng một vật thể.",
+            "bridge": "Hãy đọc Paragraph F chỗ nói về phần mềm do Moriba Jah lập trình."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph F, khi Jah nhập mã số một thân tên lửa Nga vào hệ thống thì điều gì xảy ra?",
+            "guide": "Paragraph F viết: 'the database draws two purple lines: the US and Russian sources contain two completely different orbits for the same object. Jah says that it is almost impossible to tell which is correct...' (nguồn của Mỹ và Nga hiển thị hai quỹ đạo hoàn toàn khác nhau cho cùng một vật thể, và hầu như không thể biết bên nào đúng).",
+            "bridge": "Hai quỹ đạo hoàn toàn khác nhau cho cùng một vật thể chính là thông tin mâu thuẫn (conflicting information)."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra ví dụ về thông tin mâu thuẫn này?",
+            "guide": "Đó là ông Moriba Jah (đáp án D).",
+            "bridge": "Chốt câu 39: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Có thông tin mâu thuẫn về vị trí của một số vật thể trong không gian.",
+          "<b>Paragraph F (dòng 8-10):</b> Moriba Jah minh họa việc dữ liệu của Mỹ và Nga đưa ra <i>'two completely different orbits for the same object'</i> (hai quỹ đạo hoàn toàn khác nhau cho cùng một vật thể).",
+          "<b>Khớp từ:</b> <i>conflicting information</i> = <i>two completely different orbits... impossible to tell which is correct</i>.",
+          "<b>Kết luận:</b> Chọn <b>D (Moriba Jah)</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "There is a risk we will not be able to undo the damage that occurs in space.",
+      "options": [
+        "A. Carolin Frueh",
+        "B. Holger Krag",
+        "C. Marlon Sorge",
+        "D. Moriba Jah"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q40",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 40 nói gì? Có nguy cơ là chúng ta sẽ không thể cứu vãn/đảo ngược được những thiệt hại ('not be able to undo the damage') xảy ra ngoài không gian.",
+            "guide": "Em cần tìm xem chuyên gia nào cảnh báo rằng chúng ta có thể sẽ rơi vào tình thế 'không còn đường lui' nếu các vụ va chạm tiếp diễn.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph B nhé."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Ở cuối Paragraph B, bà Carolin Frueh đưa ra lời cảnh báo nguy hiểm gì?",
+            "guide": "Bà nói: 'If we go on like this, we will reach a point of no return...' (Nếu chúng ta cứ tiếp tục thế này, chúng ta sẽ đi tới điểm không thể quay đầu lại).",
+            "bridge": "'reach a point of no return' (điểm không thể quay đầu lại) chính là không thể cứu vãn, không thể đảo ngược thiệt hại (not able to undo the damage)."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra lời cảnh báo này?",
+            "guide": "Đó là bà Carolin Frueh (đáp án A).",
+            "bridge": "Hoàn thành toàn bộ Passage 3! Chốt câu 40: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Có nguy cơ chúng ta sẽ không thể khắc phục được những thiệt hại xảy ra trong không gian.",
+          "<b>Paragraph B (câu cuối):</b> Carolin Frueh cảnh báo: <i>'\"If we go on like this, we will reach a point of no return\"'</i> (chúng ta sẽ chạm tới điểm không thể quay đầu lại).",
+          "<b>Khớp ý:</b> <i>point of no return</i> = không thể đảo ngược/khắc phục thiệt hại (<i>not be able to undo the damage</i>).",
+          "<b>Kết luận:</b> Chọn <b>A (Carolin Frueh)</b>."
+        ]
+      }
+    }
+  }
+}
