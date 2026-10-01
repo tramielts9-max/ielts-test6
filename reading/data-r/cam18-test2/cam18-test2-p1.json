@@ -1,0 +1,508 @@
+{
+  "title": "IELTS Academic 18 - Test 2 - Passage 1: Stonehenge",
+  "answers": {
+    "q1": "deer antlers",
+    "q2": "timber posts",
+    "q3": "tree trunks",
+    "q4": "oxen",
+    "q5": "glaciers",
+    "q6": "druids",
+    "q7": "burial",
+    "q8": "calendar",
+    "q9": "TRUE",
+    "q10": "FALSE",
+    "q11": "FALSE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>Stonehenge</h3><p><strong>Paragraph 1.</strong> For centuries, historians and archaeologists have puzzled over the many mysteries of Stonehenge, a prehistoric monument that took an estimated 1,500 years to erect. Located on Salisbury Plain in southern England, it is comprised of roughly 100 massive upright stones placed in a circular layout.</p><p><strong>Paragraph 2.</strong> Archaeologists believe England's most iconic prehistoric ruin was built in several stages, with the earliest constructed 5,000 or more years ago. First, Neolithic* Britons used primitive tools, which may have been fashioned out of <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">deer antlers</span></span>, to dig a massive circular ditch and bank, or henge. Deep pits dating back to that era and located within the circle may have once held a ring of <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">timber posts</span></span>, according to some scholars.</p><p><strong>Paragraph 3.</strong> Several hundred years later, it is thought, Stonehenge's builders hoisted an estimated 80 bluestones, 43 of which remain today, into standing positions and placed them in either a horseshoe or circular formation. These stones have been traced all the way to the Preseli Hills in Wales, some 300 kilometres from Stonehenge. How, then, did prehistoric builders without sophisticated tools or engineering haul these boulders, which weigh up to four tons, over such a great distance?</p><p><strong>Paragraph 4.</strong> According to one long-standing theory among archaeologists, Stonehenge's builders fashioned sledges and rollers out of <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">tree trunks</span></span> to lug the bluestones from the Preseli Hills. They then transferred the boulders onto rafts and floated them first along the Welsh coast and then up the River Avon toward Salisbury Plain; alternatively, they may have towed each stone with a fleet of vessels. More recent archaeological hypotheses have them transporting the bluestones with supersized wicker baskets on a combination of ball bearings and long grooved planks, hauled by <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">oxen</span></span>.</p><p><strong>Paragraph 5.</strong> As early as the 1970s, geologists have been adding their voices to the debate over how Stonehenge came into being. Challenging the classic image of industrious builders pushing, carting, rolling or hauling giant stones from faraway Wales, some scientists have suggested that it was <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">glaciers</span></span>, not humans, that carried the bluestones to Salisbury Plain. Most archaeologists have remained sceptical about this theory, however, wondering how the forces of nature could possibly have delivered the exact number of stones needed to complete the circle.</p><p><strong>Paragraph 6.</strong> The third phase of construction took place around 2000 BCE. At this point, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">sandstone slabs – known as 'sarsens' – were arranged into an outer crescent or ring; some were assembled into the iconic three-pieced structures called trilithons that stand tall in the centre of Stonehenge</span>. Some 50 of these stones are now visible on the site, which may once have contained many more. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Radiocarbon dating has revealed that work continued at Stonehenge until roughly 1600 BCE, with the bluestones in particular being repositioned multiple times</span>.</p><p><strong>Paragraph 7.</strong> But who were the builders of Stonehenge? In the 17th century, archaeologist John Aubrey made the claim that Stonehenge was the work of <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">druids</span></span>, who had important religious, judicial and political roles in Celtic** society. This theory was widely popularized by the antiquarian William Stukeley, who had unearthed primitive graves at the site. Even today, people who identify as modern druids continue to gather at Stonehenge for the summer solstice. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">However, in the mid-20th century, radiocarbon dating demonstrated that Stonehenge stood more than 1,000 years before the Celts inhabited the region</span>.</p><p><strong>Paragraph 8.</strong> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Many modern historians and archaeologists now agree that several distinct tribes of people contributed to Stonehenge, each undertaking a different phase of its construction. Bones, tools and other artefacts found on the site seem to support this hypothesis</span>. The first stage was achieved by Neolithic agrarians who were likely to have been indigenous to the British Isles. Later, it is believed, groups with advanced tools and a more communal way of life left their mark on the site. Some believe that they were immigrants from the European continent, while others maintain that they were probably native Britons, descended from the original builders.</p><p><strong>Paragraph 9.</strong> If the facts surrounding the architects and construction of Stonehenge remain shadowy at best, the purpose of the striking monument is even more of a mystery. While there is consensus among the majority of modern scholars that Stonehenge once served the function of <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">burial</span></span> ground, they have yet to determine what other purposes it had.</p><p><strong>Paragraph 10.</strong> In the 1960s, the astronomer Gerald Hawkins suggested that the cluster of megalithic stones operated as a form of <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">calendar</span></span>, with different points corresponding to astrological phenomena such as solstices, equinoxes and eclipses occurring at different times of the year. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">While his theory has received a considerable amount of attention over the decades, critics maintain that Stonehenge's builders probably lacked the knowledge necessary to predict such events or that England's dense cloud cover would have obscured their view of the skies</span>.</p><p><strong>Paragraph 11.</strong> More recently, signs of illness and injury in the human remains unearthed at Stonehenge led a group of British archaeologists to speculate that it was considered a place of healing, perhaps because bluestones were thought to have curative powers.</p><p><em>* Neolithic – The era, also known as the New Stone Age, which began around 12,000 years ago and ended around 3500 BCE<br>** Celtic – The Celts were people who lived in Britain and northwest Europe during the Iron Age from 600 BCE to 43 CE</em></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "title": "Questions 1-8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>NO MORE THAN TWO WORDS</b> from the passage for each answer.<br>Write your answers in boxes 1-8 on your answer sheet.</i>",
+      "noteTitle": "Stonehenge",
+      "questionIds": ["q1", "q2", "q3", "q4", "q5", "q6", "q7", "q8"],
+      "template": "<p><b>Construction</b></p><p><b>Stage 1:</b></p><ul><li style=\"margin-bottom: 12px;\">the ditch and henge were dug, possibly using tools made from <b>1.</b> {{q1}}</li><li style=\"margin-bottom: 12px;\"><b>2.</b> {{q2}} may have been arranged in deep pits inside the circle</li></ul><p><b>Stage 2:</b></p><ul><li style=\"margin-bottom: 12px;\">bluestones from the Preseli Hills were placed in standing position</li><li style=\"margin-bottom: 12px;\">theories about the transportation of the bluestones:<ul><li style=\"margin-bottom: 8px;\">archaeological:<ul><li style=\"margin-bottom: 6px;\">builders used <b>3.</b> {{q3}} to make sledges and rollers</li><li style=\"margin-bottom: 6px;\"><b>4.</b> {{q4}} pulled them on giant baskets</li></ul></li><li style=\"margin-bottom: 8px;\">geological:<ul><li style=\"margin-bottom: 6px;\">they were brought from Wales by <b>5.</b> {{q5}}</li></ul></li></ul></li></ul><p><b>Stage 3:</b></p><ul><li style=\"margin-bottom: 12px;\">sandstone slabs were arranged into an outer crescent or ring</li></ul><p><b>Builders</b></p><ul><li style=\"margin-bottom: 12px;\">a theory arose in the 17th century that its builders were Celtic <b>6.</b> {{q6}}</li></ul><p><b>Purpose</b></p><ul><li style=\"margin-bottom: 12px;\">many experts agree it has been used as a <b>7.</b> {{q7}} site</li><li style=\"margin-bottom: 12px;\">in the 1960s, it was suggested that it worked as a kind of <b>8.</b> {{q8}}</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "title": "Questions 9-13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 9-13 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</i>",
+      "questionIds": ["q9", "q10", "q11", "q12", "q13"]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "deer antlers",
+      "inputWidth": "140px",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 1 nói: Hào rãnh và bờ đất được đào, có thể là bằng những dụng cụ làm từ thứ gì ('tools made from 1 ______')?",
+            "guide": "Sau 'made from' cần danh từ chỉ chất liệu hoặc bộ phận động vật dùng làm công cụ.",
+            "bridge": "Hãy tìm thông tin về giai đoạn 1 (Stage 1) ở Paragraph 2."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 2 nói người thời đồ đá mới đã dùng công cụ chế tạo từ cái gì để đào hào?",
+            "guide": "Paragraph 2 viết: '...used primitive tools, which may have been fashioned out of deer antlers, to dig a massive circular ditch and bank...'",
+            "bridge": "'fashioned out of' chính là 'made from'. Vậy chất liệu được dùng là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Cụm từ chỉ chất liệu đó là gì?",
+            "guide": "Đáp án là 'deer antlers' (gạc hươu, hoặc có thể chấp nhận 'antlers').",
+            "bridge": "Chốt câu 1: deer antlers."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau giới từ <i>from</i>.",
+          "<b>Paragraph 2 (dòng 2-3):</b> <i>'...used primitive tools, which may have been fashioned out of deer antlers, to dig a massive circular ditch and bank...'</i>",
+          "<b>Khớp từ:</b> <i>tools made from</i> = <i>primitive tools, which may have been fashioned out of</i>.",
+          "<b>Từ cần điền:</b> <b>deer antlers</b> (hoặc <b>antlers</b>)."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "timber posts",
+      "inputWidth": "140px",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 2 nói: Thứ gì có thể đã được xếp đặt trong các hố sâu bên trong vòng tròn ('2 ______ may have been arranged in deep pits inside the circle')?",
+            "guide": "Đứng đầu câu làm chủ ngữ trước động từ 'may have been arranged' -> Cần một danh từ chỉ đồ vật hoặc cọc gỗ dựng trong hố.",
+            "bridge": "Đọc tiếp câu cuối của Paragraph 2 nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 2 nói các hố sâu (deep pits) có thể từng cắm thứ gì?",
+            "guide": "Paragraph 2 viết: 'Deep pits dating back to that era and located within the circle may have once held a ring of timber posts, according to some scholars.'",
+            "bridge": "Những vật được cắm trong hố chính là các cây cọc gỗ."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Cụm từ chỉ các cây cọc gỗ đó là gì?",
+            "guide": "Đáp án là 'timber posts' (hoặc 'posts').",
+            "bridge": "Chốt câu 2: timber posts."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ làm chủ ngữ trước <i>may have been arranged</i>.",
+          "<b>Paragraph 2 (câu cuối):</b> <i>'Deep pits... located within the circle may have once held a ring of timber posts...'</i>",
+          "<b>Khớp từ:</b> <i>deep pits inside the circle</i> = <i>Deep pits... within the circle</i>; thứ được dựng là <i>timber posts</i>.",
+          "<b>Từ cần điền:</b> <b>timber posts</b> (hoặc <b>posts</b>)."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "tree trunks",
+      "inputWidth": "130px",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 3 thuộc Giai đoạn 2 (Stage 2): Những người thợ xây đã dùng thứ gì để làm xe trượt và con lăn ('used 3 ______ to make sledges and rollers')?",
+            "guide": "Sau 'used' và trước 'to make' cần một danh từ chỉ nguyên liệu từ thiên nhiên.",
+            "bridge": "Hãy đọc câu đầu tiên của Paragraph 4."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 4 nói người ta đẽo gọt xe trượt và con lăn từ cái gì?",
+            "guide": "Paragraph 4 viết: 'Stonehenge's builders fashioned sledges and rollers out of tree trunks to lug the bluestones from the Preseli Hills.'",
+            "bridge": "'fashioned ... out of' chính là 'used ... to make'. Nguyên liệu là thân cây."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Cụm danh từ chỉ thân cây là gì?",
+            "guide": "Đáp án là 'tree trunks' (những thân cây gỗ).",
+            "bridge": "Chốt câu 3: tree trunks."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ làm tân ngữ sau động từ <i>used</i>.",
+          "<b>Paragraph 4 (dòng 1-2):</b> <i>'Stonehenge's builders fashioned sledges and rollers out of tree trunks to lug the bluestones...'</i>",
+          "<b>Khớp từ:</b> <i>used ... to make sledges and rollers</i> = <i>fashioned sledges and rollers out of</i>.",
+          "<b>Từ cần điền:</b> <b>tree trunks</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "oxen",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 4 nói: Con vật gì đã kéo những hòn đá đặt trên các giỏ mây khổng lồ ('4 ______ pulled them on giant baskets')?",
+            "guide": "Đứng làm chủ ngữ chỉ loài động vật kéo xe/giỏ hàng.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph 4."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 4 viết những chiếc giỏ mây khổng lồ được kéo bởi loài vật nào?",
+            "guide": "Paragraph 4 viết: '...transporting the bluestones with supersized wicker baskets on a combination of ball bearings and long grooved planks, hauled by oxen.'",
+            "bridge": "'hauled by' chính là 'pulled by' (được kéo bởi). Loài vật kéo là bò kéo xe."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tên loài vật kéo đó là gì?",
+            "guide": "Đáp án là 'oxen' (những con bò kéo).",
+            "bridge": "Chốt câu 4: oxen."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ chủ thể/động vật kéo giỏ đá.",
+          "<b>Paragraph 4 (câu cuối):</b> <i>'...supersized wicker baskets... hauled by oxen.'</i>",
+          "<b>Khớp từ:</b> <i>giant baskets</i> = <i>supersized wicker baskets</i>; <i>pulled</i> = <i>hauled</i>.",
+          "<b>Từ cần điền:</b> <b>oxen</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "glaciers",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 5 nói về giả thuyết địa chất (geological): Các tảng đá được đưa từ xứ Wales đến bằng cái gì ('brought from Wales by 5 ______')?",
+            "guide": "Sau 'by' cần một danh từ chỉ hiện tượng hoặc tác nhân địa chất mang các tảng đá đi.",
+            "bridge": "Hãy tìm ý kiến của các nhà địa chất ở Paragraph 5."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 5 nói các nhà khoa học cho rằng thứ gì đã mang những tảng đá từ Wales tới đồng bằng Salisbury?",
+            "guide": "Paragraph 5 viết: 'some scientists have suggested that it was glaciers, not humans, that carried the bluestones to Salisbury Plain.' (một số nhà khoa học cho rằng chính các dòng sông băng, chứ không phải con người, đã mang các tảng đá xanh đến).",
+            "bridge": "'carried' chính là 'brought'. Tác nhân tự nhiên ở đây là các dòng sông băng."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ chỉ các dòng sông băng là gì?",
+            "guide": "Đáp án là 'glaciers'.",
+            "bridge": "Chốt câu 5: glaciers."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ tác nhân sau giới từ <i>by</i>.",
+          "<b>Paragraph 5 (dòng 3-4):</b> <i>'...suggested that it was glaciers, not humans, that carried the bluestones to Salisbury Plain.'</i>",
+          "<b>Khớp từ:</b> <i>brought ... by</i> = <i>carried by</i>.",
+          "<b>Từ cần điền:</b> <b>glaciers</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "druids",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 6 ở mục Người xây dựng (Builders): Một giả thuyết thế kỷ 17 cho rằng người xây dựng là những người thuộc giáo phái Celtic nào ('Celtic 6 ______')?",
+            "guide": "Sau tính từ 'Celtic' cần một danh từ chỉ nhóm người/tu sĩ.",
+            "bridge": "Hãy tìm mốc thế kỷ 17 ('17th century') ở Paragraph 7."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 7 nói nhà khảo cổ John Aubrey vào thế kỷ 17 đã khẳng định Stonehenge là công trình của ai?",
+            "guide": "Paragraph 7 viết: 'In the 17th century, archaeologist John Aubrey made the claim that Stonehenge was the work of druids, who had important religious, judicial and political roles in Celtic society.'",
+            "bridge": "Những người có vai trò trong xã hội Celtic chính là các đạo sĩ druid."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tên nhóm người đó là gì?",
+            "guide": "Đáp án là 'druids'.",
+            "bridge": "Chốt câu 6: druids."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ nhóm người sau từ <i>Celtic</i>.",
+          "<b>Paragraph 7 (dòng 1-3):</b> <i>'In the 17th century... John Aubrey made the claim that Stonehenge was the work of druids, who had important... roles in Celtic society.'</i>",
+          "<b>Khớp từ:</b> <i>builders were Celtic...</i> = <i>work of druids... in Celtic society</i>.",
+          "<b>Từ cần điền:</b> <b>druids</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "burial",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 7 ở mục Mục đích (Purpose): Nhiều chuyên gia đồng ý rằng Stonehenge từng được dùng như một địa điểm làm gì ('a 7 ______ site')?",
+            "guide": "Trước từ 'site' cần một danh từ hoặc tính từ bổ nghĩa chỉ mục đích (ví dụ: nơi chôn cất, thờ cúng).",
+            "bridge": "Cùng đọc Paragraph 9 chỗ nói về mục đích của công trình nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 9 nói các học giả hiện đại đồng thuận rằng Stonehenge từng đóng vai trò là một bãi gì?",
+            "guide": "Paragraph 9 viết: 'While there is consensus among the majority of modern scholars that Stonehenge once served the function of burial ground...'",
+            "bridge": "'burial ground' chính là 'burial site' (nơi chôn cất, an táng).",
+            "answer": "burial"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ cần điền đứng trước 'site' là gì?",
+            "guide": "Đáp án là 'burial'.",
+            "bridge": "Chốt câu 7: burial."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần từ bổ nghĩa cho <i>site</i> để tạo thành cụm danh từ.",
+          "<b>Paragraph 9 (dòng 3):</b> <i>'...there is consensus among the majority of modern scholars that Stonehenge once served the function of burial ground...'</i>",
+          "<b>Khớp từ:</b> <i>many experts agree</i> = <i>consensus among the majority of modern scholars</i>; <i>burial site</i> = <i>burial ground</i>.",
+          "<b>Từ cần điền:</b> <b>burial</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "calendar",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 8 nói: Vào những năm 1960, có ý kiến cho rằng nó hoạt động như một loại gì ('a kind of 8 ______')?",
+            "guide": "Sau 'a kind of' cần một danh từ chỉ đồ vật/công cụ tính toán thời gian.",
+            "bridge": "Hãy tìm mốc thập niên 1960 ('1960s') ở Paragraph 10."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 10 nói nhà thiên văn Gerald Hawkins gợi ý Stonehenge hoạt động như một dạng gì?",
+            "guide": "Paragraph 10 viết: 'In the 1960s, the astronomer Gerald Hawkins suggested that the cluster of megalithic stones operated as a form of calendar...' (hoạt động như một dạng lịch thiên văn).",
+            "bridge": "'a form of' chính là 'a kind of'. Công cụ đó là cuốn lịch (calendar)."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'calendar'.",
+            "bridge": "Hoàn thành phần điền từ! Chốt câu 8: calendar."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số ít sau cụm <i>a kind of</i>.",
+          "<b>Paragraph 10 (dòng 1-2):</b> <i>'In the 1960s, the astronomer Gerald Hawkins suggested that the cluster of megalithic stones operated as a form of calendar...'</i>",
+          "<b>Khớp từ:</b> <i>worked as a kind of</i> = <i>operated as a form of</i>.",
+          "<b>Từ cần điền:</b> <b>calendar</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "During the third phase of construction, sandstone slabs were placed in both the outer areas and the middle of the Stonehenge site.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 9 nói gì? Trong giai đoạn xây dựng thứ 3 ('third phase of construction'), các phiến đá sa thạch ('sandstone slabs') được đặt ở CẢ vùng ngoài và ở giữa ('both the outer areas and the middle') của công trình.",
+            "guide": "Em cần kiểm tra xem đá sa thạch có được xếp ở cả vòng ngoài lẫn khu vực trung tâm hay không.",
+            "bridge": "Cùng đọc Paragraph 6 chỗ nói về giai đoạn 3 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 nói các phiến đá sa thạch được sắp xếp ở những vị trí nào?",
+            "guide": "Paragraph 6 viết: 'sandstone slabs... were arranged into an outer crescent or ring; some were assembled into the iconic three-pieced structures called trilithons that stand tall in the centre of Stonehenge.' (được xếp thành hình lưỡi liềm/vòng tròn ở BÊN NGOÀI; một số được dựng đứng ở TRUNG TÂM của Stonehenge).",
+            "bridge": "'outer crescent or ring' là vùng bên ngoài; 'in the centre' chính là ở giữa (middle)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Đá sa thạch được đặt ở cả bên ngoài và trung tâm có khớp hoàn toàn với câu hỏi không?",
+            "guide": "Thông tin hoàn toàn chính xác, chọn TRUE.",
+            "bridge": "Chốt câu 9: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Trong giai đoạn 3, các phiến đá sa thạch được đặt ở cả vùng ngoài và trung tâm Stonehenge.",
+          "<b>Paragraph 6 (dòng 1-4):</b> <i>'...sandstone slabs... were arranged into an outer crescent or ring; some were assembled into... structures... that stand tall in the centre of Stonehenge.'</i>",
+          "<b>Khớp từ:</b> <i>outer areas</i> = <i>outer crescent or ring</i>; <i>middle</i> = <i>centre</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "There is scientific proof that the bluestones stood in the same spot until approximately 1600 BCE.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 10 nói gì? Có bằng chứng khoa học cho thấy các tảng đá xanh ĐỨNG NGUYÊN MỘT CHỖ ('stood in the same spot') cho đến khoảng năm 1600 TCN.",
+            "guide": "Em hãy kiểm tra xem các tảng đá xanh đứng yên một chỗ hay đã bị di dời nhiều lần.",
+            "bridge": "Cùng đọc câu cuối của Paragraph 6 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Câu cuối Paragraph 6 nói phương pháp định tuổi carbon tiết lộ điều gì về vị trí của các tảng đá xanh?",
+            "guide": "Paragraph 6 viết: 'Radiocarbon dating has revealed that work continued at Stonehenge until roughly 1600 BCE, with the bluestones in particular being repositioned multiple times.' (đá xanh đặc biệt đã bị di dời vị trí NHIỀU LẦN).",
+            "bridge": "'bị di dời nhiều lần' (repositioned multiple times) hoàn toàn trái ngược với 'đứng nguyên một chỗ' (stood in the same spot)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo đứng yên một chỗ, nhưng bài đọc bảo bị di dời nhiều lần. Hai ý này ngược nhau, đúng không?",
+            "guide": "Thông tin đối lập 100%, chọn FALSE.",
+            "bridge": "Chốt câu 10: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Có bằng chứng khoa học cho thấy các tảng đá xanh đứng nguyên một chỗ tới năm 1600 TCN.",
+          "<b>Paragraph 6 (câu cuối):</b> <i>'Radiocarbon dating has revealed that work continued... until roughly 1600 BCE, with the bluestones in particular being repositioned multiple times.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói đứng nguyên một vị trí (<i>stood in the same spot</i>) trái ngược hoàn toàn với việc bị dịch chuyển nhiều lần (<i>repositioned multiple times</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "John Aubrey's claim about Stonehenge was supported by 20th-century findings.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 11 nói gì? Khẳng định của John Aubrey về Stonehenge đã ĐƯỢC ỦNG HỘ ('was supported by') bởi những phát hiện vào thế kỷ 20.",
+            "guide": "Em cần tìm xem những bằng chứng ở thế kỷ 20 là ủng hộ hay bác bỏ luận điểm của Aubrey.",
+            "bridge": "Hãy đọc kỹ nửa sau của Paragraph 7."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Aubrey khẳng định Stonehenge do người Celtic xây dựng. Nhưng phát hiện giữa thế kỷ 20 cho thấy điều gì?",
+            "guide": "Paragraph 7 viết: 'However, in the mid-20th century, radiocarbon dating demonstrated that Stonehenge stood more than 1,000 years before the Celts inhabited the region.' (phương pháp carbon vào giữa thế kỷ 20 chứng minh Stonehenge đã tồn tại hơn 1.000 năm trước khi người Celtic đến vùng này).",
+            "bridge": "Nó đã có từ 1.000 năm trước khi người Celtic xuất hiện, tức là bác bỏ hoàn toàn giả thuyết của Aubrey chứ không hề ủng hộ."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Phát hiện thế kỷ 20 đã bác bỏ giả thuyết của Aubrey, vậy việc nhận định nói 'được ủng hộ' là đúng hay sai?",
+            "guide": "Thông tin bị bác bỏ hoàn toàn, chọn FALSE.",
+            "bridge": "Chốt câu 11: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Khẳng định của John Aubrey được các phát hiện thế kỷ 20 ủng hộ.",
+          "<b>Paragraph 7 (câu cuối):</b> Aubrey cho rằng công trình do người Celtic xây, nhưng <i>'in the mid-20th century, radiocarbon dating demonstrated that Stonehenge stood more than 1,000 years before the Celts inhabited the region.'</i>",
+          "<b>Đối chiếu:</b> Khoa học thế kỷ 20 chứng minh công trình có trước người Celtic hơn 1000 năm, tức là phủ định luận điểm của Aubrey chứ không hề ủng hộ (<i>was supported</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Objects discovered at Stonehenge seem to indicate that it was constructed by a number of different groups of people.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 12 nói gì? Các đồ vật được phát hiện tại Stonehenge ('Objects discovered at Stonehenge') dường như cho thấy công trình được xây dựng bởi nhiều nhóm người khác nhau ('a number of different groups of people').",
+            "guide": "Em hãy đọc Paragraph 8 để xem các hiện vật khai quật được cho thấy điều gì.",
+            "bridge": "Cùng đọc hai câu đầu của Paragraph 8 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 nói các hiện vật khảo cổ ủng hộ giả thuyết nào?",
+            "guide": "Paragraph 8 viết: '...several distinct tribes of people contributed to Stonehenge, each undertaking a different phase of its construction. Bones, tools and other artefacts found on the site seem to support this hypothesis.' (xương cốt, công cụ và các hiện vật khác tìm thấy tại di chỉ dường như ủng hộ giả thuyết rằng nhiều bộ tộc khác nhau đã cùng đóng góp xây dựng).",
+            "bridge": "'Bones, tools and other artefacts' = Objects discovered; 'several distinct tribes' = a number of different groups of people."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Các hiện vật tìm thấy chỉ ra nhiều nhóm người tham gia xây dựng có khớp hoàn toàn với bài đọc không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn TRUE.",
+            "bridge": "Chốt câu 12: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các đồ vật tìm thấy tại Stonehenge cho thấy nó được xây bởi nhiều nhóm người khác nhau.",
+          "<b>Paragraph 8 (dòng 1-3):</b> <i>'...several distinct tribes of people contributed to Stonehenge... Bones, tools and other artefacts found on the site seem to support this hypothesis.'</i>",
+          "<b>Khớp từ:</b> <i>Objects discovered</i> = <i>Bones, tools and other artefacts found</i>; <i>a number of different groups of people</i> = <i>several distinct tribes of people</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Criticism of Gerald Hawkins' theory about Stonehenge has come mainly from other astronomers.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích từ khóa nhận định",
+            "question": "Câu 13 nói những lời chỉ trích đối với giả thuyết của Gerald Hawkins CHỦ YẾU ĐẾN TỪ các nhà thiên văn học khác ('come mainly from other astronomers').",
+            "guide": "Em cần tìm xem bài đọc có nhắc đến việc ai là người chỉ trích giả thuyết này không.",
+            "bridge": "Hãy đọc câu cuối của Paragraph 10."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 10 nói những người chỉ trích lập luận điều gì?",
+            "guide": "Paragraph 10 viết: '...critics maintain that Stonehenge's builders probably lacked the knowledge necessary... or that England's dense cloud cover would have obscured their view of the skies.' (những người chỉ trích cho rằng người xây thiếu kiến thức hoặc mây mù che khuất bầu trời).",
+            "bridge": "Bài chỉ dùng từ 'critics' (những người chỉ trích), có nói họ chủ yếu là các nhà thiên văn học khác không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài đọc không hề nêu rõ các nhà phê bình này thuộc giới chuyên môn nào, cũng không nói họ chủ yếu là nhà thiên văn học. Vậy ta chọn gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Lời chỉ trích giả thuyết của Gerald Hawkins chủ yếu đến từ các nhà thiên văn học khác.",
+          "<b>Paragraph 10 (câu cuối):</b> <i>'...critics maintain that Stonehenge's builders probably lacked the knowledge necessary...'</i>",
+          "<b>Đối chiếu:</b> Bài đọc chỉ nhắc chung là các nhà phê bình (<i>critics</i>), hoàn toàn không nói họ là ai hay có phải chủ yếu là các nhà thiên văn học (<i>mainly from other astronomers</i>) hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}
