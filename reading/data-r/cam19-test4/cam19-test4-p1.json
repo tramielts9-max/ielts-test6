@@ -1,0 +1,513 @@
+{
+  "title": "IELTS Academic 19 - Test 4 - Passage 1: The impact of climate change on butterflies in Britain",
+  "answers": {
+    "q1": "FALSE",
+    "q2": "TRUE",
+    "q3": "FALSE",
+    "q4": "NOT GIVEN",
+    "q5": "FALSE",
+    "q6": "TRUE",
+    "q7": "colonies",
+    "q8": "spring",
+    "q9": "endangered",
+    "q10": "habitats",
+    "q11": "Europe",
+    "q12": "southern",
+    "q13": "diet"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>The impact of climate change on butterflies in Britain</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">According to conservationists, populations of around two thirds of butterfly species have declined in Britain over the past 40 years</span>. If this trend continues, it might have unpredictable knock-on effects for other species in the ecosystem. Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">and in turn act as prey for birds as well as bats and other small mammals</span>. Only by arming themselves with an understanding of why butterfly numbers are down can conservationists hope to halt or reverse the decline.</p><p><strong>Paragraph 2.</strong> Butterflies prefer outdoor conditions to be 'just right', which means neither too hot nor too cold. Under the conditions of climate change, the temperature at any given time in summer is generally getting warmer, leaving butterflies with the challenge of how to deal with this. One of the main ways in which species are ensuring conditions suit them is by changing the time of year at which they are active and reproduce. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Scientists refer to the timing of such lifecycle events as 'phenology'</span>, so when an animal or plant starts to do something earlier in the year than it usually does, it is said to be 'advancing its phenology'.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">These advances have been observed already in a wide range of butterflies – indeed, most species are advancing their phenology to some extent. In Britain, as the average spring temperature has increased by roughly 0.5 °C over the past 20 years, species have advanced by between three days and a week on average, to keep in line with cooler temperatures</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Is this a sign that butterflies are well equipped to cope with climate change, and readily adjust to new temperatures? Or are these populations under stress, being dragged along unwillingly by unnaturally fast changes? The answer is still unknown</span>, but a new study is seeking to answer these questions.</p><p><strong>Paragraph 4.</strong> First, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">the researchers pulled together data from millions of records that had been submitted by butterfly enthusiasts – people who spend their free time observing the activities of different species</span>. This provided information on 130 species of butterflies in Great Britain every year for a 20-year period. They then estimated the abundance and distribution of each species across this time, along with how far north in the country they had moved. The data also, crucially, allowed researchers to estimate subtle changes in what time of the year each species was changing into an adult butterfly.</p><p><strong>Paragraph 5.</strong> Analysing the trends in each variable, the researchers discovered that species with more flexible lifecycles were more likely to be able to benefit from an earlier emergence driven by climate change. Some species are able to go from caterpillar to butterfly twice or more per year, so that the individual butterflies you see flying in the spring are the grandchildren or great-grandchildren of the individuals seen a year previously.</p><p><strong>Paragraph 6.</strong> Among these species, researchers observed that those which have been advancing their phenology the most over the 20-year study period also had the most positive trends in abundance, distribution and northwards extent. For these species, such as Britain's tiniest butterfly, the dainty Small Blue, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">whose <span class=\"kw\">colonies</span> are up to a hundred strong</span>, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">some develop into butterflies early in <span class=\"kw\">spring</span></span>, allowing their summer generations to complete another reproductive cycle by autumn so that more population growth occurs.</p><p><strong>Paragraph 7.</strong> Other species, however, are less flexible and restricted to a single reproductive cycle per year. For these species, there was no evidence of any benefit to emerging earlier. Indeed, worryingly, it was found that the species in this group that specialise in very specific habitat types, often related to the caterpillar's preferred diet, actually tended to be most at harm from advancing phenology. The beautiful High Brown Fritillary, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">often described as Britain's most <span class=\"kw\">endangered</span> butterfly</span>, is in this group. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">It is found only in coppiced woodland and limestone pavement <span class=\"kw\">habitats</span></span>. It is also a single-generation butterfly that has advanced its phenology. This suggests that climate change, while undoubtedly not the sole cause, might have played a part in the downfall of this species.</p><p><strong>Paragraph 8.</strong> All is not lost, however. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Many of Britain's single-generation species show the capacity, in continental <span class=\"kw\">Europe</span>, to add a second generation in years that are sufficiently warm</span>. Therefore, as the climate continues to warm, species like the Silver-studded Blue might be able to switch to multiple generations in the UK as well, and so begin to extract benefits from the additional warmth, potentially leading to population increases.</p><p><strong>Paragraph 9.</strong> More immediately, conservationists can arm themselves with all this knowledge to spot the warning signs of species that may be at risk. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">The White Admiral of <span class=\"kw\">southern</span> England</span>, a much sought-after butterfly, experienced a significant increase in numbers from the 1920s but has shown a considerable decline in the past 20 years. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">This may be because the caterpillar exists solely on a <span class=\"kw\">diet</span> of a plant called honeysuckle</span>. But it is also likely to be due to climate change.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "title": "Questions 1-6",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 1-6 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</i>",
+      "questionIds": ["q1", "q2", "q3", "q4", "q5", "q6"]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "title": "Questions 7-13",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 7-13 on your answer sheet.</i>",
+      "noteTitle": "Butterflies in the UK",
+      "questionIds": ["q7", "q8", "q9", "q10", "q11", "q12", "q13"],
+      "template": "<p><b>The Small Blue</b></p><ul><li style=\"margin-bottom: 12px;\">lives in large <b>7.</b> {{q7}}</li><li style=\"margin-bottom: 12px;\">first appears at the start of <b>8.</b> {{q8}}</li><li style=\"margin-bottom: 12px;\">completes more than one reproductive cycle per year</li></ul><p><b>The High Brown Fritillary</b></p><ul><li style=\"margin-bottom: 12px;\">has one reproductive cycle</li><li style=\"margin-bottom: 12px;\">is considered to be more <b>9.</b> {{q9}} than other species</li><li style=\"margin-bottom: 12px;\">its caterpillars occupy a limited range of <b>10.</b> {{q10}}</li></ul><p><b>The Silver-studded Blue</b></p><ul><li style=\"margin-bottom: 12px;\">is already able to reproduce twice a year in warm areas of <b>11.</b> {{q11}}</li></ul><p><b>The White Admiral</b></p><ul><li style=\"margin-bottom: 12px;\">is found in <b>12.</b> {{q12}} areas of England</li><li style=\"margin-bottom: 12px;\">both climate change and the <b>13.</b> {{q13}} of the caterpillar are possible reasons for decline</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Forty years ago, there were fewer butterflies in Britain than at present.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 1 nói gì? Cách đây 40 năm, ở nước Anh có ít bướm hơn hiện nay ('fewer butterflies ... than at present').",
+            "guide": "Em cần tìm xem số lượng bướm trong 40 năm qua là tăng lên hay giảm đi.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 1 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 1 nói số lượng khoảng 2/3 loài bướm ở Anh đã thay đổi như thế nào trong 40 năm qua?",
+            "guide": "Paragraph 1 viết: '...populations of around two thirds of butterfly species have declined in Britain over the past 40 years.' (khoảng 2/3 số loài bướm đã bị suy giảm số lượng trong 40 năm qua).",
+            "bridge": "Nếu 40 năm qua số lượng bướm bị sụt giảm, nghĩa là 40 năm trước bướm phải nhiều hơn bây giờ."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo 40 năm trước 'ít bướm hơn', bài đọc lại cho thấy 40 năm trước 'nhiều bướm hơn'. Hai ý này ngược nhau, đúng không?",
+            "guide": "Thông tin trái ngược hoàn toàn nên ta chọn FALSE.",
+            "bridge": "Chốt câu 1: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Cách đây 40 năm, ở Anh có ít bướm hơn so với hiện nay.",
+          "<b>Paragraph 1 (câu đầu):</b> <i>'populations of around two thirds of butterfly species have declined in Britain over the past 40 years.'</i> (quần thể của 2/3 loài bướm đã giảm sút trong 40 năm qua).",
+          "<b>Đối chiếu:</b> Số lượng bướm bị sụt giảm trong 40 năm qua, nghĩa là 40 năm trước phải có nhiều bướm hơn bây giờ. Nhận định bảo 40 năm trước ít hơn (<i>fewer</i>) là sai hoàn toàn.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Caterpillars are eaten by a number of different predators.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 2 nói gì? Sâu bướm ('Caterpillars') là thức ăn của nhiều loài động vật săn mồi khác nhau ('eaten by a number of different predators').",
+            "guide": "Em hãy tìm từ khóa 'caterpillars' ở Paragraph 1 và xem những con vật nào ăn sâu bướm.",
+            "bridge": "Đọc tiếp câu thứ ba của Paragraph 1 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 1 liệt kê những loài động vật nào săn sâu bướm làm mồi?",
+            "guide": "Paragraph 1 viết: '...and in turn act as prey for birds as well as bats and other small mammals.' (và đến lượt chúng lại làm con mồi cho chim, dơi cũng như các loài thú nhỏ khác).",
+            "bridge": "Chim chóc, loài dơi và các thú nhỏ chính là nhiều loài săn mồi khác nhau."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có trùng khớp 100% với thông tin bài đọc không?",
+            "guide": "Thông tin hoàn toàn trùng khớp nên ta chọn TRUE.",
+            "bridge": "Chốt câu 2: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Sâu bướm bị nhiều loài săn mồi khác nhau ăn thịt.",
+          "<b>Paragraph 1 (dòng 5-6):</b> <i>'...act as prey for birds as well as bats and other small mammals.'</i> (làm con mồi cho chim, dơi và các thú nhỏ khác).",
+          "<b>Khớp từ:</b> <i>eaten by a number of different predators</i> = <i>act as prey for birds as well as bats and other small mammals</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "'Phenology' is a term used to describe a creature's ability to alter the location of a lifecycle event.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 3 nói gì? Thuật ngữ 'Phenology' (hiện tượng học) dùng để miêu tả khả năng thay đổi địa điểm ('alter the location') diễn ra một sự kiện trong vòng đời.",
+            "guide": "Em hãy quét từ khóa trong ngoặc kép 'phenology' ở Paragraph 2 để xem thuật ngữ này nói về địa điểm (location) hay thời gian (timing).",
+            "bridge": "Cùng đọc câu định nghĩa về 'phenology' ở Paragraph 2."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 2 định nghĩa 'phenology' liên quan đến yếu tố nào?",
+            "guide": "Paragraph 2 viết: 'Scientists refer to the timing of such lifecycle events as 'phenology'...' (Các nhà khoa học gọi thời điểm diễn ra các sự kiện vòng đời như vậy là 'phenology').",
+            "bridge": "Bài đọc nói về thời gian ('timing' - sớm hay muộn trong năm), chứ không phải địa điểm ('location')."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Một bên bảo là thay đổi 'địa điểm' (location), còn bài đọc bảo là thay đổi 'thời gian/thời điểm' (timing). Hai ý này trái ngược nhau, vậy đáp án là gì?",
+            "guide": "Thông tin bị sai bản chất nên ta chọn FALSE.",
+            "bridge": "Chốt câu 3: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> 'Phenology' là thuật ngữ miêu tả khả năng thay đổi địa điểm diễn ra vòng đời.",
+          "<b>Paragraph 2 (dòng 5):</b> <i>'Scientists refer to the timing of such lifecycle events as 'phenology'...'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói về thay đổi địa điểm (<i>location</i>), trong khi bài đọc định nghĩa thuật ngữ này nói về thời điểm/thời gian (<i>timing</i>). Hai thông tin đá nhau hoàn toàn.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Some species of butterfly have a reduced lifespan due to spring temperature increases.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 4 nói: Một số loài bướm bị giảm tuổi thọ ('reduced lifespan') do nhiệt độ mùa xuân tăng lên.",
+            "guide": "Em hãy tìm từ khóa 'spring temperature' ở Paragraph 3 để xem có nhắc gì đến tuổi thọ của bướm bị ngắn lại không.",
+            "bridge": "Đọc kỹ những câu đầu của Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 3 nói khi nhiệt độ mùa xuân tăng 0,5 °C thì các loài bướm làm gì?",
+            "guide": "Bài viết: khi nhiệt độ mùa xuân tăng khoảng 0,5 °C trong 20 năm qua, các loài bướm đã xuất hiện sớm hơn trung bình từ 3 ngày đến 1 tuần để thích nghi.",
+            "bridge": "Bài có nói tuổi thọ của bướm có bị ngắn lại hay không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài chỉ nói bướm xuất hiện sớm hơn, hoàn toàn không nhắc đến tuổi thọ ('lifespan') của chúng bị giảm. Vậy ta chọn đáp án gì?",
+            "guide": "Thiếu thông tin nên ta chọn NOT GIVEN.",
+            "bridge": "Chốt câu 4: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Một số loài bướm bị giảm tuổi thọ do nhiệt độ mùa xuân tăng.",
+          "<b>Paragraph 3:</b> Nhắc đến việc nhiệt độ mùa xuân tăng 0,5 °C khiến bướm xuất hiện sớm hơn từ 3 ngày đến 1 tuần.",
+          "<b>Đối chiếu:</b> Bài đọc hoàn toàn không đề cập đến việc tuổi thọ (<i>lifespan</i>) của bướm bị ngắn lại.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "There is a clear reason for the adaptations that butterflies are making to climate change.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 5 khẳng định: Đã có lý do rõ ràng ('a clear reason') cho những sự thích nghi mà loài bướm đang thực hiện trước biến đổi khí hậu.",
+            "guide": "Em hãy đọc tiếp nửa sau của Paragraph 3 để xem các nhà khoa học đã biết chắc chắn lý do hay chưa.",
+            "bridge": "Chú ý câu hỏi nghi vấn và câu trả lời ở cuối Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Cuối Paragraph 3, tác giả kết luận gì về nguyên do thực sự đằng sau hành vi của loài bướm?",
+            "guide": "Bài viết đặt câu hỏi: Đây là dấu hiệu bướm chủ động thích nghi tốt, hay chúng đang bị căng thẳng và bị cuốn theo thay đổi bất thường? Và tác giả trả lời ngay: 'The answer is still unknown...' (Câu trả lời hiện vẫn chưa được biết rõ).",
+            "bridge": "'The answer is still unknown' (chưa ai biết câu trả lời) trái ngược hoàn toàn với 'there is a clear reason' (đã có lý do rõ ràng)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Nhận định bảo 'đã có lý do rõ ràng', bài đọc bảo 'vẫn chưa biết câu trả lời'. Vậy đáp án là gì?",
+            "guide": "Thông tin trái ngược nên ta chọn FALSE.",
+            "bridge": "Chốt câu 5: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Đã có lý do rõ ràng giải thích cho sự thích nghi của bướm trước biến đổi khí hậu.",
+          "<b>Paragraph 3 (câu cuối):</b> Đặt câu hỏi về lý do đằng sau hành vi của loài bướm và khẳng định: <i>'The answer is still unknown, but a new study is seeking to answer these questions.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói có lý do rõ ràng (<i>clear reason</i>) trái ngược với thực tế là khoa học vẫn chưa biết câu trả lời (<i>still unknown</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The data used in the study was taken from the work of amateur butterfly watchers.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 6 nói: Dữ liệu sử dụng trong nghiên cứu được lấy từ công việc của những người quan sát bướm nghiệp dư ('amateur butterfly watchers').",
+            "guide": "Em hãy quét từ khóa 'data' ở đầu Paragraph 4 để xem các nhà nghiên cứu lấy dữ liệu từ đâu.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 4 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 4 giải thích dữ liệu hàng triệu hồ sơ được gửi về từ những ai?",
+            "guide": "Bài viết: '...the researchers pulled together data from millions of records that had been submitted by butterfly enthusiasts – people who spend their free time observing the activities of different species.' (các nhà nghiên cứu tập hợp dữ liệu từ hàng triệu hồ sơ do những người đam mê bướm gửi về – những người dành thời gian rảnh rỗi để quan sát hoạt động của các loài bướm).",
+            "bridge": "'những người dành thời gian rảnh để quan sát vì đam mê' chính là những người quan sát nghiệp dư (amateur watchers)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Thông tin bài đọc có trùng khớp 100% với nhận định không?",
+            "guide": "Rất trùng khớp, do đó đáp án là TRUE.",
+            "bridge": "Hoàn thành phần TRUE/FALSE/NOT GIVEN! Chốt câu 6: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Dữ liệu nghiên cứu được lấy từ những người ngắm bướm nghiệp dư.",
+          "<b>Paragraph 4 (câu đầu):</b> <i>'...data from millions of records that had been submitted by butterfly enthusiasts – people who spend their free time observing the activities of different species.'</i>",
+          "<b>Khớp từ:</b> <i>amateur butterfly watchers</i> = <i>butterfly enthusiasts – people who spend their free time observing...</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "colonies",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt về loài bướm Small Blue: Loài bướm này sống trong các bầy đàn/tập hợp lớn ('lives in large ______')? Chỗ trống cần từ loại gì?",
+            "guide": "Sau tính từ 'large' cần một danh từ số nhiều chỉ bầy đàn, quần thể sinh sống của loài bướm này.",
+            "bridge": "Hãy quét tên riêng 'Small Blue' ở Paragraph 6."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 6 miêu tả bầy đàn của loài Small Blue đông đúc như thế nào?",
+            "guide": "Paragraph 6 viết: '...the dainty Small Blue, whose colonies are up to a hundred strong...' (loài bướm Small Blue nhỏ nhắn, có đàn lên tới hàng trăm con).",
+            "bridge": "'colonies up to a hundred strong' tương đương với 'lives in large colonies'.",
+            "answer": "colonies"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều trong bài là gì?",
+            "guide": "Đáp án là 'colonies' (các bầy đàn, quần thể).",
+            "bridge": "Chốt câu 7: colonies."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau tính từ <i>large</i>.",
+          "<b>Paragraph 6 (dòng 4):</b> <i>'...the dainty Small Blue, whose colonies are up to a hundred strong...'</i>",
+          "<b>Khớp từ:</b> <i>lives in large colonies</i> = <i>colonies are up to a hundred strong</i> (bầy đàn đông tới cả trăm con).",
+          "<b>Từ cần điền:</b> <b>colonies</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "spring",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Chúng xuất hiện lần đầu vào đầu mùa nào ('first appears at the start of ______')?",
+            "guide": "Sau cụm 'the start of' cần một danh từ chỉ mùa trong năm.",
+            "bridge": "Đọc tiếp câu chứa tên bướm Small Blue ở Paragraph 6."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 6 nói bướm trưởng thành xuất hiện vào thời điểm nào: 'early in ______'?",
+            "guide": "Paragraph 6 viết: '...some develop into butterflies early in spring, allowing their summer generations to complete another reproductive cycle...' (một số phát triển thành bướm từ đầu mùa xuân).",
+            "bridge": "'early in' chính là 'at the start of' (vào đầu của).",
+            "answer": "spring"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ mùa ở đây là gì?",
+            "guide": "Đáp án là 'spring' (mùa xuân).",
+            "bridge": "Chốt câu 8: spring."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ mùa sau cụm <i>at the start of</i>.",
+          "<b>Paragraph 6 (dòng 5):</b> <i>'...some develop into butterflies early in spring...'</i>",
+          "<b>Khớp từ:</b> <i>first appears at the start of</i> = <i>develop into butterflies early in</i>.",
+          "<b>Từ cần điền:</b> <b>spring</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "endangered",
+      "inputWidth": "130px",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt về loài bướm High Brown Fritillary: Loài này được coi là có nguy cơ tuyệt chủng cao hơn các loài khác ('is considered to be more ______ than other species')? Cần từ loại gì?",
+            "guide": "Sau cụm 'more' cần một tính từ miêu tả mức độ nguy hiểm, đe dọa tuyệt chủng của loài bướm này.",
+            "bridge": "Hãy quét tên riêng 'High Brown Fritillary' ở Paragraph 7."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 7 gọi bướm High Brown Fritillary là loài bướm như thế nào của nước Anh?",
+            "guide": "Paragraph 7 viết: 'The beautiful High Brown Fritillary, often described as Britain's most endangered butterfly, is in this group.' (loài bướm thường được miêu tả là loài bướm nguy cấp nhất/bị đe dọa tuyệt chủng nhất của nước Anh).",
+            "bridge": "'most endangered' tương ứng với 'more endangered than other species'.",
+            "answer": "endangered"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tính từ chỉ nguy cơ tuyệt chủng trong bài là gì?",
+            "guide": "Đáp án là 'endangered'.",
+            "bridge": "Chốt câu 9: endangered."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần tính từ sau từ so sánh <i>more</i>.",
+          "<b>Paragraph 7 (dòng 5):</b> <i>'The beautiful High Brown Fritillary, often described as Britain's most endangered butterfly...'</i>",
+          "<b>Khớp từ:</b> <i>more endangered than other species</i> = <i>Britain's most endangered butterfly</i>.",
+          "<b>Từ cần điền:</b> <b>endangered</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "habitats",
+      "inputWidth": "110px",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Sâu bướm của loài này chỉ sống trong một phạm vi giới hạn các môi trường sống ('occupy a limited range of ______')? Cần từ loại gì?",
+            "guide": "Sau cụm 'a limited range of' cần một danh từ chỉ nơi ở, môi trường sống.",
+            "bridge": "Đọc tiếp câu sau của Paragraph 7 nói về nơi sinh sống của loài bướm này."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 7 nói loài bướm này chỉ được tìm thấy ở những môi trường nào?",
+            "guide": "Paragraph 7 viết: 'It is found only in coppiced woodland and limestone pavement habitats.' (Nó chỉ được tìm thấy ở các sinh cảnh rừng chồi và nền đá vôi).",
+            "bridge": "Rừng chồi và nền đá vôi chính là các loại sinh cảnh/môi trường sống cụ thể.",
+            "answer": "habitats"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ chỉ môi trường sống trong bài là gì?",
+            "guide": "Đáp án là 'habitats' (hoặc 'habitat').",
+            "bridge": "Chốt câu 10: habitats."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau cụm <i>a limited range of</i>.",
+          "<b>Paragraph 7 (dòng 6-7):</b> <i>'It is found only in coppiced woodland and limestone pavement habitats.'</i> (chỉ được tìm thấy ở môi trường rừng chồi và đá vôi).",
+          "<b>Khớp từ:</b> <i>occupy a limited range of habitats</i> = <i>found only in... habitats</i>.",
+          "<b>Từ cần điền:</b> <b>habitats</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "finalAnswer": "Europe",
+      "inputWidth": "100px",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt về loài bướm Silver-studded Blue: Loài này đã có thể sinh sản hai lần mỗi năm ở những vùng ấm áp của khu vực nào ('warm areas of ______')?",
+            "guide": "Sau giới từ 'of' cần một tên riêng chỉ châu lục hoặc khu vực địa lý.",
+            "bridge": "Hãy quét tên riêng 'Silver-studded Blue' ở Paragraph 8."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 8 nói loài này có thể đẻ thế hệ thứ hai ở lục địa nào nếu đủ ấm?",
+            "guide": "Paragraph 8 viết: 'Many of Britain's single-generation species show the capacity, in continental Europe, to add a second generation in years that are sufficiently warm.'",
+            "bridge": "Khu vực địa lý được nhắc đến chính là châu Âu lục địa.",
+            "answer": "Europe"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ riêng chỉ châu lục là gì?",
+            "guide": "Đáp án là 'Europe'.",
+            "bridge": "Chốt câu 11: Europe."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ riêng chỉ địa danh sau giới từ <i>of</i>.",
+          "<b>Paragraph 8 (dòng 1-2):</b> <i>'Many of Britain's single-generation species show the capacity, in continental Europe, to add a second generation in years that are sufficiently warm.'</i>",
+          "<b>Khớp từ:</b> <i>warm areas of Europe</i> = <i>in continental Europe... years that are sufficiently warm</i>.",
+          "<b>Từ cần điền:</b> <b>Europe</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "finalAnswer": "southern",
+      "inputWidth": "110px",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt về loài bướm White Admiral: Loài này được tìm thấy ở khu vực nào của nước Anh ('found in ______ areas of England')?",
+            "guide": "Trước danh từ 'areas' cần một tính từ chỉ phương hướng (ví dụ: phía nam, phía bắc...).",
+            "bridge": "Hãy quét tên riêng 'White Admiral' ở câu đầu tiên của Paragraph 9."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 9 gọi loài bướm này là loài bướm của vùng nào nước Anh?",
+            "guide": "Paragraph 9 viết: 'The White Admiral of southern England, a much sought-after butterfly...' (Bướm White Admiral ở miền nam nước Anh).",
+            "bridge": "Tính từ chỉ phương hướng ở đây là miền nam.",
+            "answer": "southern"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tính từ chỉ phương hướng trong bài là gì?",
+            "guide": "Đáp án là 'southern'.",
+            "bridge": "Chốt câu 12: southern."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần tính từ chỉ phương hướng đứng trước <i>areas of England</i>.",
+          "<b>Paragraph 9 (dòng 2):</b> <i>'The White Admiral of southern England, a much sought-after butterfly...'</i>",
+          "<b>Từ cần điền:</b> <b>southern</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "finalAnswer": "diet",
+      "inputWidth": "90px",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Cả biến đổi khí hậu lẫn cái gì của sâu bướm ('the ______ of the caterpillar') đều là những nguyên nhân tiềm tàng khiến số lượng bướm sụt giảm?",
+            "guide": "Sau mạo từ 'the' và trước 'of' cần một danh từ chỉ chế độ ăn uống hoặc nguồn dinh dưỡng của sâu bướm.",
+            "bridge": "Đọc tiếp hai câu cuối của Paragraph 9."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 9 giải thích sâu bướm bị ảnh hưởng do chế độ ăn chỉ phụ thuộc vào duy nhất một loài cây như thế nào?",
+            "guide": "Paragraph 9 viết: 'This may be because the caterpillar exists solely on a diet of a plant called honeysuckle. But it is also likely to be due to climate change.' (Điều này có thể do sâu bướm chỉ sống nhờ vào chế độ ăn duy nhất một loài cây kim ngân).",
+            "bridge": "Hai nguyên nhân được nêu: một là biến đổi khí hậu, hai là chế độ ăn (diet) quá hạn hẹp.",
+            "answer": "diet"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ chỉ chế độ ăn trong bài là gì?",
+            "guide": "Đáp án là 'diet'.",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: diet."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau mạo từ <i>the</i>.",
+          "<b>Paragraph 9 (dòng 4-5):</b> <i>'This may be because the caterpillar exists solely on a diet of a plant called honeysuckle. But it is also likely to be due to climate change.'</i>",
+          "<b>Khớp từ:</b> Hai nguyên nhân gây suy giảm số lượng là <i>climate change</i> và <i>the diet of the caterpillar</i>.",
+          "<b>Từ cần điền:</b> <b>diet</b>."
+        ]
+      }
+    }
+  }
+}
