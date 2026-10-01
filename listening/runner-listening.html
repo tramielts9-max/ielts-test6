@@ -4,328 +4,111 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>IELTS Listening Examination</title>
-  <link rel="stylesheet" href="css/base.css">
-  <link rel="stylesheet" href="css/components.css">
-  <link rel="stylesheet" href="css/listening.css">
+  <link rel="stylesheet" href="../css/base.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="css-l/listening.css">
   <style>
-    /* =======================================================
-       GIAO DIỆN CHUẨN ĐẦY ĐỦ TÍNH NĂNG CHO IELTS LISTENING
-       ======================================================= */
-    
-    body.listening-test:not(.submitted) #passageBox {
-      display: none !important;
-    }
-    body.listening-test:not(.submitted) #dragResizer {
-      display: none !important;
-    }
-    body.listening-test:not(.submitted) #questionBox {
-      width: 100% !important;
-      max-width: 950px;
-      margin: 0 auto;
-    }
+    body.listening-test:not(.submitted) #passageBox { display: none !important; }
+    body.listening-test:not(.submitted) #dragResizer { display: none !important; }
+    body.listening-test:not(.submitted) #questionBox { width: 100% !important; max-width: 950px; margin: 0 auto; }
 
     body.listening-test.submitted #mainContainer {
-      display: flex !important;
-      flex-direction: row !important;
-      height: calc(100vh - 130px) !important;
-      overflow: hidden !important;
-      gap: 0 !important;
+      display: flex !important; flex-direction: row !important; height: calc(100vh - 130px) !important;
+      overflow: hidden !important; gap: 0 !important;
     }
-
     body.listening-test.submitted #passageBox {
-      display: block !important;
-      width: 48%;
-      min-width: 260px;
-      max-width: 75%;
-      height: 100% !important;
-      overflow-y: auto !important;
-      padding: 20px 24px;
-      background: var(--bg-card, #ffffff);
-      border-right: none;
+      display: block !important; width: 48%; min-width: 260px; max-width: 75%;
+      height: 100% !important; overflow-y: auto !important; padding: 20px 24px;
+      background: var(--bg-card, #ffffff); border-right: none;
     }
-
     body.listening-test.submitted #dragResizer {
-      display: flex !important;
-      width: 12px;
-      background: #cbd5e1;
-      cursor: col-resize;
-      align-items: center;
-      justify-content: center;
-      user-select: none;
-      transition: background 0.2s;
-      z-index: 50;
-      flex-shrink: 0;
+      display: flex !important; width: 12px; background: #cbd5e1; cursor: col-resize;
+      align-items: center; justify-content: center; user-select: none; transition: background 0.2s; z-index: 50; flex-shrink: 0;
     }
-    body.listening-test.submitted #dragResizer:hover,
-    body.listening-test.submitted #dragResizer.resizing {
-      background: #0284c7;
-    }
-    body.listening-test.submitted #dragResizer .resizer-icon {
-      font-size: 11px;
-      color: #475569;
-      pointer-events: none;
-    }
-
+    body.listening-test.submitted #dragResizer:hover, body.listening-test.submitted #dragResizer.resizing { background: #0284c7; }
+    body.listening-test.submitted #dragResizer .resizer-icon { font-size: 11px; color: #475569; pointer-events: none; }
     body.listening-test.submitted #questionBox {
-      flex: 1;
-      min-width: 320px;
-      height: 100% !important;
-      overflow-y: auto !important;
-      padding: 20px 24px;
-      background: var(--bg-card, #ffffff);
+      flex: 1; min-width: 320px; height: 100% !important; overflow-y: auto !important; padding: 20px 24px; background: var(--bg-card, #ffffff);
     }
 
     .submit-banner {
-      background: #ecfdf5;
-      border: 1.5px solid #10b981;
-      border-radius: 8px;
-      padding: 12px 16px;
-      margin-bottom: 16px;
-      color: #065f46;
-      font-size: 13.5px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
+      background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 8px; padding: 12px 16px;
+      margin-bottom: 16px; color: #065f46; font-size: 13.5px; display: flex; align-items: center; gap: 8px;
     }
-
     .lis-question-card {
-      background: var(--bg-card, #ffffff);
-      border: 1.5px solid var(--border-color, #e2e8f0);
-      border-radius: 8px;
-      padding: 16px;
-      margin-top: 14px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+      background: var(--bg-card, #ffffff); border: 1.5px solid var(--border-color, #e2e8f0); border-radius: 8px;
+      padding: 16px; margin-top: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.03);
     }
-    .lis-card-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 12px;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
+    .lis-card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; flex-wrap: wrap; gap: 8px; }
     .btn-audio-jump {
-      background: #0284c7;
-      color: #ffffff;
-      border: none;
-      padding: 5px 12px;
-      border-radius: 20px;
-      font-weight: 700;
-      font-size: 12.5px;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      gap: 5px;
-      transition: all 0.2s;
+      background: #0284c7; color: #ffffff; border: none; padding: 5px 12px; border-radius: 20px;
+      font-weight: 700; font-size: 12.5px; cursor: pointer; display: inline-flex; align-items: center; gap: 5px; transition: all 0.2s;
     }
-    .btn-audio-jump:hover {
-      background: #0369a1;
-      transform: scale(1.03);
-    }
+    .btn-audio-jump:hover { background: #0369a1; transform: scale(1.03); }
     .btn-locate-text {
-      background: var(--bg-subcard, #f1f5f9);
-      color: #0284c7;
-      border: 1px solid #cbd5e1;
-      padding: 5px 10px;
-      border-radius: 5px;
-      font-weight: 600;
-      font-size: 12px;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
-      margin-top: 8px;
+      background: var(--bg-subcard, #f1f5f9); color: #0284c7; border: 1px solid #cbd5e1; padding: 5px 10px;
+      border-radius: 5px; font-weight: 600; font-size: 12px; cursor: pointer; display: inline-flex; align-items: center; gap: 4px; margin-top: 8px;
     }
     .btn-locate-text:hover { background: #e0f2fe; }
 
     .gap-fill-answer-bar {
-      margin-top: 10px;
-      padding: 10px 14px;
-      background: var(--bg-subcard, #f8fafc);
-      border-radius: 6px;
-      border: 1.5px solid #cbd5e1;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      flex-wrap: wrap;
+      margin-top: 10px; padding: 10px 14px; background: var(--bg-subcard, #f8fafc); border-radius: 6px;
+      border: 1.5px solid #cbd5e1; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
     }
-
-    .mcq-options-list {
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-      margin: 10px 0;
-    }
+    .mcq-options-list { display: flex; flex-direction: column; gap: 8px; margin: 10px 0; }
     .mcq-option-item {
-      display: flex;
-      align-items: flex-start;
-      gap: 10px;
-      padding: 9px 12px;
-      border: 1.5px solid var(--border-color, #cbd5e1);
-      border-radius: 6px;
-      background: var(--bg-card, #ffffff);
-      cursor: pointer;
-      transition: all 0.15s ease;
-      user-select: none;
+      display: flex; align-items: flex-start; gap: 10px; padding: 9px 12px; border: 1.5px solid var(--border-color, #cbd5e1);
+      border-radius: 6px; background: var(--bg-card, #ffffff); cursor: pointer; transition: all 0.15s ease; user-select: none;
     }
-    .mcq-option-item:hover {
-      border-color: #0284c7;
-      background: #f0f9ff;
-    }
-    .mcq-option-item.selected {
-      border-color: #0284c7;
-      background: #e0f2fe;
-      box-shadow: 0 0 0 1px #0284c7;
-    }
+    .mcq-option-item:hover { border-color: #0284c7; background: #f0f9ff; }
+    .mcq-option-item.selected { border-color: #0284c7; background: #e0f2fe; box-shadow: 0 0 0 1px #0284c7; }
     .mcq-badge {
-      font-weight: 800;
-      color: #0369a1;
-      background: #e0f2fe;
-      padding: 2px 7px;
-      border-radius: 4px;
-      font-size: 12.5px;
-      min-width: 22px;
-      text-align: center;
-      flex-shrink: 0;
+      font-weight: 800; color: #0369a1; background: #e0f2fe; padding: 2px 7px; border-radius: 4px;
+      font-size: 12.5px; min-width: 22px; text-align: center; flex-shrink: 0;
     }
-    .mcq-option-item.selected .mcq-badge {
-      background: #0284c7;
-      color: #ffffff;
-    }
+    .mcq-option-item.selected .mcq-badge { background: #0284c7; color: #ffffff; }
 
-    .matching-box {
-      background: var(--bg-subcard, #f8fafc);
-      border: 2px solid #0284c7;
-      border-radius: 8px;
-      padding: 14px 18px;
-      margin: 15px 0;
-    }
+    .matching-box { background: var(--bg-subcard, #f8fafc); border: 2px solid #0284c7; border-radius: 8px; padding: 14px 18px; margin: 15px 0; }
     .matching-item {
-      padding: 6px 10px;
-      background: var(--bg-card, #ffffff);
-      border: 1px solid var(--border-color, #e2e8f0);
-      border-radius: 5px;
-      display: flex;
-      align-items: baseline;
-      gap: 8px;
-      font-size: 13.5px;
+      padding: 6px 10px; background: var(--bg-card, #ffffff); border: 1px solid var(--border-color, #e2e8f0);
+      border-radius: 5px; display: flex; align-items: baseline; gap: 8px; font-size: 13.5px;
     }
 
-    /* Nút nộp bài tổng hợp Part 4 */
     .btn-full-submit {
-      background: linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%);
-      color: white;
-      border: none;
-      padding: 16px 20px;
-      font-size: 17px;
-      font-weight: 800;
-      border-radius: 8px;
-      width: 100%;
-      cursor: pointer;
-      margin-top: 15px;
-      box-shadow: 0 4px 12px rgba(124, 58, 237, 0.35);
-      transition: all 0.2s ease;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
+      background: linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%); color: white; border: none; padding: 16px 20px;
+      font-size: 17px; font-weight: 800; border-radius: 8px; width: 100%; cursor: pointer; margin-top: 15px;
+      box-shadow: 0 4px 12px rgba(124, 58, 237, 0.35); transition: all 0.2s ease; display: flex; align-items: center; justify-content: center; gap: 10px;
     }
-    .btn-full-submit:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 18px rgba(124, 58, 237, 0.45);
-    }
+    .btn-full-submit:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(124, 58, 237, 0.45); }
 
-    /* MODAL HIỂN THỊ KẾT QUẢ TỔNG HỢP 40 CÂU & BAND SCORE */
     .modal-backdrop {
-      position: fixed;
-      inset: 0;
-      background: rgba(15, 23, 42, 0.75);
-      backdrop-filter: blur(4px);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      z-index: 9999;
-      padding: 15px;
+      position: fixed; inset: 0; background: rgba(15, 23, 42, 0.75); backdrop-filter: blur(4px);
+      display: flex; align-items: center; justify-content: center; z-index: 9999; padding: 15px;
     }
     .modal-content {
-      background: #ffffff;
-      width: 100%;
-      max-width: 780px;
-      max-height: 90vh;
-      border-radius: 12px;
-      display: flex;
-      flex-direction: column;
-      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);
-      overflow: hidden;
-      animation: popIn 0.3s ease-out;
+      background: #ffffff; width: 100%; max-width: 780px; max-height: 90vh; border-radius: 12px;
+      display: flex; flex-direction: column; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3); overflow: hidden; animation: popIn 0.3s ease-out;
     }
-    @keyframes popIn {
-      from { transform: scale(0.92); opacity: 0; }
-      to { transform: scale(1); opacity: 1; }
-    }
-    .modal-header {
-      background: #0f172a;
-      color: white;
-      padding: 16px 20px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    .modal-body {
-      padding: 20px;
-      overflow-y: auto;
-    }
+    @keyframes popIn { from { transform: scale(0.92); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+    .modal-header { background: #0f172a; color: white; padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; }
+    .modal-body { padding: 20px; overflow-y: auto; }
     .band-score-banner {
-      background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
-      border: 2px solid #22c55e;
-      border-radius: 10px;
-      padding: 20px;
-      text-align: center;
-      margin-bottom: 20px;
+      background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border: 2px solid #22c55e;
+      border-radius: 10px; padding: 20px; text-align: center; margin-bottom: 20px;
     }
-    .band-score-value {
-      font-size: 48px;
-      font-weight: 900;
-      color: #15803d;
-      line-height: 1.1;
-      margin: 5px 0;
-    }
-    .summary-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-      gap: 10px;
-      margin-bottom: 20px;
-    }
-    .summary-card {
-      background: #f8fafc;
-      border: 1px solid #e2e8f0;
-      padding: 12px;
-      border-radius: 8px;
-      text-align: center;
-    }
+    .band-score-value { font-size: 48px; font-weight: 900; color: #15803d; line-height: 1.1; margin: 5px 0; }
+    .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; margin-bottom: 20px; }
+    .summary-card { background: #f8fafc; border: 1px solid #e2e8f0; padding: 12px; border-radius: 8px; text-align: center; }
     .summary-card b { font-size: 18px; color: #0284c7; }
-    .answers-table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 13.5px;
-    }
-    .answers-table th, .answers-table td {
-      border: 1px solid #e2e8f0;
-      padding: 8px 10px;
-      text-align: left;
-    }
-    .answers-table th {
-      background: #f1f5f9;
-      color: #334155;
-      font-weight: 700;
-    }
+    .answers-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+    .answers-table th, .answers-table td { border: 1px solid #e2e8f0; padding: 8px 10px; text-align: left; }
+    .answers-table th { background: #f1f5f9; color: #334155; font-weight: 700; }
     .status-correct { color: #16a34a; font-weight: 700; }
     .status-wrong { color: #dc2626; font-weight: 700; }
   </style>
 </head>
 <body class="listening-test">
 
-<!-- KHUNG THÔNG TIN HỌC VIÊN -->
 <div class="user-info-box">
   <div class="user-info-field">
     <label for="studentNameInput">👤 Họ và Tên:</label>
@@ -337,11 +120,11 @@
   </div>
 </div>
 
-<!-- THANH ĐIỀU KHIỂN & TIMER -->
 <div class="header-bar">
   <h1 id="testTitleHeader">IELTS Listening Test</h1>
   <div class="header-nav">
-    <a href="index.html" class="nav-link">🏠 Trang chủ</a>
+    <a href="../index.html" class="nav-link">🏠 Trang chủ</a>
+    <a href="listening.html" class="nav-link" style="margin-left: 10px;">🎧 Danh mục Đề</a>
   </div>
   <div class="header-controls">
     <button type="button" class="btn-header" onclick="window.changeFontSize(-1)">A-</button>
@@ -357,12 +140,10 @@
   <div class="score-badge" id="scoreBadge">Điểm số: <span id="scoreText">0/10</span></div>
 </div>
 
-<!-- TRÌNH PHÁT AUDIO -->
 <div class="audio-player-container" id="audioPlayerWrapper" style="display: none;">
   <audio id="mainAudioElement" class="audio-player-element" controls preload="auto"></audio>
 </div>
 
-<!-- KHUNG TRANSCRIPT & CÂU HỎI -->
 <div class="container" id="mainContainer">
   <div class="passage-box" id="passageBox"></div>
   <div class="resizer" id="dragResizer"><div class="resizer-icon">◄►</div></div>
@@ -371,52 +152,18 @@
   </div>
 </div>
 
-<!-- MODAL POPUP HIỂN THỊ TỔNG KẾT 40 CÂU & BAND SCORE -->
 <div id="fullScoreModal" class="modal-backdrop" style="display: none;">
   <div class="modal-content">
     <div class="modal-header">
       <h3 style="margin: 0; font-size: 17px;">📊 BẢNG TỔNG KẾT ĐIỂM THI IELTS LISTENING (40 CÂU)</h3>
       <button onclick="document.getElementById('fullScoreModal').style.display='none'" style="background:transparent; border:none; color:white; font-size:22px; cursor:pointer;">&times;</button>
     </div>
-    <div class="modal-body" id="fullScoreModalBody">
-      <!-- Nội dung kết quả sẽ được chèn động ở đây -->
-    </div>
+    <div class="modal-body" id="fullScoreModalBody"></div>
   </div>
 </div>
 
-<!-- SCRIPT HỆ THỐNG XỬ LÝ GIAO DIỆN & TÍNH NĂNG -->
 <script>
   (function() {
-    var curSize = 15;
-    try {
-      var saved = localStorage.getItem('ielts_font_size');
-      if (saved) curSize = parseInt(saved, 10);
-    } catch(e) {}
-
-    function setFont(sz) {
-      document.documentElement.style.setProperty('--font-size-base', sz + 'px');
-      var p = document.getElementById('passageBox');
-      var q = document.getElementById('questionBox');
-      if (p) p.style.fontSize = sz + 'px';
-      if (q) q.style.fontSize = sz + 'px';
-    }
-
-    window.changeFontSize = function(delta) {
-      curSize = Math.min(Math.max(curSize + delta, 12), 24);
-      setFont(curSize);
-      try { localStorage.setItem('ielts_font_size', curSize); } catch(e) {}
-    };
-
-    window.toggleTheme = function() {
-      var isDark = document.body.classList.toggle('dark-theme');
-      var btn = document.getElementById('btnThemeToggle');
-      if (btn) btn.innerText = isDark ? '☀️ Sáng' : '🌙 Tối';
-      try { localStorage.setItem('ielts_theme', isDark ? 'dark' : 'light'); } catch(e) {}
-    };
-
-    setFont(curSize);
-
-    // Bấm câu để tua Audio
     window.seekAudioTo = function(seconds, highlightId) {
       const audio = document.getElementById('mainAudioElement');
       if (audio && seconds !== undefined && seconds !== null) {
@@ -428,12 +175,10 @@
       }
     };
 
-    // Đồng bộ đáp án & Lưu trữ vào LocalStorage cho từng bài
     window.syncUserAnswer = function(qId, val) {
       if (val === undefined || val === null) return;
       var cleanVal = String(val).trim();
 
-      // Lưu trữ đáp án để nộp tổng 40 câu
       if (window.CURRENT_BASE_TEST) {
         try {
           const storeKey = `ielts_ans_${window.CURRENT_BASE_TEST}`;
@@ -443,7 +188,6 @@
         } catch(e) {}
       }
 
-      // 1. Đồng bộ ô text input
       var textInputs = document.querySelectorAll(`input[id="${qId}_input"], input[id="${qId}_input_mirror"]`);
       textInputs.forEach(el => {
         if (el && el.value !== cleanVal) {
@@ -452,7 +196,6 @@
         }
       });
 
-      // 2. Đồng bộ radio button MCQ
       var inputs = document.querySelectorAll(`input[name="${qId}"]`);
       inputs.forEach(rb => {
         var isMatch = rb.value.trim().toUpperCase() === cleanVal.toUpperCase();
@@ -464,15 +207,11 @@
         }
       });
 
-      // 3. Đồng bộ thẻ select (Matching)
       var sel = document.getElementById(qId + '_select');
       if (sel && sel.value !== cleanVal) sel.value = cleanVal;
     };
   })();
 
-  // =========================================================================
-  // BẢNG QUY ĐỔI BAND SCORE THEO CHUẨN IELTS LISTENING
-  // =========================================================================
   window.calculateIELTSListeningBand = function(correct) {
     if (correct >= 39) return "9.0";
     if (correct >= 37) return "8.5";
@@ -488,9 +227,6 @@
     return "< 4.0";
   };
 
-  // =========================================================================
-  // THANH KÉO CO GIÃN 2 CỘT SAU KHI NỘP BÀI
-  // =========================================================================
   function initSplitResizer() {
     const resizer = document.getElementById('dragResizer');
     const leftBox = document.getElementById('passageBox');
@@ -540,9 +276,7 @@
       passageBox.style.setProperty('display', 'block', 'important');
       if (!passageBox.style.width) passageBox.style.width = '48%';
     }
-    if (dragResizer) {
-      dragResizer.style.setProperty('display', 'flex', 'important');
-    }
+    if (dragResizer) dragResizer.style.setProperty('display', 'flex', 'important');
     if (mainContainer) {
       mainContainer.style.setProperty('display', 'flex', 'important');
       mainContainer.style.setProperty('flex-direction', 'row', 'important');
@@ -579,12 +313,8 @@
     }
   };
 
-  // =========================================================================
-  // XÂY DỰNG GIAO DIỆN BÀI THI (MCQ, MATCHING, GAP-FILL)
-  // =========================================================================
   window.buildListeningHtml = function(data, isPart4) {
     if (!data.groups || !data.questions) return data.questionHtml || "";
-
     let html = '';
 
     data.groups.forEach(group => {
@@ -593,7 +323,6 @@
         html += `<p style="color:var(--text-muted); font-size:13.5px; margin-bottom:12px; line-height:1.5;">${group.instructions}</p>`;
       }
 
-      // Hộp lựa chọn Matching Box (A - F)
       if (group.type === 'matching' && Array.isArray(group.options)) {
         html += `
           <div class="matching-box">
@@ -610,7 +339,6 @@
         `;
       }
 
-      // Template hoặc bảng điền từ
       let contentBody = group.tableHtml || group.template || '';
       if (group.notesTitle) {
         contentBody = `<div style="background:var(--bg-subcard); border:1px solid var(--border-color); padding:16px; border-radius:8px;"><h4 style="margin-top:0; margin-bottom:10px;">${group.notesTitle}</h4>${contentBody}</div>`;
@@ -625,14 +353,12 @@
         html += `<div style="margin-bottom:18px;">${contentBody}</div>`;
       }
 
-      // Render từng câu hỏi chi tiết
       group.questionIds.forEach(qId => {
         const q = data.questions[qId];
         if (!q) return;
 
         let answerControlHtml = '';
 
-        // 1. Multiple Choice
         if (q.type === 'mcq' || (q.options && Array.isArray(q.options))) {
           const optionsList = q.options.map((opt, idx) => {
             const letterMatch = opt.match(/^([A-Z])[\.\:\s]/i);
@@ -649,10 +375,7 @@
           }).join('');
 
           answerControlHtml = `<div class="mcq-options-list">${optionsList}</div>`;
-        }
-
-        // 2. Matching
-        else if (q.type === 'matching' || group.type === 'matching') {
+        } else if (q.type === 'matching' || group.type === 'matching') {
           const opts = group.options || [];
           answerControlHtml = `
             <div class="gap-fill-answer-bar">
@@ -663,10 +386,7 @@
               </select>
             </div>
           `;
-        }
-
-        // 3. Gap fill
-        else {
+        } else {
           answerControlHtml = `
             <div class="gap-fill-answer-bar">
               <label for="${qId}_input_mirror" style="font-size:13.5px; font-weight:700;">✍️ Đáp án Câu ${q.num || qId}:</label>
@@ -712,10 +432,8 @@
       });
     });
 
-    // Nút nộp bài Part hiện tại
     html += `<button type="button" class="btn-submit" onclick="window.checkAnswers()" style="margin-top:25px; width:100%; padding:14px; font-size:16px;">CHẤM BÀI PHẦN NÀY VÀ MỞ TRANSCRIPT</button>`;
 
-    // NẾU LÀ PART 4: HIỆN NÚT NỘP TỔNG VÀ TÍNH BAND SCORE CẢ 40 CÂU
     if (isPart4) {
       html += `
         <button type="button" class="btn-full-submit" onclick="window.submitFullListeningTest()">
@@ -733,9 +451,6 @@
     return `${m < 10 ? '0' : ''}${m}:${s < 10 ? '0' : ''}${s}`;
   }
 
-  // =========================================================================
-  // XỬ LÝ CHẤM TOÀN DIỆN CẢ 4 PARTS (40 CÂU) VÀ TÍNH IELTS BAND SCORE
-  // =========================================================================
   window.submitFullListeningTest = async function() {
     if (typeof window.checkAnswers === 'function') {
       window.checkAnswers();
@@ -752,14 +467,12 @@
     modalBody.innerHTML = `<div style="text-align:center; padding:30px; font-size:15px; color:#64748b;">⏳ Đang tổng hợp dữ liệu và chấm bài cả 4 Parts (40 câu)...</div>`;
     modal.style.display = 'flex';
 
-    // Lấy câu trả lời học viên đã lưu
     const storeKey = `ielts_ans_${baseTest}`;
     let userAnswers = {};
     try {
       userAnswers = JSON.parse(localStorage.getItem(storeKey) || '{}');
     } catch(e) {}
 
-    // Thu thập thêm câu trả lời từ DOM hiện tại của Part 4
     document.querySelectorAll('.lis-question-card').forEach(card => {
       const qId = card.id;
       const inp = card.querySelector(`input[id="${qId}_input_mirror"], input[id="${qId}_input"]`);
@@ -771,15 +484,14 @@
       else if (inp && inp.value) userAnswers[qId] = inp.value;
     });
 
-    // Tải đáp án chuẩn của cả 4 Part (p1, p2, p3, p4)
     const allOfficialAnswers = {};
     const partScores = { p1: { correct: 0, total: 10 }, p2: { correct: 0, total: 10 }, p3: { correct: 0, total: 10 }, p4: { correct: 0, total: 10 } };
 
     for (let p = 1; p <= 4; p++) {
       const partFileName = `${baseTest}-p${p}`;
       const urls = [
-        `data/${baseTest}/${partFileName}.json`,
-        `data/${partFileName}.json`,
+        `data-l/${baseTest}/${partFileName}.json`,
+        `data-l/${partFileName}.json`,
         `${partFileName}.json`
       ];
 
@@ -796,7 +508,6 @@
       }
     }
 
-    // Chấm điểm 40 câu
     let totalCorrect = 0;
     const tableRowsHtml = [];
 
@@ -805,7 +516,6 @@
       const official = (allOfficialAnswers[qId] || "").trim();
       const user = (userAnswers[qId] || "").trim();
 
-      // Kiểm tra đúng sai (linh hoạt chấp nhận ký tự hoa thường hoặc viết hoa)
       let isCorrect = false;
       if (official) {
         if (official.length === 1 && /^[A-Z]$/i.test(official)) {
@@ -835,7 +545,6 @@
 
     const bandScore = window.calculateIELTSListeningBand(totalCorrect);
 
-    // Hiển thị nội dung ra Modal
     modalBody.innerHTML = `
       <div class="band-score-banner">
         <div style="font-size: 15px; font-weight: 700; color: #166534; text-transform: uppercase; letter-spacing: 0.5px;">ĐIỂM IELTS LISTENING CỦA BẠN</div>
@@ -886,30 +595,33 @@
   };
 </script>
 
-<!-- TẢI DỮ LIỆU ĐỀ THI & KHỞI CHẠY HỆ THỐNG -->
 <script type="module">
+  import { initListeningApp } from './js-l/app-l.js';
+  import { initListeningNavigation } from './js-l/listening-nav.js';
+
   const params = new URLSearchParams(window.location.search);
   let testId = params.get('test');
 
   if (!testId) {
     alert("⚠️ Không tìm thấy mã đề thi!");
-    window.location.href = 'index.html';
+    window.location.href = 'listening.html';
   } else {
     async function loadTest() {
       const raw = testId.replace(/\.json$/i, '');
       const fileName = raw.includes('/') ? raw.split('/').pop() : raw;
       const folderName = fileName.replace(/-p\d+.*$/i, '');
 
-      // Xác định base test name (vd: cam21-lis-test1) và kiểm tra xem có phải là Part 4 không
       window.CURRENT_BASE_TEST = folderName;
       const isPart4 = fileName.toLowerCase().endsWith('-p4') || fileName.toLowerCase().includes('-p4');
 
+      // Tải đề từ data-l/
       const urlsToTry = [
-        `data/${folderName}/${fileName}.json`,
-        `data/${fileName}.json`,
+        `data-l/${folderName}/${fileName}.json`,
+        `data-l/${fileName}.json`,
         `${fileName}.json`,
-        `data/${raw}.json`,
-        `${raw}.json`
+        `data-l/${raw}.json`,
+        `${raw}.json`,
+        `../data/${folderName}/${fileName}.json`
       ];
 
       let data = null;
@@ -927,8 +639,8 @@
         document.getElementById('mainContainer').innerHTML = `
           <div style="padding: 30px; text-align: center; width: 100%;">
             <h3 style="color: #dc2626;">❌ Không tìm thấy file đề: <code>${fileName}.json</code></h3>
-            <p style="color: #64748b;">Hãy kiểm tra lại xem file đã được tải lên thư mục <code>data/</code> trên GitHub chưa.</p>
-            <a href="index.html" class="nav-link" style="display:inline-block; margin-top:10px;">Quay về trang chủ</a>
+            <p style="color: #64748b;">Hãy kiểm tra lại xem file đã được đặt vào thư mục <code>listening/data-l/</code> chưa.</p>
+            <a href="listening.html" style="color:#0284c7; font-weight:700;">Quay về danh mục nghe</a>
           </div>
         `;
         return;
@@ -938,7 +650,6 @@
       document.getElementById('testTitleHeader').innerText = data.title;
       document.getElementById('passageBox').innerHTML = data.transcriptHtml || data.passageHtml || "";
 
-      // Click vào transcript để tua audio
       setTimeout(() => {
         document.querySelectorAll('.transcript-line[data-time]').forEach(el => {
           el.style.cursor = 'pointer';
@@ -950,14 +661,12 @@
         });
       }, 300);
 
-      // Render danh sách câu hỏi (truyền cờ isPart4)
       if (data.groups && window.buildListeningHtml) {
         document.getElementById('questionBox').innerHTML = window.buildListeningHtml(data, isPart4);
       } else {
         document.getElementById('questionBox').innerHTML = data.questionHtml || "";
       }
       
-      // Nạp Audio
       if (data.audioUrl) {
         const audioEl = document.getElementById('mainAudioElement');
         const wrapper = document.getElementById('audioPlayerWrapper');
@@ -967,18 +676,14 @@
         }
       }
 
-      // Chuẩn bị answers cho app.js
       window.TEST_DATA = { 
         title: data.title, 
         answers: data.answers || (data.questions ? Object.fromEntries(Object.entries(data.questions).map(([k, v]) => [k, v.finalAnswer])) : {})
       };
 
-      // Tải logic từ app.js
-      try {
-        await import('./js/app.js');
-      } catch(e) {}
+      // KHỞI ĐỘNG HỆ THỐNG APP LISTENING ĐỘC LẬP
+      await initListeningApp();
 
-      // Mở 2 cột Transcript sau khi bấm nộp bài
       const realCheckAnswers = window.checkAnswers;
       window.checkAnswers = function() {
         if (typeof realCheckAnswers === 'function') realCheckAnswers();
@@ -994,11 +699,7 @@
         }
       });
       
-      // Nạp thanh điều hướng câu hỏi nếu có
-      try {
-        const { initListeningNavigation } = await import('./js/listening-nav.js');
-        initListeningNavigation();
-      } catch(e) {}
+      initListeningNavigation();
     }
 
     loadTest();
