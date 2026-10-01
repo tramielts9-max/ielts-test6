@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>IELTS Reading Practice - Cambridge & Vol Actual Tests</title>
-  <link rel="stylesheet" href="css/base.css">
-  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="../css/base.css">
+  <link rel="stylesheet" href="../css/components.css">
   <style>
     .reading-hero {
       background: linear-gradient(135deg, #8B1518 0%, #1e1b4b 100%);
@@ -84,7 +84,7 @@
   </div>
 
   <div class="top-nav-bar">
-    <a href="index.html" class="btn-header" style="background: var(--bg-card); color: var(--text-main); border: 1px solid var(--border-color); text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
+    <a href="../index.html" class="btn-header" style="background: var(--bg-card); color: var(--text-main); border: 1px solid var(--border-color); text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
       🏠 Về Trung Tâm Điều Hành
     </a>
     <span id="userStatusTag" style="font-size: 13px; color: var(--text-muted); font-weight: 600;"></span>
@@ -117,8 +117,8 @@
 </div>
 
 <script type="module">
-  import { stateManager } from './js/state.js';
-  import { renderTagsHtml } from './js/taxonomy-registry.js';
+  import { stateManager } from '../js/state.js';
+  import { renderTagsHtml } from '../js/taxonomy-registry.js';
 
   const CAM_DATA = [
     {
@@ -210,7 +210,8 @@
         test.passages.forEach(psg => {
           const standardId = `READ_CAM${camItem.cam}_T${test.testNum}_P${psg.p}`;
           const tagsHtml = renderTagsHtml(standardId);
-          const testUrl = `runner-reading.html?test=data/cam${camItem.cam}-test${test.testNum}/cam${camItem.cam}-test${test.testNum}-p${psg.p}.json`;
+          // Đường dẫn đề thi trong thư mục data-r/ mới
+          const testUrl = `runner-reading.html?test=data-r/cam${camItem.cam}-test${test.testNum}/cam${camItem.cam}-test${test.testNum}-p${psg.p}.json`;
 
           html += `
             <div class="test-card">
