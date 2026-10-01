@@ -1,0 +1,531 @@
+{
+  "title": "IELTS Academic 18 - Test 3 - Passage 2: The steam car",
+  "answers": {
+    "q14": "iii",
+    "q15": "viii",
+    "q16": "vi",
+    "q17": "v",
+    "q18": "vii",
+    "q19": "i",
+    "q20": "iv",
+    "q21": "A",
+    "q22": "C",
+    "q23": "B",
+    "q24": "speed",
+    "q25": "fifty",
+    "q26": "strict"
+  },
+  "passageHtml": "<h2>READING PASSAGE 2</h2><h3>The steam car</h3><p><em>The successes and failures of the Doble brothers and their steam cars</em></p><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">When primitive automobiles first began to appear in the 1800s, their engines were based on steam power. Steam had already enjoyed a long and successful career in the railways, so it was only natural that the technology evolved into a miniaturized version which was separate from the trains. But these early cars inherited steam's weaknesses along with its strengths. The boilers had to be lit by hand, and they required about twenty minutes to build up pressure before they could be driven. Furthermore, their water reservoirs only lasted for about thirty miles before needing replenishment. Despite such shortcomings, these newly designed self-propelled carriages offered quick transportation, and by the early 1900s it was not uncommon to see such machines shuttling wealthy citizens around town</span>.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">But the glory days of steam cars were few</span>. A new technology called the Internal Combustion Engine soon appeared, which offered the ability to drive down the road just moments after starting up. At first, these noisy gasoline cars were unpopular because they were more complicated to operate and they had difficult hand-crank starters, which were known to break arms when the engines backfired. But in 1912 General Motors introduced the electric starter, and over the following few years steam power was gradually phased out</span>.</p><p><strong>Paragraph C.</strong> Even as the market was declining, four brothers made one last effort to rekindle the technology. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Between 1906 and 1909, while still attending high school, Abner Doble and his three brothers built their first steam car in their parents' basement. It comprised parts taken from a wrecked early steam car but reconfigured to drive an engine of their own design. Though it did not run well, the Doble brothers went on to build a second and third prototype</span>. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Though the Doble boys' third prototype, nicknamed the Model B, still lacked the convenience of an internal combustion engine, it drew the attention of automobile trade magazines due to its numerous improvements over previous steam cars. The Model B proved to be superior to gasoline automobiles in many ways. Its high-pressure steam drove the engine pistons in virtual silence, in contrast to clattering gas engines which emitted the aroma of burned hydrocarbons. Perhaps most impressively, the Model B was amazingly swift. It could accelerate from zero to sixty miles per hour in just fifteen seconds, a feat described as 'remarkable acceleration' by Automobile magazine in 1914</span>.</p><p><strong>Paragraph D.</strong> The following year <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Abner Doble drove the Model B from Massachusetts to Detroit in order to seek investment in his automobile design, which he used to open the General Engineering Company</span>. He and his brothers immediately began working on the Model C, <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">which was intended to expand upon the innovations of the Model B. The brothers added features such as a key-based ignition in the cabin, eliminating the need for the operator to manually ignite the boiler. With these enhancements, the Dobles' new car company promised a steam vehicle which would provide all of the convenience of a gasoline car, but with much greater speed, much simpler driving controls, and a virtually silent powerplant. By the following April, the General Engineering Company had received 5,390 deposits for Doble Detroits, which were scheduled for delivery in early 1918</span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Later that year Abner Doble delivered unhappy news to those eagerly awaiting the delivery of their modern new cars. Those buyers who received the handful of completed cars complained that the vehicles were sluggish and erratic, sometimes going in reverse when they should go forward. The new engine design, though innovative, was still plagued with serious glitches</span>.</p><p><strong>Paragraph F.</strong> The brothers made one final attempt to produce a viable steam automobile. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">In early 1924, the Doble brothers shipped a Model E to New York City to be road-tested by the Automobile Club of America. After sitting overnight in freezing temperatures, the car was pushed out into the road and left to sit for over an hour in the frosty morning air. At the turn of the key, the boiler lit and reached its operating pressure inside of forty seconds</span>. As they drove the test vehicle further, they found that its evenly distributed weight lent it surprisingly good handling, even though it was so heavy. As the new Doble steamer was further developed and tested, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">its maximum <span class=\"kw\">speed</span> was pushed to over a hundred miles per hour</span>, and it achieved about fifteen miles per gallon of kerosene with negligible emissions.</p><p><strong>Paragraph G.</strong> Sadly, the Dobles' brilliant steam car never was a financial success. Priced at around $18,000 in 1924, it was popular only among the very wealthy. Plus, it is said that no two Model Es were quite the same, because Abner Doble tinkered endlessly with the design. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">By the time the company folded in 1931, fewer than <span class=\"kw\">fifty</span> of the amazing Model E steam cars had been produced</span>. For his whole career, until his death in 1961, Abner Doble remained adamant that steam-powered automobiles were at least equal to gasoline cars, if not superior. Given the evidence, he may have been right. Many of the Model E Dobles which have survived are still in good working condition, some having been driven over half a million miles with only normal maintenance. Astonishingly, an unmodified Doble Model E runs clean enough to pass the emissions laws in California today, and <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">they are pretty <span class=\"kw\">strict</span></span>. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">It is true that the technology poses some difficult problems, but you cannot help but wonder how efficient a steam car might be with the benefit of modern materials and computers. Under the current pressure to improve automotive performance and reduce emissions, it is not unthinkable that the steam car may rise again</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_headings",
+      "title": "Questions 14-20",
+      "instructions": "<i>Reading Passage 2 has seven paragraphs, <b>A-G</b>.<br>Choose the correct heading for each paragraph from the list of headings below.<br>Write the correct number, <b>i-viii</b>, in boxes 14-20 on your answer sheet.</i><br><br><b>List of Headings:</b><br><b>i.</b> A period in cold conditions before the technology is assessed<br><b>ii.</b> Marketing issues lead to failure<br><b>iii.</b> Good and bad aspects of steam technology are passed on<br><b>iv.</b> A possible solution to the issues of today<br><b>v.</b> Further improvements lead to commercial orders<br><b>vi.</b> Positive publicity at last for this quiet, clean, fast vehicle<br><b>vii.</b> A disappointing outcome for customers<br><b>viii.</b> A better option than the steam car arises",
+      "questionIds": ["q14", "q15", "q16", "q17", "q18", "q19", "q20"]
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "title": "Questions 21-23",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 21-23 on your answer sheet.</i>",
+      "questionIds": ["q21", "q22", "q23"]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "title": "Questions 24-26",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD AND/OR A NUMBER</b> from the passage for each answer.<br>Write your answers in boxes 24-26 on your answer sheet.</i>",
+      "summaryTitle": "The Model E",
+      "questionIds": ["q24", "q25", "q26"],
+      "template": "<p>The Model E was road-tested in 1924 by the Automobile Club of America. They found it easy to drive, despite its weight, and it impressed the spectators. A later version of the Model E raised its <b>24.</b> {{q24}}, while keeping its emissions extremely low.</p><p>The steam car was too expensive for many people and its design was constantly being altered. Under <b>25.</b> {{q25}} cars were produced before the company went out of business. However, even today, there are Model Es on the road in the US. They are straightforward to maintain, and they satisfy California's <b>26.</b> {{q26}} emissions laws. Perhaps today's technology and materials would help us revive the steam car.</p>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "Paragraph A",
+      "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"],
+      "finalAnswer": "iii",
+      "highlightId": "hl-q14",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc lướt Paragraph A",
+            "question": "Paragraph A nói về điều gì khi xe ô tô chạy bằng hơi nước bắt đầu xuất hiện từ tàu hỏa?",
+            "guide": "Em hãy chú ý câu: 'these early cars inherited steam's weaknesses along with its strengths' (những chiếc xe đời đầu này thừa hưởng cả điểm yếu lẫn điểm mạnh của động cơ hơi nước).",
+            "bridge": "Đoạn văn vừa khen tốc độ nhanh (điểm mạnh), vừa chê mất 20 phút nhóm lò và bình nước nhanh cạn (điểm yếu)."
+          },
+          {
+            "title": "So khớp với danh sách tiêu đề",
+            "question": "Tiêu đề nào nói về việc 'cả mặt tốt lẫn mặt xấu của công nghệ hơi nước được truyền lại'?",
+            "guide": "Đó là tiêu đề iii: 'Good and bad aspects of steam technology are passed on'.",
+            "bridge": "'strengths' = 'good aspects', 'weaknesses' = 'bad aspects', 'inherited' = 'passed on'."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy đáp án cho Paragraph A là gì?",
+            "guide": "Đáp án là iii.",
+            "bridge": "Chốt câu 14: iii."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung chính Paragraph A:</b> Nói về những chiếc xe hơi nước đời đầu thừa hưởng cả ưu điểm lẫn nhược điểm từ tàu hỏa (<i>'inherited steam's weaknesses along with its strengths'</i>).",
+          "<b>Khớp từ:</b> <i>good and bad aspects</i> = <i>strengths and weaknesses</i>; <i>passed on</i> = <i>inherited</i>.",
+          "<b>Kết luận:</b> Chọn <b>iii</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "Paragraph B",
+      "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"],
+      "finalAnswer": "viii",
+      "highlightId": "hl-q15",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc lướt Paragraph B",
+            "question": "Paragraph B nói về sự xuất hiện của công nghệ mới nào đã thay thế xe hơi nước?",
+            "guide": "Đoạn này nhắc đến động cơ đốt trong ('Internal Combustion Engine') chạy bằng xăng, có thể lăn bánh ngay sau khi nổ máy và có thêm bộ đề điện tử tiện lợi.",
+            "bridge": "Động cơ xăng chính là một lựa chọn tốt hơn, vượt trội hơn xe hơi nước."
+          },
+          {
+            "title": "So khớp với danh sách tiêu đề",
+            "question": "Tiêu đề nào nói về việc 'một lựa chọn tốt hơn xe hơi nước đã xuất hiện'?",
+            "guide": "Đó là tiêu đề viii: 'A better option than the steam car arises'.",
+            "bridge": "'A new technology... offered the ability to drive... just moments after starting up' chứng minh đây là lựa chọn tiện lợi hơn."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy đáp án cho Paragraph B là gì?",
+            "guide": "Đáp án là viii.",
+            "bridge": "Chốt câu 15: viii."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung chính Paragraph B:</b> Nói về động cơ đốt trong chạy xăng xuất hiện và dần thay thế xe hơi nước nhờ sự tiện lợi, khởi động nhanh (<i>'A new technology called the Internal Combustion Engine soon appeared...'</i>).",
+          "<b>Khớp ý:</b> Động cơ xăng là giải pháp tốt hơn ra đời (<i>A better option... arises</i>).",
+          "<b>Kết luận:</b> Chọn <b>viii</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "Paragraph C",
+      "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"],
+      "finalAnswer": "vi",
+      "highlightId": "hl-q16",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc lướt Paragraph C",
+            "question": "Paragraph C miêu tả mẫu xe Model B của anh em nhà Doble nhận được phản hồi ra sao trên các tạp chí ô tô?",
+            "guide": "Đoạn văn viết Model B thu hút sự chú ý của các tạp chí chuyên ngành vì chạy rất êm ('virtual silence'), không có mùi xăng khét lẹt, và tăng tốc cực nhanh từ 0 lên 60 dặm/giờ chỉ trong 15 giây.",
+            "bridge": "Chiếc xe vừa êm ái, sạch sẽ, chạy nhanh và được báo chí khen ngợi hết lời."
+          },
+          {
+            "title": "So khớp với danh sách tiêu đề",
+            "question": "Tiêu đề nào nói về 'sự đón nhận tích cực từ truyền thông cho chiếc xe êm ái, sạch sẽ và chạy nhanh'?",
+            "guide": "Đó là tiêu đề vi: 'Positive publicity at last for this quiet, clean, fast vehicle'.",
+            "bridge": "'drew attention of trade magazines' = 'publicity'; 'virtual silence' = 'quiet'; 'amazingly swift' = 'fast'."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy đáp án cho Paragraph C là gì?",
+            "guide": "Đáp án là vi.",
+            "bridge": "Chốt câu 16: vi."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung chính Paragraph C:</b> Chiếc Model B nhận được sự khen ngợi của các tạp chí xe hơi (<i>'drew the attention of automobile trade magazines'</i>) nhờ chạy êm ru (<i>'virtual silence'</i>), sạch sẽ không khói mùi và tăng tốc cực nhanh (<i>'amazingly swift'</i>).",
+          "<b>Khớp từ:</b> <i>Positive publicity</i> = khen ngợi trên báo chí; <i>quiet, clean, fast vehicle</i> = chạy êm, sạch, tốc độ cao.",
+          "<b>Kết luận:</b> Chọn <b>vi</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "Paragraph D",
+      "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"],
+      "finalAnswer": "v",
+      "highlightId": "hl-q17",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc lướt Paragraph D",
+            "question": "Paragraph D kể về những cải tiến nào trên mẫu xe Model C và kết quả đơn đặt hàng ra sao?",
+            "guide": "Đoạn văn nói họ bổ sung tính năng đề bằng chìa khóa trong cabin (không cần tự nhóm lò nữa), lái dễ hơn, và kết quả là công ty nhận được 5.390 khoản tiền đặt cọc mua xe.",
+            "bridge": "Các cải tiến mới đã dẫn đến hàng nghìn đơn đặt hàng từ khách hàng."
+          },
+          {
+            "title": "So khớp với danh sách tiêu đề",
+            "question": "Tiêu đề nào nói về 'những cải tiến tiếp theo dẫn tới các đơn đặt hàng thương mại'?",
+            "guide": "Đó là tiêu đề v: 'Further improvements lead to commercial orders'.",
+            "bridge": "'added features / enhancements' = 'further improvements'; 'received 5,390 deposits' = 'commercial orders'."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy đáp án cho Paragraph D là gì?",
+            "guide": "Đáp án là v.",
+            "bridge": "Chốt câu 17: v."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung chính Paragraph D:</b> Anh em nhà Doble nâng cấp thêm nhiều tính năng hiện đại cho xe (<i>'added features... enhancements'</i>), giúp họ nhận được 5.390 đơn đặt cọc mua xe (<i>'received 5,390 deposits'</i>).",
+          "<b>Khớp ý:</b> Cải tiến dẫn tới đơn hàng thương mại (<i>Further improvements lead to commercial orders</i>).",
+          "<b>Kết luận:</b> Chọn <b>v</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "Paragraph E",
+      "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"],
+      "finalAnswer": "vii",
+      "highlightId": "hl-q18",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc lướt Paragraph E",
+            "question": "Paragraph E nói về tin tức buồn mà Abner Doble thông báo cho những người chờ nhận xe như thế nào?",
+            "guide": "Đoạn văn nói những khách hàng nhận được xe phàn nàn xe chạy chậm chạp, thất thường, thậm chí muốn tiến lại bị lùi vì động cơ mắc lỗi nghiêm trọng.",
+            "bridge": "Khách hàng rất thất vọng vì xe bị lỗi kỹ thuật nặng."
+          },
+          {
+            "title": "So khớp với danh sách tiêu đề",
+            "question": "Tiêu đề nào mang nghĩa 'kết quả gây thất vọng cho khách hàng'?",
+            "guide": "Đó là tiêu đề vii: 'A disappointing outcome for customers'.",
+            "bridge": "'delivered unhappy news... buyers complained' = kết quả thất vọng cho người mua."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy đáp án cho Paragraph E là gì?",
+            "guide": "Đáp án là vii.",
+            "bridge": "Chốt câu 18: vii."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung chính Paragraph E:</b> Khách hàng mua xe nhận phải tin buồn và phàn nàn vì xe bị lỗi nghiêm trọng, chạy giật cục (<i>'delivered unhappy news... buyers... complained that the vehicles were sluggish and erratic'</i>).",
+          "<b>Khớp ý:</b> Kết quả thất vọng cho khách mua xe (<i>A disappointing outcome for customers</i>).",
+          "<b>Kết luận:</b> Chọn <b>vii</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Paragraph F",
+      "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"],
+      "finalAnswer": "i",
+      "highlightId": "hl-q19",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc lướt Paragraph F",
+            "question": "Paragraph F miêu tả buổi thử nghiệm xe Model E ở New York diễn ra trong điều kiện thời tiết ra sao?",
+            "guide": "Xe được để qua đêm trong nhiệt độ băng giá ('freezing temperatures'), rồi phơi thêm hơn 1 tiếng trong không khí lạnh buốt buổi sớm trước khi được nổ máy kiểm tra.",
+            "bridge": "Chiếc xe phải trải qua một thời gian dài trong điều kiện giá lạnh trước khi đánh giá công nghệ."
+          },
+          {
+            "title": "So khớp với danh sách tiêu đề",
+            "question": "Tiêu đề nào nói về 'một khoảng thời gian trong điều kiện giá lạnh trước khi công nghệ được đánh giá'?",
+            "guide": "Đó là tiêu đề i: 'A period in cold conditions before the technology is assessed'.",
+            "bridge": "'overnight in freezing temperatures' = 'period in cold conditions'; 'road-tested' = 'technology is assessed'."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy đáp án cho Paragraph F là gì?",
+            "guide": "Đáp án là i.",
+            "bridge": "Chốt câu 19: i."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung chính Paragraph F:</b> Xe Model E được để qua đêm trong thời tiết băng giá (<i>'sitting overnight in freezing temperatures'</i>) trước khi bật chìa khóa kiểm tra vận hành thực tế (<i>'road-tested'</i>).",
+          "<b>Khớp từ:</b> <i>period in cold conditions</i> = qua đêm trong giá rét; <i>technology is assessed</i> = chạy thử nghiệm đánh giá.",
+          "<b>Kết luận:</b> Chọn <b>i</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Paragraph G",
+      "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"],
+      "finalAnswer": "iv",
+      "highlightId": "hl-q20",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc lướt Paragraph G",
+            "question": "Ở cuối Paragraph G, tác giả liên hệ xe hơi nước với vấn đề hiện nay của thế giới như thế nào?",
+            "guide": "Tác giả viết: dưới áp lực phải giảm phát thải và nâng cao hiệu suất ô tô ngày nay, với sự trợ giúp của vật liệu hiện đại và máy tính, xe hơi nước hoàn toàn có thể tái sinh.",
+            "bridge": "Xe hơi nước có thể là một giải pháp tiềm năng cho vấn đề khí thải hiện nay."
+          },
+          {
+            "title": "So khớp với danh sách tiêu đề",
+            "question": "Tiêu đề nào nói về 'một giải pháp khả thi cho các vấn đề ngày nay'?",
+            "guide": "Đó là tiêu đề iv: 'A possible solution to the issues of today'.",
+            "bridge": "'current pressure to reduce emissions' = 'issues of today'; 'steam car may rise again' = 'possible solution'."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy đáp án cho Paragraph G là gì?",
+            "guide": "Đáp án là iv.",
+            "bridge": "Chốt câu 20: iv."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung chính Paragraph G (cuối đoạn):</b> Tác giả gợi mở rằng công nghệ hơi nước kết hợp với vật liệu hiện đại có thể giúp giải quyết bài toán giảm phát thải ô tô ngày nay (<i>'Under the current pressure to improve automotive performance and reduce emissions, it is not unthinkable that the steam car may rise again.'</i>).",
+          "<b>Khớp ý:</b> Giải pháp khả thi cho vấn đề hiện nay (<i>A possible solution to the issues of today</i>).",
+          "<b>Kết luận:</b> Chọn <b>iv</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "What point does the writer make about the steam car in Paragraph B?",
+      "options": [
+        "A. Its success was short-lived.",
+        "B. Not enough cars were made.",
+        "C. Car companies found them hard to sell.",
+        "D. People found them hard to drive."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q21",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 21 hỏi: Ở Paragraph B, tác giả đưa ra quan điểm gì về xe hơi nước?",
+            "guide": "Em hãy đọc ngay câu đầu tiên của Paragraph B nhé.",
+            "bridge": "Cùng xem thời hoàng kim của xe hơi nước kéo dài bao lâu."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Câu mở đầu Paragraph B viết: 'But the glory days of steam cars were few.' Câu này có nghĩa là gì?",
+            "guide": "Nghĩa là: những ngày tháng vinh quang của xe hơi nước rất ngắn ngủi, chẳng được bao lâu thì bị động cơ đốt trong thay thế.",
+            "bridge": "'the glory days were few' chính là thành công chỉ tồn tại trong thời gian ngắn (short-lived)."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang ý nghĩa 'Thành công của nó ngắn ngủi'?",
+            "guide": "Đó là phương án A: 'Its success was short-lived'.",
+            "bridge": "Chốt câu 21: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nói gì về xe hơi nước ở Paragraph B?",
+          "<b>Paragraph B (câu đầu):</b> <i>'But the glory days of steam cars were few.'</i> (Nhưng những ngày hoàng kim của xe hơi nước thì rất ít ỏi).",
+          "<b>Khớp từ:</b> <i>glory days were few</i> = thành công ngắn ngủi (<i>success was short-lived</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "When building their first steam car, the Doble brothers",
+      "options": [
+        "A. constructed all the parts themselves.",
+        "B. made written notes at each stage of the construction.",
+        "C. needed several attempts to achieve a competitive model.",
+        "D. sought the advice of experienced people in the car industry."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q22",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 22 hỏi: Khi bắt tay vào chế tạo chiếc xe hơi nước đầu tiên, anh em nhà Doble đã trải qua quá trình như thế nào?",
+            "guide": "Em hãy đọc các câu đầu của Paragraph C nói về giai đoạn họ còn là học sinh trung học.",
+            "bridge": "Chiếc xe đầu tiên có chạy ngon ngay không hay họ phải làm thêm nhiều bản mẫu nữa?"
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph C nói sau chiếc xe đầu tiên chạy không tốt, họ đã làm gì?",
+            "guide": "Paragraph C viết: 'Though it did not run well, the Doble brothers went on to build a second and third prototype' (Dù chiếc đầu chạy không tốt, họ tiếp tục chế tạo bản mẫu thứ hai và thứ ba, đến mẫu Model B thứ ba mới thực sự vượt trội).",
+            "bridge": "Họ phải thử nghiệm nhiều lần (qua 3 đời mẫu xe) mới tạo ra được một chiếc xe có sức cạnh tranh cao."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nói họ 'cần nhiều lần nỗ lực/thử nghiệm mới đạt được một mẫu xe có tính cạnh tranh'?",
+            "guide": "Đó là phương án C: 'needed several attempts to achieve a competitive model'.",
+            "bridge": "Chốt câu 22: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Khi chế tạo xe hơi nước đầu tiên, anh em nhà Doble đã như thế nào?",
+          "<b>Paragraph C (dòng 4-5):</b> Chiếc đầu tiên chạy không tốt, họ phải làm bản mẫu thứ hai và thứ ba (Model B) mới tạo ra chiếc xe có ưu thế vượt trội: <i>'Though it did not run well, the Doble brothers went on to build a second and third prototype... proved to be superior...'</i>",
+          "<b>Khớp ý:</b> Cần nhiều lần thử nghiệm (<i>needed several attempts</i>) mới có được mẫu xe cạnh tranh tốt.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "In order to produce the Model C, the Doble brothers",
+      "options": [
+        "A. moved production to a different city.",
+        "B. raised financial capital.",
+        "C. employed an additional worker.",
+        "D. abandoned their earlier designs."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q23",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 23 hỏi: Để có thể sản xuất mẫu xe Model C, anh em nhà Doble đã phải làm gì?",
+            "guide": "Hãy đọc câu đầu tiên của Paragraph D chỗ nói về chuyến đi của Abner Doble đến Detroit.",
+            "bridge": "Cùng xem ông ấy lái xe đến Detroit để làm gì nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph D nói Abner Doble lái chiếc Model B đến Detroit nhằm mục đích gì?",
+            "guide": "Paragraph D viết: '...in order to seek investment in his automobile design, which he used to open the General Engineering Company. He and his brothers immediately began working on the Model C...' (để tìm kiếm vốn đầu tư cho thiết kế của mình, nhờ đó mở công ty và bắt tay sản xuất Model C).",
+            "bridge": "'seek investment' chính là tìm kiếm, huy động nguồn vốn tài chính (raised financial capital)."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang ý nghĩa 'huy động vốn tài chính'?",
+            "guide": "Đó là phương án B: 'raised financial capital'.",
+            "bridge": "Chốt câu 23: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Để sản xuất Model C, anh em Doble đã làm gì?",
+          "<b>Paragraph D (dòng 1-3):</b> Abner Doble đến Detroit <i>'in order to seek investment in his automobile design, which he used to open the General Engineering Company. He and his brothers immediately began working on the Model C...'</i>",
+          "<b>Khớp từ:</b> <i>seek investment</i> = huy động vốn tài chính (<i>raised financial capital</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "speed",
+      "inputWidth": "100px",
+      "highlightId": "hl-q24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 24: Phiên bản sau của chiếc Model E đã tăng cái gì của nó lên ('raised its 24 ______') trong khi vẫn giữ lượng khí thải cực kỳ thấp?",
+            "guide": "Sau tính từ sở hữu 'its' cần một danh từ chỉ một chỉ số vận hành của chiếc xe (như tốc độ, công suất).",
+            "bridge": "Hãy tìm thông tin về phiên bản phát triển sau của Model E ở cuối Paragraph F."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Cuối Paragraph F nói thông số nào của xe được đẩy lên trên 100 dặm một giờ?",
+            "guide": "Paragraph F viết: 'its maximum speed was pushed to over a hundred miles per hour, and it achieved about fifteen miles per gallon of kerosene with negligible emissions.'",
+            "bridge": "'raised' chính là 'pushed to over...'. Thông số được nâng lên là tốc độ tối đa."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất chỉ tốc độ là gì?",
+            "guide": "Đáp án là 'speed'.",
+            "bridge": "Chốt câu 24: speed."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau tính từ sở hữu <i>its</i>.",
+          "<b>Paragraph F (câu cuối):</b> <i>'...its maximum speed was pushed to over a hundred miles per hour, and it achieved... negligible emissions.'</i>",
+          "<b>Khớp từ:</b> <i>raised its speed</i> = <i>speed was pushed to over...</i>",
+          "<b>Từ cần điền:</b> <b>speed</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "fifty",
+      "inputWidth": "100px",
+      "highlightId": "hl-q25",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 25: Có dưới bao nhiêu chiếc xe ('Under 25 ______ cars') được sản xuất trước khi công ty phá sản đóng cửa?",
+            "guide": "Sau 'Under' và trước 'cars' cần một con số hoặc chữ số chỉ số lượng xe được xuất xưởng.",
+            "bridge": "Hãy đọc đoạn giữa Paragraph G chỗ nói về việc công ty đóng cửa."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph G nói trước khi đóng cửa vào năm 1931, công ty đã sản xuất được ít hơn bao nhiêu chiếc Model E?",
+            "guide": "Paragraph G viết: 'By the time the company folded in 1931, fewer than fifty of the amazing Model E steam cars had been produced.'",
+            "bridge": "'fewer than' chính là 'under'. Con số chỉ lượng xe là bao nhiêu?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ số lượng trong bài là gì?",
+            "guide": "Đáp án là 'fifty' (hoặc có thể viết số '50').",
+            "bridge": "Chốt câu 25: fifty."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần từ/số chỉ số lượng trước danh từ <i>cars</i>.",
+          "<b>Paragraph G (dòng 4-5):</b> <i>'By the time the company folded in 1931, fewer than fifty of the amazing Model E steam cars had been produced.'</i>",
+          "<b>Khớp từ:</b> <i>Under</i> = <i>fewer than</i>; con số là <i>fifty</i>.",
+          "<b>Từ cần điền:</b> <b>fifty</b> (hoặc <b>50</b>)."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "strict",
+      "inputWidth": "100px",
+      "highlightId": "hl-q26",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 26: Những chiếc xe Model E còn sót lại ngày nay vẫn đạt tiêu chuẩn của luật khí thải như thế nào của bang California ('satisfy California's 26 ______ emissions laws')?",
+            "guide": "Trước cụm danh từ 'emissions laws' cần một tính từ miêu tả đặc điểm của luật pháp (ví dụ: nghiêm ngặt, khắt khe).",
+            "bridge": "Hãy tìm câu nói về luật khí thải của California ở gần cuối Paragraph G."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph G nói luật khí thải của bang California có tính chất như thế nào?",
+            "guide": "Paragraph G viết: '...runs clean enough to pass the emissions laws in California today, and they are pretty strict.' (chạy sạch đến mức vượt qua được các luật khí thải ở California ngày nay, và những luật này khá là nghiêm ngặt).",
+            "bridge": "Tính từ miêu tả luật khí thải chính là nghiêm ngặt (strict)."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'strict' (nghiêm ngặt).",
+            "bridge": "Hoàn thành toàn bộ Passage 2! Chốt câu 26: strict."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần tính từ bổ nghĩa cho cụm <i>emissions laws</i>.",
+          "<b>Paragraph G (dòng 8-9):</b> <i>'...runs clean enough to pass the emissions laws in California today, and they are pretty strict.'</i>",
+          "<b>Từ cần điền:</b> <b>strict</b>."
+        ]
+      }
+    }
+  }
+}
