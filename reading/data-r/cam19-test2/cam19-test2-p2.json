@@ -1,0 +1,558 @@
+{
+  "title": "IELTS Academic 19 - Test 2 - Passage 2: Athletes and stress",
+  "answers": {
+    "q14": "D",
+    "q15": "F",
+    "q16": "A",
+    "q17": "C",
+    "q18": "F",
+    "q19": "injury",
+    "q20": "serves",
+    "q21": "excitement",
+    "q22": "Visualisation",
+    "q23": "B",
+    "q24": "D",
+    "q25": "A",
+    "q26": "E"
+  },
+  "passageHtml": "<h2>READING PASSAGE 2</h2><h3>Athletes and stress</h3><p><strong>Paragraph A.</strong> It isn't easy being a professional athlete. Not only are the physical demands greater than most people could handle, athletes also face intense psychological pressure during competition. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\"><span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">This is something that British tennis player Emma Raducanu wrote about on social media following her withdrawal from the 2021 Wimbledon tournament. Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match, which she later attributed to 'the accumulation of the excitement and the buzz'</span></span>.</p><p><strong>Paragraph B.</strong> For athletes, some level of performance stress is almost unavoidable. But there are many different factors that dictate just how people's minds and bodies respond to stressful events. Typically, stress is the result of an exchange between two factors: demands and resources. An athlete may feel stressed about an event if they feel the demands on them are greater than they can handle. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">These demands include the high level of physical and mental effort required to succeed, and also the athlete's concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as <span class=\"kw\">injury</span></span>. Resources, on the other hand, are a person's ability to cope with these demands. These include factors such as the competitor's degree of confidence, how much they believe they can control the situation's outcome, and whether they're looking forward to the event or not.</p><p><strong>Paragraph C.</strong> Each new demand or change in circumstances affects whether a person responds positively or negatively to stress. Typically, the more resources a person feels they have in handling the situation, the more positive their stress response. This positive stress response is called a challenge state. But should the person feel there are too many demands placed on them, the more likely they are to experience a negative stress response – known as a threat state. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Research shows that the challenge states lead to good performance, while threat states lead to poorer performance</span>. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">So, in Emma Raducanu's case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon – but she didn't have the resources to tackle them. This led to her experiencing a threat response</span>.</p><p><strong>Paragraph D.</strong> Our challenge and threat responses essentially influence how our body responds to stressful situations, as <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">both affect the production of adrenaline and cortisol – also known as 'stress hormones'</span>. During a challenge state, adrenaline increases the amount of blood pumped from the heart and expands the blood vessels, which allows more energy to be delivered to the muscles and brain. This increase of blood and decrease of pressure in the blood vessels has been consistently related to superior sport performance in everything from cricket batting, to golf putting and football penalty taking. But during a threat state, cortisol inhibits the positive effect of adrenaline, resulting in tighter blood vessels, higher blood pressure, slower psychological responses, and a faster heart rate. In short, a threat state makes people more anxious – they make worse decisions and perform more poorly. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">In tennis players, cortisol has been associated with more unsuccessful <span class=\"kw\">serves</span> and greater anxiety</span>.</p><p><strong>Paragraph E.</strong> That said, anxiety is also a common experience for athletes when they're under pressure. Anxiety can increase heart rate and perspiration, cause heart palpitations, muscle tremors and shortness of breath, as well as headaches, nausea, stomach pain, weakness and a desire to escape in more extreme cases. Anxiety can also reduce concentration and self-control and cause overthinking. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">The intensity with which a person experiences anxiety depends on the demands and resources they have</span>. Anxiety may also manifest itself in the form of excitement or nervousness depending on the stress response. <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Negative stress responses can be damaging to both physical and mental health – and repeated episodes of anxiety coupled with negative responses can increase risk of heart disease and depression</span>.</p><p><strong>Paragraph F.</strong> But there are many ways athletes can ensure they respond positively under pressure. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Positive stress responses can be promoted through the language that they and others – such as coaches or parents – use</span>. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Psychologists can also help athletes change how they see their physiological responses – such as helping them see a higher heart rate as <span class=\"kw\">excitement</span>, rather than nerves</span>. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Developing psychological skills, such as <span class=\"kw\">visualisation</span>, can also help decrease physiological responses to threat</span>. Visualisation may involve the athlete recreating a mental picture of a time when they performed well, or picturing themselves doing well in the future. This can help create a feeling of control over the stressful event. Recreating competitive pressure during training can also help athletes learn how to deal with stress. An example of this might be scoring athletes against their peers to create a sense of competition. This would increase the demands which players experience compared to a normal training session, while still allowing them to practise coping with stress</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "title": "Questions 14-18",
+      "instructions": "<i>Reading Passage 2 has six paragraphs, <b>A-F</b>.<br>Which paragraph contains the following information?<br>Write the correct letter, <b>A-F</b>, in boxes 14-18 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i>",
+      "questionIds": ["q14", "q15", "q16", "q17", "q18"]
+    },
+    {
+      "id": "g2",
+      "type": "sentences",
+      "title": "Questions 19-22",
+      "instructions": "<i>Complete the sentences below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 19-22 on your answer sheet.</i>",
+      "questionIds": ["q19", "q20", "q21", "q22"]
+    },
+    {
+      "id": "g3",
+      "type": "multiselect",
+      "title": "Questions 23 and 24",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A-E</b>.<br>Write the correct letters in boxes 23 and 24 on your answer sheet.<br>Which <b>TWO</b> facts about Emma Raducanu's withdrawal from the Wimbledon tournament are mentioned in the text?</i>",
+      "questionIds": ["q23", "q24"]
+    },
+    {
+      "id": "g4",
+      "type": "multiselect",
+      "title": "Questions 25 and 26",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A-E</b>.<br>Write the correct letters in boxes 25 and 26 on your answer sheet.<br>Which <b>TWO</b> facts about anxiety are mentioned in Paragraph E of the text?</i>",
+      "questionIds": ["q25", "q26"]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "reference to two chemical compounds which impact on performance",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "D",
+      "highlightId": "hl-q14",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 14 hỏi về điều gì? Hãy chú ý cụm từ 'two chemical compounds' (hai hợp chất hóa học/chất sinh học) có ảnh hưởng trực tiếp đến phong độ thi đấu của vận động viên.",
+            "guide": "Em cần tìm Paragraph nào nhắc tên cụ thể của 2 loại hormone hoặc chất hóa học trong cơ thể.",
+            "bridge": "Mình cùng tìm xem Paragraph nào nhắc đến tên các hormone nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph D, câu đầu tiên nhắc đến hai chất sinh học nào được sinh ra khi cơ thể căng thẳng?",
+            "guide": "Paragraph D viết: 'both affect the production of adrenaline and cortisol – also known as 'stress hormones'.' (cả hai đều ảnh hưởng đến việc sản sinh adrenaline và cortisol – còn được gọi là các hormone căng thẳng).",
+            "bridge": "Adrenaline và cortisol chính là 2 hợp chất hóa học được nhắc đến."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa thông tin về hai hợp chất này?",
+            "guide": "Đáp án chính xác là Paragraph D.",
+            "bridge": "Rất tốt! Câu 14 là D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Nhắc đến hai hợp chất hóa học ảnh hưởng đến phong độ thi đấu.",
+          "<b>Paragraph D (dòng 1-2):</b> <i>'...both affect the production of adrenaline and cortisol – also known as 'stress hormones'.'</i>",
+          "<b>Từ đồng nghĩa:</b> <i>two chemical compounds</i> = <i>adrenaline and cortisol</i>.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "examples of strategies for minimising the effects of stress",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "F",
+      "highlightId": "hl-q15",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 15 muốn tìm thông tin gì? Hãy để ý cụm 'strategies for minimising the effects of stress' (các ví dụ về chiến lược/phương pháp giúp giảm bớt tác động của căng thẳng).",
+            "guide": "Em cần tìm Paragraph nói về các giải pháp hoặc cách thức giúp vận động viên vượt qua áp lực.",
+            "bridge": "Hãy xem Paragraph nào đưa ra các cách rèn luyện và lời khuyên nhé."
+          },
+          {
+            "title": "Đọc quét Paragraph F",
+            "question": "Paragraph F liệt kê những phương pháp nào giúp vận động viên ứng phó tích cực với áp lực?",
+            "guide": "Paragraph F liệt kê nhiều giải pháp: thay đổi ngôn từ tích cực, sự hỗ trợ của chuyên gia tâm lý, luyện kỹ năng hình dung tưởng tượng ('visualisation'), và tái tạo áp lực thi đấu ngay trong lúc tập luyện.",
+            "bridge": "Đây chính là những ví dụ cụ thể về chiến lược giảm căng thẳng."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy thông tin về các chiến lược giảm áp lực nằm ở Paragraph nào?",
+            "guide": "Đó chính là Paragraph F.",
+            "bridge": "Chính xác! Câu 15 chọn F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Các ví dụ về chiến lược làm giảm tác động của căng thẳng.",
+          "<b>Paragraph F:</b> Trình bày nhiều phương pháp giúp vận động viên đối phó áp lực: dùng ngôn từ tích cực, đổi cách nhìn nhận nhịp tim, kỹ thuật hình dung (<i>visualisation</i>) và tạo áp lực khi tập luyện.",
+          "<b>Từ đồng nghĩa:</b> <i>strategies for minimising the effects of stress</i> = các biện pháp rèn luyện tâm lý được liệt kê trong bài.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "how a sportsperson accounted for their own experience of stress",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "A",
+      "highlightId": "hl-q16",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 16 hỏi về điều gì? Hãy chú ý cụm 'a sportsperson accounted for their own experience' (một vận động viên tự giải thích về trải nghiệm căng thẳng của chính mình).",
+            "guide": "Em cần tìm Paragraph có nhắc đến lời kể hoặc chia sẻ cá nhân của một vận động viên cụ thể về lý do họ bị căng thẳng.",
+            "bridge": "Hãy tìm tên riêng của một vận động viên ở những Paragraph đầu."
+          },
+          {
+            "title": "Đọc quét Paragraph A",
+            "question": "Trong Paragraph A, tay vợt Emma Raducanu đã tự giải thích về tình trạng khó thở và tim đập nhanh của mình ra sao?",
+            "guide": "Paragraph A viết: Emma Raducanu viết trên mạng xã hội rằng nguyên nhân là do 'the accumulation of the excitement and the buzz' (sự tích tụ của cảm giác phấn khích và tiếng ồn ào quá lớn).",
+            "bridge": "Lời chia sẻ này chính là việc cô ấy tự giải thích về cảm giác căng thẳng của bản thân."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa lời tự giải thích của một vận động viên?",
+            "guide": "Đáp án là Paragraph A.",
+            "bridge": "Rất chuẩn! Câu 16 là A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Cách một vận động viên tự giải thích về trải nghiệm căng thẳng của chính mình.",
+          "<b>Paragraph A:</b> Emma Raducanu giải thích triệu chứng khó thở và tim đập mạnh của mình là do: <i>'the accumulation of the excitement and the buzz'</i>.",
+          "<b>Từ đồng nghĩa:</b> <i>accounted for their own experience</i> = <i>she later attributed to...</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "study results indicating links between stress responses and performance",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q17",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 17 hỏi về điều gì? Hãy chú ý 'study results' (kết quả nghiên cứu) chỉ ra mối liên hệ giữa phản ứng với căng thẳng và phong độ thi đấu ('performance').",
+            "guide": "Em cần tìm Paragraph có nhắc đến từ 'research' hoặc 'studies' nói về việc phản ứng tích cực hay tiêu cực sẽ mang lại kết quả thi đấu như thế nào.",
+            "bridge": "Cùng đọc Paragraph C nhé."
+          },
+          {
+            "title": "Đọc quét Paragraph C",
+            "question": "Trong Paragraph C, nghiên cứu chỉ ra hai trạng thái căng thẳng dẫn đến kết quả thi đấu khác nhau như thế nào?",
+            "guide": "Paragraph C viết: 'Research shows that the challenge states lead to good performance, while threat states lead to poorer performance.' (Nghiên cứu cho thấy trạng thái đón nhận thử thách mang lại phong độ tốt, trong khi trạng thái cảm thấy bị đe dọa dẫn đến phong độ kém cỏi).",
+            "bridge": "Đây chính là kết quả nghiên cứu liên kết trực tiếp phản ứng căng thẳng với kết quả thi đấu."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy thông tin về kết quả nghiên cứu này nằm ở Paragraph nào?",
+            "guide": "Đáp án là Paragraph C.",
+            "bridge": "Chính xác! Câu 17 chọn C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Kết quả nghiên cứu chỉ ra mối liên hệ giữa phản ứng căng thẳng và phong độ.",
+          "<b>Paragraph C (dòng 5-6):</b> <i>'Research shows that the challenge states lead to good performance, while threat states lead to poorer performance.'</i>",
+          "<b>Từ đồng nghĩa:</b> <i>study results</i> = <i>Research shows</i>; <i>performance</i> = <i>good performance / poorer performance</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "mention of people who can influence how athletes perceive their stress responses",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "F",
+      "highlightId": "hl-q18",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 18 hỏi về điều gì? Hãy chú ý cụm 'mention of people who can influence...' (nhắc đến những người có thể tác động đến cách vận động viên nhìn nhận phản ứng căng thẳng của họ).",
+            "guide": "Em cần tìm Paragraph có kể tên những người xung quanh (như bố mẹ, huấn luyện viên, bác sĩ tâm lý...) có thể tác động đến suy nghĩ của vận động viên.",
+            "bridge": "Hãy xem Paragraph F nhé."
+          },
+          {
+            "title": "Đọc quét Paragraph F",
+            "question": "Đầu Paragraph F có nhắc đến những ai có thể dùng lời nói để giúp vận động viên có phản ứng tích cực?",
+            "guide": "Paragraph F viết: 'through the language that they and others – such as coaches or parents – use. Psychologists can also help athletes change how they see their physiological responses...'",
+            "bridge": "Huấn luyện viên (coaches), cha mẹ (parents) và chuyên gia tâm lý (psychologists) chính là những người được nhắc đến."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào đề cập đến những người có sức ảnh hưởng này?",
+            "guide": "Đáp án chính xác là Paragraph F.",
+            "bridge": "Hoàn thành dạng nối thông tin! Câu 18 chọn F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Nhắc đến những người có thể ảnh hưởng đến cách vận động viên cảm nhận phản ứng căng thẳng.",
+          "<b>Paragraph F (dòng 2-3):</b> <i>'...others – such as coaches or parents – use. Psychologists can also help athletes change how they see their physiological responses...'</i>",
+          "<b>Khớp từ:</b> <i>people who can influence</i> = <i>coaches, parents, psychologists</i>.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Performance stress involves many demands on the athlete, for example, coping with the possible risk of 19. ______.",
+      "finalAnswer": "injury",
+      "inputWidth": "110px",
+      "highlightId": "hl-q19",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 19 nói: Áp lực thi đấu bao gồm nhiều đòi hỏi đối với vận động viên, ví dụ như phải đối mặt với nguy cơ có thể xảy ra điều gì ('risk of ______')? Sau 'risk of' cần từ loại gì?",
+            "guide": "Sau 'risk of' cần một danh từ chỉ một mối nguy hiểm, rủi ro cụ thể trong thể thao.",
+            "bridge": "Cùng đọc Paragraph B nơi phân tích về các 'demands' nhé."
+          },
+          {
+            "title": "Tìm từ trong Paragraph B",
+            "question": "Ở Paragraph B, sau khi nói về những lo lắng của vận động viên, tác giả kể ra mối nguy hiểm tiềm tàng ('potential dangers') nào?",
+            "guide": "Paragraph B viết: '...and any potential dangers such as injury.' (và bất kỳ nguy hiểm tiềm tàng nào chẳng hạn như chấn thương).",
+            "bridge": "'potential dangers' chính là 'possible risk'. Từ chỉ mối nguy là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'injury' (chấn thương).",
+            "bridge": "Chốt câu 19: injury."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau giới từ <i>of</i>.",
+          "<b>Paragraph B (dòng 5-6):</b> <i>'...and also the athlete's concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as injury.'</i>",
+          "<b>Khớp từ:</b> <i>possible risk</i> = <i>potential dangers</i>; từ cần điền là <i>injury</i>.",
+          "<b>Từ cần điền:</b> <b>injury</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Cortisol can cause tennis players to produce fewer good 20. ______.",
+      "finalAnswer": "serves",
+      "inputWidth": "110px",
+      "highlightId": "hl-q20",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 20 nói: Hormone cortisol có thể khiến các vận động viên quần vợt tạo ra ít những cú gì tốt hơn ('produce fewer good ______')? Cần từ loại gì?",
+            "guide": "Sau tính từ 'good' cần một danh từ số nhiều chỉ một kỹ thuật hoặc cú đánh trong môn quần vợt (tennis).",
+            "bridge": "Hãy tìm câu cuối cùng của Paragraph D nhắc đến môn quần vợt."
+          },
+          {
+            "title": "Tìm từ trong Paragraph D",
+            "question": "Câu cuối Paragraph D nói cortisol liên quan đến việc làm hỏng những cú gì của tay vợt?",
+            "guide": "Paragraph D viết: 'In tennis players, cortisol has been associated with more unsuccessful serves and greater anxiety.' (ở tay vợt quần vợt, cortisol liên quan đến nhiều quả giao bóng hỏng hơn).",
+            "bridge": "'nhiều cú giao bóng hỏng hơn' nghĩa là 'ít cú giao bóng tốt hơn' (fewer good serves).",
+            "answer": "serves"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều đó là gì?",
+            "guide": "Đáp án là 'serves' (những cú phát bóng/giao bóng).",
+            "bridge": "Chốt câu 20: serves."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số nhiều sau tính từ <i>good</i>.",
+          "<b>Paragraph D (câu cuối):</b> <i>'In tennis players, cortisol has been associated with more unsuccessful serves and greater anxiety.'</i>",
+          "<b>Khớp từ:</b> <i>produce fewer good serves</i> = <i>more unsuccessful serves</i>.",
+          "<b>Từ cần điền:</b> <b>serves</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Psychologists can help athletes to view their physiological responses as the effect of a positive feeling such as 21. ______.",
+      "finalAnswer": "excitement",
+      "inputWidth": "130px",
+      "highlightId": "hl-q21",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 21 nói: Chuyên gia tâm lý có thể giúp vận động viên xem phản ứng cơ thể như là hệ quả của một cảm giác tích cực, ví dụ như cảm giác gì ('such as ______')?",
+            "guide": "Sau 'such as' cần một danh từ chỉ một trạng thái cảm xúc tích cực.",
+            "bridge": "Hãy đọc Paragraph F chỗ nói về các chuyên gia tâm lý ('Psychologists')."
+          },
+          {
+            "title": "Tìm từ trong Paragraph F",
+            "question": "Paragraph F nói các chuyên gia tâm lý giúp vận động viên nhìn nhận nhịp tim tăng nhanh thành cảm xúc gì thay vì lo sợ?",
+            "guide": "Paragraph F viết: 'such as helping them see a higher heart rate as excitement, rather than nerves.' (giúp họ nhìn nhận nhịp tim tăng nhanh là sự phấn khích, thay vì là sự lo lắng).",
+            "bridge": "'positive feeling' ở đây được minh họa bằng sự phấn khích.",
+            "answer": "excitement"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ cảm xúc tích cực đó trong bài là gì?",
+            "guide": "Đáp án là 'excitement'.",
+            "bridge": "Chốt câu 21: excitement."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ cảm xúc tích cực sau <i>such as</i>.",
+          "<b>Paragraph F (dòng 3-4):</b> <i>'Psychologists can also help athletes change how they see their physiological responses – such as helping them see a higher heart rate as excitement, rather than nerves.'</i>",
+          "<b>Từ cần điền:</b> <b>excitement</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "22. ______ is an example of a psychological technique which can reduce an athlete's stress responses.",
+      "finalAnswer": "Visualisation",
+      "inputWidth": "140px",
+      "highlightId": "hl-q22",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 22 đứng ở đầu câu làm chủ ngữ: Thứ gì ('______ is an example of a psychological technique') là ví dụ về một kỹ thuật tâm lý giúp giảm phản ứng căng thẳng?",
+            "guide": "Chỗ trống cần một danh từ chỉ tên gọi của một kỹ thuật/kỹ năng tâm lý cụ thể.",
+            "bridge": "Đọc tiếp câu ngay sau câu 21 trong Paragraph F nhé."
+          },
+          {
+            "title": "Tìm từ trong Paragraph F",
+            "question": "Paragraph F nhắc đến kỹ năng tâm lý cụ thể nào giúp giảm phản ứng sinh lý trước sự đe dọa?",
+            "guide": "Paragraph F viết: 'Developing psychological skills, such as visualisation, can also help decrease physiological responses to threat.' (phát triển các kỹ năng tâm lý, chẳng hạn như kỹ thuật hình dung tưởng tượng...).",
+            "bridge": "Kỹ thuật được lấy làm ví dụ chính là 'visualisation'.",
+            "answer": "visualisation"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ cần điền ở đầu câu là gì?",
+            "guide": "Đáp án là 'Visualisation' (hoặc 'Visualization').",
+            "bridge": "Hoàn thành phần điền từ! Chốt câu 22: Visualisation."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ làm chủ ngữ đứng đầu câu.",
+          "<b>Paragraph F (dòng 5):</b> <i>'Developing psychological skills, such as visualisation, can also help decrease physiological responses to threat.'</i>",
+          "<b>Khớp từ:</b> <i>reduce</i> = <i>decrease</i>; <i>psychological technique</i> = <i>psychological skills</i>.",
+          "<b>Từ cần điền:</b> <b>Visualisation</b> (hoặc <b>Visualization</b>)."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Which TWO facts about Emma Raducanu's withdrawal from the Wimbledon tournament are mentioned in the text?",
+      "options": [
+        "A. the stage at which she dropped out of the tournament",
+        "B. symptoms of her performance stress at the tournament",
+        "C. measures which she had taken to manage her stress levels",
+        "D. aspects of the Wimbledon tournament which increased her stress levels",
+        "E. reactions to her social media posts about her experience at Wimbledon"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q23",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu yêu cầu câu hỏi 23-24",
+            "question": "Câu 23-24 hỏi: Hai sự thật nào về việc rút lui của Emma Raducanu tại giải Wimbledon được nhắc đến trong bài? Cần tìm các đoạn nói về Emma Raducanu.",
+            "guide": "Em hãy quét tên riêng 'Emma Raducanu' ở Paragraph A và Paragraph C.",
+            "bridge": "Cùng xem Paragraph A nói về biểu hiện cơ thể của cô ấy nhé."
+          },
+          {
+            "title": "Đọc dẫn chứng ở Paragraph A",
+            "question": "Paragraph A miêu tả Emma gặp phải những vấn đề gì trong lúc thi đấu?",
+            "guide": "Paragraph A viết: 'she began having difficulty regulating her breathing and heart rate during a match' (cô ấy bắt đầu gặp khó khăn trong việc điều hòa hơi thở và nhịp tim).",
+            "bridge": "Khó thở và tim đập nhanh chính là các triệu chứng căng thẳng khi thi đấu."
+          },
+          {
+            "title": "Khớp với phương án B",
+            "question": "Phương án nào nêu đúng ý 'các triệu chứng căng thẳng khi thi đấu tại giải đấu'?",
+            "guide": "Đó chính là phương án B: 'symptoms of her performance stress at the tournament'.",
+            "bridge": "Chọn được đáp án đầu tiên: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tìm sự thật về việc rút lui của Emma Raducanu tại Wimbledon.",
+          "<b>Paragraph A (câu cuối):</b> <i>'...she began having difficulty regulating her breathing and heart rate during a match...'</i> (cô ấy bị khó thở và rối loạn nhịp tim).",
+          "<b>Khớp từ:</b> <i>difficulty regulating breathing and heart rate</i> = <i>symptoms of her performance stress</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Which TWO facts about Emma Raducanu's withdrawal from the Wimbledon tournament are mentioned in the text?",
+      "options": [
+        "A. the stage at which she dropped out of the tournament",
+        "B. symptoms of her performance stress at the tournament",
+        "C. measures which she had taken to manage her stress levels",
+        "D. aspects of the Wimbledon tournament which increased her stress levels",
+        "E. reactions to her social media posts about her experience at Wimbledon"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc dẫn chứng tiếp theo ở Paragraph C",
+            "question": "Ở cuối Paragraph C, tác giả phân tích những yếu tố nào ở giải Wimbledon đã tạo áp lực đè nặng lên Emma?",
+            "guide": "Paragraph C viết: 'So, in Emma Raducanu's case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon...'",
+            "bridge": "Khán giả đông hơn, kỳ vọng cao hơn, đối thủ giỏi hơn chính là những đặc điểm ở giải đấu làm tăng áp lực cho cô ấy."
+          },
+          {
+            "title": "Khớp với phương án D",
+            "question": "Phương án nào mang ý nghĩa 'những khía cạnh của giải đấu Wimbledon đã làm tăng mức độ căng thẳng của cô ấy'?",
+            "guide": "Đó là phương án D: 'aspects of the Wimbledon tournament which increased her stress levels'.",
+            "bridge": "Loại trừ A (không nói rõ bỏ cuộc ở vòng nào), C (không nói biện pháp cô ấy đã làm) và E (không nói phản ứng của dư luận)."
+          },
+          {
+            "title": "Chốt đáp án thứ hai",
+            "question": "Vậy đáp án còn lại cho nhóm câu hỏi 23-24 là gì?",
+            "guide": "Đáp án là D.",
+            "bridge": "Hoàn thành nhóm câu 23-24: B và D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Paragraph C (câu cuối):</b> <i>'...a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon...'</i>",
+          "<b>Khớp ý:</b> Khán giả đông hơn, áp lực kỳ vọng và đối thủ mạnh = các khía cạnh của giải đấu làm tăng mức độ căng thẳng (<i>aspects of the tournament which increased her stress levels</i>).",
+          "<b>Loại trừ:</b> A (không nói rõ vòng thi đấu nào), C (không nêu biện pháp xử lý lúc đó), E (không nói về phản ứng của người khác trên mạng xã hội).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Which TWO facts about anxiety are mentioned in Paragraph E of the text?",
+      "options": [
+        "A. the factors which determine how severe it may be",
+        "B. how long it takes for its effects to become apparent",
+        "C. which of its symptoms is most frequently encountered",
+        "D. the types of athletes who are most likely to suffer from it",
+        "E. the harm that can result if athletes experience it too often"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q25",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu yêu cầu câu hỏi 25-26",
+            "question": "Câu 25-26 hỏi: Hai sự thật nào về sự lo âu ('anxiety') được đề cập cụ thể trong Paragraph E?",
+            "guide": "Chúng ta chỉ cần đọc kỹ duy nhất Paragraph E để tìm thông tin.",
+            "bridge": "Cùng xem câu nói về mức độ nặng nhẹ của sự lo âu trong Paragraph E nhé."
+          },
+          {
+            "title": "Đọc dẫn chứng về cường độ lo âu",
+            "question": "Paragraph E nói mức độ dữ dội/nặng nhẹ của cảm giác lo âu ('intensity') phụ thuộc vào những yếu tố nào?",
+            "guide": "Paragraph E viết: 'The intensity with which a person experiences anxiety depends on the demands and resources they have.' (Cường độ lo âu của một người phụ thuộc vào đòi hỏi và nguồn lực mà họ có).",
+            "bridge": "'intensity' chính là độ nặng nhẹ/nghiêm trọng ('how severe'); 'depends on demands and resources' chính là các yếu tố quyết định."
+          },
+          {
+            "title": "Khớp với phương án A",
+            "question": "Phương án nào nêu ý 'những yếu tố quyết định mức độ nghiêm trọng của sự lo âu'?",
+            "guide": "Đó chính là phương án A: 'the factors which determine how severe it may be'.",
+            "bridge": "Chọn được đáp án đầu tiên: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tìm sự thật về lo âu được nhắc đến trong Paragraph E.",
+          "<b>Paragraph E (dòng 5-6):</b> <i>'The intensity with which a person experiences anxiety depends on the demands and resources they have.'</i>",
+          "<b>Khớp từ:</b> <i>intensity</i> = <i>how severe it may be</i>; <i>depends on demands and resources</i> = <i>factors which determine</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Which TWO facts about anxiety are mentioned in Paragraph E of the text?",
+      "options": [
+        "A. the factors which determine how severe it may be",
+        "B. how long it takes for its effects to become apparent",
+        "C. which of its symptoms is most frequently encountered",
+        "D. the types of athletes who are most likely to suffer from it",
+        "E. the harm that can result if athletes experience it too often"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q26",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu cuối cùng của Paragraph E",
+            "question": "Câu cuối Paragraph E cảnh báo điều gì nếu các cơn lo âu diễn ra lặp đi lặp lại nhiều lần ('repeated episodes')?",
+            "guide": "Paragraph E viết: 'and repeated episodes of anxiety coupled with negative responses can increase risk of heart disease and depression.' (những đợt lo âu lặp đi lặp lại kèm phản ứng tiêu cực có thể làm tăng nguy cơ bệnh tim và trầm cảm).",
+            "bridge": "Bệnh tim và trầm cảm chính là tác hại lâu dài nếu bị lo âu quá thường xuyên."
+          },
+          {
+            "title": "Khớp với phương án E",
+            "question": "Phương án nào diễn đạt ý 'những tác hại có thể xảy ra nếu vận động viên trải qua lo âu quá thường xuyên'?",
+            "guide": "Đó là phương án E: 'the harm that can result if athletes experience it too often'.",
+            "bridge": "Loại trừ B (không nói mất bao lâu mới xuất hiện), C (không so sánh triệu chứng nào gặp nhiều nhất) và D (không phân loại kiểu vận động viên nào dễ bị)."
+          },
+          {
+            "title": "Chốt đáp án thứ hai",
+            "question": "Vậy đáp án còn lại cho câu 25-26 là gì?",
+            "guide": "Đáp án là E.",
+            "bridge": "Hoàn thành toàn bộ Passage 2! Đáp án: A và E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Paragraph E (câu cuối):</b> <i>'...and repeated episodes of anxiety coupled with negative responses can increase risk of heart disease and depression.'</i>",
+          "<b>Khớp ý:</b> Nguy cơ bệnh tim và trầm cảm = tác hại (<i>the harm</i>); những đợt lo âu lặp lại (<i>repeated episodes</i>) = trải qua quá thường xuyên (<i>experience it too often</i>).",
+          "<b>Loại trừ:</b> B (không nói về thời gian phát tác), C (không so sánh tần suất các triệu chứng), D (không nói môn nào hoặc loại vận động viên nào dễ bị nhất).",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    }
+  }
+}
