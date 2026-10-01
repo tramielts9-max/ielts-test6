@@ -1,0 +1,550 @@
+{
+  "title": "IELTS Academic 18 - Test 2 - Passage 3: An ideal city",
+  "answers": {
+    "q27": "NOT GIVEN",
+    "q28": "NOT GIVEN",
+    "q29": "TRUE",
+    "q30": "FALSE",
+    "q31": "TRUE",
+    "q32": "NOT GIVEN",
+    "q33": "FALSE",
+    "q34": "transport",
+    "q35": "staircases",
+    "q36": "engineering",
+    "q37": "rule",
+    "q38": "Roman",
+    "q39": "Paris",
+    "q40": "outwards"
+  },
+  "passageHtml": "<h2>READING PASSAGE 3</h2><h3>An ideal city</h3><p><em>Leonardo da Vinci's ideal city was centuries ahead of its time</em></p><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">The word 'genius' is universally associated with the name of Leonardo da Vinci. A true Renaissance man, he embodied scientific spirit, artistic talent and humanist sensibilities. Five hundred years have passed since Leonardo died</span> in his home at Château du Clos Lucé, outside Tours, France. Yet far from fading into insignificance, his thinking has carried down the centuries and still surprises today.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">The Renaissance marked the transition from the 15th century to modernity and took place after the spread of the plague in the 14th century, which caused a global crisis resulting in some 200 million deaths across Europe and Asia. Today, the world is on the cusp of a climate crisis, which is predicted to cause widespread displacement, extinctions and death</span>, if left unaddressed. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Then, as now, radical solutions were called for to revolutionise the way people lived and safeguard humanity against catastrophe</span>.</p><p><strong>Paragraph 3.</strong> Around 1486 – after a pestilence that killed half the population in Milan, Italy – Leonardo turned his thoughts to urban planning problems. Following a typical Renaissance trend, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">he began to work on an 'ideal city' project, which – due to its excessive costs – would remain unfulfilled</span>. Yet <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">given that unsustainable urban models are a key cause of global climate change today</span>, it's only natural to wonder how Leonardo might have changed the shape of modern cities.</p><p><strong>Paragraph 4.</strong> Although the Renaissance is renowned as an era of incredible progress in art and architecture, it is rarely noted that the 15th century also marked the birth of urbanism as a true academic discipline. The rigour and method behind the conscious conception of a city had been largely missing in Western thought until the moment when prominent Renaissance men pushed forward <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">large-scale urban projects in Italy, such as the reconfiguration of the town of Pienza and the expansion of the city of Ferrara</span>. These works surely inspired Leonardo's decision to rethink the design of medieval cities, with their winding and overcrowded streets and with houses piled against one another.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">It is not easy to identify a coordinated vision of Leonardo's ideal city because of his disordered way of working with notes and sketches</span>. But from the largest collection of Leonardo's papers ever assembled, a series of innovative thoughts can be reconstructed regarding the foundation of a new city along the Ticino River, which runs from Switzerland into Italy and is 248 kilometres long. He designed the city for the easy <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\"><span class=\"kw\">transport</span> of goods and clean urban spaces</span>, and he wanted a comfortable and spacious city, with well-ordered streets and architecture. He recommended 'high, strong walls', with 'towers and battlements of all necessary and pleasant beauty'.</p><p><strong>Paragraph 6.</strong> His plans for a modern and 'rational' city were consistent with Renaissance ideals. But, in keeping with his personality, Leonardo included several innovations in his urban design. Leonardo wanted the city to be built on several levels, <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">linked with vertical outdoor <span class=\"kw\">staircases</span>. This design can be seen in some of today's high-rise buildings</span> but was unconventional at the time. Indeed, this idea of taking full advantage of the interior spaces wasn't implemented until the 1920s and 1930s, with the birth of the Modernist movement.</p><p><strong>Paragraph 7.</strong> While in the upper layers of the city, people could walk undisturbed between elegant palaces and streets, the lower layer was the place for services, trade, transport and industry. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">But the true originality of Leonardo's vision was its fusion of architecture and <span class=\"kw\">engineering</span>. Leonardo designed extensive hydraulic plants to create artificial canals</span> throughout the city. The canals, regulated by clocks and basins, were supposed to make it easier for boats to navigate inland. Leonardo also thought that the width of the streets ought to match the average height of the adjacent houses: <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">a <span class=\"kw\">rule</span> still followed in many contemporary cities across Italy</span>, to allow access to sun and reduce the risk of damage from earthquakes.</p><p><strong>Paragraph 8.</strong> Although <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">some of these features existed in <span class=\"kw\">Roman</span> cities</span>, before Leonardo's drawings there had never been a multi-level, compact modern city which was thoroughly technically conceived. Indeed, it wasn't until the 19th century that some of his ideas were applied. For example, the subdivision of the city by function – with services and infrastructures located in the lower levels and wide and well-ventilated boulevards and walkways above for residents – is an idea that can be found in Georges-Eugène Haussmann's <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">renovation of <span class=\"kw\">Paris</span> under Emperor Napoleon III between 1853 and 1870</span>.</p><p><strong>Paragraph 9.</strong> Today, Leonardo's ideas are not simply valid, they actually suggest a way forward for urban planning. Many scholars think that <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">the compact city, built upwards instead of <span class=\"kw\">outwards</span></span>, integrated with nature (especially water systems), with efficient transport infrastructure, could help modern cities become more efficient and sustainable. This is yet another reason why Leonardo was aligned so closely with modern urban planning and centuries ahead of his time.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "title": "Questions 27-33",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 3?<br>In boxes 27-33 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</i>",
+      "questionIds": ["q27", "q28", "q29", "q30", "q31", "q32", "q33"]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "title": "Questions 34-40",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 34-40 on your answer sheet.</i>",
+      "summaryTitle": "Leonardo da Vinci's ideal city",
+      "questionIds": ["q34", "q35", "q36", "q37", "q38", "q39", "q40"],
+      "template": "<p>A collection of Leonardo da Vinci's paperwork reveals his design of a new city beside the Ticino River. This was to provide better <b>34.</b> {{q34}} for trade and a less polluted environment. Although Leonardo da Vinci's city shared many of the ideals of his time, some of his innovations were considered unconventional in their design. They included features that can be seen in some tower blocks today, such as <b>35.</b> {{q35}} on the exterior of a building.</p><p>Leonardo da Vinci wasn't only an architect. His expertise in <b>36.</b> {{q36}} was evident in his plans for artificial canals within his ideal city. He also believed that the height of houses should relate to the width of streets in case earthquakes occurred. The design of many cities in Italy today follows this <b>37.</b> {{q37}}.</p><p>While some cities from <b>38.</b> {{q38}} times have aspects that can also be found in Leonardo's designs, his ideas weren't put into practice until long after his death. <b>39.</b> {{q39}} is one example of a city that was redesigned in the 19th century in the way that Leonardo had envisaged. His ideas are also relevant to today's world, where building <b>40.</b> {{q40}} no longer seems to be the best approach.</p>"
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "People first referred to Leonardo da Vinci as a genius 500 years ago.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q27",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 27 nói gì? Mọi người LẦN ĐẦU TIÊN gọi Leonardo da Vinci là thiên tài vào 500 năm trước ('first referred to Leonardo da Vinci as a genius 500 years ago').",
+            "guide": "Em cần tìm xem mốc 500 năm trước có phải là thời điểm đầu tiên người ta bắt đầu gọi ông là thiên tài hay không.",
+            "bridge": "Cùng đọc Paragraph 1 xem có nhắc tới mốc 500 năm nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 1 viết: 'Five hundred years have passed since Leonardo died...' Mốc 500 năm này thực chất là mốc gì?",
+            "guide": "Bài viết nói rằng đã 500 năm trôi qua kể từ khi Leonardo qua đời, chứ không hề nói 500 năm trước là lúc đầu tiên ông được gọi là thiên tài.",
+            "bridge": "Không có thông tin về thời điểm đầu tiên người ta dùng từ 'thiên tài' để gọi ông."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài đọc không hề nói về thời điểm đầu tiên ông được gọi là thiên tài, vậy ta chọn đáp án gì?",
+            "guide": "Thiếu thông tin nên ta chọn NOT GIVEN.",
+            "bridge": "Chốt câu 27: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Người ta lần đầu tiên gọi Leonardo da Vinci là thiên tài vào 500 năm trước.",
+          "<b>Paragraph 1:</b> <i>'The word 'genius' is universally associated with the name of Leonardo da Vinci... Five hundred years have passed since Leonardo died...'</i>",
+          "<b>Đối chiếu:</b> Mốc 500 năm là thời điểm ông qua đời. Bài đọc không hề nói việc người ta bắt đầu gọi ông là thiên tài lần đầu tiên diễn ra khi nào.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "The current climate crisis is predicted to cause more deaths than the plague.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q28",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích phép so sánh",
+            "question": "Câu 28 đưa ra so sánh gì? Khủng hoảng khí hậu hiện nay được dự đoán sẽ gây ra NHIỀU THƯƠNG VONG HƠN dịch hạch ('cause more deaths than the plague').",
+            "guide": "Em hãy tìm đoạn có nhắc đến dịch hạch ('plague') và biến đổi khí hậu xem có so sánh số người chết không.",
+            "bridge": "Hãy đọc Paragraph 2 nơi nhắc đến dịch bệnh thế kỷ 14 và khủng hoảng khí hậu."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 2 nói dịch hạch làm chết khoảng 200 triệu người, và khủng hoảng khí hậu cũng sẽ gây chết chóc. Bài có so sánh bên nào chết nhiều hơn không?",
+            "guide": "Paragraph 2 chỉ nêu số người chết của dịch hạch và cảnh báo biến đổi khí hậu sẽ gây chết chóc nếu không giải quyết, hoàn toàn không so sánh số người chết giữa hai thảm họa.",
+            "bridge": "Không hề có phép so sánh hơn về số lượng thương vong."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Có hai sự kiện nhưng không có phép so sánh xem bên nào gây nhiều người chết hơn. Vậy đáp án là gì?",
+            "guide": "Thiếu dữ liệu so sánh nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 28: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Khủng hoảng khí hậu hiện nay được dự báo sẽ gây nhiều ca tử vong hơn nạn dịch hạch.",
+          "<b>Paragraph 2:</b> Nhắc đến dịch hạch thế kỷ 14 làm 200 triệu người chết, và biến đổi khí hậu ngày nay cũng dự báo gây mất nhà cửa, tuyệt chủng và chết chóc (<i>'displacement, extinctions and death'</i>).",
+          "<b>Đối chiếu:</b> Tác giả không hề so sánh xem cuộc khủng hoảng nào gây nhiều người chết hơn (<i>more deaths than</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Some of the challenges we face today can be compared to those of earlier times.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q29",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 29 nói gì? Một số thách thức chúng ta đối mặt ngày nay có thể so sánh với những thách thức ở thời xưa ('can be compared to those of earlier times').",
+            "guide": "Em hãy tìm xem bài đọc có đặt thử thách thời nay và thời xưa cạnh nhau để so sánh không.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph 2."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Câu cuối Paragraph 2 so sánh tình thế xưa và nay như thế nào?",
+            "guide": "Paragraph 2 viết: 'Then, as now, radical solutions were called for to revolutionise the way people lived and safeguard humanity against catastrophe.' (Thời đó cũng như bây giờ, đều cần những giải pháp triệt để để thay đổi lối sống và bảo vệ nhân loại khỏi thảm họa).",
+            "bridge": "'Then, as now' (Khi ấy cũng như bây giờ) chính là so sánh sự tương đồng giữa hai thời kỳ."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có hoàn toàn khớp với câu kết luận ở Paragraph 2 không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn TRUE.",
+            "bridge": "Chốt câu 29: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Một số thử thách ngày nay có thể so sánh với những thử thách thời xưa.",
+          "<b>Paragraph 2 (câu cuối):</b> <i>'Then, as now, radical solutions were called for to revolutionise the way people lived and safeguard humanity against catastrophe.'</i>",
+          "<b>Khớp ý:</b> Cụm <i>'Then, as now'</i> khẳng định tính tương đồng giữa thử thách thời xưa và ngày nay.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "Leonardo da Vinci's 'ideal city' was constructed in the 15th century.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q30",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 30 nói gì? Dự án 'thành phố lý tưởng' của Leonardo da Vinci ĐÃ ĐƯỢC XÂY DỰNG ('was constructed') vào thế kỷ 15.",
+            "guide": "Em cần kiểm tra xem dự án thành phố này có từng được xây dựng trong thực tế hay không.",
+            "bridge": "Cùng đọc Paragraph 3 nơi nhắc đến dự án thành phố lý tưởng nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 3 nói gì về số phận của dự án thành phố này?",
+            "guide": "Paragraph 3 viết: '...he began to work on an 'ideal city' project, which – due to its excessive costs – would remain unfulfilled.' (ông bắt tay vào dự án 'thành phố lý tưởng', nhưng vì chi phí quá đắt đỏ, dự án đã không bao giờ được thực hiện).",
+            "bridge": "'remain unfulfilled' nghĩa là chỉ nằm trên giấy, chưa từng được xây dựng."
+          },
+          {
+            "title": "So sánh và kết luận",
+            "question": "Câu hỏi bảo 'đã được xây dựng' (was constructed), bài đọc bảo 'chưa từng được thực hiện' (remain unfulfilled). Hai thông tin này trái ngược nhau, đúng không?",
+            "guide": "Thông tin đối lập 100%, chọn FALSE.",
+            "bridge": "Chốt câu 30: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Thành phố lý tưởng của Leonardo da Vinci đã được xây dựng vào thế kỷ 15.",
+          "<b>Paragraph 3 (dòng 2-3):</b> <i>'...he began to work on an 'ideal city' project, which – due to its excessive costs – would remain unfulfilled.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói đã được xây dựng (<i>was constructed</i>), nhưng bài đọc khẳng định dự án chưa từng được hoàn thành/thực hiện (<i>remain unfulfilled</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Poor town planning is a major contributor to climate change.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q31",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 31 nói gì? Quy hoạch đô thị kém ('Poor town planning') là một nguyên nhân chính góp phần gây ra biến đổi khí hậu ('a major contributor to climate change').",
+            "guide": "Em hãy tìm câu nói về nguyên nhân gây biến đổi khí hậu ở Paragraph 3.",
+            "bridge": "Cùng đọc câu thứ hai của Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 3 nói gì về các mô hình đô thị không bền vững đối với biến đổi khí hậu?",
+            "guide": "Paragraph 3 viết: '...unsustainable urban models are a key cause of global climate change today...' (các mô hình đô thị thiếu bền vững là một nguyên nhân then chốt dẫn đến biến đổi khí hậu toàn cầu ngày nay).",
+            "bridge": "'unsustainable urban models' = quy hoạch đô thị kém; 'key cause' = nguyên nhân chính (major contributor)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có trùng khớp hoàn toàn với bài đọc không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn TRUE.",
+            "bridge": "Chốt câu 31: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Quy hoạch đô thị yếu kém là một nguyên nhân lớn dẫn đến biến đổi khí hậu.",
+          "<b>Paragraph 3 (dòng 3-4):</b> <i>'...given that unsustainable urban models are a key cause of global climate change today...'</i>",
+          "<b>Khớp từ:</b> <i>Poor town planning</i> = <i>unsustainable urban models</i>; <i>a major contributor</i> = <i>a key cause</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "In Renaissance times, local people fought against the changes to Pienza and Ferrara.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q32",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Tìm từ khóa nhận định",
+            "question": "Câu 32 nói gì? Vào thời Phục hưng, người dân địa phương đã phản đối, đấu tranh chống lại ('fought against') những thay đổi tại hai thành phố Pienza và Ferrara.",
+            "guide": "Em hãy quét tên riêng 'Pienza' và 'Ferrara' ở Paragraph 4 xem bài có nói về thái độ người dân không.",
+            "bridge": "Cùng đọc câu nhắc đến hai địa danh này ở Paragraph 4."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 4 nhắc đến Pienza và Ferrara như thế nào?",
+            "guide": "Bài chỉ kể rằng những nhân vật thời Phục hưng đã thúc đẩy các dự án đô thị lớn, chẳng hạn như tái cấu trúc thị trấn Pienza và mở rộng thành phố Ferrara. Hoàn toàn không nhắc tới phản ứng hay sự phản đối của người dân địa phương.",
+            "bridge": "Không hề có thông tin về việc người dân địa phương ủng hộ hay chống đối."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài đọc không đề cập đến việc người dân có đấu tranh chống lại hay không, vậy ta chọn đáp án gì?",
+            "guide": "Đáp án chính xác là NOT GIVEN.",
+            "bridge": "Chốt câu 32: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Thời Phục hưng, người dân địa phương đã đấu tranh chống lại các cải cách ở Pienza và Ferrara.",
+          "<b>Paragraph 4:</b> Đề cập đến hai dự án đô thị quy mô lớn là tái cấu trúc Pienza và mở rộng Ferrara (<i>'reconfiguration of the town of Pienza and the expansion of the city of Ferrara'</i>).",
+          "<b>Đối chiếu:</b> Bài đọc hoàn toàn không nhắc gì đến thái độ hay hành động phản đối của người dân địa phương (<i>local people fought against</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Leonardo da Vinci kept a neat, organised record of his designs.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q33",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 33 nói gì? Leonardo da Vinci đã lưu giữ hồ sơ bản vẽ thiết kế của mình một cách rất gọn gàng và ngăn nắp ('kept a neat, organised record of his designs').",
+            "guide": "Em hãy đọc câu đầu tiên của Paragraph 5 nói về cách làm việc và ghi chép của Leonardo.",
+            "bridge": "Cùng xem ông ghi chép bản vẽ ngăn nắp hay bừa bãi nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 miêu tả cách lưu trữ ghi chép của Leonardo ra sao?",
+            "guide": "Paragraph 5 viết: 'It is not easy to identify a coordinated vision of Leonardo's ideal city because of his disordered way of working with notes and sketches.' (Không dễ để nhìn ra tầm nhìn của ông vì cách làm việc bừa bộn, lộn xộn với các ghi chú và bản phác thảo).",
+            "bridge": "'disordered' (lộn xộn, không theo trật tự) đối lập hoàn toàn với 'neat, organised' (gọn gàng, ngăn nắp)."
+          },
+          {
+            "title": "So sánh và kết luận",
+            "question": "Nhận định bảo ông ghi chép ngăn nắp, nhưng bài đọc bảo cách ghi chép của ông rất bừa bộn. Vậy ta chọn đáp án gì?",
+            "guide": "Thông tin trái ngược hoàn toàn, chọn FALSE.",
+            "bridge": "Chốt câu 33: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Leonardo da Vinci lưu giữ các ghi chép thiết kế của mình rất gọn gàng, ngăn nắp.",
+          "<b>Paragraph 5 (câu đầu):</b> <i>'It is not easy to identify a coordinated vision of Leonardo's ideal city because of his disordered way of working with notes and sketches.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói ông ngăn nắp (<i>neat, organised</i>) trái ngược 100% với việc ông làm việc lộn xộn, bừa bãi (<i>disordered</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "transport",
+      "inputWidth": "110px",
+      "highlightId": "hl-q34",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 34: Thành phố bên bờ sông Ticino này nhằm mục đích mang lại điều gì tốt hơn cho thương mại ('provide better 34 ______ for trade') và môi trường ít ô nhiễm hơn?",
+            "guide": "Sau tính từ so sánh 'better' và trước giới từ 'for trade' cần một danh từ chỉ hoạt động vận chuyển, lưu thông hàng hóa.",
+            "bridge": "Hãy tìm câu nói về sông Ticino và việc vận chuyển ở Paragraph 5."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 5 nói Leonardo thiết kế thành phố để tạo điều kiện thuận lợi cho cái gì của hàng hóa?",
+            "guide": "Paragraph 5 viết: 'He designed the city for the easy transport of goods and clean urban spaces...' (Ông thiết kế thành phố để vận chuyển hàng hóa dễ dàng và có không gian đô thị sạch sẽ).",
+            "bridge": "'transport of goods' chính là 'transport for trade'.",
+            "answer": "transport"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'transport'.",
+            "bridge": "Chốt câu 34: transport."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau tính từ <i>better</i>.",
+          "<b>Paragraph 5 (dòng 5):</b> <i>'He designed the city for the easy transport of goods and clean urban spaces...'</i>",
+          "<b>Khớp từ:</b> <i>easy transport of goods</i> = <i>better transport for trade</i>.",
+          "<b>Từ cần điền:</b> <b>transport</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "staircases",
+      "inputWidth": "120px",
+      "highlightId": "hl-q35",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 35: Thiết kế này có những đặc điểm thấy ở các tòa nhà cao tầng ngày nay, chẳng hạn như cái gì nằm ở bên ngoài tòa nhà ('such as 35 ______ on the exterior of a building')?",
+            "guide": "Chỗ trống cần một danh từ chỉ cấu trúc kiến trúc bên ngoài nối các tầng với nhau.",
+            "bridge": "Hãy đọc Paragraph 6 chỗ nói về các tầng của thành phố."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 6 nói thành phố được xây nhiều tầng và kết nối với nhau bằng cái gì ở ngoài trời?",
+            "guide": "Paragraph 6 viết: 'Leonardo wanted the city to be built on several levels, linked with vertical outdoor staircases. This design can be seen in some of today's high-rise buildings...'",
+            "bridge": "'vertical outdoor staircases' chính là cầu thang ở bên ngoài tòa nhà.",
+            "answer": "staircases"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ số nhiều chỉ cầu thang trong bài là gì?",
+            "guide": "Đáp án là 'staircases'.",
+            "bridge": "Chốt câu 35: staircases."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau cụm <i>such as</i>.",
+          "<b>Paragraph 6 (dòng 2-4):</b> <i>'Leonardo wanted the city to be built on several levels, linked with vertical outdoor staircases. This design can be seen in some of today's high-rise buildings...'</i>",
+          "<b>Khớp từ:</b> <i>on the exterior of a building</i> = <i>outdoor</i>; chi tiết kiến trúc là <i>staircases</i>.",
+          "<b>Từ cần điền:</b> <b>staircases</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "finalAnswer": "engineering",
+      "inputWidth": "130px",
+      "highlightId": "hl-q36",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 36: Leonardo không chỉ là kiến trúc sư, chuyên môn của ông về lĩnh vực gì ('His expertise in 36 ______') được thể hiện rõ qua kế hoạch làm các kênh đào nhân tạo?",
+            "guide": "Sau 'expertise in' cần một danh từ chỉ chuyên ngành khoa học, kỹ thuật của Leonardo.",
+            "bridge": "Cùng đọc Paragraph 7 nơi nhắc đến kiến trúc và hệ thống kênh đào."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 7 nói tầm nhìn của ông là sự kết hợp giữa kiến trúc (architecture) và ngành gì?",
+            "guide": "Paragraph 7 viết: '...fusion of architecture and engineering. Leonardo designed extensive hydraulic plants to create artificial canals throughout the city.' (sự kết hợp giữa kiến trúc và kỹ thuật công trình).",
+            "bridge": "Chuyên môn đi liền với kiến trúc để thiết kế hệ thống thủy lực, kênh đào chính là engineering.",
+            "answer": "engineering"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ chỉ ngành kỹ thuật là gì?",
+            "guide": "Đáp án là 'engineering'.",
+            "bridge": "Chốt câu 36: engineering."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ lĩnh vực chuyên môn sau cụm <i>expertise in</i>.",
+          "<b>Paragraph 7 (dòng 3):</b> <i>'But the true originality of Leonardo's vision was its fusion of architecture and engineering. Leonardo designed extensive hydraulic plants to create artificial canals...'</i>",
+          "<b>Từ cần điền:</b> <b>engineering</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "finalAnswer": "rule",
+      "inputWidth": "90px",
+      "highlightId": "hl-q37",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 37: Ông cho rằng chiều cao của nhà phải tương xứng với chiều rộng của phố phòng khi động đất xảy ra. Thiết kế nhiều thành phố ở Ý ngày nay vẫn tuân theo quy tắc gì ('follows this 37 ______')?",
+            "guide": "Sau từ chỉ định 'this' cần một danh từ số ít chỉ quy định, quy tắc.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph 7."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 7 nói việc chiều rộng đường phố tương xứng với chiều cao nhà là một cái gì vẫn đang được áp dụng ở Ý?",
+            "guide": "Paragraph 7 viết: '...the width of the streets ought to match the average height of the adjacent houses: a rule still followed in many contemporary cities across Italy...'",
+            "bridge": "'still followed' = tuân theo; từ đứng sau 'this' chính là 'rule'.",
+            "answer": "rule"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ chỉ quy tắc đó là gì?",
+            "guide": "Đáp án là 'rule'.",
+            "bridge": "Chốt câu 37: rule."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số ít sau từ chỉ định <i>this</i>.",
+          "<b>Paragraph 7 (dòng 6-7):</b> <i>'...the width of the streets ought to match the average height of the adjacent houses: a rule still followed in many contemporary cities across Italy...'</i>",
+          "<b>Khớp từ:</b> <i>follows this rule</i> = <i>a rule still followed</i>.",
+          "<b>Từ cần điền:</b> <b>rule</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "finalAnswer": "Roman",
+      "inputWidth": "100px",
+      "highlightId": "hl-q38",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 38: Mặc dù một số thành phố từ thời kỳ nào ('cities from 38 ______ times') đã có những đặc điểm tương tự bản thiết kế của Leonardo...?",
+            "guide": "Trước danh từ 'times' cần một tính từ hoặc danh từ chỉ một thời kỳ lịch sử hoặc một nền văn minh cổ đại.",
+            "bridge": "Hãy đọc ngay câu đầu tiên của Paragraph 8."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 8 viết những đặc điểm này từng xuất hiện ở các thành phố của nền văn minh nào?",
+            "guide": "Paragraph 8 viết: 'Although some of these features existed in Roman cities, before Leonardo's drawings there had never been a multi-level, compact modern city...'",
+            "bridge": "Các thành phố La Mã cổ đại chính là Roman cities.",
+            "answer": "Roman"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ viết hoa chỉ người/nền văn minh La Mã là gì?",
+            "guide": "Đáp án là 'Roman'.",
+            "bridge": "Chốt câu 38: Roman."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần từ chỉ thời đại/nền văn minh đứng trước <i>times</i>.",
+          "<b>Paragraph 8 (dòng 1):</b> <i>'Although some of these features existed in Roman cities...'</i>",
+          "<b>Khớp từ:</b> <i>cities from Roman times</i> = <i>Roman cities</i>.",
+          "<b>Từ cần điền:</b> <b>Roman</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "finalAnswer": "Paris",
+      "inputWidth": "100px",
+      "highlightId": "hl-q39",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 39: Tên thành phố nào ('39 ______ is one example of a city') là ví dụ về một nơi được tái quy hoạch vào thế kỷ 19 theo cách Leonardo từng hình dung?",
+            "guide": "Đầu câu cần một danh từ riêng viết hoa chỉ tên của một thành phố nổi tiếng được cải tạo trong thế kỷ 19.",
+            "bridge": "Hãy đọc phần cuối của Paragraph 8."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 8 nói công cuộc cải tạo thành phố nào trong thế kỷ 19 (giai đoạn 1853–1870) đã áp dụng ý tưởng phân tầng của Leonardo?",
+            "guide": "Paragraph 8 viết: '...is an idea that can be found in Georges-Eugène Haussmann's renovation of Paris under Emperor Napoleon III between 1853 and 1870.'",
+            "bridge": "Thành phố được cải tạo chính là Paris.",
+            "answer": "Paris"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tên thành phố đó là gì?",
+            "guide": "Đáp án là 'Paris'.",
+            "bridge": "Chốt câu 39: Paris."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần tên riêng chỉ thành phố làm chủ ngữ đứng đầu câu.",
+          "<b>Paragraph 8 (cuối đoạn):</b> <i>'...an idea that can be found in Georges-Eugène Haussmann's renovation of Paris under Emperor Napoleon III between 1853 and 1870.'</i>",
+          "<b>Khớp từ:</b> <i>redesigned in the 19th century</i> = <i>renovation ... between 1853 and 1870</i>.",
+          "<b>Từ cần điền:</b> <b>Paris</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "finalAnswer": "outwards",
+      "inputWidth": "110px",
+      "highlightId": "hl-q40",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 40: Ý tưởng của ông rất hữu ích cho ngày nay, khi mà việc xây dựng theo hướng nào ('where building 40 ______') không còn là cách tiếp cận tốt nhất nữa?",
+            "guide": "Sau động từ 'building' cần một trạng từ chỉ phương hướng phát triển đô thị (ngang hay dọc).",
+            "bridge": "Hãy đọc Paragraph 9 (Paragraph cuối cùng) nói về quy hoạch hiện đại."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 9 nói các học giả cho rằng thành phố nên xây dựng phát triển theo hướng lên cao thay vì hướng ra ngoài: 'built upwards instead of ______'?",
+            "guide": "Paragraph 9 viết: 'Many scholars think that the compact city, built upwards instead of outwards... could help modern cities become more efficient and sustainable.'",
+            "bridge": "'built upwards instead of outwards' có nghĩa là xây lên cao chứ không mở rộng bè ra ngoài.",
+            "answer": "outwards"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ hướng mở rộng ra bên ngoài là gì?",
+            "guide": "Đáp án là 'outwards'.",
+            "bridge": "Hoàn thành toàn bộ Passage 3! Chốt câu 40: outwards."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần từ chỉ phương hướng sau danh động từ <i>building</i>.",
+          "<b>Paragraph 9 (dòng 2):</b> <i>'Many scholars think that the compact city, built upwards instead of outwards...'</i>",
+          "<b>Khớp từ:</b> Thành phố nén xây lên trên thay vì phát triển bè ra bên ngoài (<i>outwards</i>).",
+          "<b>Từ cần điền:</b> <b>outwards</b>."
+        ]
+      }
+    }
+  }
+}
