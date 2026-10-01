@@ -1,0 +1,538 @@
+{
+  "title": "IELTS Academic 18 - Test 1 - Passage 2: Forest management in Pennsylvania, USA",
+  "answers": {
+    "q14": "B",
+    "q15": "A",
+    "q16": "C",
+    "q17": "E",
+    "q18": "B",
+    "q19": "B",
+    "q20": "C",
+    "q21": "C",
+    "q22": "fire",
+    "q23": "nutrients",
+    "q24": "cavities",
+    "q25": "hawthorn",
+    "q26": "rare"
+  },
+  "passageHtml": "<h2>READING PASSAGE 2</h2><h3>Forest management in Pennsylvania, USA</h3><p><em>How managing low-quality wood (also known as low-use wood) for bioenergy can encourage sustainable forest management</em></p><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">A tree's 'value' depends on several factors including its species, size, form, condition, quality, function, and accessibility, and depends on the management goals for a given forest. The same tree can be valued very differently by each person who looks at it</span>. A large, straight black cherry tree has high value as timber to be cut into logs or made into furniture, but for a landowner more interested in wildlife habitat, the real value of that stem (or trunk) may be the food it provides to animals. Likewise, if the tree suffers from black knot disease, its value for timber decreases, but to a woodworker interested in making bowls, it brings an opportunity for a unique and beautiful piece of art.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">In the past, Pennsylvania landowners were solely interested in the value of their trees as high-quality timber. The norm was to remove the stems of highest quality and leave behind poorly formed trees that were not as well suited to the site where they grew. This practice, called 'high-grading', has left a legacy of 'low-use wood' in the forests</span>. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Some people even call these '<span class=\"kw\">junk trees</span>', and they are abundant in Pennsylvania</span>. These trees have lower economic value for traditional timber markets, compete for growth with higher-value trees, shade out desirable regeneration and decrease the health of a stand* leaving it more vulnerable to poor weather and disease. Management that specifically targets low-use wood can help landowners manage these forest health issues, and wood energy markets help promote this.</p><p><strong>Paragraph C.</strong> Wood energy markets can accept less expensive wood material of lower quality than would be suitable for traditional timber markets. Most wood used for energy in Pennsylvania is used to produce heat or electricity through combustion. Many schools and hospitals use wood boiler systems to heat and power their facilities, many homes are primarily heated with wood, and some coal plants incorporate wood into their coal streams to produce electricity. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Wood can also be gasified for electrical generation and can even be made into liquid fuels like ethanol and gasoline for lorries and cars</span>. All these products are made primarily from low-use wood. Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest, focus strongly or solely on the use of wood for those markets.</p><p><strong>Paragraph D.</strong> One such approach is called a Timber Stand Improvement (TSI) Cut. In a TSI Cut, really poor-quality tree and plant material is cut down to allow more space, light, and other resources to the highest-valued stems that remain. Removing invasive plants might be another primary goal of a TSI Cut. The stems that are left behind might then grow in size and develop more foliage and larger crowns or tops that produce more coverage for wildlife; they have a better chance to regenerate in a less crowded environment. TSI Cuts can be tailored to one farmer's specific management goals for his or her land.</p><p><strong>Paragraph E.</strong> Another approach that might yield a high amount of low-use wood is a Salvage Cut. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">With the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth</span>, to name just a few, it is important to remember that those working in the forests can help ease these issues through cutting procedures. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">These types of cut reduce the number of sick trees and seek to manage the future spread of a pest problem. They leave vigorous trees that have stayed healthy enough to survive the outbreak</span>.</p><p><strong>Paragraph F.</strong> A Shelterwood Cut, which only takes place in a mature forest that has already been thinned several times, involves removing all the mature trees when other seedlings have become established. This then allows the forester to decide which tree species are regenerated. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">It leaves a young forest where all trees are at a similar point in their growth</span>. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">It can also be used to develop a two-tier forest so that there are two harvests and the money that comes in is spread out over a decade or more</span>.</p><p><strong>Paragraph G.</strong> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Thinnings and dense and dead wood removal for <span class=\"kw\">fire</span> prevention also center on the production of low-use wood</span>. However, it is important to remember that some retention of what many would classify as low-use wood is very important. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">The tops of trees that have been cut down should be left on the site so that their <span class=\"kw\">nutrients</span> cycle back into the soil</span>. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">In addition, trees with many <span class=\"kw\">cavities</span> are extremely important habitats for insect predators like woodpeckers, bats and small mammals</span>. They help control problem insects and increase the health and resilience of the forest. It is also important to remember that not all small trees are low-use. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">For example, many species like <span class=\"kw\">hawthorn</span> provide food for wildlife</span>. <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Finally, <span class=\"kw\">rare</span> species of trees in a forest should also stay behind as they add to its structural diversity</span>.</p><p><em>* stand: an area covered with trees that have common features (e.g. size)</em></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "title": "Questions 14-18",
+      "instructions": "<i>Reading Passage 2 has seven paragraphs, <b>A-G</b>.<br>Which paragraph contains the following information?<br>Write the correct letter, <b>A-G</b>, in boxes 14-18 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i>",
+      "questionIds": ["q14", "q15", "q16", "q17", "q18"]
+    },
+    {
+      "id": "g2",
+      "type": "matching_features",
+      "title": "Questions 19-21",
+      "instructions": "<i>Look at the following purposes (Questions 19-21) and the list of timber cuts below.<br>Match each purpose with the correct timber cut, <b>A, B or C</b>.<br>Write the correct letter, <b>A, B or C</b>, in boxes 19-21 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of Timber Cuts:</b><br><b>A.</b> a TSI Cut<br><b>B.</b> a Salvage Cut<br><b>C.</b> a Shelterwood Cut",
+      "questionIds": ["q19", "q20", "q21"]
+    },
+    {
+      "id": "g3",
+      "type": "sentence_completion",
+      "title": "Questions 22-26",
+      "instructions": "<i>Complete the sentences below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 22-26 on your answer sheet.</i>",
+      "questionIds": ["q22", "q23", "q24", "q25", "q26"]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "bad outcomes for a forest when people focus only on its financial reward",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "B",
+      "highlightId": "hl-q14",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 14 hỏi về điều gì? Hãy chú ý cụm: những hậu quả xấu đối với khu rừng ('bad outcomes for a forest') khi con người chỉ chăm chăm chú ý đến lợi ích kinh tế ('focus only on its financial reward').",
+            "guide": "Em cần tìm một Paragraph nói về việc người ta chỉ chặt cây tốt để bán lấy tiền và để lại những hậu quả tai hại cho sức khỏe của khu rừng.",
+            "bridge": "Mình cùng đọc Paragraph B xem các chủ đất trong quá khứ đã làm gì nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph B, việc chủ rừng chỉ quan tâm đến gỗ chất lượng cao ('solely interested in... high-quality timber') đã dẫn đến những tác hại gì cho khu rừng?",
+            "guide": "Paragraph B viết: họ chặt hết cây tốt và bỏ lại cây xấu, làm cho những cây này cạnh tranh sinh trưởng, che khuất cây con và 'decrease the health of a stand leaving it more vulnerable to poor weather and disease' (làm giảm sức khỏe khu rừng, khiến rừng dễ bị thời tiết xấu và bệnh tật tàn phá).",
+            "bridge": "'decrease the health... vulnerable to poor weather and disease' chính là những hậu quả tiêu cực (bad outcomes)."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nói về những hậu quả xấu này?",
+            "guide": "Đáp án chính xác là Paragraph B.",
+            "bridge": "Chốt câu 14: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Những hậu quả xấu đối với rừng khi con người chỉ quan tâm đến lợi ích tài chính.",
+          "<b>Paragraph B:</b> Việc chủ rừng chỉ quan tâm đến gỗ tốt (<i>solely interested in... high-quality timber</i>) khiến rừng bị suy giảm sức khỏe và dễ bị bệnh tật, thời tiết tàn phá (<i>decrease the health of a stand leaving it more vulnerable to poor weather and disease</i>).",
+          "<b>Khớp ý:</b> <i>focus only on financial reward</i> = <i>solely interested in the value as timber</i>; <i>bad outcomes</i> = <i>decrease health, more vulnerable to disease</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "reference to the aspects of any tree that contribute to its worth",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "A",
+      "highlightId": "hl-q15",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 15 muốn tìm thông tin gì? Hãy để ý cụm: những khía cạnh/đặc điểm của một cái cây ('aspects of any tree') tạo nên giá trị của nó ('contribute to its worth').",
+            "guide": "Em hãy tìm một Paragraph liệt kê các yếu tố quyết định giá trị của một cái cây (như kích thước, chủng loại, chất lượng...).",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph A nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Câu đầu tiên của Paragraph A liệt kê những yếu tố nào quyết định giá trị của một cái cây?",
+            "guide": "Paragraph A viết: 'A tree's 'value' depends on several factors including its species, size, form, condition, quality, function, and accessibility...' (Giá trị của một cái cây phụ thuộc vào nhiều yếu tố bao gồm loài, kích thước, hình dáng, tình trạng, chất lượng, công năng và khả năng tiếp cận).",
+            "bridge": "Các yếu tố như loài, kích thước, hình dáng... chính là những khía cạnh tạo nên giá trị của cây."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa thông tin liệt kê các khía cạnh này?",
+            "guide": "Đáp án là Paragraph A.",
+            "bridge": "Chốt câu 15: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Đề cập đến các khía cạnh tạo nên giá trị của một cái cây.",
+          "<b>Paragraph A (dòng 1-2):</b> <i>'A tree's 'value' depends on several factors including its species, size, form, condition, quality, function, and accessibility...'</i>",
+          "<b>Khớp từ:</b> <i>aspects of any tree</i> = <i>factors including its species, size, form, condition...</i>; <i>worth</i> = <i>value</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "mention of the potential use of wood to help run vehicles",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q16",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 16 hỏi về điều gì? Hãy chú ý cụm: tiềm năng dùng gỗ ('potential use of wood') để vận hành các phương tiện giao thông ('help run vehicles').",
+            "guide": "Em cần tìm Paragraph nào nhắc đến việc chế biến gỗ thành nhiên liệu cho xe cộ (như ô tô, xe tải).",
+            "bridge": "Hãy tìm những từ chỉ phương tiện như xe hơi ('cars'), xe tải ('lorries') ở Paragraph C."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph C nói gỗ có thể được chuyển hóa thành nhiên liệu gì cho xe tải và ô tô?",
+            "guide": "Paragraph C viết: 'Wood can also be gasified for electrical generation and can even be made into liquid fuels like ethanol and gasoline for lorries and cars.' (Gỗ cũng có thể được khí hóa để phát điện và thậm chí làm thành nhiên liệu lỏng như cồn sinh học và xăng cho xe tải và xe hơi).",
+            "bridge": "'liquid fuels like ethanol and gasoline for lorries and cars' chính là dùng gỗ để vận hành phương tiện giao thông."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nhắc đến việc dùng gỗ cho xe cộ?",
+            "guide": "Đáp án chính xác là Paragraph C.",
+            "bridge": "Chốt câu 16: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Đề cập đến tiềm năng dùng gỗ để chạy các phương tiện giao thông.",
+          "<b>Paragraph C (dòng 5-6):</b> <i>'...can even be made into liquid fuels like ethanol and gasoline for lorries and cars.'</i> (có thể làm thành nhiên liệu lỏng như xăng cho xe tải và ô tô).",
+          "<b>Khớp từ:</b> <i>run vehicles</i> = <i>fuels for lorries and cars</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "examples of insects that attack trees",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "E",
+      "highlightId": "hl-q17",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 17 muốn tìm gì? Hãy chú ý cụm: ví dụ về các loài côn trùng tấn công cây rừng ('examples of insects that attack trees').",
+            "guide": "Em cần tìm Paragraph nào liệt kê tên một số loài sâu bọ, côn trùng hại cây (pests, beetles, moths...).",
+            "bridge": "Cùng đọc Paragraph E xem có tên các loài bọ cánh cứng hay bướm đêm không nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph E liệt kê những loài sâu bọ nào gây hại cho rừng?",
+            "guide": "Paragraph E viết: 'With the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth, to name just a few...' (bọ cánh cứng sừng dài châu Á, sâu đục thân tro ngọc bích, bướm đêm gypsy...).",
+            "bridge": "Đây chính là các ví dụ cụ thể về những loài côn trùng tấn công cây rừng."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa danh sách các loài côn trùng này?",
+            "guide": "Đáp án là Paragraph E.",
+            "bridge": "Chốt câu 17: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Các ví dụ về những loài côn trùng tấn công cây.",
+          "<b>Paragraph E (dòng 2-3):</b> <i>'...hemlock wooly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth, to name just a few...'</i>",
+          "<b>Khớp từ:</b> <i>insects that attack trees</i> = <i>pests ... including Asian longhorned beetle, emerald ash borer, gypsy moth</i>.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "an alternative name for trees that produce low-use wood",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "B",
+      "highlightId": "hl-q18",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 18 hỏi về điều gì? Hãy chú ý cụm: một tên gọi khác ('an alternative name') cho những cái cây tạo ra gỗ ít giá trị sử dụng ('trees that produce low-use wood').",
+            "guide": "Em cần tìm một Paragraph có nhắc đến một biệt danh hoặc tên gọi dân dã khác của những cây gỗ kém phẩm chất này.",
+            "bridge": "Hãy tìm những từ nằm trong dấu ngoặc kép ở Paragraph B."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph B, người ta còn gọi những cây này bằng cái tên nào khác?",
+            "guide": "Paragraph B viết: 'Some people even call these 'junk trees', and they are abundant in Pennsylvania.' (Một số người thậm chí còn gọi chúng là 'cây phế phẩm' / 'junk trees').",
+            "bridge": "'junk trees' chính là tên gọi khác (alternative name) của loại cây này."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào đề cập đến tên gọi thay thế đó?",
+            "guide": "Đáp án là Paragraph B.",
+            "bridge": "Chốt câu 18: B (Paragraph B được chọn 2 lần)."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Một tên gọi khác cho những cái cây sinh ra gỗ ít giá trị sử dụng.",
+          "<b>Paragraph B (dòng 4):</b> <i>'Some people even call these 'junk trees', and they are abundant in Pennsylvania.'</i>",
+          "<b>Khớp từ:</b> <i>an alternative name</i> = <i>call these 'junk trees'</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "to remove trees that are diseased",
+      "options": [
+        "A. a TSI Cut",
+        "B. a Salvage Cut",
+        "C. a Shelterwood Cut"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q19",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 19 nói về mục đích gì? Nhằm loại bỏ những cây bị sâu bệnh ('to remove trees that are diseased').",
+            "guide": "Em cần đối chiếu 3 kỹ thuật chặt cây: TSI Cut (Paragraph D), Salvage Cut (Paragraph E), Shelterwood Cut (Paragraph F) xem kỹ thuật nào dùng để xử lý cây bị nhiễm bệnh.",
+            "bridge": "Cùng đọc Paragraph E nói về phương pháp Salvage Cut nhé."
+          },
+          {
+            "title": "Soi nội dung Paragraph E",
+            "question": "Paragraph E nói phương pháp chặt Salvage Cut giúp giảm bớt loại cây nào?",
+            "guide": "Paragraph E viết: 'These types of cut reduce the number of sick trees and seek to manage the future spread of a pest problem.' (Những kiểu chặt này giúp giảm bớt số lượng cây ốm yếu/bệnh tật và kiểm soát sự lây lan của sâu bệnh).",
+            "bridge": "'reduce the number of sick trees' chính là loại bỏ những cây bị bệnh (diseased)."
+          },
+          {
+            "title": "Chốt phương pháp",
+            "question": "Phương pháp chặt cây nào thực hiện việc này?",
+            "guide": "Đó là phương pháp B: 'a Salvage Cut'.",
+            "bridge": "Chốt câu 19: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Mục đích:</b> Loại bỏ những cây bị sâu bệnh.",
+          "<b>Paragraph E:</b> Miêu tả phương pháp <b>Salvage Cut</b>: <i>'These types of cut reduce the number of sick trees and seek to manage the future spread of a pest problem.'</i>",
+          "<b>Khớp từ:</b> <i>diseased</i> = <i>sick trees / pest problem</i>.",
+          "<b>Kết luận:</b> Chọn <b>B (a Salvage Cut)</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "to generate income across a number of years",
+      "options": [
+        "A. a TSI Cut",
+        "B. a Salvage Cut",
+        "C. a Shelterwood Cut"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q20",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 20 nói về mục đích gì? Tạo ra nguồn thu nhập trải dài qua nhiều năm ('generate income across a number of years').",
+            "guide": "Em hãy đọc Paragraph F về phương pháp Shelterwood Cut xem có chi tiết nào nói về tiền bạc thu về qua nhiều năm không.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph F nhé."
+          },
+          {
+            "title": "Soi nội dung Paragraph F",
+            "question": "Câu cuối Paragraph F nói phương pháp Shelterwood Cut giúp nguồn tiền thu về như thế nào?",
+            "guide": "Paragraph F viết: 'It can also be used to develop a two-tier forest so that there are two harvests and the money that comes in is spread out over a decade or more.' (Nó giúp tạo ra hai đợt thu hoạch và số tiền thu về được trải đều trong một thập kỷ hoặc lâu hơn).",
+            "bridge": "'money that comes in is spread out over a decade or more' chính là tạo ra thu nhập qua nhiều năm."
+          },
+          {
+            "title": "Chốt phương pháp",
+            "question": "Phương pháp chặt cây nào đem lại nguồn thu nhập trải dài qua nhiều năm?",
+            "guide": "Đó là phương án C: 'a Shelterwood Cut'.",
+            "bridge": "Chốt câu 20: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Mục đích:</b> Tạo ra thu nhập trải dài qua nhiều năm.",
+          "<b>Paragraph F (câu cuối):</b> Miêu tả <b>Shelterwood Cut</b>: <i>'...so that there are two harvests and the money that comes in is spread out over a decade or more.'</i> (tiền thu về được chia đều trong một thập kỷ hoặc hơn).",
+          "<b>Khớp từ:</b> <i>generate income</i> = <i>money that comes in</i>; <i>across a number of years</i> = <i>spread out over a decade or more</i>.",
+          "<b>Kết luận:</b> Chọn <b>C (a Shelterwood Cut)</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "to create a forest whose trees are close in age",
+      "options": [
+        "A. a TSI Cut",
+        "B. a Salvage Cut",
+        "C. a Shelterwood Cut"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q21",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 21 nói về mục đích gì? Tạo ra một khu rừng mà các cây có độ tuổi tương đương nhau ('whose trees are close in age').",
+            "guide": "Em hãy đọc lại đoạn giữa của Paragraph F xem phương pháp Shelterwood Cut để lại một khu rừng như thế nào.",
+            "bridge": "Cùng xem câu thứ ba của Paragraph F nhé."
+          },
+          {
+            "title": "Soi nội dung Paragraph F",
+            "question": "Paragraph F nói sau khi đốn các cây gỗ già thì khu rừng non còn lại có đặc điểm gì về độ tuổi sinh trưởng?",
+            "guide": "Paragraph F viết: 'It leaves a young forest where all trees are at a similar point in their growth.' (Nó để lại một khu rừng non nơi mà tất cả các cây đều ở cùng một giai đoạn phát triển tương tự nhau).",
+            "bridge": "'all trees are at a similar point in their growth' chính là các cây có độ tuổi rất gần nhau (close in age)."
+          },
+          {
+            "title": "Chốt phương pháp",
+            "question": "Phương pháp chặt cây nào tạo ra khu rừng đồng đều về độ tuổi?",
+            "guide": "Đó tiếp tục là phương án C: 'a Shelterwood Cut'.",
+            "bridge": "Chốt câu 21: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Mục đích:</b> Tạo ra một khu rừng mà các cây có độ tuổi sàn sàn nhau.",
+          "<b>Paragraph F (dòng 4):</b> Miêu tả <b>Shelterwood Cut</b>: <i>'It leaves a young forest where all trees are at a similar point in their growth.'</i> (để lại một khu rừng non nơi mọi cây đều ở giai đoạn phát triển tương đương).",
+          "<b>Khớp từ:</b> <i>trees are close in age</i> = <i>trees are at a similar point in their growth</i>.",
+          "<b>Kết luận:</b> Chọn <b>C (a Shelterwood Cut)</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Some dead wood is removed to avoid the possibility of 22 __________ .",
+      "finalAnswer": "fire",
+      "inputWidth": "100px",
+      "highlightId": "hl-q22",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 22: Một số cành cây khô chết được dọn đi để tránh nguy cơ xảy ra cái gì ('avoid the possibility of 22 ______')?",
+            "guide": "Sau 'possibility of' cần một danh từ chỉ một nguy cơ hoặc thảm họa mà cành cây khô có thể gây ra trong rừng.",
+            "bridge": "Hãy đọc câu đầu tiên của Paragraph G."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Câu đầu tiên của Paragraph G nói việc dọn dẹp cây chết là để phòng ngừa cái gì?",
+            "guide": "Paragraph G viết: 'Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood.' (Việc tỉa thưa và dọn dẹp gỗ chết để phòng chống hỏa hoạn/cháy rừng...).",
+            "bridge": "'fire prevention' chính là phòng ngừa nguy cơ cháy rừng (avoid the possibility of fire)."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất chỉ thảm họa đó là gì?",
+            "guide": "Đáp án là 'fire' (lửa/hỏa hoạn).",
+            "bridge": "Chốt câu 22: fire."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ nguy cơ tai họa sau giới từ <i>of</i>.",
+          "<b>Paragraph G (dòng 1):</b> <i>'Thinnings and dense and dead wood removal for fire prevention...'</i>",
+          "<b>Khớp từ:</b> <i>avoid the possibility of</i> = <i>prevention</i>; từ cần điền là <i>fire</i>.",
+          "<b>Từ cần điền:</b> <b>fire</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "The 23 __________ from the tops of cut trees can help improve soil quality.",
+      "finalAnswer": "nutrients",
+      "inputWidth": "110px",
+      "highlightId": "hl-q23",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 23: Cái gì từ ngọn của những cây bị chặt ('The 23 ______ from the tops of cut trees') có thể giúp cải thiện chất lượng đất?",
+            "guide": "Sau mạo từ 'The' cần một danh từ chỉ thành phần bổ dưỡng từ cành ngọn cây phân hủy ngấm vào đất.",
+            "bridge": "Hãy đọc câu thứ ba của Paragraph G."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph G khuyên nên để lại ngọn cây tại chỗ để cái gì của chúng tuần hoàn trở lại vào lòng đất?",
+            "guide": "Paragraph G viết: 'The tops of trees that have been cut down should be left on the site so that their nutrients cycle back into the soil.' (Phần ngọn của các cây bị đốn nên được để lại tại hiện trường để chất dinh dưỡng của chúng tuần hoàn trở lại vào đất).",
+            "bridge": "'nutrients cycle back into the soil' chính là chất dinh dưỡng giúp cải thiện đất."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều đó là gì?",
+            "guide": "Đáp án là 'nutrients' (các chất dinh dưỡng).",
+            "bridge": "Chốt câu 23: nutrients."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau mạo từ <i>The</i>.",
+          "<b>Paragraph G (dòng 3-4):</b> <i>'The tops of trees that have been cut down should be left on the site so that their nutrients cycle back into the soil.'</i>",
+          "<b>Khớp từ:</b> <i>improve soil quality</i> = <i>cycle back into the soil</i>.",
+          "<b>Từ cần điền:</b> <b>nutrients</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Some damaged trees should be left, as their 24 __________ provide habitats for a range of creatures.",
+      "finalAnswer": "cavities",
+      "inputWidth": "110px",
+      "highlightId": "hl-q24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 24: Một số cây bị hư hại nên được giữ lại, vì cái gì của chúng ('as their 24 ______') cung cấp môi trường sống cho nhiều sinh vật?",
+            "guide": "Sau tính từ sở hữu 'their' cần một danh từ số nhiều chỉ các hốc, lỗ rỗng trên thân cây nơi chim thú làm tổ.",
+            "bridge": "Cùng đọc tiếp câu thứ tư của Paragraph G."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph G nói cây có nhiều cái gì là nơi trú ngụ quan trọng của chim gõ kiến, dơi và động vật nhỏ?",
+            "guide": "Paragraph G viết: 'In addition, trees with many cavities are extremely important habitats for insect predators like woodpeckers, bats and small mammals.' (Ngoài ra, những cây có nhiều hốc/lỗ rỗng là môi trường sống cực kỳ quan trọng cho các loài ăn côn trùng như chim gõ kiến, dơi và động vật có vú nhỏ).",
+            "bridge": "'trees with many cavities... habitats for...' chính là các hốc cây làm tổ."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều chỉ các hốc cây là gì?",
+            "guide": "Đáp án là 'cavities' (những hốc rỗng trên cây).",
+            "bridge": "Chốt câu 24: cavities."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số nhiều sau tính từ sở hữu <i>their</i>.",
+          "<b>Paragraph G (dòng 4-5):</b> <i>'In addition, trees with many cavities are extremely important habitats for insect predators like woodpeckers, bats and small mammals.'</i>",
+          "<b>Khớp từ:</b> <i>provide habitats for a range of creatures</i> = <i>extremely important habitats for...</i>",
+          "<b>Từ cần điền:</b> <b>cavities</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Some trees that are small, such as 25 __________ , are a source of food for animals and insects.",
+      "finalAnswer": "hawthorn",
+      "inputWidth": "110px",
+      "highlightId": "hl-q25",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 25: Một số cây nhỏ, ví dụ như cây gì ('such as 25 ______'), là nguồn thức ăn cho động vật và côn trùng?",
+            "guide": "Sau 'such as' cần một danh từ chỉ tên một loài cây bụi/cây gỗ nhỏ cụ thể.",
+            "bridge": "Hãy đọc câu áp chót của Paragraph G."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph G đưa ra ví dụ về loài cây nhỏ nào cung cấp thức ăn cho động vật hoang dã?",
+            "guide": "Paragraph G viết: 'For example, many species like hawthorn provide food for wildlife.' (Ví dụ, nhiều loài như cây táo gai / hawthorn cung cấp thức ăn cho đời sống hoang dã).",
+            "bridge": "'provide food for wildlife' chính là nguồn thức ăn cho động vật. Tên loài cây được lấy ví dụ là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất chỉ loài cây này là gì?",
+            "guide": "Đáp án là 'hawthorn' (cây táo gai).",
+            "bridge": "Chốt câu 25: hawthorn."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ tên loài cây sau từ nối ví dụ <i>such as</i>.",
+          "<b>Paragraph G (dòng 7-8):</b> <i>'For example, many species like hawthorn provide food for wildlife.'</i>",
+          "<b>Khớp từ:</b> <i>such as</i> = <i>like</i>; <i>a source of food for animals</i> = <i>provide food for wildlife</i>.",
+          "<b>Từ cần điền:</b> <b>hawthorn</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Any trees that are 26 __________ should be left to grow, as they add to the variety of species in the forest.",
+      "finalAnswer": "rare",
+      "inputWidth": "100px",
+      "highlightId": "hl-q26",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 26: Bất kỳ cây nào có đặc điểm gì ('trees that are 26 ______') cũng nên được để lại cho lớn, vì chúng làm phong phú thêm sự đa dạng loài trong rừng?",
+            "guide": "Sau 'trees that are' cần một tính từ chỉ tính chất hiếm thấy, quý hiếm của cái cây.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph G nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Câu cuối Paragraph G nói loài cây nào nên được giữ lại để tăng tính đa dạng?",
+            "guide": "Paragraph G viết: 'Finally, rare species of trees in a forest should also stay behind as they add to its structural diversity.' (Cuối cùng, các loài cây quý hiếm trong rừng cũng nên được để lại phía sau vì chúng bổ sung vào sự đa dạng về mặt cấu trúc).",
+            "bridge": "'rare species of trees' chính là những cây quý hiếm; 'add to its structural diversity' chính là làm tăng thêm sự đa dạng loài.",
+            "answer": "rare"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tính từ chỉ đặc tính quý hiếm đó là gì?",
+            "guide": "Đáp án là 'rare' (quý hiếm).",
+            "bridge": "Hoàn thành toàn bộ Passage 2! Chốt câu 26: rare."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần tính từ sau cấu trúc <i>trees that are</i>.",
+          "<b>Paragraph G (câu cuối):</b> <i>'Finally, rare species of trees in a forest should also stay behind as they add to its structural diversity.'</i>",
+          "<b>Khớp từ:</b> <i>should be left to grow</i> = <i>should also stay behind</i>; <i>add to the variety of species</i> = <i>add to its structural diversity</i>.",
+          "<b>Từ cần điền:</b> <b>rare</b>."
+        ]
+      }
+    }
+  }
+}
