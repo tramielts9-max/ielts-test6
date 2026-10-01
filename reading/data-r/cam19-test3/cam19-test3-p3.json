@@ -1,0 +1,636 @@
+{
+  "title": "IELTS Academic 19 - Test 3 - Passage 3: Is the era of artificial speech translation upon us?",
+  "answers": {
+    "q27": "D",
+    "q28": "A",
+    "q29": "C",
+    "q30": "B",
+    "q31": "C",
+    "q32": "E",
+    "q33": "F",
+    "q34": "B",
+    "q35": "NO",
+    "q36": "YES",
+    "q37": "NO",
+    "q38": "NOT GIVEN",
+    "q39": "NOT GIVEN",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 3</h2><h3>Is the era of artificial speech translation upon us?</h3><p><em>Once the stuff of science fiction, technology that enables people to talk using different languages is now here. But how effective is it?</em></p><p><strong>Paragraph 1.</strong> Noise, Alex Waibel tells me, is one of the major challenges that artificial speech translation has to meet. A device may be able to recognise speech in a laboratory, or a meeting room, but will struggle to cope with the kind of background noise I can hear in my office surrounding Professor Waibel as he speaks to me from Kyoto station in Japan. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">I'm struggling to follow him in English, on a scratchy line that reminds me we are nearly 10,000 kilometres apart – and that distance is still an obstacle to communication even if you're speaking the same language, as we are. We haven't reached the future yet. If we had, Waibel would have been able to speak more comfortably in his native German and I would have been able to hear his words in English</span>.</p><p><strong>Paragraph 2.</strong> At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German that their students can follow in English via an electronic translator. The system generates text that students can read on their laptops or phones, so the process is somewhat similar to subtitling. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">It helps that lecturers speak clearly, don't have to compete with background chatter, and say much the same thing each year</span>.</p><p><strong>Paragraph 3.</strong> The idea of artificial speech translation has been around for a long time. Douglas Adams' science fiction novel, The Hitchhiker's Guide to the Galaxy, published in 1979, featured a life form called the 'Babel fish' which, when placed in the ear, enabled a listener to understand any language in the universe. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">It came to represent one of those devices that technology enthusiasts dream of long before they become practically realisable, like TVs flat enough to hang on walls: objects that we once could only dream of having but that are now commonplace. Now devices that look like prototype Babel fish have started to appear, riding a wave of advances in artificial translation and voice recognition</span>.</p><p><strong>Paragraph 4.</strong> At this stage, however, they seem to be regarded as eye-catching novelties rather than steps towards what Waibel calls 'making a language-transparent society'. They tend to be domestic devices or applications suitable for hotel check-ins, for example, providing a practical alternative to speaking traveller's English. The efficiency of the translator is less important than the social function. However, 'Professionals are less inclined to be patient in a conversation,' founder and CEO at Waverly Labs, Andrew Ochoa, observes. To redress this, Waverly is now preparing a new model for professional applications, which entails performance improvements in speech recognition, translation accuracy and the time it takes to deliver the translated speech.</p><p><strong>Paragraph 5.</strong> For a conversation, both speakers need to have devices called Pilots (translator earpieces) in their ears. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">'We find that there's a barrier with sharing one of the earphones with a stranger,' says Ochoa. That can't have been totally unexpected</span>. The problem would be solved if earpiece translators became sufficiently prevalent that strangers would be likely to already have their own in their ears. Whether that happens, and how quickly, will probably depend not so much on the earpieces themselves, but on the prevalence of voice-controlled devices and artificial translation in general.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">Waibel highlights the significance of certain Asian nations, noting that voice translation has really taken off in countries such as Japan with a range of systems. There is still a long way to go, though</span>. <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">A translation system needs to be simultaneous, like the translator's voice speaking over the foreign politician being interviewed on the TV, rather than in sections that oblige speakers to pause after every few remarks and wait for the translation to be delivered</span>. It needs to work offline, for situations where internet access isn't possible, and to address apprehensions about the amount of private speech data accumulating in the cloud, having been sent to servers for processing.</p><p><strong>Paragraph 7.</strong> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">Systems not only need to cope with physical challenges such as noise, they will also need to be socially aware by addressing people in the right way. Some cultural traditions demand solemn respect for academic status, for example, and it is only polite to respect this. Etiquette-sensitive artificial translators could relieve people of the need to know these differing cultural norms</span>. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">At the same time, they might help to preserve local customs, slowing the spread of habits associated with international English, such as its readiness to get on first-name terms</span>.</p><p><strong>Paragraph 8.</strong> <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Professors and other professionals will not outsource language awareness to software, though. If the technology matures into seamless, ubiquitous artificial speech translation, it will actually add value to language skills</span>. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Whether it will help people conduct their family lives or relationships is open to question</span> – <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">though one noteworthy possibility is that it could overcome the language barriers that often arise between generations after migration, leaving children and their grandparents without a shared language</span>.</p><p><strong>Paragraph 9.</strong> Whatever uses it is put to, though, it will never be as good as the real thing. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Even if voice-morphing technology simulates the speaker's voice, their lip movements won't match, and they will look like they are in a dubbed movie</span>. The contrast will underline the value of shared languages, and the value of learning them. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Sharing a language can promote a sense of belonging and community, as with the international scientists who use English as a lingua franca, where their predecessors used Latin</span>. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Though the practical need for a common language will diminish, the social value of sharing one will persist</span>. And software will never be a substitute for the subtle but vital understanding that comes with knowledge of a language.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "title": "Questions 27-30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 27-30 on your answer sheet.</i>",
+      "questionIds": ["q27", "q28", "q29", "q30"]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "title": "Questions 31-34",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A-F</b>, below.<br>Write the correct letter, <b>A-F</b>, in boxes 31-34 on your answer sheet.</i>",
+      "questionIds": ["q31", "q32", "q33", "q34"]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "title": "Questions 35-40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 3?<br>In boxes 35-40 on your answer sheet, write:<br><b>YES</b> if the statement agrees with the views of the writer<br><b>NO</b> if the statement contradicts the views of the writer<br><b>NOT GIVEN</b> if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": ["q35", "q36", "q37", "q38", "q39", "q40"]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What does the reader learn about the conversation in the first paragraph?",
+      "options": [
+        "A. The speakers are communicating in different languages.",
+        "B. Neither of the speakers is familiar with their environment.",
+        "C. The topic of the conversation is difficult for both speakers.",
+        "D. Aspects of the conversation are challenging for both speakers."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q27",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 27 hỏi: Người đọc biết được điều gì về cuộc trò chuyện ở Paragraph 1?",
+            "guide": "Em cần đọc kỹ Paragraph 1 để xem cuộc trò chuyện giữa tác giả và giáo sư Waibel diễn ra trong hoàn cảnh như thế nào.",
+            "bridge": "Mình cùng xem tác giả miêu tả những trở ngại trong cuộc gọi nhé."
+          },
+          {
+            "title": "Đối chiếu dẫn chứng trong bài",
+            "question": "Trong Paragraph 1, cả hai người đang gặp phải những khó khăn gì khi nói chuyện với nhau?",
+            "guide": "Giáo sư Waibel thì ở ga tàu ồn ào tại Nhật Bản, còn tác giả thì phải căng tai nghe bằng tiếng Anh qua đường truyền rè vì cách nhau 10.000 km ('scratchy line', 'distance is still an obstacle', 'struggling to follow'). Cả hai đều không được nói/nghe bằng tiếng mẹ đẻ một cách thoải mái nhất.",
+            "bridge": "Những yếu tố như tiếng ồn, đường truyền rè và khoảng cách xa khiến cuộc trò chuyện trở nên khó khăn cho cả hai bên."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang ý nghĩa: 'Một số khía cạnh của cuộc trò chuyện gây khó khăn cho cả hai người'?",
+            "guide": "Đó chính là D: 'Aspects of the conversation are challenging for both speakers'.",
+            "bridge": "Chốt câu 27: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Người đọc biết được điều gì về cuộc trò chuyện ở Paragraph 1.",
+          "<b>Paragraph 1:</b> Miêu tả giáo sư Waibel ở trong môi trường ồn ào ở ga Kyoto, còn tác giả thì chật vật nghe qua đường truyền rè cách 10.000 km (<i>'I'm struggling to follow him... distance is still an obstacle...'</i>).",
+          "<b>Khớp ý:</b> Cả hai người nói chuyện đều gặp trở ngại từ môi trường và đường truyền -> <i>Aspects of the conversation are challenging for both speakers</i>.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "What assists the electronic translator during lectures at Karlsruhe Institute of Technology?",
+      "options": [
+        "A. the repeated content of lectures",
+        "B. the students' reading skills",
+        "C. the languages used",
+        "D. the lecturers' technical ability"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q28",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 28 hỏi: Điều gì giúp ích cho máy dịch điện tử trong các buổi giảng bài ở Viện Công nghệ Karlsruhe?",
+            "guide": "Em hãy quét từ khóa 'Karlsruhe Institute of Technology' ở Paragraph 2 để xem yếu tố nào giúp máy dịch hoạt động tốt hơn.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph 2 nhé."
+          },
+          {
+            "title": "Đối chiếu dẫn chứng trong bài",
+            "question": "Câu cuối Paragraph 2 nêu những thuận lợi gì giúp máy dịch dễ dàng hơn?",
+            "guide": "Bài viết: 'It helps that lecturers speak clearly, don't have to compete with background chatter, and say much the same thing each year.' (Điều thuận lợi là giảng viên nói rõ ràng, không bị lẫn tiếng ồn, và năm nào họ cũng nói những nội dung tương tự nhau).",
+            "bridge": "'say much the same thing each year' chính là nội dung bài giảng được lặp đi lặp lại qua các năm."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào diễn đạt ý 'nội dung bài giảng được lặp lại'?",
+            "guide": "Đó chính là A: 'the repeated content of lectures'.",
+            "bridge": "Chốt câu 28: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Yếu tố nào hỗ trợ máy dịch trong các bài giảng tại Viện Karlsruhe.",
+          "<b>Paragraph 2 (câu cuối):</b> <i>'...and say much the same thing each year.'</i> (năm nào giảng viên cũng giảng những nội dung tương tự như nhau).",
+          "<b>Khớp từ:</b> <i>say much the same thing each year</i> = <i>the repeated content of lectures</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "When referring to The Hitchhiker's Guide to the Galaxy, the writer suggests that",
+      "options": [
+        "A. the Babel fish was considered undesirable at the time.",
+        "B. this book was not seriously intending to predict the future.",
+        "C. artificial speech translation was not a surprising development.",
+        "D. some speech translation techniques are better than others."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q29",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 29 hỏi: Khi nhắc đến cuốn tiểu thuyết viễn tưởng 'The Hitchhiker's Guide to the Galaxy', tác giả ngụ ý điều gì?",
+            "guide": "Em hãy tìm tên cuốn sách và con cá dịch thuật 'Babel fish' ở Paragraph 3 để xem tác giả bàn luận gì về ý tưởng này.",
+            "bridge": "Đọc xem tác giả so sánh thiết bị này với thứ gì khác trong đời thực."
+          },
+          {
+            "title": "Đối chiếu dẫn chứng trong bài",
+            "question": "Tác giả nói việc máy dịch giọng nói xuất hiện có phải là điều gì quá đột ngột, bất ngờ không?",
+            "guide": "Tác giả viết: ý tưởng này đã có từ rất lâu, giống như tivi màn hình phẳng treo tường – đó là những thứ con người đã mơ ước từ rất lâu trước khi nó thành hiện thực ('dream of long before they become practically realisable').",
+            "bridge": "Một thứ con người đã hình dung và mơ ước suốt nhiều thập kỷ thì khi nó ra đời không phải là một điều quá bất ngờ."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nêu ý 'dịch thuật giọng nói nhân tạo không phải là một bước phát triển gây bất ngờ'?",
+            "guide": "Đó chính là C: 'artificial speech translation was not a surprising development'.",
+            "bridge": "Chốt câu 29: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả ngụ ý điều gì khi nhắc đến cuốn sách The Hitchhiker's Guide to the Galaxy.",
+          "<b>Paragraph 3:</b> Tác giả cho biết ý tưởng về máy dịch đã có từ năm 1979 và đại diện cho những thiết bị mà con người đã mơ ước từ rất lâu trước khi chế tạo được (giống như tivi màn hình phẳng).",
+          "<b>Khớp ý:</b> Vì đã được ấp ủ và hình dung từ lâu nên việc công nghệ này ra đời không phải là điều bất ngờ -> <i>not a surprising development</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What does the writer say about sharing earpieces?",
+      "options": [
+        "A. It is something people will get used to doing.",
+        "B. The reluctance to do this is understandable.",
+        "C. The equipment will be unnecessary in the future.",
+        "D. It is something few people need to worry about."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q30",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 30 hỏi: Tác giả nói gì về việc chia sẻ tai nghe ('sharing earpieces') với người khác?",
+            "guide": "Em hãy quét từ khóa 'sharing' và 'earpiece/earphone' ở Paragraph 5.",
+            "bridge": "Xem ông Andrew Ochoa và tác giả nhận xét gì về việc này."
+          },
+          {
+            "title": "Đối chiếu dẫn chứng trong bài",
+            "question": "Paragraph 5 viết mọi người cảm thấy thế nào khi phải nhét chung tai nghe với một người lạ?",
+            "guide": "Bài viết: ''We find that there's a barrier with sharing one of the earphones with a stranger,' says Ochoa. That can't have been totally unexpected.' (Chúng tôi nhận thấy có một rào cản khi phải chia sẻ tai nghe với người lạ. Điều đó hoàn toàn không có gì là bất ngờ cả).",
+            "bridge": "'Có rào cản' (ngại ngùng, không muốn chia sẻ) và 'không có gì bất ngờ' nghĩa là tâm lý ngần ngại đó là hoàn toàn dễ hiểu."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào diễn đạt ý 'Sự ngần ngại làm điều này là hoàn toàn có thể hiểu được'?",
+            "guide": "Đó chính là B: 'The reluctance to do this is understandable'.",
+            "bridge": "Chốt câu 30: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nói gì về hành động chia sẻ tai nghe dịch thuật.",
+          "<b>Paragraph 5 (dòng 2-3):</b> <i>''We find that there's a barrier with sharing one of the earphones with a stranger,' says Ochoa. That can't have been totally unexpected.'</i>",
+          "<b>Khớp từ:</b> <i>barrier with sharing</i> = <i>reluctance</i> (sự ngần ngại); <i>can't have been totally unexpected</i> = <i>understandable</i> (dễ hiểu).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Speech translation methods are developing fast in Japan",
+      "options": [
+        "A. but there are concerns about this.",
+        "B. as systems do not need to conform to standard practices.",
+        "C. but they are far from perfect.",
+        "D. despite the noise issues.",
+        "E. because translation is immediate.",
+        "F. and have an awareness of good manners."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q31",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung vế đầu",
+            "question": "Câu 31 nói: Các phương pháp dịch giọng nói đang phát triển rất nhanh ở Nhật Bản ('developing fast in Japan')... Vế sau sẽ nói điều gì?",
+            "guide": "Em hãy quét từ khóa 'Japan' ở đầu Paragraph 6 để xem tác giả nhận xét gì tiếp theo sau khi khen Nhật Bản phát triển nhanh.",
+            "bridge": "Cùng đọc câu đầu và câu thứ hai của Paragraph 6 nhé."
+          },
+          {
+            "title": "Đối chiếu dẫn chứng trong bài",
+            "question": "Paragraph 6 nói sau khi công nghệ này cất cánh ở Nhật thì thực tế vẫn còn điều gì cần khắc phục?",
+            "guide": "Bài viết: '...voice translation has really taken off in countries such as Japan with a range of systems. There is still a long way to go, though.' (dịch giọng nói đã thực sự bùng nổ ở những nước như Nhật... Tuy nhiên vẫn còn một chặng đường rất dài phía trước).",
+            "bridge": "'still a long way to go' (còn phải đi một chặng đường dài) nghĩa là công nghệ hiện tại còn lâu mới đạt đến độ hoàn hảo."
+          },
+          {
+            "title": "Chọn phần đuôi phù hợp",
+            "question": "Phần đuôi nào từ A đến F mang nghĩa 'nhưng chúng còn lâu mới hoàn hảo'?",
+            "guide": "Đó chính là C: 'but they are far from perfect'.",
+            "bridge": "Chốt câu 31: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung câu:</b> Công nghệ dịch giọng nói phát triển nhanh ở Nhật nhưng vẫn còn nhiều hạn chế.",
+          "<b>Paragraph 6 (dòng 1-2):</b> <i>'Waibel highlights... that voice translation has really taken off in countries such as Japan... There is still a long way to go, though.'</i>",
+          "<b>Khớp từ:</b> <i>developing fast in Japan</i> = <i>taken off in countries such as Japan</i>; <i>still a long way to go</i> = <i>far from perfect</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "TV interviews that use translation voiceover methods are successful",
+      "options": [
+        "A. but there are concerns about this.",
+        "B. as systems do not need to conform to standard practices.",
+        "C. but they are far from perfect.",
+        "D. despite the noise issues.",
+        "E. because translation is immediate.",
+        "F. and have an awareness of good manners."
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q32",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung vế đầu",
+            "question": "Câu 32 nói: Các cuộc phỏng vấn trên truyền hình dùng phương pháp lồng tiếng dịch đuổi rất thành công là nhờ lý do gì?",
+            "guide": "Em hãy quét từ khóa 'TV' và 'interviewed' ở giữa Paragraph 6 để xem ưu điểm của phương pháp này là gì.",
+            "bridge": "Đọc kỹ câu miêu tả về giọng dịch trên truyền hình."
+          },
+          {
+            "title": "Đối chiếu dẫn chứng trong bài",
+            "question": "Paragraph 6 nói giọng dịch trên TV có đặc điểm gì vượt trội hơn việc dịch từng đoạn ngắt quãng?",
+            "guide": "Bài viết: 'A translation system needs to be simultaneous, like the translator's voice speaking over the foreign politician being interviewed on the TV, rather than in sections that oblige speakers to pause...' (Hệ thống dịch cần phải diễn ra đồng thời, tức thì, giống như giọng phiên dịch nói đè lên lời chính trị gia nước ngoài trên TV, thay vì ngắt từng đoạn bắt người ta phải dừng lại chờ dịch).",
+            "bridge": "'simultaneous' chính là việc dịch được phát ra ngay lập tức, tức thì ('immediate')."
+          },
+          {
+            "title": "Chọn phần đuôi phù hợp",
+            "question": "Phần đuôi nào giải thích 'bởi vì việc dịch thuật diễn ra tức thì, không bị ngắt quãng'?",
+            "guide": "Đó chính là E: 'because translation is immediate'.",
+            "bridge": "Chốt câu 32: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung câu:</b> Phỏng vấn trên TV thành công vì bản dịch được truyền tải ngay lập tức, đồng thời.",
+          "<b>Paragraph 6 (dòng 3-5):</b> <i>'A translation system needs to be simultaneous, like the translator's voice speaking over the foreign politician being interviewed on the TV...'</i>",
+          "<b>Khớp từ:</b> <i>simultaneous</i> = <i>immediate</i> (ngay tức thì).",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Future translation systems should address people appropriately",
+      "options": [
+        "A. but there are concerns about this.",
+        "B. as systems do not need to conform to standard practices.",
+        "C. but they are far from perfect.",
+        "D. despite the noise issues.",
+        "E. because translation is immediate.",
+        "F. and have an awareness of good manners."
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q33",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung vế đầu",
+            "question": "Câu 33 nói: Các hệ thống dịch trong tương lai cần phải xưng hô với mọi người một cách chuẩn mực, đúng đắn ('address people appropriately') và còn phải làm gì nữa?",
+            "guide": "Em hãy quét từ khóa 'addressing people' ở câu đầu tiên của Paragraph 7.",
+            "bridge": "Cùng xem ngoài việc xưng hô đúng, máy dịch còn cần hiểu biết điều gì về văn hóa ứng xử."
+          },
+          {
+            "title": "Đối chiếu dẫn chứng trong bài",
+            "question": "Paragraph 7 nói máy dịch cần nhận thức về điều gì trong giao tiếp xã hội?",
+            "guide": "Bài viết: '...they will also need to be socially aware by addressing people in the right way... it is only polite to respect this. Etiquette-sensitive artificial translators...' (chúng cũng cần phải có nhận thức xã hội bằng cách xưng hô đúng mực... đó là phép lịch sự... máy dịch cần nhạy cảm với các quy tắc xã giao).",
+            "bridge": "'socially aware', 'polite' và 'etiquette-sensitive' chính là có hiểu biết về phép lịch sự, cung cách cư xử tốt."
+          },
+          {
+            "title": "Chọn phần đuôi phù hợp",
+            "question": "Phần đuôi nào mang nghĩa 'và có sự hiểu biết về phép lịch sự / cư xử đúng mực'?",
+            "guide": "Đó chính là F: 'and have an awareness of good manners'.",
+            "bridge": "Chốt câu 33: F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung câu:</b> Máy dịch tương lai cần xưng hô phù hợp và hiểu các phép lịch sự xã giao.",
+          "<b>Paragraph 7 (dòng 1-3):</b> <i>'...need to be socially aware by addressing people in the right way... it is only polite to respect this. Etiquette-sensitive artificial translators...'</i>",
+          "<b>Khớp từ:</b> <i>addressing people in the right way</i> = <i>address people appropriately</i>; <i>socially aware / polite / etiquette</i> = <i>have an awareness of good manners</i>.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Users may be able to maintain their local customs",
+      "options": [
+        "A. but there are concerns about this.",
+        "B. as systems do not need to conform to standard practices.",
+        "C. but they are far from perfect.",
+        "D. despite the noise issues.",
+        "E. because translation is immediate.",
+        "F. and have an awareness of good manners."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q34",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung vế đầu",
+            "question": "Câu 34 nói: Người dùng có thể giữ được những phong tục, tập quán địa phương của mình ('maintain their local customs') do nguyên nhân nào?",
+            "guide": "Em hãy quét cụm từ 'preserve local customs' ở cuối Paragraph 7.",
+            "bridge": "Cùng xem máy dịch giúp người dùng tránh việc phải tuân theo thói quen của tiếng Anh quốc tế ra sao."
+          },
+          {
+            "title": "Đối chiếu dẫn chứng trong bài",
+            "question": "Paragraph 7 giải thích máy dịch giúp người ta không bị bắt buộc phải làm theo các thói quen chuẩn mực quốc tế như thế nào?",
+            "guide": "Bài viết: 'At the same time, they might help to preserve local customs, slowing the spread of habits associated with international English, such as its readiness to get on first-name terms.' (đồng thời chúng giúp bảo tồn phong tục địa phương, làm chậm sự lan rộng của các thói quen tiếng Anh quốc tế như việc cứ thoải mái gọi tên thân mật).",
+            "bridge": "Nghĩa là người dùng không cần phải gượng ép tuân theo những thông lệ chuẩn mực chung của quốc tế."
+          },
+          {
+            "title": "Chọn phần đuôi phù hợp",
+            "question": "Phần đuôi nào mang nghĩa 'bởi vì hệ thống không bắt buộc phải tuân theo các thông lệ/chuẩn mực thông thường'?",
+            "guide": "Đó chính là B: 'as systems do not need to conform to standard practices'.",
+            "bridge": "Chốt câu 34: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung câu:</b> Người dùng có thể giữ phong tục địa phương vì máy móc không bắt họ phải theo những quy tắc phổ biến chung.",
+          "<b>Paragraph 7 (cuối đoạn):</b> <i>'...help to preserve local customs, slowing the spread of habits associated with international English, such as its readiness to get on first-name terms.'</i>",
+          "<b>Khớp từ:</b> <i>maintain their local customs</i> = <i>preserve local customs</i>; <i>slowing the spread of habits associated with international English</i> = <i>do not need to conform to standard practices</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Language translation systems will be seen as very useful throughout the academic and professional worlds.",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 35 khẳng định: Các hệ thống dịch ngôn ngữ sẽ được xem là 'rất hữu ích' trong toàn bộ giới học thuật và giới chuyên môn ('throughout the academic and professional worlds').",
+            "guide": "Em cần tìm Paragraph 8 nơi nhắc đến các giáo sư ('Professors') và giới chuyên gia ('professionals').",
+            "bridge": "Xem họ có muốn giao phó việc ngôn ngữ cho phần mềm dịch thuật không."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Câu đầu tiên của Paragraph 8 nói gì về thái độ của các giáo sư và chuyên gia đối với phần mềm dịch thuật?",
+            "guide": "Bài viết: 'Professors and other professionals will not outsource language awareness to software, though.' (Tuy nhiên, các giáo sư và giới chuyên gia khác sẽ không giao phó nhận thức ngôn ngữ cho phần mềm đâu).",
+            "bridge": "Họ từ chối phụ thuộc vào máy dịch vì chính kỹ năng ngôn ngữ trực tiếp của con người mới là thứ tạo ra giá trị."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Một bên khẳng định máy dịch sẽ 'rất hữu ích và được tin dùng khắp giới học thuật', còn bài đọc nói 'họ sẽ không dựa dẫm hay giao việc này cho phần mềm'. Hai ý này đối lập nhau, đúng không?",
+            "guide": "Thông tin hoàn toàn trái ngược với quan điểm tác giả, do đó chọn NO.",
+            "bridge": "Chốt câu 35: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Hệ thống dịch thuật sẽ được xem là rất hữu ích trong giới học thuật và chuyên gia.",
+          "<b>Paragraph 8 (câu đầu):</b> <i>'Professors and other professionals will not outsource language awareness to software, though.'</i> (Các giáo sư và giới chuyên môn sẽ không chuyển giao/nhờ cậy phần mềm làm việc ngôn ngữ).",
+          "<b>Đối chiếu:</b> Nhận định cho rằng hệ thống sẽ rất hữu ích trong giới chuyên môn trái ngược hoàn toàn với việc giới học thuật từ chối dựa dẫm vào phần mềm dịch.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "The overall value of automated translation to family life is yet to be shown.",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 36 nói gì? Giá trị thực sự của dịch thuật tự động đối với đời sống gia đình ('family life') vẫn chưa được chứng minh rõ ràng ('is yet to be shown').",
+            "guide": "Em hãy quét từ khóa 'family lives' ở đoạn giữa của Paragraph 8.",
+            "bridge": "Xem tác giả đánh giá thế nào về tác động của máy dịch đối với gia đình."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 nói về việc máy dịch có giúp ích cho đời sống gia đình ra sao?",
+            "guide": "Bài viết: 'Whether it will help people conduct their family lives or relationships is open to question...' (Liệu nó có giúp mọi người duy trì đời sống gia đình hay các mối quan hệ hay không thì vẫn còn là một dấu hỏi...).",
+            "bridge": "'open to question' (vẫn là dấu hỏi chưa ngã ngũ) đồng nghĩa hoàn toàn với 'yet to be shown' (vẫn còn phải chờ thời gian chứng minh).",
+            "answer": "open to question"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có trùng khớp 100% với quan điểm của tác giả không?",
+            "guide": "Rất trùng khớp, do đó đáp án là YES.",
+            "bridge": "Chốt câu 36: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Giá trị của máy dịch đối với đời sống gia đình vẫn chưa được khẳng định chắc chắn.",
+          "<b>Paragraph 8 (dòng 3-4):</b> <i>'Whether it will help people conduct their family lives or relationships is open to question...'</i>",
+          "<b>Khớp từ:</b> <i>is yet to be shown</i> = <i>is open to question</i> (vẫn còn là câu hỏi chưa có câu trả lời ngã ngũ).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Automated translation could make life more difficult for immigrant families.",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 37 nói: Dịch thuật tự động có thể làm cho cuộc sống của các gia đình nhập cư ('immigrant families') trở nên khó khăn hơn ('more difficult').",
+            "guide": "Em hãy quét từ khóa về người nhập cư ('migration') ở cuối Paragraph 8.",
+            "bridge": "Cùng xem máy dịch có thể giúp đỡ hay gây khó khăn cho họ nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Cuối Paragraph 8 nói công nghệ này có khả năng làm được điều tích cực gì cho các thế hệ gia đình nhập cư?",
+            "guide": "Bài viết: '...though one noteworthy possibility is that it could overcome the language barriers that often arise between generations after migration, leaving children and their grandparents without a shared language.' (một khả năng đáng chú ý là nó có thể giúp vượt qua rào cản ngôn ngữ giữa các thế hệ sau khi di cư, vốn khiến con cháu và ông bà không nói chuyện được với nhau).",
+            "bridge": "'giúp vượt qua rào cản ngôn ngữ' (overcome language barriers) là một điều có ích, giúp cuộc sống dễ dàng hơn chứ không phải 'gây khó khăn hơn'."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo làm 'khó khăn hơn', còn bài đọc bảo 'giúp vượt qua rào cản'. Hai ý này ngược nhau, đúng không?",
+            "guide": "Ý đối lập hoàn toàn nên đáp án là NO.",
+            "bridge": "Chốt câu 37: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Máy dịch tự động có thể khiến cuộc sống các gia đình nhập cư khó khăn hơn.",
+          "<b>Paragraph 8 (câu cuối):</b> <i>'...it could overcome the language barriers that often arise between generations after migration...'</i> (nó có thể giúp vượt qua rào cản ngôn ngữ thường nảy sinh giữa các thế hệ sau khi di cư).",
+          "<b>Đối chiếu:</b> Nhận định nói làm khó khăn hơn (<i>make life more difficult</i>) trái ngược với việc giúp xóa bỏ rào cản ngôn ngữ để gắn kết gia đình (<i>overcome language barriers</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Visual aspects of language translation are being considered by scientists.",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 38 nói: Các khía cạnh hình ảnh ('Visual aspects') của việc dịch ngôn ngữ hiện đang được các nhà khoa học nghiên cứu/xem xét ('are being considered by scientists').",
+            "guide": "Em hãy quét từ khóa về mặt hình ảnh, khẩu hình miệng ở đầu Paragraph 9.",
+            "bridge": "Cùng xem bài đọc có nhắc đến việc các nhà khoa học đang nghiên cứu giải quyết chuyện này không."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 9 miêu tả gì về hình ảnh cử động môi khi nói?",
+            "guide": "Bài viết: 'Even if voice-morphing technology simulates the speaker's voice, their lip movements won't match, and they will look like they are in a dubbed movie.' (kể cả khi công nghệ giả lập được giọng nói thì cử động môi cũng không khớp, nhìn như phim lồng tiếng).",
+            "bridge": "Tác giả chỉ nêu ra hiện tượng là cử động môi không khớp, nhưng bài có nói các nhà khoa học 'đang xem xét/nghiên cứu vấn đề này' không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Không hề có thông tin nói rằng các nhà khoa học đang nghiên cứu khía cạnh hình ảnh này. Vậy đáp án là gì?",
+            "guide": "Thiếu thông tin nên ta chọn NOT GIVEN.",
+            "bridge": "Chốt câu 38: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các khía cạnh thị giác/hình ảnh của việc dịch ngôn ngữ đang được các nhà khoa học xem xét.",
+          "<b>Paragraph 9 (dòng 2-3):</b> Bài chỉ miêu tả rằng cử động môi sẽ không khớp với giọng nói (<i>'their lip movements won't match'</i>).",
+          "<b>Đối chiếu:</b> Không có bất kỳ chi tiết nào nói rằng các nhà khoa học đang nghiên cứu hay tìm cách xử lý vấn đề thị giác này (<i>being considered by scientists</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "International scientists have found English easier to translate into other languages than Latin.",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q39",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích phép so sánh",
+            "question": "Câu 39 đưa ra phép so sánh nào? Các nhà khoa học quốc tế thấy rằng tiếng Anh dễ dịch sang các thứ tiếng khác hơn là tiếng Latinh ('easier to translate into other languages than Latin').",
+            "guide": "Em hãy quét từ khóa 'scientists', 'English' và 'Latin' ở giữa Paragraph 9.",
+            "bridge": "Xem tác giả so sánh hai ngôn ngữ này ở khía cạnh nào."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 9 nhắc đến tiếng Anh và tiếng Latinh như thế nào?",
+            "guide": "Bài viết: các nhà khoa học quốc tế dùng tiếng Anh làm ngôn ngữ chung, giống như các thế hệ đi trước từng dùng tiếng Latinh ('international scientists who use English as a lingua franca, where their predecessors used Latin').",
+            "bridge": "Bài chỉ nói cả hai từng được dùng làm ngôn ngữ chung, chứ có nói tiếng nào 'dễ dịch hơn' tiếng nào không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Hoàn toàn không có phép so sánh về việc tiếng nào dễ dịch hơn. Vậy đáp án là gì?",
+            "guide": "Thiếu dữ liệu so sánh nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 39: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các nhà khoa học thấy tiếng Anh dễ dịch sang ngôn ngữ khác hơn tiếng Latinh.",
+          "<b>Paragraph 9 (dòng 4-5):</b> Nhắc đến việc các nhà khoa học dùng tiếng Anh làm ngôn ngữ chung, giống như thế hệ đi trước dùng tiếng Latinh (<i>'use English as a lingua franca, where their predecessors used Latin'</i>).",
+          "<b>Đối chiếu:</b> Không có sự so sánh nào về việc ngôn ngữ nào dễ dịch thuật hơn (<i>easier to translate</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "As far as language is concerned, there is a difference between people's social and practical needs.",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 40 nói gì? Xét về mặt ngôn ngữ, có một sự khác biệt rõ rệt giữa nhu cầu xã hội ('social needs') và nhu cầu thực tế ('practical needs') của con người.",
+            "guide": "Em hãy đọc những câu cuối cùng của Paragraph 9 chỗ nhắc đến hai từ 'practical' và 'social'.",
+            "bridge": "Xem tác giả phân định hai nhu cầu này ra sao."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Ở cuối Paragraph 9, tác giả viết gì về nhu cầu thực tế so với giá trị xã hội của việc nói chung ngôn ngữ?",
+            "guide": "Tác giả viết: 'Though the practical need for a common language will diminish, the social value of sharing one will persist.' (Mặc dù nhu cầu thực tế về một ngôn ngữ chung sẽ giảm dần, nhưng giá trị xã hội của việc chia sẻ cùng một tiếng nói vẫn sẽ tồn tại mãi).",
+            "bridge": "Tác giả chỉ rõ nhu cầu thực tế (practical) có thể mất đi nhưng giá trị xã hội (social) thì luôn tồn tại, cho thấy hai khía cạnh này hoàn toàn khác nhau."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Nhận định hoàn toàn trùng khớp với phân tích của tác giả trong bài. Vậy đáp án là gì?",
+            "guide": "Đáp án chính xác là YES.",
+            "bridge": "Hoàn thành toàn bộ Passage 3! Chốt câu 40: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Có sự khác nhau giữa nhu cầu xã hội và nhu cầu thực tế của con người về mặt ngôn ngữ.",
+          "<b>Paragraph 9 (cuối đoạn):</b> <i>'Though the practical need for a common language will diminish, the social value of sharing one will persist.'</i> (Dù nhu cầu thực tế về một ngôn ngữ chung sẽ giảm, nhưng giá trị xã hội thì vẫn tồn tại).",
+          "<b>Khớp ý:</b> Tác giả phân định rành rọt giữa nhu cầu thực tế (<i>practical need</i>) và giá trị/nhu cầu xã hội (<i>social value</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}
