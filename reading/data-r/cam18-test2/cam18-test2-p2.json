@@ -1,0 +1,556 @@
+{
+  "title": "IELTS Academic 18 - Test 2 - Passage 2: Living with artificial intelligence",
+  "answers": {
+    "q14": "C",
+    "q15": "A",
+    "q16": "B",
+    "q17": "D",
+    "q18": "C",
+    "q19": "D",
+    "q20": "YES",
+    "q21": "NOT GIVEN",
+    "q22": "NO",
+    "q23": "YES",
+    "q24": "C",
+    "q25": "A",
+    "q26": "E"
+  },
+  "passageHtml": "<h2>READING PASSAGE 2</h2><h3>Living with artificial intelligence</h3><p><em>Powerful artificial intelligence (AI) needs to be reliably aligned with human values, but does this mean AI will eventually have to police those values?</em></p><p><strong>Paragraph 1.</strong> This has been the decade of AI, with one astonishing feat after another. A chess-playing AI that can defeat not only all human chess players, but also all previous human-programmed chess machines, after learning the game in just four hours? That's yesterday's news, what's next? True, these prodigious accomplishments are all in so-called narrow AI, where machines perform highly specialised tasks. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">But many experts believe this restriction is very temporary. By mid-century, we may have artificial general intelligence (AGI) – machines that can achieve human-level performance on the full range of tasks that we ourselves can tackle</span>.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">If so, there's little reason to think it will stop there. Machines will be free of many of the physical constraints on human intelligence. Our brains run at slow biochemical processing speeds on the power of a light bulb, and their size is restricted by the dimensions of the human birth canal. It is remarkable what they accomplish, given these handicaps. But they may be as far from the physical limits of thought as our eyes are from the incredibly powerful Webb Space Telescope</span>.</p><p><strong>Paragraph 3.</strong> Once machines are better than us at designing even smarter machines, progress towards these limits could accelerate. What would this mean for us? Could we ensure a safe and worthwhile coexistence with such machines? On the plus side, AI is already useful and profitable for many things, and super AI might be expected to be super useful, and super profitable. But the more powerful AI becomes, the more important it will be to specify its goals with great care. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Folklore is full of tales of people who ask for the wrong thing, with disastrous consequences – King Midas, for example, might have wished that everything he touched turned to gold, but didn't really intend this to apply to his breakfast</span>.</p><p><strong>Paragraph 4.</strong> So we need to create powerful AI machines that are 'human-friendly' – that have goals reliably aligned with our own values. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">One thing that makes this task difficult is that we are far from reliably human-friendly ourselves. We do many terrible things to each other and to many other creatures with whom we share the planet. If superintelligent machines don't do a lot better than us, we'll be in deep trouble. We'll have powerful new intelligence amplifying the dark sides of our own fallible natures</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">For safety's sake, then, we want the machines to be ethically as well as cognitively superhuman. We want them to aim for the moral high ground, not for the troughs in which many of us spend some of our time. Luckily they'll be smart enough for the job. If there are routes to the moral high ground, they'll be better than us at finding them, and steering us in the right direction</span>.</p><p><strong>Paragraph 6.</strong> However, there are two big problems with this utopian vision. One is how we get the machines started on the journey, the other is what it would mean to reach this destination. The 'getting started' problem is that we need to tell the machines what they're looking for with sufficient clarity that we can be confident they will find it – whatever 'it' actually turns out to be. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">This won't be easy, given that we are tribal creatures and conflicted about the ideals ourselves. We often ignore the suffering of strangers, and even contribute to it, at least indirectly. How then, do we point machines in the direction of something better?</span></p><p><strong>Paragraph 7.</strong> As for the 'destination' problem, we might, by putting ourselves in the hands of these moral guides and gatekeepers, be sacrificing our own autonomy – an important part of what makes us human. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Machines who are better than us at sticking to the moral high ground may be expected to discourage some of the lapses we presently take for granted. We might lose our freedom to discriminate in favour of our own communities, for example</span>.</p><p><strong>Paragraph 8.</strong> Loss of freedom to behave badly isn't always a bad thing, of course: denying ourselves the freedom to put children to work in factories, or to smoke in restaurants are signs of progress. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\"><span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">But are we ready for ethical silicon police limiting our options? They might be so good at doing it that we won't notice them; but few of us are likely to welcome such a future</span></span>.</p><p><strong>Paragraph 9.</strong> These issues might seem far-fetched, but they are to some extent already here. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">AI already has some input into how resources are used in our National Health Service (NHS) here in the UK, for example</span>. If it was given a greater role, it might do so much more efficiently than humans can manage, and act in the interests of taxpayers and those who use the health system. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">However, we'd be depriving some humans (e.g. senior doctors) of the control they presently enjoy</span></span>. Since we'd want to ensure that people are treated equally and that policies are fair, the goals of AI would need to be specified correctly.</p><p><strong>Paragraph 10.</strong> We have a new powerful technology to deal with – itself, literally, a new way of thinking. For our own safety, we need to point these new thinkers in the right direction, and get them to act well for us. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">It is not yet clear whether this is possible, but if it is, it will require a cooperative spirit, and a willingness to set aside self-interest</span>.</p><p><strong>Paragraph 11.</strong> Both general intelligence and moral reasoning are often thought to be uniquely human capacities. But safety seems to require that we think of them as a package: if we are to give general intelligence to machines, we'll need to give them moral authority, too. And where exactly would that leave human beings? All the more reason to think about the destination now, and to be careful about what we wish for.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "title": "Questions 14-19",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 14-19 on your answer sheet.</i>",
+      "questionIds": ["q14", "q15", "q16", "q17", "q18", "q19"]
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "title": "Questions 20-23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 2?<br>In boxes 20-23 on your answer sheet, write:<br><b>YES</b> if the statement agrees with the claims of the writer<br><b>NO</b> if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": ["q20", "q21", "q22", "q23"]
+    },
+    {
+      "id": "g3",
+      "type": "summary_options",
+      "title": "Questions 24-26",
+      "instructions": "<i>Complete the summary using the list of phrases, <b>A-F</b>, below.<br>Write the correct letter, <b>A-F</b>, in boxes 24-26 on your answer sheet.</i>",
+      "options": [
+        "A. medical practitioners",
+        "B. specialised tasks",
+        "C. available resources",
+        "D. reduced illness",
+        "E. professional authority",
+        "F. technology experts"
+      ],
+      "summaryTitle": "Using AI in the UK health system",
+      "questionIds": ["q24", "q25", "q26"],
+      "template": "<p>AI currently has a limited role in the way <b>24.</b> {{q24}} are allocated in the health service. The positive aspect of AI having a bigger role is that it would be more efficient and lead to patient benefits. However, such a change would result, for example, in certain <b>25.</b> {{q25}} not having their current level of <b>26.</b> {{q26}}. It is therefore important that AI goals are appropriate so that discriminatory practices could be avoided.</p>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "What point does the writer make about AI in the first paragraph?",
+      "options": [
+        "A. It is difficult to predict how quickly AI will progress.",
+        "B. Much can be learned about the use of AI in chess machines.",
+        "C. The future is unlikely to see limitations on the capabilities of AI.",
+        "D. Experts disagree on which specialised tasks AI will be able to perform."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q14",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 14 hỏi: Ở Paragraph 1, tác giả đưa ra quan điểm gì về trí tuệ nhân tạo (AI)?",
+            "guide": "Em hãy đọc kỹ phần cuối của Paragraph 1 xem các chuyên gia dự đoán gì về giới hạn khả năng của AI trong tương lai.",
+            "bridge": "Cùng đọc câu cuối Paragraph 1 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 1 viết: 'many experts believe this restriction is very temporary. By mid-century, we may have artificial general intelligence (AGI) – machines that can achieve human-level performance on the full range of tasks...'. Câu này có nghĩa là gì?",
+            "guide": "Nghĩa là: sự giới hạn hiện tại của AI chỉ là tạm thời, đến giữa thế kỷ này máy móc có thể làm được toàn bộ mọi nhiệm vụ mà con người có thể làm được.",
+            "bridge": "Sự giới hạn chỉ là tạm thời và máy móc sẽ làm được toàn bộ mọi việc, tức là tương lai sẽ khó có giới hạn nào cho năng lực của AI."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang ý nghĩa 'Tương lai khó có thể thấy giới hạn nào đặt ra cho năng lực của AI'?",
+            "guide": "Đó là phương án C: 'The future is unlikely to see limitations on the capabilities of AI'.",
+            "bridge": "Chốt câu 14: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nói gì về AI ở Paragraph 1?",
+          "<b>Paragraph 1 (cuối đoạn):</b> <i>'...many experts believe this restriction is very temporary. By mid-century, we may have artificial general intelligence (AGI) – machines that can achieve human-level performance on the full range of tasks that we ourselves can tackle.'</i>",
+          "<b>Khớp ý:</b> Giới hạn chỉ là tạm thời (<i>restriction is very temporary</i>) và máy móc sẽ làm được mọi việc = Tương lai khó có giới hạn cho năng lực của AI (<i>The future is unlikely to see limitations on the capabilities of AI</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "What is the writer doing in the second paragraph?",
+      "options": [
+        "A. explaining why machines will be able to outperform humans",
+        "B. describing the characteristics that humans and machines share",
+        "C. giving information about the development of machine intelligence",
+        "D. indicating which aspects of humans are the most advanced"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q15",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 15 hỏi: Tác giả đang làm điều gì trong Paragraph 2?",
+            "guide": "Em hãy đọc Paragraph 2 xem tác giả so sánh não bộ con người và máy móc về mặt giới hạn thể chất như thế nào.",
+            "bridge": "Cùng đọc các câu trong Paragraph 2 nhé."
+          },
+          {
+            "title": "Phân tích nội dung Paragraph 2",
+            "question": "Paragraph 2 nói máy móc sẽ thoát khỏi những giới hạn sinh học của con người (tốc độ xử lý sinh hóa chậm, kích thước não bị giới hạn bởi xương chậu khi sinh). Mục đích của việc nêu các giới hạn này là gì?",
+            "guide": "Để giải thích tại sao trí thông minh của máy móc sẽ vượt xa con người, giống như kính viễn vọng không gian Webb nhìn xa hơn mắt người.",
+            "bridge": "Tác giả chỉ ra các rào cản của con người mà máy móc không bị vướng phải để chứng minh máy sẽ vượt trội hơn con người."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nêu đúng mục đích 'giải thích tại sao máy móc sẽ có thể vượt trội hơn con người'?",
+            "guide": "Đó là phương án A: 'explaining why machines will be able to outperform humans'.",
+            "bridge": "Chốt câu 15: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả đang làm gì ở Paragraph 2?",
+          "<b>Paragraph 2:</b> <i>'Machines will be free of many of the physical constraints on human intelligence. Our brains run at slow biochemical processing speeds... and their size is restricted... But they may be as far from the physical limits of thought as our eyes are from the incredibly powerful Webb Space Telescope.'</i>",
+          "<b>Khớp ý:</b> Nêu các hạn chế sinh học của con người để lý giải vì sao máy móc sẽ vượt trội hơn chúng ta (<i>explaining why machines will be able to outperform humans</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "Why does the writer mention the story of King Midas?",
+      "options": [
+        "A. to compare different visions of progress",
+        "B. to illustrate that poorly defined objectives can go wrong",
+        "C. to emphasise the need for cooperation",
+        "D. to point out the financial advantages of a course of action"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q16",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 16 hỏi: Vì sao tác giả lại nhắc đến câu chuyện về vua Midas ở Paragraph 3?",
+            "guide": "Em hãy đọc câu văn đứng ngay trước ví dụ về vua Midas ở cuối Paragraph 3.",
+            "bridge": "Cùng xem bài học từ câu chuyện vua Midas là gì nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 3 viết: '...the more important it will be to specify its goals with great care. Folklore is full of tales of people who ask for the wrong thing, with disastrous consequences – King Midas, for example...'. Chi tiết này nói lên điều gì?",
+            "guide": "Càng nhiều sức mạnh thì càng phải xác định mục tiêu thật cẩn thận, vì nếu đặt ra mục tiêu sai hoặc không rõ ràng (như vua Midas ước chạm gì cũng thành vàng, kể cả bữa sáng) thì sẽ dẫn đến hậu quả tai hại.",
+            "bridge": "Câu chuyện minh họa cho việc đặt mục tiêu không chuẩn xác sẽ dẫn đến sai lầm."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang ý 'minh họa rằng những mục tiêu không được xác định rõ ràng có thể dẫn đến sai lầm'?",
+            "guide": "Đó là phương án B: 'to illustrate that poorly defined objectives can go wrong'.",
+            "bridge": "Chốt câu 16: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tại sao tác giả nhắc đến câu chuyện vua Midas?",
+          "<b>Paragraph 3 (cuối đoạn):</b> <i>'...the more important it will be to specify its goals with great care. Folklore is full of tales of people who ask for the wrong thing, with disastrous consequences – King Midas, for example...'</i>",
+          "<b>Khớp ý:</b> Vua Midas ước chạm vào cái gì cũng thành vàng dẫn đến không ăn được bữa sáng = ví dụ cho việc đặt mục tiêu không rõ ràng/thiếu cẩn trọng sẽ dẫn đến hậu quả tai hại (<i>poorly defined objectives can go wrong</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "What challenge does the writer refer to in the fourth paragraph?",
+      "options": [
+        "A. encouraging humans to behave in a more principled way",
+        "B. deciding which values we want AI to share with us",
+        "C. creating a better world for all creatures on the planet",
+        "D. ensuring AI is more human-friendly than we are ourselves"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q17",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 17 hỏi: Thử thách mà tác giả nhắc tới ở Paragraph 4 là gì?",
+            "guide": "Em hãy đọc kỹ các câu nói về sự khó khăn ('makes this task difficult') trong Paragraph 4.",
+            "bridge": "Cùng xem tại sao việc làm ra AI thân thiện với con người lại khó khăn nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 4 chỉ ra nghịch lý gì ở con người chúng ta?",
+            "guide": "Paragraph 4 viết: 'One thing that makes this task difficult is that we are far from reliably human-friendly ourselves... If superintelligent machines don't do a lot better than us, we'll be in deep trouble.' (Bản thân con người chúng ta còn lâu mới thực sự thân thiện, ta làm nhiều điều tồi tệ với nhau. Nếu máy móc không tốt hơn hẳn chúng ta, ta sẽ gặp rắc rối lớn).",
+            "bridge": "Thử thách lớn nhất là máy móc phải tốt hơn, nhân văn hơn chính bản thân con người chúng ta."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nêu đúng thử thách này?",
+            "guide": "Đó là phương án D: 'ensuring AI is more human-friendly than we are ourselves'.",
+            "bridge": "Chốt câu 17: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Thử thách được nêu ở Paragraph 4 là gì?",
+          "<b>Paragraph 4:</b> <i>'One thing that makes this task difficult is that we are far from reliably human-friendly ourselves... If superintelligent machines don't do a lot better than us, we'll be in deep trouble.'</i>",
+          "<b>Khớp ý:</b> Con người làm nhiều điều xấu cho nhau, nên máy móc phải làm tốt hơn chúng ta = Đảm bảo AI phải thân thiện với con người hơn cả chính bản thân con người (<i>ensuring AI is more human-friendly than we are ourselves</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "What does the writer suggest about the future of AI in the fifth paragraph?",
+      "options": [
+        "A. The safety of machines will become a key issue.",
+        "B. It is hard to know what impact machines will have on the world.",
+        "C. Machines will be superior to humans in certain respects.",
+        "D. Many humans will oppose machines having a wider role."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q18",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 18 hỏi: Tác giả gợi ý điều gì về tương lai của AI ở Paragraph 5?",
+            "guide": "Em hãy đọc kỹ các câu của Paragraph 5 nói về khả năng đạo đức và trí tuệ của máy móc.",
+            "bridge": "Cùng xem máy móc sẽ làm tốt hơn con người ở điểm nào nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 5 viết về năng lực của máy móc trong tương lai như thế nào?",
+            "guide": "Paragraph 5 viết: '...we want the machines to be ethically as well as cognitively superhuman... If there are routes to the moral high ground, they'll be better than us at finding them, and steering us in the right direction.' (chúng sẽ giỏi hơn chúng ta trong việc tìm ra chuẩn mực đạo đức cao đẹp và dẫn lối cho chúng ta).",
+            "bridge": "'better than us at finding them' nghĩa là máy móc sẽ vượt trội hơn con người ở một số khía cạnh (như đạo đức và nhận thức).",
+            "answer": "better than us"
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nêu ý 'Máy móc sẽ vượt trội hơn con người ở một số khía cạnh nhất định'?",
+            "guide": "Đó là phương án C: 'Machines will be superior to humans in certain respects'.",
+            "bridge": "Chốt câu 18: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả gợi ý gì về tương lai của AI ở Paragraph 5?",
+          "<b>Paragraph 5:</b> <i>'...we want the machines to be ethically as well as cognitively superhuman... they'll be better than us at finding them, and steering us in the right direction.'</i>",
+          "<b>Khớp ý:</b> <i>superhuman / better than us</i> = vượt trội hơn con người ở một số khía cạnh (<i>superior to humans in certain respects</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Which of the following best summarises the writer's argument in the sixth paragraph?",
+      "options": [
+        "A. More intelligent machines will result in greater abuses of power.",
+        "B. Machine learning will share very few features with human learning.",
+        "C. There are a limited number of people with the knowledge to program machines.",
+        "D. Human shortcomings will make creating the machines we need more difficult."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q19",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 19 hỏi: Ý nào tóm tắt đúng nhất luận điểm của tác giả trong Paragraph 6?",
+            "guide": "Em hãy đọc kỹ Paragraph 6 xem tác giả nêu ra khó khăn gì khi con người bắt đầu dạy máy móc.",
+            "bridge": "Cùng đọc câu hỏi cuối cùng của Paragraph 6 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 6 nói tại sao việc định hướng cho máy móc lại không hề dễ dàng?",
+            "guide": "Paragraph 6 viết: 'This won't be easy, given that we are tribal creatures and conflicted about the ideals ourselves. We often ignore the suffering of strangers... How then, do we point machines in the direction of something better?' (Điều này không dễ dàng, vì con người chúng ta còn đầy mâu thuẫn về lý tưởng, hay ích kỷ bè phái và ngó lơ nỗi đau của người lạ).",
+            "bridge": "Những khiếm khuyết, thói hư tật xấu của con người khiến việc dạy máy móc trở nên khó khăn hơn."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nêu đúng ý 'Những khiếm khuyết của con người sẽ làm cho việc tạo ra cỗ máy ta cần trở nên khó khăn hơn'?",
+            "guide": "Đó là phương án D: 'Human shortcomings will make creating the machines we need more difficult'.",
+            "bridge": "Chốt câu 19: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tóm tắt luận điểm của tác giả ở Paragraph 6.",
+          "<b>Paragraph 6:</b> <i>'This won't be easy, given that we are tribal creatures and conflicted about the ideals ourselves. We often ignore the suffering of strangers... How then, do we point machines in the direction of something better?'</i>",
+          "<b>Khớp ý:</b> Con người có nhiều mâu thuẫn, định kiến và tính xấu = những thiếu sót của con người (<i>Human shortcomings</i>) làm việc dạy và tạo ra cỗ máy tốt đẹp trở nên khó khăn hơn (<i>make creating the machines we need more difficult</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Machines with the ability to make moral decisions may prevent us from promoting the interests of our communities.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q20",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 20 nói gì? Máy móc có khả năng đưa ra quyết định đạo đức có thể ngăn cản chúng ta thiên vị, thúc đẩy lợi ích cho cộng đồng riêng của mình ('prevent us from promoting the interests of our communities').",
+            "guide": "Em hãy đọc Paragraph 7 xem khi máy móc nắm quyền đạo đức, chúng ta có bị mất quyền ưu ái cho nhóm của mình không.",
+            "bridge": "Cùng đọc câu cuối Paragraph 7 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Câu cuối Paragraph 7 viết gì về quyền tự do thiên vị?",
+            "guide": "Paragraph 7 viết: 'We might lose our freedom to discriminate in favour of our own communities, for example.' (Chúng ta có thể sẽ mất đi quyền tự do thiên vị cho cộng đồng của chính mình).",
+            "bridge": "'lose our freedom to discriminate in favour of our own communities' chính là bị ngăn cản việc ưu tiên cho nhóm của mình."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Nhận định của đề bài có trùng khớp hoàn toàn với câu văn trong bài không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn YES.",
+            "bridge": "Chốt câu 20: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Máy móc có đạo đức có thể ngăn chúng ta thiên vị lợi ích cho cộng đồng của mình.",
+          "<b>Paragraph 7 (câu cuối):</b> <i>'We might lose our freedom to discriminate in favour of our own communities, for example.'</i>",
+          "<b>Khớp từ:</b> <i>prevent us from promoting the interests of our communities</i> = <i>lose our freedom to discriminate in favour of our own communities</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Silicon police would need to exist in large numbers in order to be effective.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q21",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Tìm từ khóa nhận định",
+            "question": "Câu 21 nói gì? 'Cảnh sát silicon' (ý chỉ AI giám sát) cần phải tồn tại với số lượng lớn ('exist in large numbers') thì mới hoạt động hiệu quả được.",
+            "guide": "Em hãy tìm cụm từ 'silicon police' ở Paragraph 8 để kiểm tra.",
+            "bridge": "Cùng đọc Paragraph 8 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 có nhắc đến số lượng 'cảnh sát silicon' cần thiết không?",
+            "guide": "Paragraph 8 viết: 'But are we ready for ethical silicon police limiting our options? They might be so good at doing it that we won't notice them; but few of us are likely to welcome such a future.'",
+            "bridge": "Tác giả chỉ hỏi liệu chúng ta đã sẵn sàng cho cảnh sát silicon hay chưa và bảo họ làm tốt đến mức ta không nhận ra, chứ không hề nói cần số lượng lớn ('large numbers') thì mới hiệu quả."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài đọc không hề nói về số lượng cảnh sát silicon cần có. Vậy đáp án là gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 21: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Cảnh sát silicon cần phải có số lượng lớn mới phát huy hiệu quả.",
+          "<b>Paragraph 8:</b> <i>'But are we ready for ethical silicon police limiting our options? They might be so good at doing it that we won't notice them...'</i>",
+          "<b>Đối chiếu:</b> Tác giả chỉ bàn về việc con người có chấp nhận bị giám sát hay không, hoàn toàn không đề cập đến việc cần số lượng lớn (<i>in large numbers</i>) để có hiệu quả.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Many people are comfortable with the prospect of their independence being restricted by machines.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q22",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 22 nói gì? Nhiều người cảm thấy thoải mái ('Many people are comfortable') trước viễn cảnh quyền tự chủ của mình bị máy móc hạn chế.",
+            "guide": "Em hãy đọc câu cuối của Paragraph 8 xem thái độ của con người đối với tương lai bị máy móc giới hạn lựa chọn là gì.",
+            "bridge": "Cùng xem câu cuối Paragraph 8 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Câu cuối Paragraph 8 nói có bao nhiêu người đón nhận tương lai bị máy móc giới hạn?",
+            "guide": "Paragraph 8 viết: '...but few of us are likely to welcome such a future.' (nhưng rất ít người trong chúng ta sẵn lòng chào đón một tương lai như thế).",
+            "bridge": "'few of us' nghĩa là hầu như không có ai hoan nghênh, trái ngược với 'many people are comfortable'."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Một bên bảo 'nhiều người thoải mái', còn bài đọc bảo 'rất ít ai đón nhận'. Hai ý này ngược nhau, đúng không?",
+            "guide": "Thông tin đối lập 100% nên chọn NO.",
+            "bridge": "Chốt câu 22: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Nhiều người cảm thấy thoải mái khi quyền độc lập của mình bị máy móc hạn chế.",
+          "<b>Paragraph 8 (câu cuối):</b> <i>'...but few of us are likely to welcome such a future.'</i> (rất ít người trong chúng ta chịu hoan nghênh một tương lai như vậy).",
+          "<b>Đối chiếu:</b> Nhận định nói nhiều người thấy thoải mái (<i>Many people are comfortable</i>) trái ngược hoàn toàn với việc hầu như chẳng ai hoan nghênh (<i>few of us are likely to welcome</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "If we want to ensure that machines act in our best interests, we all need to work together.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 23 nói gì? Nếu muốn đảm bảo máy móc hành động vì lợi ích tốt nhất của con người, tất cả chúng ta cần phải hợp tác cùng nhau ('we all need to work together').",
+            "guide": "Em hãy đọc Paragraph 10 xem tác giả nói điều kiện cần thiết để điều hướng AI là gì.",
+            "bridge": "Cùng đọc câu cuối Paragraph 10 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Câu cuối Paragraph 10 nói để bắt máy móc hành xử tốt vì chúng ta thì cần điều gì?",
+            "guide": "Paragraph 10 viết: '...it will require a cooperative spirit, and a willingness to set aside self-interest.' (nó sẽ đòi hỏi tinh thần hợp tác, và sự sẵn lòng gạt bỏ tư lợi cá nhân).",
+            "bridge": "'a cooperative spirit' (tinh thần hợp tác) chính là 'we all need to work together'."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý kiến này có trùng khớp hoàn toàn với lời tác giả không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn YES.",
+            "bridge": "Chốt câu 23: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Muốn máy móc hành động vì lợi ích của ta, tất cả cần hợp tác với nhau.",
+          "<b>Paragraph 10 (câu cuối):</b> <i>'...it will require a cooperative spirit, and a willingness to set aside self-interest.'</i>",
+          "<b>Khớp từ:</b> <i>work together</i> = <i>cooperative spirit</i> (tinh thần hợp tác).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "C",
+      "highlightId": "hl-q24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu ý câu tóm tắt",
+            "question": "Đọc câu tóm tắt: Hiện tại AI có vai trò còn hạn chế trong việc cái gì được phân bổ trong dịch vụ y tế ('in the way 24 ______ are allocated in the health service')?",
+            "guide": "Sau 'the way' cần một danh từ chỉ những thứ được phân bổ, phân phát trong ngành y tế.",
+            "bridge": "Hãy tìm tên dịch vụ y tế Anh quốc 'National Health Service (NHS)' ở Paragraph 9."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 9 nói AI đã tham gia một phần vào việc phân bổ cái gì trong NHS?",
+            "guide": "Paragraph 9 viết: 'AI already has some input into how resources are used in our National Health Service (NHS)...' (AI đã đóng góp một phần vào cách các nguồn lực được sử dụng).",
+            "bridge": "'how resources are used' tương đương với cách mà các nguồn lực sẵn có được phân bổ."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung A-F mang nghĩa 'nguồn lực sẵn có'?",
+            "guide": "Đó là C: 'available resources'.",
+            "bridge": "Chốt câu 24: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> AI hiện đóng vai trò hạn chế trong cách phân bổ nguồn lực trong ngành y tế.",
+          "<b>Paragraph 9 (dòng 2):</b> <i>'AI already has some input into how resources are used in our National Health Service (NHS)...'</i>",
+          "<b>Khớp từ:</b> <i>how resources are used / allocated</i> = <i>available resources</i> (các nguồn lực sẵn có).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "A",
+      "highlightId": "hl-q25",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu ý câu tóm tắt",
+            "question": "Đọc tiếp câu tóm tắt: Tuy nhiên, sự thay đổi này sẽ dẫn tới việc một số đối tượng nào đó ('certain 25 ______') không còn giữ được mức độ quyền hạn như hiện tại?",
+            "guide": "Chỗ trống 25 cần một danh từ số nhiều chỉ đối tượng người làm việc trong ngành y tế bị tước bớt quyền kiểm soát.",
+            "bridge": "Hãy đọc tiếp câu nói về việc tước quyền kiểm soát ở Paragraph 9."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 9 nói ai sẽ bị tước bớt quyền kiểm soát mà họ đang có?",
+            "guide": "Paragraph 9 viết: 'However, we'd be depriving some humans (e.g. senior doctors) of the control they presently enjoy.' (chúng ta sẽ tước đi quyền kiểm soát của một số người, ví dụ như các bác sĩ cấp cao).",
+            "bridge": "Các bác sĩ cấp cao (senior doctors) chính là những người hành nghề y tế."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung A-F chỉ những người làm nghề y / bác sĩ?",
+            "guide": "Đó là A: 'medical practitioners' (những người hành nghề y).",
+            "bridge": "Chốt câu 25: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Sự thay đổi sẽ khiến một số người làm nghề y mất đi quyền kiểm soát hiện có.",
+          "<b>Paragraph 9 (dòng 5):</b> <i>'However, we'd be depriving some humans (e.g. senior doctors) of the control they presently enjoy.'</i>",
+          "<b>Khớp từ:</b> <i>senior doctors</i> = <i>medical practitioners</i> (những người làm nghề y).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "E",
+      "highlightId": "hl-q26",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu ý câu tóm tắt",
+            "question": "Đọc tiếp câu tóm tắt: Các bác sĩ sẽ không còn giữ được mức độ gì của họ như hiện nay ('not having their current level of 26 ______')?",
+            "guide": "Sau 'level of' cần một danh từ chỉ quyền hạn, quyền lực chuyên môn của các bác sĩ.",
+            "bridge": "Cùng nhìn lại câu nói về 'senior doctors' ở Paragraph 9 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 9 nói các bác sĩ sẽ bị tước đi cái gì mà họ đang có: 'depriving some humans (e.g. senior doctors) of the ______ they presently enjoy'?",
+            "guide": "Bài viết dùng từ 'control' (quyền kiểm soát/quyền quyết định).",
+            "bridge": "'control' của bác sĩ trong công việc chuyên môn chính là thẩm quyền chuyên môn."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung A-F mang nghĩa 'thẩm quyền / quyền hạn chuyên môn'?",
+            "guide": "Đó là E: 'professional authority'.",
+            "bridge": "Hoàn thành toàn bộ Passage 2! Chốt câu 26: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Các bác sĩ sẽ không còn giữ được quyền kiểm soát chuyên môn như hiện tại.",
+          "<b>Paragraph 9 (dòng 5):</b> <i>'...we'd be depriving some humans (e.g. senior doctors) of the control they presently enjoy.'</i>",
+          "<b>Khớp từ:</b> <i>control they presently enjoy</i> = <i>professional authority</i> (thẩm quyền chuyên môn).",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    }
+  }
+}
