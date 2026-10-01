@@ -52,9 +52,7 @@
       filter: grayscale(0.85); opacity: 0.65;
     }
 
-    /* =========================================================
-       GIAO DIỆN PHÂN QUYỀN ADMIN
-       ========================================================= */
+    /* GIAO DIỆN PHÂN QUYỀN ADMIN */
     .admin-switch-bar {
       background: #fffbeb; border: 1.5px solid #f59e0b; border-radius: 10px; padding: 12px 18px;
       margin-bottom: 22px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;
@@ -78,7 +76,6 @@
     }
     .admin-tab-btn.active { background: #0284c7; color: white; border-color: #0284c7; }
 
-    /* Card từng học sinh (Accordion Cấp 1) */
     .student-card {
       border: 1.5px solid var(--border-color); border-radius: 8px; margin-bottom: 12px; overflow: hidden; background: var(--bg-card);
     }
@@ -93,7 +90,6 @@
       display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 14px;
     }
 
-    /* Switch toggle bật/tắt module */
     .switch { position: relative; display: inline-block; width: 44px; height: 24px; }
     .switch input { opacity: 0; width: 0; height: 0; }
     .slider { position: absolute; cursor: pointer; inset: 0; background-color: #cbd5e1; transition: .25s; border-radius: 24px; }
@@ -121,7 +117,6 @@
 
   <!-- 2. KHU VỰC ĐÃ ĐĂNG NHẬP -->
   <div id="unlockedContentBox" style="display: none;">
-    <!-- Thanh thông tin học viên -->
     <div class="user-dashboard-bar">
       <div>
         <h4 style="margin: 0; font-size: 16px;" id="userNameDisplay">Học viên</h4>
@@ -145,16 +140,13 @@
       </div>
     </div>
 
-    <!-- ================================================================= -->
-    <!-- VIEW ADMIN: DANH SÁCH TẤT CẢ HỌC SINH & BẬT TẮT PHÂN HỆ           -->
-    <!-- ================================================================= -->
+    <!-- VIEW ADMIN -->
     <div id="adminPanelSection" class="admin-panel" style="display: none;">
       <div class="admin-tab-nav">
         <button type="button" class="admin-tab-btn active" id="btnAdminTabStudents" onclick="switchAdminTab('students')">👥 Danh Sách Học Sinh & Bài Làm</button>
         <button type="button" class="admin-tab-btn" id="btnAdminTabModules" onclick="switchAdminTab('modules')">⚙️ Bật / Tắt Tạm Thời Phân Hệ</button>
       </div>
 
-      <!-- TAB 1: DANH SÁCH HỌC SINH -->
       <div id="adminTabContentStudents">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; flex-wrap: wrap; gap: 10px;">
           <div>
@@ -163,30 +155,21 @@
           </div>
           <input type="text" id="adminStudentSearch" oninput="filterAdminStudents()" placeholder="🔍 Tìm theo Tên hoặc Email..." style="padding: 7px 12px; border: 1px solid var(--border-color); border-radius: 6px; font-size: 13.5px; width: 260px;">
         </div>
-
         <div id="adminStudentsContainer">
           <div style="text-align: center; padding: 25px; color: var(--text-muted);">⏳ Đang đồng bộ toàn bộ học sinh từ Google Drive...</div>
         </div>
       </div>
 
-      <!-- TAB 2: BẬT / TẮT MODULE BẢO TRÌ -->
       <div id="adminTabContentModules" style="display: none;">
-        <h4 style="margin: 0 0 12px 0; font-size: 15.5px;">⚙️ Bật / Tắt trạng thái hoạt động (Tắt công tắc để khóa tạm thời):</h4>
+        <h4 style="margin: 0 0 12px 0; font-size: 15.5px;">⚙️ Bật / Tắt trạng thái hoạt động:</h4>
         <div id="adminModuleToggleList" style="display: flex; flex-direction: column; gap: 10px;"></div>
       </div>
     </div>
 
-    <!-- ================================================================= -->
-    <!-- VIEW HỌC VIÊN: LỘ TRÌNH ĐỐT SỐNG + LỊCH SỬ + CÁC MODULE          -->
-    <!-- ================================================================= -->
+    <!-- VIEW HỌC VIÊN -->
     <div id="studentViewSection">
-      
-      <!-- ========================================================= -->
-      <!-- BẮT ĐẦU: KHỐI LỘ TRÌNH & LỊCH HỌC MỖI NGÀY CÁ NHÂN HÓA   -->
-      <!-- ========================================================= -->
+      <!-- LỘ TRÌNH ĐỐT SỐNG -->
       <div id="roadmapSection" style="background: var(--bg-card); border: 2px solid #0284c7; border-radius: 12px; padding: 20px; margin-bottom: 24px; box-shadow: 0 4px 15px rgba(2, 132, 199, 0.08);">
-        
-        <!-- TRƯỜNG HỢP 1: CHƯA CÓ LỘ TRÌNH (HIỆN NÚT CHỌN ĐIỂM XUẤT PHÁT) -->
         <div id="noRoadmapBox" style="text-align: center; padding: 15px 10px;">
           <h3 style="margin: 0 0 6px 0; font-size: 19px; color: #0284c7;">🎯 EM CHƯA CÓ LỘ TRÌNH HỌC TẬP CÁ NHÂN HÓA</h3>
           <p style="margin: 0 0 16px 0; font-size: 13.5px; color: var(--text-muted);">
@@ -202,7 +185,6 @@
           </div>
         </div>
 
-        <!-- TRƯỜNG HỢP 2: ĐÃ CÓ LỘ TRÌNH (HIỆN BẢNG NHIỆM VỤ HÔM NAY) -->
         <div id="activeRoadmapBox" style="display: none;">
           <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1.5px solid var(--border-color); padding-bottom: 12px; margin-bottom: 16px; flex-wrap: wrap; gap: 10px;">
             <div>
@@ -214,17 +196,11 @@
               <button type="button" onclick="window.resetStudentRoadmap()" style="background: none; border: 1px solid #cbd5e1; padding: 4px 10px; border-radius: 6px; font-size: 12px; color: #64748b; cursor: pointer;">🔄 Đặt lại</button>
             </div>
           </div>
-
-          <!-- Danh sách các bài cần làm trong ngày hôm nay -->
           <div id="todayTasksList" style="display: flex; flex-direction: column; gap: 10px;"></div>
         </div>
-
       </div>
-      <!-- ========================================================= -->
-      <!-- KẾT THÚC: KHỐI LỘ TRÌNH & LỊCH HỌC MỖI NGÀY               -->
-      <!-- ========================================================= -->
 
-      <!-- KHUNG LỊCH SỬ BÀI LÀM TỔNG HỢP CỦA CHÍNH MÌNH -->
+      <!-- KHUNG LỊCH SỬ BÀI LÀM -->
       <div class="history-section">
         <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-color); padding-bottom: 10px; margin-bottom: 12px; flex-wrap: wrap; gap: 10px;">
           <h3 style="margin: 0; font-size: 17px;">
@@ -235,7 +211,6 @@
             🔼 Thu gọn tất cả
           </button>
         </div>
-        
         <div id="historyResultsList">
           <div style="text-align:center; padding:12px; color:var(--text-muted);">⏳ Đang đồng bộ lịch sử từ Google Drive...</div>
         </div>
@@ -246,7 +221,7 @@
         🗺️ LỘ TRÌNH LUYỆN THI TOÀN DIỆN (CHỌN PHÂN HỆ ĐỂ VÀO HỌC)
       </div>
 
-      <!-- 1. TỪ VỰNG (VOCABULARY) -->
+      <!-- 1. TỪ VỰNG -->
       <div class="module-banner" id="mod_vocab" style="background: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%);">
         <div style="display: flex; align-items: center; gap: 16px;">
           <div class="module-icon-box">🧠</div>
@@ -261,7 +236,7 @@
         <a href="vocab/index-v.html" class="module-btn" style="color: #4f46e5;">🚀 VÀO HỌC TỪ VỰNG &rarr;</a>
       </div>
 
-      <!-- 2. NGỮ PHÁP (GRAMMAR) -->
+      <!-- 2. NGỮ PHÁP -->
       <div class="module-banner" id="mod_grammar" style="background: linear-gradient(135deg, #059669 0%, #10b981 100%);">
         <div style="display: flex; align-items: center; gap: 16px;">
           <div class="module-icon-box">📐</div>
@@ -291,7 +266,7 @@
         <a href="pre-listening/index-pl.html" class="module-btn" style="color: #0891b2;">🚀 VÀO PRE-LISTENING &rarr;</a>
       </div>
 
-      <!-- 4. IELTS LISTENING -->
+      <!-- 4. IELTS LISTENING (ĐÃ CẬP NHẬT ĐƯỜNG DẪN THƯ MỤC MỚI) -->
       <div class="module-banner" id="mod_listening" style="background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);">
         <div style="display: flex; align-items: center; gap: 16px;">
           <div class="module-icon-box">🎧</div>
@@ -303,7 +278,7 @@
             <p style="margin: 4px 0 0 0; font-size: 13px; opacity: 0.92;">Audio chạy đồng bộ Transcript • Nhấp câu nghe ngay • Tự động chấm điểm</p>
           </div>
         </div>
-        <a href="listening.html" class="module-btn" style="color: #0284c7;">🚀 VÀO PHÒNG NGHE &rarr;</a>
+        <a href="listening/listening.html" class="module-btn" style="color: #0284c7;">🚀 VÀO PHÒNG NGHE &rarr;</a>
       </div>
 
       <!-- 5. PRE-READING -->
@@ -321,7 +296,7 @@
         <a href="pre-reading/index-pr.html" class="module-btn" style="color: #d97706;">🚀 VÀO PRE-READING &rarr;</a>
       </div>
 
-      <!-- 6. IELTS READING -->
+      <!-- 6. IELTS READING (ĐÃ CẬP NHẬT ĐƯỜNG DẪN THƯ MỤC MỚI) -->
       <div class="module-banner" id="mod_reading" style="background: linear-gradient(135deg, #8B1518 0%, #b91c1c 100%);">
         <div style="display: flex; align-items: center; gap: 16px;">
           <div class="module-icon-box">📖</div>
@@ -333,7 +308,7 @@
             <p style="margin: 4px 0 0 0; font-size: 13px; opacity: 0.92;">Tự động chấm điểm • AI Trợ giảng giải thích câu sai • Lưu tiến độ Google Drive</p>
           </div>
         </div>
-        <a href="reading.html" class="module-btn" style="color: #8B1518;">🚀 VÀO PHÒNG ĐỌC &rarr;</a>
+        <a href="reading/reading.html" class="module-btn" style="color: #8B1518;">🚀 VÀO PHÒNG ĐỌC &rarr;</a>
       </div>
 
       <!-- 7A. PRE-WRITING TASK 1 -->
@@ -366,7 +341,7 @@
         <a href="pre-writing/index-pwt2.html" class="module-btn" style="color: #be123c;">🚀 VÀO PRE-WRITING T2 &rarr;</a>
       </div>
 
-<!-- 8A. IELTS WRITING TASK 1 -->
+      <!-- 8A. IELTS WRITING TASK 1 -->
       <div class="module-banner" id="mod_writing_t1" style="background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);">
         <div style="display: flex; align-items: center; gap: 16px;">
           <div class="module-icon-box">📊</div>
@@ -378,11 +353,10 @@
             <p style="margin: 4px 0 0 0; font-size: 13px; opacity: 0.92;">Kho 171 đề thi thật • Hướng dẫn viết từng câu (Trạm IELTS) • Tự lực bấm giờ • AI Chấm 2 tầng</p>
           </div>
         </div>
-        <!-- Đường dẫn chính xác theo thư mục GitHub của em -->
         <a href="writing task 1/index-t1.html" class="module-btn" style="color: #0284c7;">🚀 VÀO VIẾT TASK 1 &rarr;</a>
       </div>
       
-<!-- 8B. IELTS WRITING TASK 2 -->
+      <!-- 8B. IELTS WRITING TASK 2 -->
       <div class="module-banner" id="mod_writing_t2" style="background: linear-gradient(135deg, #4338ca 0%, #312e81 100%);">
         <div style="display: flex; align-items: center; gap: 16px;">
           <div class="module-icon-box">📝</div>
@@ -397,23 +371,22 @@
         <a href="writing task 2/index-t2.html" class="module-btn" style="color: #4338ca;">🚀 VÀO VIẾT TASK 2 &rarr;</a>
       </div>
 
-<!-- 9. PRE-SPEAKING -->
-<div class="module-banner" id="mod_pre_speaking" style="background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);">
-  <div style="display: flex; align-items: center; gap: 16px;">
-    <div class="module-icon-box">🗣️</div>
-    <div>
-      <div style="display: flex; align-items: center; gap: 8px;">
-        <h3 style="margin: 0; font-size: 18px; font-weight: 800;">9. PRE-SPEAKING (PHÁT ÂM IPA & SHADOWING NÓI ĐUỔI)</h3>
-        <span class="module-badge" style="background: #ede9fe; color: #5b21b6;">PRONUNCIATION</span>
+      <!-- 9. PRE-SPEAKING -->
+      <div class="module-banner" id="mod_pre_speaking" style="background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);">
+        <div style="display: flex; align-items: center; gap: 16px;">
+          <div class="module-icon-box">🗣️</div>
+          <div>
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <h3 style="margin: 0; font-size: 18px; font-weight: 800;">9. PRE-SPEAKING (PHÁT ÂM IPA & SHADOWING NÓI ĐUỔI)</h3>
+              <span class="module-badge" style="background: #ede9fe; color: #5b21b6;">PRONUNCIATION</span>
+            </div>
+            <p style="margin: 4px 0 0 0; font-size: 13px; opacity: 0.92;">Chuẩn hóa 44 âm IPA, trọng âm từ, ngữ điệu câu và phản xạ kéo dài câu trả lời</p>
+          </div>
+        </div>
+        <a href="pre-speaking/index-ps.html" class="module-btn" style="color: #7c3aed;">🚀 VÀO PRE-SPEAKING &rarr;</a>
       </div>
-      <p style="margin: 4px 0 0 0; font-size: 13px; opacity: 0.92;">Chuẩn hóa 44 âm IPA, trọng âm từ, ngữ điệu câu và phản xạ kéo dài câu trả lời</p>
-    </div>
-  </div>
-  <!-- SỬA CHÍNH XÁC CHỖ NÀY: href="pre-speaking/index-ps.html" -->
-  <a href="pre-speaking/index-ps.html" class="module-btn" style="color: #7c3aed;">🚀 VÀO PRE-SPEAKING &rarr;</a>
-</div>
 
-      <!-- BANNER PHÒNG LUYỆN NÓI IELTS SPEAKING 2 TẦNG -->
+      <!-- 10. IELTS SPEAKING -->
       <div class="module-banner" id="mod_speaking" style="background: linear-gradient(135deg, #059669 0%, #047857 100%); margin-bottom: 30px; box-shadow: 0 10px 25px -5px rgba(5, 150, 105, 0.3);">
         <div style="display: flex; align-items: center; gap: 16px;">
           <div class="module-icon-box">🎙️</div>
@@ -443,6 +416,18 @@
   let rawAdminAttempts = [];
   let studentsMap = {};
   let systemSettings = { modules: {} };
+
+  // Hàm chuyển đổi đường dẫn bài cũ sang đúng folder mới reading/ hoặc listening/
+  function resolveReviewPageUrl(pageUrl) {
+    if (!pageUrl) return 'reading/runner-reading.html';
+    if (pageUrl.startsWith('runner-reading.html')) {
+      return 'reading/' + pageUrl;
+    }
+    if (pageUrl.startsWith('runner-listening.html')) {
+      return 'listening/' + pageUrl;
+    }
+    return pageUrl;
+  }
 
   function checkIsAdmin(email) {
     if (!email) return false;
@@ -498,9 +483,6 @@
     }
   }
 
-  // =========================================================================
-  // LOGIC ĐIỀU HÀNH LỘ TRÌNH ĐỐT SỐNG & LỊCH HỌC HÀNG NGÀY
-  // =========================================================================
   function getStudentRoadmapStorageKey(email) {
     return 'ielts_roadmap_' + (email || 'guest').toLowerCase().trim();
   }
@@ -619,9 +601,6 @@
     }).join('');
   }
 
-  // =========================================================================
-  // ĐIỀU HƯỚNG VIEW ADMIN <-> HỌC VIÊN
-  // =========================================================================
   window.switchMainView = (view) => {
     const studentSec = document.getElementById('studentViewSection');
     const adminSec = document.getElementById('adminPanelSection');
@@ -662,9 +641,6 @@
     }
   };
 
-  // =========================================================================
-  // ADMIN TAB 1: DANH SÁCH HỌC SINH
-  // =========================================================================
   async function loadAdminData() {
     const user = stateManager.getUser();
     const container = document.getElementById('adminStudentsContainer');
@@ -684,7 +660,6 @@
           body: JSON.stringify({ action: "admin_get_all", adminEmail: user.email })
         });
         const data = await res.json();
-        
         if (data && data.success && Array.isArray(data.attempts)) {
           cloudAttempts = data.attempts;
         }
@@ -732,7 +707,6 @@
     studentsList.forEach(st => {
       const safeEmailKey = st.email.replace(/[^a-zA-Z0-9]/g, '_');
       const initial = (st.name || 'H').charAt(0).toUpperCase();
-
       const dateTreeHtml = renderStudentDateTreeHtml(st.attempts, st.email, safeEmailKey);
 
       html += `
@@ -796,8 +770,9 @@
       `;
 
       groups[date].forEach(att => {
-        const separator = (att.pageUrl || '').includes('?') ? '&' : '?';
-        const reviewLink = `${att.pageUrl || 'runner-reading.html'}${separator}attemptId=${att.id}&email=${encodeURIComponent(email)}`;
+        const targetPage = resolveReviewPageUrl(att.pageUrl);
+        const separator = targetPage.includes('?') ? '&' : '?';
+        const reviewLink = `${targetPage}${separator}attemptId=${att.id}&email=${encodeURIComponent(email)}`;
 
         html += `
           <div style="display: flex; justify-content: space-between; align-items: center; padding: 9px 0; border-bottom: 1px dashed var(--border-color); flex-wrap: wrap; gap: 8px;">
@@ -848,9 +823,6 @@
     renderAdminStudentsList(filtered);
   };
 
-  // =========================================================================
-  // ADMIN TAB 2: BẬT / TẮT TẠM THỜI TỪNG PHÂN HỆ
-  // =========================================================================
   async function loadModuleSettings() {
     try {
       const saved = localStorage.getItem(CONFIG.STORAGE_KEYS.SYSTEM_SETTINGS);
@@ -943,9 +915,6 @@
     });
   }
 
-  // =========================================================================
-  // GIAO DIỆN HỌC VIÊN: HIỂN THỊ LỊCH SỬ CHÍNH MÌNH
-  // =========================================================================
   window.toggleDateGroup = (safeId) => {
     const content = document.getElementById('content_' + safeId);
     const icon = document.getElementById('icon_' + safeId);
@@ -1049,8 +1018,9 @@
       `;
 
       groups[date].forEach(att => {
-        const separator = (att.pageUrl || '').includes('?') ? '&' : '?';
-        const reviewLink = `${att.pageUrl || 'runner-reading.html'}${separator}attemptId=${att.id}&email=${encodeURIComponent(email)}`;
+        const targetPage = resolveReviewPageUrl(att.pageUrl);
+        const separator = targetPage.includes('?') ? '&' : '?';
+        const reviewLink = `${targetPage}${separator}attemptId=${att.id}&email=${encodeURIComponent(email)}`;
 
         html += `
           <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px dashed var(--border-color); flex-wrap: wrap; gap: 8px;">
@@ -1075,7 +1045,6 @@
     resultsBox.innerHTML = html;
   }
 
-  // Khởi chạy kiểm tra đăng nhập
   checkAuthStatus();
 </script>
 </body>
