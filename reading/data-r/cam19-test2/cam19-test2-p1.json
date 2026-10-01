@@ -1,0 +1,513 @@
+{
+  "title": "IELTS Academic 19 - Test 2 - Passage 1: The Industrial Revolution in Britain",
+  "answers": {
+    "q1": "piston",
+    "q2": "coal",
+    "q3": "workshops",
+    "q4": "labour",
+    "q5": "quality",
+    "q6": "railways",
+    "q7": "sanitation",
+    "q8": "NOT GIVEN",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN",
+    "q11": "TRUE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>The Industrial Revolution in Britain</h3><p><span class=\"para-num\">[Paragraph 1]</span> The Industrial Revolution began in Britain in the mid-1700s and by the 1830s and 1840s had spread to many other parts of the world, including the United States. In Britain, it was a period when a largely rural, agrarian* society was transformed into an industrialised, urban one. Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.</p><p><span class=\"para-num\">[Paragraph 2]</span> The foundations of the Industrial Revolution date back to the early 1700s, when the English inventor Thomas Newcomen designed the first modern steam engine. Called the 'atmospheric steam engine', Newcomen's invention was originally used to power machines that pumped water out of mines. In the 1760s, the Scottish engineer James Watt started to adapt one of Newcomen's models, and succeeded in making it far more efficient. Watt later worked with the English manufacturer Matthew Boulton to <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">invent a new steam engine driven by both the forward and backward strokes of the <span class=\"kw\">piston</span>, while the gear mechanism it was connected to produced rotary motion</span>. It was a key innovation that would allow steam power to spread across British industries.</p><p><span class=\"para-num\">[Paragraph 3]</span> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">The demand for <span class=\"kw\">coal</span>, which was a relatively cheap energy source, grew rapidly during the Industrial Revolution, as it was needed to run not only the factories used to produce manufactured goods, but also steam-powered transportation</span>. In the early 1800s, the English engineer Richard Trevithick built a steam-powered locomotive, and by 1830 goods and passengers were being transported between the industrial centres of Manchester and Liverpool. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In addition, steam-powered boats and ships were widely used to carry goods along Britain's canals as well as across the Atlantic</span>.</p><p><span class=\"para-num\">[Paragraph 4]</span> Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior to the Industrial Revolution, the British textile business was a true 'cottage industry', <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">with the work performed in small <span class=\"kw\">workshops</span> or even homes by individual spinners, weavers and dyers</span>. Starting in the mid-1700s, innovations like the spinning jenny and the power loom made weaving cloth and spinning yarn and thread much easier. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">With these machines, relatively little <span class=\"kw\">labour</span> was required to produce cloth</span>, and the new, mechanised textile factories that opened around the country were quickly able to meet customer demand for cloth both at home and abroad.</p><p><span class=\"para-num\">[Paragraph 5]</span> The British iron industry also underwent major change as it adopted new innovations. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Chief among the new techniques was the smelting of iron ore with coke (a material made by heating coal) instead of the traditional charcoal. This method was cheaper and <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">produced metals that were of a higher <span class=\"kw\">quality</span></span></span>, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">enabling Britain's iron and steel production to expand in response to demand created by the Napoleonic Wars (1803–15) and the expansion of the <span class=\"kw\">railways</span> from the 1830s</span>.</p><p><span class=\"para-num\">[Paragraph 6]</span> The latter part of the Industrial Revolution also saw key advances in communication methods, as people increasingly saw the need to communicate efficiently over long distances. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">In 1837, British inventors William Cooke and Charles Wheatstone patented the first commercial telegraphy system. In the 1830s and 1840s, Samuel Morse and other inventors worked on their own versions in the United States</span>. Cooke and Wheatstone's system was soon used for railway signalling in the UK. As the speed of the new locomotives increased, it was essential to have a fast and effective means of avoiding collisions.</p><p><span class=\"para-num\">[Paragraph 7]</span> The impact of the Industrial Revolution on people's lives was immense. Although many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this accelerated dramatically with industrialisation, as the rise of large factories turned smaller towns into major cities in just a few decades. This rapid urbanisation brought significant challenges, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">as overcrowded cities suffered from pollution and inadequate <span class=\"kw\">sanitation</span></span>.</p><p><span class=\"para-num\">[Paragraph 8]</span> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Although industrialisation increased the country's economic output overall and improved the standard of living for the middle and upper classes, many poor people continued to struggle</span>. Factory workers had to work long hours in dangerous conditions for extremely low wages. These conditions along with the rapid pace of change fuelled opposition to industrialisation. A group of British workers who became known as 'Luddites' were British weavers and textile workers who objected to the increased use of mechanised looms and knitting frames. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Many had spent years learning their craft, and they feared that unskilled machine operators were robbing them of their livelihood</span>. A few desperate weavers began breaking into factories and smashing textile machines. They called themselves Luddites after Ned Ludd, a young apprentice who was rumoured to have wrecked a textile machine in 1779.</p><p><span class=\"para-num\">[Paragraph 9]</span> The first major instances of machine breaking took place in 1811 in the city of Nottingham, and the practice soon spread across the country. Machine-breaking Luddites attacked and burned factories, and in some cases they even exchanged gunfire with company guards and soldiers. The workers wanted employers to stop installing new machinery, but the British government responded to the uprisings by making machine-breaking punishable by death. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">The unrest finally reached its peak in April 1812, when a few Luddites were shot during an attack on a mill near Huddersfield. In the days that followed, other Luddites were arrested, and dozens were hanged or transported to Australia</span>. By 1813, the Luddite resistance had all but vanished.</p><p><em>* agrarian: relating to the land, especially the use of land for farming</em></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "title": "Questions 1-7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1-7 on your answer sheet.</i>",
+      "noteTitle": "Britain's Industrial Revolution",
+      "questionIds": ["q1", "q2", "q3", "q4", "q5", "q6", "q7"],
+      "template": "<p><b>Steam power</b></p><ul><li style=\"margin-bottom: 12px;\">Newcomen's steam engine was used in mines to remove water.</li><li style=\"margin-bottom: 12px;\">In Watt and Boulton's steam engine, the movement of the <b>1.</b> {{q1}} was linked to a gear system.</li><li style=\"margin-bottom: 12px;\">A greater supply of <b>2.</b> {{q2}} was required to power steam engines.</li></ul><p><b>Textile industry</b></p><ul><li style=\"margin-bottom: 12px;\">Before the Industrial Revolution, spinners and weavers worked at home and in <b>3.</b> {{q3}}</li><li style=\"margin-bottom: 12px;\">Not as much <b>4.</b> {{q4}} was needed to produce cloth once the spinning jenny and power loom were invented.</li></ul><p><b>Iron industry</b></p><ul><li style=\"margin-bottom: 12px;\">Smelting of iron ore with coke resulted in material that was better <b>5.</b> {{q5}}</li><li style=\"margin-bottom: 12px;\">Demand for iron increased with the growth of the <b>6.</b> {{q6}}</li></ul><p><b>Communications</b></p><ul><li style=\"margin-bottom: 12px;\">Cooke and Wheatstone patented the first telegraphy system.</li><li style=\"margin-bottom: 12px;\">The telegraphy system was used to prevent locomotives colliding.</li></ul><p><b>Urbanisation</b></p><ul><li style=\"margin-bottom: 12px;\">Small towns turned into cities very quickly.</li><li style=\"margin-bottom: 12px;\">The new cities were dirty, crowded and lacked sufficient <b>7.</b> {{q7}}</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "title": "Questions 8-13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8-13 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</i>",
+      "questionIds": ["q8", "q9", "q10", "q11", "q12", "q13"]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "piston",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 1 nói về động cơ hơi nước của Watt và Boulton: Sự chuyển động của bộ phận nào ('the movement of the ______') được nối với hệ thống bánh răng ('gear system')?",
+            "guide": "Sau 'movement of the' cần một danh từ chỉ một bộ phận chuyển động của động cơ hơi nước.",
+            "bridge": "Mình cùng tìm tên hai ông Watt và Boulton ở Paragraph 2 nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Ở Paragraph 2, câu nào miêu tả sự chuyển động của động cơ mới?",
+            "guide": "Paragraph 2 viết: '...invent a new steam engine driven by both the forward and backward strokes of the piston, while the gear mechanism it was connected to produced rotary motion.'",
+            "bridge": "'forward and backward strokes' chính là chuyển động tới lui của bộ phận này."
+          },
+          {
+            "title": "Chọn từ cần điền",
+            "question": "Tên của bộ phận cơ khí đó là gì?",
+            "guide": "Đó chính là 'piston'.",
+            "bridge": "Chốt câu 1: piston."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung cần tìm:</b> Bộ phận chuyển động được kết nối với hệ thống bánh răng trong động cơ của Watt và Boulton.",
+          "<b>Paragraph 2 (dòng 5-7):</b> <i>'...driven by both the forward and backward strokes of the piston, while the gear mechanism it was connected to produced rotary motion.'</i>",
+          "<b>Khớp từ:</b> <i>movement</i> = <i>forward and backward strokes</i>; <i>gear system</i> = <i>gear mechanism</i>; từ chỉ bộ phận là <i>piston</i>.",
+          "<b>Từ cần điền:</b> <b>piston</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "coal",
+      "inputWidth": "90px",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 2 nói: Cần một nguồn cung cấp lớn hơn về thứ gì ('A greater supply of ______') để chạy các động cơ hơi nước?",
+            "guide": "Chỗ trống cần danh từ chỉ nguồn nhiên liệu/năng lượng dùng cho máy hơi nước.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 3 nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 3 nói nhu cầu về loại nhiên liệu nào tăng nhanh để vận hành nhà máy và tàu xe?",
+            "guide": "Paragraph 3 viết: 'The demand for coal, which was a relatively cheap energy source, grew rapidly during the Industrial Revolution, as it was needed to run...'",
+            "bridge": "'The demand... grew rapidly' tương đương với việc cần nguồn cung cấp nhiều hơn ('a greater supply').",
+            "answer": "coal"
+          },
+          {
+            "title": "Chọn từ cần điền",
+            "question": "Từ chỉ nhiên liệu trong bài là gì?",
+            "guide": "Đáp án là 'coal' (than đá).",
+            "bridge": "Chốt câu 2: coal."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung cần tìm:</b> Nguồn nhiên liệu cần cung cấp nhiều hơn để chạy động cơ hơi nước.",
+          "<b>Paragraph 3 (dòng 1-2):</b> <i>'The demand for coal, which was a relatively cheap energy source, grew rapidly during the Industrial Revolution, as it was needed to run...'</i>",
+          "<b>Khớp từ:</b> <i>A greater supply was required</i> = <i>The demand grew rapidly, as it was needed...</i>; từ chỉ nhiên liệu là <i>coal</i>.",
+          "<b>Từ cần điền:</b> <b>coal</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "workshops",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 3 thuộc phần Ngành dệt may: Trước Cách mạng Công nghiệp, thợ kéo sợi và thợ dệt làm việc tại nhà và ở đâu ('worked at home and in ______')?",
+            "guide": "Sau 'in' và song song với 'at home' cần một danh từ chỉ nơi làm việc.",
+            "bridge": "Hãy tìm những người làm nghề dệt ('spinners, weavers') ở Paragraph 4."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 4 miêu tả nơi làm việc của họ thời xưa như thế nào?",
+            "guide": "Paragraph 4 viết: '...with the work performed in small workshops or even homes by individual spinners, weavers and dyers.'",
+            "bridge": "Họ làm việc ở nhà ('homes') hoặc trong các xưởng nhỏ.",
+            "answer": "workshops"
+          },
+          {
+            "title": "Chọn từ cần điền",
+            "question": "Từ chỉ nơi làm việc trong bài là gì?",
+            "guide": "Đáp án là 'workshops' (những xưởng nhỏ).",
+            "bridge": "Chốt câu 3: workshops."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung cần tìm:</b> Nơi làm việc cùng với ở nhà của thợ dệt trước Cách mạng Công nghiệp.",
+          "<b>Paragraph 4 (dòng 2-4):</b> <i>'...with the work performed in small workshops or even homes by individual spinners, weavers and dyers.'</i>",
+          "<b>Khớp từ:</b> <i>worked at home and in</i> = <i>performed in small workshops or even homes</i>.",
+          "<b>Từ cần điền:</b> <b>workshops</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "labour",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 4 nói: Khi máy kéo sợi jenny và khung dệt máy ra đời, người ta không cần nhiều cái gì ('Not as much ______ was needed') để dệt vải nữa?",
+            "guide": "Sau 'Not as much' cần một danh từ không đếm được chỉ công sức hoặc nhân lực.",
+            "bridge": "Cùng đọc tiếp Paragraph 4 chỗ nhắc đến các loại máy móc mới."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 4 viết nhờ có máy móc mà thứ gì chỉ cần dùng rất ít?",
+            "guide": "Paragraph 4 viết: 'With these machines, relatively little labour was required to produce cloth...'",
+            "bridge": "'relatively little labour was required' chính là 'Not as much labour was needed'.",
+            "answer": "labour"
+          },
+          {
+            "title": "Chọn từ cần điền",
+            "question": "Từ chỉ nhân công/lao động trong bài là gì?",
+            "guide": "Đáp án là 'labour' (hoặc 'labor' theo chính tả Mỹ).",
+            "bridge": "Chốt câu 4: labour."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung cần tìm:</b> Thứ không còn cần nhiều khi máy dệt ra đời.",
+          "<b>Paragraph 4 (dòng 5-6):</b> <i>'With these machines, relatively little labour was required to produce cloth...'</i>",
+          "<b>Khớp từ:</b> <i>Not as much ... was needed</i> = <i>relatively little ... was required</i>.",
+          "<b>Từ cần điền:</b> <b>labour</b> (hoặc <b>labor</b>)."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "quality",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 5 thuộc phần Ngành sắt thép: Luyện quặng sắt bằng than cốc tạo ra vật liệu có cái gì tốt hơn ('material that was better ______')?",
+            "guide": "Sau 'better' cần một danh từ chỉ đặc tính tốt hơn của kim loại làm ra.",
+            "bridge": "Hãy sang Paragraph 5 nói về phương pháp luyện sắt bằng than cốc ('coke')."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 5 khen ngợi kim loại làm bằng phương pháp này có điểm gì nổi trội?",
+            "guide": "Paragraph 5 viết: 'This method was cheaper and produced metals that were of a higher quality...'",
+            "bridge": "'higher quality' đồng nghĩa với 'better quality'.",
+            "answer": "quality"
+          },
+          {
+            "title": "Chọn từ cần điền",
+            "question": "Từ danh từ chỉ chất lượng trong bài là gì?",
+            "guide": "Đáp án là 'quality'.",
+            "bridge": "Chốt câu 5: quality."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung cần tìm:</b> Đặc tính kim loại được nâng cao nhờ phương pháp mới.",
+          "<b>Paragraph 5 (dòng 3):</b> <i>'This method was cheaper and produced metals that were of a higher quality...'</i>",
+          "<b>Khớp từ:</b> <i>better</i> = <i>higher</i>; từ cần điền là <i>quality</i>.",
+          "<b>Từ cần điền:</b> <b>quality</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "railways",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 6 nói: Nhu cầu về sắt tăng lên cùng với sự phát triển của cái gì ('with the growth of the ______')?",
+            "guide": "Sau 'growth of the' cần một danh từ chỉ ngành hoặc hệ thống hạ tầng đang mở rộng.",
+            "bridge": "Đọc tiếp câu cuối của Paragraph 5 nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 5 nói sản lượng sắt thép của Anh mở rộng để đáp ứng nhu cầu từ Chiến tranh Napoleon và sự bành trướng của cái gì?",
+            "guide": "Paragraph 5 viết: '...in response to demand created by the Napoleonic Wars (1803–15) and the expansion of the railways from the 1830s.'",
+            "bridge": "'the expansion of the railways' chính là 'the growth of the railways'.",
+            "answer": "railways"
+          },
+          {
+            "title": "Chọn từ cần điền",
+            "question": "Từ chỉ hệ thống đường sắt trong bài là gì?",
+            "guide": "Đáp án là 'railways' (hoặc 'railway').",
+            "bridge": "Chốt câu 6: railways."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung cần tìm:</b> Lĩnh vực phát triển khiến nhu cầu về sắt tăng cao.",
+          "<b>Paragraph 5 (câu cuối):</b> <i>'...and the expansion of the railways from the 1830s.'</i>",
+          "<b>Khớp từ:</b> <i>growth</i> = <i>expansion</i>; từ cần điền là <i>railways</i>.",
+          "<b>Từ cần điền:</b> <b>railways</b> (hoặc <b>railway</b>)."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "sanitation",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 7 thuộc phần Đô thị hóa: Các thành phố mới thì bẩn thỉu, đông đúc và thiếu cái gì ('lacked sufficient ______')?",
+            "guide": "Sau 'sufficient' cần một danh từ chỉ điều kiện vệ sinh, thoát nước công cộng.",
+            "bridge": "Hãy tìm đoạn nói về đô thị hóa ('urbanisation') ở Paragraph 7."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Câu cuối của Paragraph 7 nói các thành phố đông đúc phải chịu đựng những vấn đề gì?",
+            "guide": "Paragraph 7 viết: '...as overcrowded cities suffered from pollution and inadequate sanitation.'",
+            "bridge": "'inadequate' có nghĩa là không đầy đủ, thiếu thốn ('lacked sufficient').",
+            "answer": "sanitation"
+          },
+          {
+            "title": "Chọn từ cần điền",
+            "question": "Từ chỉ điều kiện vệ sinh trong bài là gì?",
+            "guide": "Đáp án là 'sanitation' (hệ thống vệ sinh phòng dịch).",
+            "bridge": "Hoàn thành phần điền từ! Chốt câu 7: sanitation."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Nội dung cần tìm:</b> Thứ mà các thành phố mới bị thiếu thốn.",
+          "<b>Paragraph 7 (câu cuối):</b> <i>'...as overcrowded cities suffered from pollution and inadequate sanitation.'</i>",
+          "<b>Khớp từ:</b> <i>lacked sufficient</i> = <i>inadequate</i>; từ cần điền là <i>sanitation</i>.",
+          "<b>Từ cần điền:</b> <b>sanitation</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Britain's canal network grew rapidly so that more goods could be transported around the country.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 8 khẳng định: Mạng lưới kênh đào của Anh đã phát triển nhanh chóng ('grew rapidly') để vận chuyển nhiều hàng hóa hơn quanh đất nước.",
+            "guide": "Em cần tìm xem mạng lưới kênh đào có được nhắc tới là 'phát triển nhanh' hay không.",
+            "bridge": "Hãy tìm từ 'canals' ở Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 3 nói gì về kênh đào?",
+            "guide": "Paragraph 3 viết: tàu thuyền hơi nước được dùng phổ biến để chở hàng dọc theo các kênh đào của Anh cũng như vượt Đại Tây Dương. Bài nói nhu cầu than đá tăng nhanh ('demand for coal... grew rapidly'), chứ không hề nói mạng lưới kênh đào phát triển nhanh.",
+            "bridge": "Bài chỉ nói kênh đào có tàu bè chở hàng, không nói mạng lưới kênh phát triển ra sao."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài không nhắc đến việc mạng lưới kênh đào có mở rộng nhanh hay không, vậy ta chọn đáp án gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 8: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Mạng lưới kênh đào ở Anh mở rộng nhanh chóng để chuyên chở nhiều hàng hóa hơn.",
+          "<b>Paragraph 3 (câu cuối):</b> <i>'In addition, steam-powered boats and ships were widely used to carry goods along Britain's canals as well as across the Atlantic.'</i>",
+          "<b>Đối chiếu:</b> Bài đọc chỉ nói tàu bè hơi nước được dùng để chở hàng trên kênh đào, hoàn toàn không có thông tin về việc mạng lưới kênh đào phát triển nhanh chóng (<i>grew rapidly</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Costs in the iron industry rose when the technique of smelting iron ore with coke was introduced.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 9 nói: Chi phí trong ngành luyện sắt tăng lên ('costs... rose') khi kỹ thuật luyện quặng sắt bằng than cốc được áp dụng.",
+            "guide": "Em cần tìm xem khi dùng than cốc ('coke'), chi phí tăng hay giảm.",
+            "bridge": "Cùng đọc Paragraph 5 nói về kỹ thuật luyện sắt bằng than cốc."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 nói phương pháp luyện sắt bằng than cốc có chi phí thế nào?",
+            "guide": "Paragraph 5 viết: 'Chief among the new techniques was the smelting of iron ore with coke... This method was cheaper...' (Phương pháp này rẻ hơn).",
+            "bridge": "Một bên nói chi phí tăng ('rose'), một bên nói rẻ hơn ('cheaper')."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Hai thông tin này ngược nghĩa nhau hoàn toàn đúng không?",
+            "guide": "Thông tin trái ngược 100% nên ta chọn FALSE.",
+            "bridge": "Chốt câu 9: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Chi phí sản xuất sắt tăng lên khi áp dụng phương pháp luyện bằng than cốc.",
+          "<b>Paragraph 5 (dòng 2-3):</b> <i>'Chief among the new techniques was the smelting of iron ore with coke... This method was cheaper...'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói chi phí tăng (<i>costs rose</i>) trái ngược hoàn toàn với việc phương pháp này rẻ hơn (<i>cheaper</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Samuel Morse's communication system was more reliable than that developed by William Cooke and Charles Wheatstone.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích phép so sánh",
+            "question": "Câu 10 so sánh: Hệ thống liên lạc của Samuel Morse đáng tin cậy hơn ('more reliable than') hệ thống của Cooke và Wheatstone.",
+            "guide": "Em hãy tìm Paragraph 6 chỗ nhắc tên các nhà phát minh này để xem có so sánh độ tin cậy giữa hai bên không.",
+            "bridge": "Cùng quét tên riêng 'Samuel Morse' và 'Cooke and Wheatstone' ở Paragraph 6."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 nói gì về hệ thống của Morse và của Cooke - Wheatstone?",
+            "guide": "Paragraph 6 chỉ nói Cooke và Wheatstone đăng ký bằng sáng chế hệ thống điện tín đầu tiên năm 1837, còn Samuel Morse và các nhà phát minh khác phát triển phiên bản riêng ở Mỹ.",
+            "bridge": "Bài có so sánh xem hệ thống của ai tốt hơn hay đáng tin cậy hơn không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Không có bất kỳ phép so sánh nào về độ tin cậy giữa hai hệ thống. Vậy đáp án là gì?",
+            "guide": "Thiếu dữ liệu so sánh nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 10: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Hệ thống của Samuel Morse đáng tin cậy hơn hệ thống của Cooke và Wheatstone.",
+          "<b>Paragraph 6:</b> Nhắc đến cả hai hệ thống: Cooke và Wheatstone làm ở Anh, Morse làm phiên bản riêng ở Mỹ.",
+          "<b>Đối chiếu:</b> Bài đọc hoàn toàn không đưa ra phép so sánh nào về độ tin cậy (<i>more reliable</i>) giữa hai hệ thống này.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "The economic benefits of industrialisation were limited to certain sectors of society.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 11 nói: Lợi ích kinh tế của Cách mạng Công nghiệp chỉ giới hạn ở một số tầng lớp trong xã hội ('limited to certain sectors of society').",
+            "guide": "Em cần tìm xem có phải chỉ một số tầng lớp được hưởng lợi còn tầng lớp khác thì khổ sở không.",
+            "bridge": "Hãy đọc câu đầu tiên của Paragraph 8."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 miêu tả đời sống của các tầng lớp xã hội thời đó ra sao?",
+            "guide": "Paragraph 8 viết: Mặc dù kinh tế tăng và mức sống của tầng lớp trung lưu và thượng lưu được cải thiện, nhưng nhiều người nghèo vẫn tiếp tục chật vật, công nhân làm việc cực khổ lương bèo bọt.",
+            "bridge": "Chỉ tầng lớp trên mới có lợi, còn người nghèo thì không, điều này có nghĩa là lợi ích bị giới hạn ở một số nhóm xã hội."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý nhận định trùng khớp hoàn toàn với thực tế trong bài đọc, vậy đáp án là gì?",
+            "guide": "Đáp án là TRUE.",
+            "bridge": "Chốt câu 11: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Lợi ích kinh tế của Cách mạng Công nghiệp chỉ gói gọn ở một số bộ phận xã hội nhất định.",
+          "<b>Paragraph 8 (câu đầu):</b> <i>'Although industrialisation increased the country's economic output overall and improved the standard of living for the middle and upper classes, many poor people continued to struggle.'</i>",
+          "<b>Đối chiếu:</b> Chỉ tầng lớp trung lưu và thượng lưu có đời sống tốt hơn, trong khi người nghèo vẫn chật vật. Điều này khẳng định lợi ích kinh tế chỉ giới hạn ở một số nhóm (<i>limited to certain sectors</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Some skilled weavers believed that the introduction of the new textile machines would lead to job losses.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 12 nói: Một số thợ dệt lành nghề tin rằng sự ra đời của máy dệt mới sẽ dẫn đến việc mất việc làm ('lead to job losses').",
+            "guide": "Em hãy tìm nhóm thợ dệt Luddites ở Paragraph 8 xem họ lo sợ điều gì.",
+            "bridge": "Đọc tiếp đoạn giữa Paragraph 8 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 giải thích nỗi sợ của những người thợ dệt lành nghề như thế nào?",
+            "guide": "Paragraph 8 viết: những thợ dệt này đã dành nhiều năm học nghề và họ sợ rằng những người vận hành máy không có kỹ năng đang cướp đi kế sinh nhai của họ ('robbing them of their livelihood').",
+            "bridge": "'robbing them of their livelihood' (cướp đi kế sinh nhai) chính là dẫn đến việc mất việc làm."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Thông tin bài đọc có trùng khớp hoàn toàn với nhận định không?",
+            "guide": "Thông tin hoàn toàn trùng khớp nên chọn TRUE.",
+            "bridge": "Chốt câu 12: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Một số thợ dệt có tay nghề tin rằng máy móc mới sẽ khiến họ mất việc.",
+          "<b>Paragraph 8 (dòng 6-8):</b> <i>'Many had spent years learning their craft, and they feared that unskilled machine operators were robbing them of their livelihood.'</i>",
+          "<b>Khớp từ:</b> <i>skilled weavers</i> = <i>spent years learning their craft</i>; <i>lead to job losses</i> = <i>robbing them of their livelihood</i> (cướp đi kế sinh nhai).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "There was some sympathy among local people for the Luddites who were arrested near Huddersfield.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Tìm từ khóa nhận định",
+            "question": "Câu 13 nói: Người dân địa phương có sự thương cảm ('sympathy') dành cho những người thuộc nhóm Luddites bị bắt gần Huddersfield.",
+            "guide": "Em hãy tìm địa danh 'Huddersfield' ở Paragraph 9 và kiểm tra xem có nhắc đến thái độ hay cảm xúc của người dân xung quanh không.",
+            "bridge": "Cùng đọc Paragraph 9 chỗ nhắc đến vụ bắt giữ gần Huddersfield."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 9 miêu tả vụ việc ở Huddersfield như thế nào?",
+            "guide": "Paragraph 9 kể: một vài người bị bắn trong cuộc tấn công vào một xưởng gần Huddersfield, sau đó những người khác bị bắt, bị treo cổ hoặc bị đày sang Úc.",
+            "bridge": "Bài có câu nào nói người dân địa phương cảm thấy đồng cảm hay thương xót họ không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài chỉ kể sự kiện bắt bớ và xử án, hoàn toàn không nhắc đến cảm xúc của người dân. Vậy đáp án là gì?",
+            "guide": "Thiếu thông tin về cảm xúc nên chọn NOT GIVEN.",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Người dân địa phương có lòng thương cảm với các thành viên Luddites bị bắt gần Huddersfield.",
+          "<b>Paragraph 9:</b> Kể lại sự kiện tháng 4 năm 1812: <i>'...a few Luddites were shot during an attack on a mill near Huddersfield. In the days that followed, other Luddites were arrested, and dozens were hanged or transported to Australia.'</i>",
+          "<b>Đối chiếu:</b> Bài chỉ tường thuật lại vụ nổ súng và việc bắt giữ, kết án tù nhân; hoàn toàn không nhắc đến thái độ hay tình cảm thương xót (<i>sympathy</i>) của người dân địa phương.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}
