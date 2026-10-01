@@ -1,0 +1,507 @@
+{
+  "title": "IELTS Academic 17 - Test 1 - Passage 1: The development of the London underground railway",
+  "answers": {
+    "q1": "population",
+    "q2": "suburbs",
+    "q3": "businessmen",
+    "q4": "funding",
+    "q5": "press",
+    "q6": "soil",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN",
+    "q9": "TRUE",
+    "q10": "TRUE",
+    "q11": "FALSE",
+    "q12": "FALSE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>The development of the London underground railway</h3><p><strong>Paragraph 1.</strong> In the first half of the 1800s, London’s <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">population</span> grew at an astonishing rate</span>, and the central area became increasingly congested. In addition, the expansion of the overground railway network resulted in more and more passengers arriving in the capital. However, in 1846, a Royal Commission decided that the railways should not be allowed to enter the City, the capital’s historic and business centre. The result was that the overground railway stations formed a ring around the City. The area within consisted of poorly built, overcrowded slums and the streets were full of horse-drawn traffic. Crossing the City became a nightmare. It could take an hour and a half to travel 8 km by horse-drawn carriage or bus. Numerous schemes were proposed to resolve these problems, but few succeeded.</p><p><strong>Paragraph 2.</strong> Amongst the most vocal advocates for a solution to London’s traffic problems was Charles Pearson, who worked as a solicitor for the City of London. He saw both social and economic advantages in building an underground railway that would link the overground railway stations together and clear London slums at the same time. His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">suburbs</span></span>, and to provide cheap rail travel for them to get to work. Pearson’s ideas gained support amongst some <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">businessmen</span></span> and in 1851 he submitted a plan to Parliament. It was rejected, but coincided with a proposal from another group for an underground connecting line, which Parliament passed.</p><p><strong>Paragraph 3.</strong> The two groups merged and established the Metropolitan Railway Company in August 1854. The company’s plan was to construct an underground railway line from the Great Western Railway’s (GWR) station at Paddington to the edge of the City at Farringdon Street – a distance of almost 5 km. The organisation had difficulty in raising the <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">funding</span> for such a radical and expensive scheme</span>, not least because of the critical articles printed by the <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">press</span></span>. Objectors argued that the tunnels would collapse under the weight of traffic overhead, buildings would be shaken and passengers would be poisoned by the emissions from the train engines. However, Pearson and his partners persisted.</p><p><strong>Paragraph 4.</strong> The GWR, aware that the new line would finally enable them to run trains into the heart of the City, invested almost £250,000 in the scheme. Eventually, over a five-year period, £1m was raised. The chosen route ran beneath existing main roads to minimise the expense of demolishing buildings. Originally scheduled to be completed in 21 months, the construction of the underground line took three years. It was built just below street level using a technique known as ‘cut and cover’. A trench about ten metres wide and six metres deep was dug, and the sides temporarily held up with timber beams. Brick walls were then constructed, and finally a brick arch was added to create a tunnel. A two-metre-deep layer of <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">soil</span> was laid on top of the tunnel</span> and the road above rebuilt.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">The Metropolitan line, which opened on 10 January 1863, was the world’s first underground railway</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">On its first day, almost 40,000 passengers were carried between Paddington and Farringdon</span>, the journey taking about 18 minutes. By the end of the Metropolitan’s first year of operation, 9.5 million journeys had been made.</p><p><strong>Paragraph 6.</strong> Even as the Metropolitan began operation, the first extensions to the line were being authorised; these were built over the next five years, reaching Moorgate in the east of London and Hammersmith in the west. The original plan was to pull the trains with steam locomotives, using firebricks in the boilers to provide steam, but these engines were never introduced. Instead, the line used specially designed locomotives that were fitted with water tanks in which steam could be condensed. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">However, smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels</span>.</p><p><strong>Paragraph 7.</strong> Despite the extension of the underground railway, by the 1880s, congestion on London’s streets had become worse. The problem was partly that the existing underground lines formed a circuit around the centre of London and extended to the suburbs, but did not cross the capital’s centre. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">The ‘cut and cover’ method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground</span>.</p><p><strong>Paragraph 8.</strong> Although the technology to create these tunnels existed, steam locomotives could not be used in such a confined space. It wasn’t until the development of a reliable electric motor, and a means of transferring power from the generator to a moving train, that the world’s first deep-level electric railway, the City & South London, became possible. The line opened in 1890, and ran from the City to Stockwell, south of the River Thames. The trains were made up of three carriages and driven by electric engines. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">The carriages were narrow and had tiny windows just below the roof because it was thought that passengers would not want to look out at the tunnel walls</span>. The line was not without its problems, mainly caused by an unreliable power supply. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Although the City & South London Railway was a great technical achievement, it did not make a profit</span>. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Then, in 1900, the Central London Railway, known as the ‘Tuppenny Tube’, began operation using new electric locomotives. It was very popular and soon afterwards new railways and extensions were added to the growing tube network</span>. By 1907, the heart of today’s Underground system was in place.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "title": "Questions 1-6",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1-6 on your answer sheet.</i>",
+      "noteTitle": "The London underground railway",
+      "questionIds": ["q1", "q2", "q3", "q4", "q5", "q6"],
+      "template": "<p><b>The problem</b></p><ul><li style=\"margin-bottom: 12px;\">The <b>1.</b> {{q1}} of London increased rapidly between 1800 and 1850</li><li style=\"margin-bottom: 12px;\">The streets were full of horse-drawn vehicles</li></ul><p><b>The proposed solution</b></p><ul><li style=\"margin-bottom: 12px;\">Charles Pearson, a solicitor, suggested building an underground railway</li><li style=\"margin-bottom: 12px;\">Building the railway would make it possible to move people to better housing in the <b>2.</b> {{q2}}</li><li style=\"margin-bottom: 12px;\">A number of <b>3.</b> {{q3}} agreed with Pearson’s idea</li><li style=\"margin-bottom: 12px;\">The company initially had problems getting the <b>4.</b> {{q4}} needed for the project</li><li style=\"margin-bottom: 12px;\">Negative articles about the project appeared in the <b>5.</b> {{q5}}</li></ul><p><b>The construction</b></p><ul><li style=\"margin-bottom: 12px;\">The chosen route did not require many buildings to be pulled down</li><li style=\"margin-bottom: 12px;\">The ‘cut and cover’ method was used to construct the tunnels</li><li style=\"margin-bottom: 12px;\">With the completion of the brick arch, the tunnel was covered with <b>6.</b> {{q6}}</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "title": "Questions 7-13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 7-13 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</i>",
+      "questionIds": ["q7", "q8", "q9", "q10", "q11", "q12", "q13"]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "population",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 1 nói: Cái gì của London ('The 1 ______ of London') đã tăng trưởng rất nhanh từ năm 1800 đến 1850?",
+            "guide": "Sau 'The' và trước 'of London' cần một danh từ chỉ số lượng cư dân hoặc một đặc điểm phát triển của thành phố.",
+            "bridge": "Hãy đọc câu đầu tiên của Paragraph 1 nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 1 viết thứ gì của London đã tăng với tốc độ kinh ngạc: 'London's ______ grew at an astonishing rate'?",
+            "guide": "Paragraph 1 viết rõ: 'In the first half of the 1800s, London’s population grew at an astonishing rate...'",
+            "bridge": "'grew at an astonishing rate' chính là 'increased rapidly'. Từ đứng sau sở hữu cách là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'population' (dân số).",
+            "bridge": "Chốt câu 1: population."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau mạo từ <i>The</i>.",
+          "<b>Paragraph 1 (dòng 1):</b> <i>'In the first half of the 1800s, London’s population grew at an astonishing rate...'</i>",
+          "<b>Khớp từ:</b> <i>grew at an astonishing rate</i> = <i>increased rapidly</i>; từ cần điền là <i>population</i>.",
+          "<b>Từ cần điền:</b> <b>population</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "suburbs",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu 2: Xây đường sắt ngầm sẽ giúp di dời người dân đến nơi ở tốt hơn ở đâu ('in the 2 ______')?",
+            "guide": "Sau mạo từ 'the' cần một danh từ chỉ địa điểm, khu vực dân cư mới mà người lao động được chuyển tới.",
+            "bridge": "Cùng đọc ý tưởng của Charles Pearson ở Paragraph 2 nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 2 nói ông Pearson muốn chuyển những người nghèo từ khu ổ chuột đến đâu: 'to newly constructed ______'?",
+            "guide": "Paragraph 2 viết: 'His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed suburbs...'",
+            "bridge": "'newly constructed suburbs' chính là khu nhà ở mới tốt hơn ở vùng ngoại ô."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ vùng ngoại ô trong bài là gì?",
+            "guide": "Đáp án là 'suburbs' (các vùng ngoại ô).",
+            "bridge": "Chốt câu 2: suburbs."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ địa điểm sau giới từ <i>in the</i>.",
+          "<b>Paragraph 2 (dòng 4-5):</b> <i>'His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed suburbs...'</i>",
+          "<b>Khớp từ:</b> <i>better housing</i> = <i>newly constructed</i>; địa điểm chuyển tới là <i>suburbs</i>.",
+          "<b>Từ cần điền:</b> <b>suburbs</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "businessmen",
+      "inputWidth": "130px",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu 3: Một số người nào ('A number of 3 ______') đã đồng ý với ý tưởng của Pearson?",
+            "guide": "Sau 'A number of' cần một danh từ số nhiều chỉ nhóm người đã ủng hộ ý tưởng này.",
+            "bridge": "Hãy đọc tiếp các dòng sau của Paragraph 2."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 2 nói ý tưởng của Pearson nhận được sự ủng hộ từ ai: 'gained support amongst some ______'?",
+            "guide": "Paragraph 2 viết: 'Pearson’s ideas gained support amongst some businessmen...'",
+            "bridge": "'gained support amongst' tương đương với 'agreed with Pearson's idea'. Nhóm người ủng hộ là ai?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều chỉ giới doanh nhân trong bài là gì?",
+            "guide": "Đáp án là 'businessmen' (các thương gia / doanh nhân).",
+            "bridge": "Chốt câu 3: businessmen."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số nhiều sau cụm <i>A number of</i>.",
+          "<b>Paragraph 2 (dòng 5-6):</b> <i>'Pearson’s ideas gained support amongst some businessmen...'</i>",
+          "<b>Khớp từ:</b> <i>agreed with Pearson's idea</i> = <i>gained support amongst</i>.",
+          "<b>Từ cần điền:</b> <b>businessmen</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "funding",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu 4: Công ty ban đầu gặp khó khăn trong việc huy động thứ gì ('getting the 4 ______') cần thiết cho dự án?",
+            "guide": "Sau 'the' và trước 'needed' cần một danh từ chỉ nguồn lực tài chính, tiền vốn của dự án.",
+            "bridge": "Hãy tìm tên công ty 'Metropolitan Railway Company' ở Paragraph 3."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 3 nói tổ chức này gặp khó khăn trong việc thu hút cái gì: 'raising the ______ for such a radical and expensive scheme'?",
+            "guide": "Paragraph 3 viết: 'The organisation had difficulty in raising the funding for such a radical and expensive scheme...'",
+            "bridge": "'had difficulty in raising' chính là 'had problems getting'. Thứ cần huy động là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ chỉ nguồn vốn tài trợ là gì?",
+            "guide": "Đáp án là 'funding' (nguồn tài chính / tiền vốn).",
+            "bridge": "Chốt câu 4: funding."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau mạo từ <i>the</i>.",
+          "<b>Paragraph 3 (dòng 3-4):</b> <i>'The organisation had difficulty in raising the funding for such a radical and expensive scheme...'</i>",
+          "<b>Khớp từ:</b> <i>had problems getting</i> = <i>had difficulty in raising</i>.",
+          "<b>Từ cần điền:</b> <b>funding</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "press",
+      "inputWidth": "90px",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu 5: Những bài báo tiêu cực ('Negative articles') về dự án đã xuất hiện trên phương tiện nào ('appeared in the 5 ______')?",
+            "guide": "Sau 'in the' cần một danh từ chỉ giới truyền thông, báo chí nơi in những bài viết chỉ trích.",
+            "bridge": "Đọc tiếp câu nói về những bài báo chỉ trích ở Paragraph 3."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 3 nói các bài báo chỉ trích được in bởi ai: 'critical articles printed by the ______'?",
+            "guide": "Paragraph 3 viết: '...not least because of the critical articles printed by the press.'",
+            "bridge": "'critical articles' chính là 'negative articles'. Cơ quan truyền thông in bài là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ giới báo chí trong bài là gì?",
+            "guide": "Đáp án là 'press' (báo chí).",
+            "bridge": "Chốt câu 5: press."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau giới từ <i>in the</i>.",
+          "<b>Paragraph 3 (dòng 4-5):</b> <i>'...not least because of the critical articles printed by the press.'</i>",
+          "<b>Khớp từ:</b> <i>Negative articles</i> = <i>critical articles</i>; nơi xuất hiện là <i>the press</i>.",
+          "<b>Từ cần điền:</b> <b>press</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "soil",
+      "inputWidth": "90px",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu 6: Sau khi xây xong vòm gạch ('brick arch'), đường hầm được phủ lên bằng một lớp gì ('covered with 6 ______')?",
+            "guide": "Sau giới từ 'with' cần một danh từ chỉ vật liệu được rải lên nóc đường hầm trước khi làm lại mặt đường.",
+            "bridge": "Hãy đọc phần miêu tả phương pháp 'cut and cover' ở cuối Paragraph 4."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 4 nói sau khi dựng vòm gạch, lớp gì dày hai mét được trải lên trên?",
+            "guide": "Paragraph 4 viết: '...finally a brick arch was added to create a tunnel. A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt.'",
+            "bridge": "'laid on top of the tunnel' chính là 'covered with'. Vật liệu trải lên là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'soil' (đất).",
+            "bridge": "Hoàn thành phần điền từ! Chốt câu 6: soil."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau giới từ <i>with</i>.",
+          "<b>Paragraph 4 (câu cuối):</b> <i>'...finally a brick arch was added to create a tunnel. A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt.'</i>",
+          "<b>Khớp từ:</b> <i>was covered with</i> = <i>A layer of soil was laid on top</i>.",
+          "<b>Từ cần điền:</b> <b>soil</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Other countries had built underground railways before the Metropolitan line opened.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 7 khẳng định: Các quốc gia khác đã từng xây dựng đường sắt ngầm trước khi tuyến Metropolitan đi vào hoạt động ('Other countries had built underground railways before...').",
+            "guide": "Em cần kiểm tra xem tuyến Metropolitan có phải là tuyến đầu tiên trên thế giới hay đã có nước khác làm trước.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 5 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 giới thiệu tuyến đường sắt Metropolitan mở cửa ngày 10/1/1863 là tuyến đường sắt thế nào?",
+            "guide": "Paragraph 5 viết rõ: 'The Metropolitan line, which opened on 10 January 1863, was the world’s first underground railway.' (Tuyến Metropolitan... là tuyến đường sắt ngầm ĐẦU TIÊN TRÊN THẾ GIỚI).",
+            "bridge": "Nếu nó là đầu tiên trên thế giới, thì không thể có quốc gia nào làm trước nó được."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo có nước khác làm trước, bài đọc khẳng định nó là đầu tiên trên thế giới. Hai ý này ngược nhau, đúng không?",
+            "guide": "Thông tin trái ngược 100%, chọn FALSE.",
+            "bridge": "Chốt câu 7: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các quốc gia khác đã xây đường sắt ngầm trước khi tuyến Metropolitan mở cửa.",
+          "<b>Paragraph 5 (câu đầu):</b> <i>'The Metropolitan line, which opened on 10 January 1863, was the world’s first underground railway.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói đã có nước làm trước, nhưng bài đọc khẳng định đây là tuyến đầu tiên trên toàn thế giới (<i>world’s first</i>). Hai thông tin phủ định nhau.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "More people than predicted travelled on the Metropolitan line on the first day.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích từ khóa nhận định",
+            "question": "Câu 8 nói: Lượng người đi tàu trong ngày đầu tiên đông hơn dự đoán ('More people than predicted'). Chú ý cụm 'than predicted'.",
+            "guide": "Em cần kiểm tra xem bài đọc có nhắc đến việc người ta dự đoán bao nhiêu khách và số thực tế có vượt dự đoán không.",
+            "bridge": "Hãy đọc câu thứ hai của Paragraph 5."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 nói gì về lượng hành khách trong ngày đầu tiên?",
+            "guide": "Bài viết: 'On its first day, almost 40,000 passengers were carried between Paddington and Farringdon...' (Vào ngày đầu tiên, gần 40.000 hành khách đã được chuyên chở giữa Paddington và Farringdon).",
+            "bridge": "Bài chỉ nêu con số thực tế là gần 40.000 khách. Có nhắc đến con số 'dự đoán trước đó' không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Không hề có thông tin so sánh với số lượng dự đoán, vậy ta chọn đáp án gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 8: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Số người đi tàu vào ngày đầu tiên đông hơn so với dự đoán.",
+          "<b>Paragraph 5 (dòng 2):</b> <i>'On its first day, almost 40,000 passengers were carried between Paddington and Farringdon...'</i>",
+          "<b>Đối chiếu:</b> Bài đọc chỉ đưa ra số liệu thực tế ngày đầu là gần 40.000 người, hoàn toàn không có thông tin về việc trước đó người ta dự đoán bao nhiêu (<i>than predicted</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The use of ventilation shafts failed to prevent pollution in the tunnels.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 9 nói: Việc sử dụng các giếng thông gió ('ventilation shafts') đã KHÔNG thể ngăn chặn được sự ô nhiễm trong các đường hầm ('failed to prevent pollution').",
+            "guide": "Em hãy tìm từ khóa 'ventilation shafts' ở cuối Paragraph 6 xem khói bụi trong hầm có hết không.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph 6 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Câu cuối Paragraph 6 viết gì về tình trạng khói bụi mặc dù đã có giếng thông gió?",
+            "guide": "Paragraph 6 viết: 'However, smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels.' (Tuy nhiên, khói và khí thải vẫn là một vấn đề, mặc dù các giếng thông gió đã được bổ sung vào đường hầm).",
+            "bridge": "'smoke and fumes remained a problem' chính là giếng thông gió không giải quyết triệt để được ô nhiễm (failed to prevent pollution)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của bài đọc có trùng khớp hoàn toàn với câu hỏi không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn TRUE.",
+            "bridge": "Chốt câu 9: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các giếng thông gió đã không ngăn được tình trạng ô nhiễm trong đường hầm.",
+          "<b>Paragraph 6 (câu cuối):</b> <i>'However, smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels.'</i>",
+          "<b>Khớp ý:</b> Khói và khí thải vẫn là vấn đề (<i>smoke and fumes remained a problem</i>) = giếng thông gió thất bại trong việc ngăn ô nhiễm (<i>failed to prevent pollution</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "A different approach from the ‘cut and cover’ technique was required in London’s central area.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 10 nói gì? Ở khu vực trung tâm London ('London's central area'), người ta bắt buộc phải dùng một phương pháp khác ('a different approach') chứ không thể dùng kỹ thuật đào hở lấp lại ('cut and cover').",
+            "guide": "Em hãy tìm cụm 'cut and cover' ở Paragraph 7 xem tại sao ở trung tâm không đào hở được.",
+            "bridge": "Cùng đọc hai câu cuối của Paragraph 7."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 7 nói gì về phương pháp thi công ở khu vực trung tâm này?",
+            "guide": "Paragraph 7 viết: 'The ‘cut and cover’ method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground.' (Phương pháp đào lấp 'cut and cover' không phải là lựa chọn ở phần này của thủ đô. Giải pháp thay thế duy nhất là đào hầm sâu dưới lòng đất).",
+            "bridge": "'not an option... only alternative was to tunnel deep' chính là bắt buộc phải dùng phương pháp khác."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Nội dung nhận định có khớp hoàn toàn với bài đọc không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn TRUE.",
+            "bridge": "Chốt câu 10: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Cần phải có một cách tiếp cận khác với kỹ thuật 'cut and cover' ở khu vực trung tâm London.",
+          "<b>Paragraph 7 (dòng 4-5):</b> <i>'The ‘cut and cover’ method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground.'</i>",
+          "<b>Khớp ý:</b> Không thể dùng cut and cover mà phải đào sâu dưới lòng đất = cần phương pháp khác (<i>a different approach was required</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "The windows on City & South London trains were at eye level.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 11 nói gì? Các cửa sổ trên đoàn tàu City & South London nằm ngang tầm mắt người ('at eye level').",
+            "guide": "Em hãy tìm từ khóa 'windows' ở Paragraph 8 xem vị trí cửa sổ nằm ở đâu trên toa tàu.",
+            "bridge": "Cùng đọc đoạn giữa của Paragraph 8 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 miêu tả cửa sổ của đoàn tàu nằm ở vị trí nào?",
+            "guide": "Paragraph 8 viết: 'The carriages were narrow and had tiny windows just below the roof because it was thought that passengers would not want to look out at the tunnel walls.' (Các toa tàu hẹp và có những ô cửa sổ nhỏ xíu nằm NGAY DƯỚI MÁI NHÀ vì người ta nghĩ hành khách chẳng muốn nhìn vào vách tường hầm tối thui).",
+            "bridge": "Cửa sổ nằm 'ngay sát trần nhà' (just below the roof) chứ không phải 'ngang tầm mắt' (at eye level)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Một bên bảo cửa sổ ngang tầm mắt, bài đọc bảo cửa sổ nằm tít trên cao sát mái. Hai ý này ngược nhau, đúng không?",
+            "guide": "Thông tin trái ngược hoàn toàn, chọn FALSE.",
+            "bridge": "Chốt câu 11: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Cửa sổ trên các toa tàu City & South London nằm ngang tầm mắt.",
+          "<b>Paragraph 8 (dòng 6-7):</b> <i>'The carriages were narrow and had tiny windows just below the roof...'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói cửa sổ ngang tầm mắt (<i>at eye level</i>), nhưng bài đọc ghi rõ cửa sổ nằm ngay sát trần/mái toa tàu (<i>just below the roof</i>). Hai thông tin phủ định nhau.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The City & South London Railway was a financial success.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 12 khẳng định: Tuyến đường sắt City & South London đã thành công về mặt tài chính ('a financial success').",
+            "guide": "Em hãy tìm từ khóa 'City & South London Railway' và xem tuyến này kinh doanh có lãi hay không.",
+            "bridge": "Đọc tiếp câu sau chỗ nói về cửa sổ ở Paragraph 8 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 đánh giá hiệu quả kinh doanh của tuyến đường sắt này như thế nào?",
+            "guide": "Paragraph 8 viết: 'Although the City & South London Railway was a great technical achievement, it did not make a profit.' (Mặc dù tuyến này là một thành tựu kỹ thuật tuyệt vời, nhưng NÓ KHÔNG CÓ LÃI).",
+            "bridge": "'did not make a profit' (không thu được lợi nhuận) trái ngược hoàn toàn với 'a financial success' (thành công về tài chính)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Không có lợi nhuận nghĩa là không thành công về mặt tài chính, vậy đáp án là gì?",
+            "guide": "Thông tin bị bài đọc bác bỏ, chọn FALSE.",
+            "bridge": "Chốt câu 12: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Tuyến đường sắt City & South London là một thành công về mặt tài chính.",
+          "<b>Paragraph 8 (dòng 9):</b> <i>'Although the City & South London Railway was a great technical achievement, it did not make a profit.'</i>",
+          "<b>Đối chiếu:</b> Không mang lại lợi nhuận (<i>did not make a profit</i>) trái ngược hoàn toàn với thành công tài chính (<i>financial success</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Trains on the ‘Tuppenny Tube’ nearly always ran on time.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích từ khóa nhận định",
+            "question": "Câu 13 nói: Các chuyến tàu trên tuyến 'Tuppenny Tube' gần như luôn chạy đúng giờ ('nearly always ran on time').",
+            "guide": "Em hãy tìm tên riêng 'Tuppenny Tube' ở gần cuối Paragraph 8 xem bài có nói về giờ giấc chạy tàu không.",
+            "bridge": "Cùng đọc các câu cuối của Paragraph 8 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 nói gì về tuyến Central London Railway (còn gọi là 'Tuppenny Tube')?",
+            "guide": "Bài viết: năm 1900, tuyến bắt đầu hoạt động dùng đầu máy điện mới; tuyến rất được ưa chuộng ('It was very popular') và sau đó mạng lưới tiếp tục mở rộng.",
+            "bridge": "Bài chỉ khen nó rất nổi tiếng, được ưa chuộng. Có chữ nào nhắc đến việc tàu 'chạy đúng giờ' (ran on time) không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Hoàn toàn không có dữ liệu nói về độ đúng giờ của các chuyến tàu, vậy ta chọn gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Tàu trên tuyến 'Tuppenny Tube' gần như luôn luôn chạy đúng giờ.",
+          "<b>Paragraph 8 (câu áp chót):</b> <i>'Then, in 1900, the Central London Railway, known as the ‘Tuppenny Tube’, began operation using new electric locomotives. It was very popular and soon afterwards new railways and extensions were added...'</i>",
+          "<b>Đối chiếu:</b> Bài đọc chỉ khen tuyến tàu này rất phổ biến và thu hút đông người đi (<i>very popular</i>), hoàn toàn không đề cập đến việc tàu có chạy đúng giờ hay không (<i>ran on time</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}
