@@ -1,5 +1,5 @@
 {
-  "title": "Cambridge 20 - Test 1 - Reading Passage 1: The kākāpō",
+  "title": "IELTS Academic 20 - Test 1 - Passage 1: The kākāpō",
   "answers": {
     "q1": "FALSE",
     "q2": "FALSE",
@@ -15,570 +15,492 @@
     "q12": "funding",
     "q13": "stakeholders"
   },
-  "passageHtml": "<h2>READING PASSAGE 1</h2><p>You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.</p><h3>The kākāpō</h3><p><em>The kākāpō is a nocturnal, flightless parrot that is critically endangered and one of New Zealand's unique treasures.</em></p><p>The kākāpō, also known as the owl parrot, is a large, forest-dwelling bird, with a pale owl-like face. Up to 64 cm in length, it has predominantly yellow-green feathers, forward-facing eyes, a large grey beak, large blue feet, and relatively short wings and tail. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">It is the world's <span class=\"kw\">only</span> flightless parrot</span>, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years.</p><p>Kākāpō are solitary birds and tend to occupy the same home range for many years. They forage on the ground and climb high into trees. They often leap from trees and flap their wings, but at best manage a controlled descent to the ground. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">They are entirely vegetarian, with their diet including the leaves, roots and bark of trees as well as <span class=\"kw\">bulbs</span>, and fern fronds.</span></p><p><span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Kākāpō breed in summer and autumn, but <span class=\"kw\">only in years when food is plentiful</span>.</span> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Males play <span class=\"kw\">no part</span> in incubation or chick-rearing – females alone incubate eggs and feed the chicks.</span> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The 1–4 eggs are laid in <span class=\"kw\">soil</span>, which is repeatedly turned over before and during incubation.</span> The female kākāpō has to spend long periods away from the nest searching for food, which leaves the unattended eggs and chicks particularly vulnerable to predators.</p><p>Before humans arrived, kākāpō were common throughout New Zealand's forests. However, this all changed with the arrival of the first Polynesian settlers about 700 years ago. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">For the early settlers, the flightless kākāpō was easy prey. They ate its meat and used its <span class=\"kw\">feathers</span> to make soft cloaks.</span> With them came the Polynesian dog and rat, which <span class=\"kw\">also preyed</span> on kākāpō.</span></p><p>By the time European colonisers arrived in the early 1800s, kākāpō had become confined to the central North Island and forested parts of the South Island. The fall in kākāpō numbers was accelerated by European colonisation. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">A great deal of habitat was lost through forest clearance, and introduced species such as <span class=\"kw\">deer</span> depleted the remaining forests of food.</span> Other predators such as cats, stoats and two more species of rat were also introduced. The kākāpō were in serious trouble.</p><p>In 1894, the New Zealand government launched its first attempt to save the kākāpō. Conservationist Richard Henry led an effort to relocate several hundred of the birds to predator-free Resolution Island in Fiordland. Unfortunately, the island didn't remain predator free – stoats arrived within six years, eventually destroying the kākāpō population. By the mid-1900s, the kākāpō was practically a lost species. Only a few clung to life in the most isolated parts of New Zealand.</p><p>From 1949 to 1973, the newly formed New Zealand Wildlife Service made over 60 expeditions to find kākāpō, focusing mainly on Fiordland. Six were caught, but there were no females amongst them and all but one died within a few months of captivity. In 1974, a new initiative was launched, and by 1977, 18 more kākāpō were found in Fiordland. However, there were still no females. In 1977, a large population of males was spotted in Rakiura – a large island free from stoats, ferrets and weasels. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">There were about 200 individuals, and in <span class=\"kw\">1980</span> it was confirmed females were also present.</span> These birds have been the foundation of all subsequent work in managing the species.</p><p><span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kākāpō numbers. As a result, during 1980–97, the surviving population was evacuated to three island sanctuaries: Codfish Island, Maud Island and Little Barrier Island.</span> However, breeding success was hard to achieve. Rats were found to be a major predator of kakapo chicks and an insufficient number of chicks survived to offset adult mortality. By 1995, although at least 12 chicks had been produced on the islands, only three had survived. The kākāpō population had dropped to 51 birds. The critical situation prompted an urgent review of kākāpō management in New Zealand.</p><p><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">In 1996, a new Recovery Plan was launched, together with a specialist advisory group called the Kākāpō Scientific and Technical Advisory Committee and a higher amount of <span class=\"kw\">funding</span>.</span> Renewed steps were taken to control predators on the three islands. Cats were eradicated from Little Barrier Island in 1980, and possums were eradicated from Codfish Island by 1986. However, the population did not start to increase until rats were removed from all three islands, and the birds were more intensively managed. This involved moving the birds between islands, supplementary feeding of adults and <span class=\"kw\">rescuing and hand-raising any failing chicks</span>.</span></p><p>After the first five years of the Recovery Plan, the population was on target. By 2000, five new females had been produced, and the total population had grown to 62 birds. For the first time, there was cautious optimism for the future of kākāpō and by June 2020, a total of 210 birds was recorded.</p><p><span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Today, kākāpō management continues to be guided by the kākāpō Recovery Plan. Its key goals are: minimise the loss of genetic diversity in the kākāpō population, restore or maintain sufficient habitat to accommodate the expected increase in the kākāpō population, and ensure <span class=\"kw\">stakeholders</span> continue to be fully engaged in the preservation of the species.</span></p>",
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>The kākāpō</h3><p><strong>Paragraph 1.</strong> The kākāpō is a nocturnal, flightless parrot that is critically endangered and one of New Zealand's unique treasures.</p><p><strong>Paragraph 2.</strong> The kākāpō, also known as the owl parrot, is a large, forest-dwelling bird, with a pale owl-like face. Up to 64 cm in length, it has predominantly yellow-green feathers, forward-facing eyes, a large grey beak, large blue feet, and relatively short wings and tail. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">It is the world's only flightless parrot</span>, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years.</p><p><strong>Paragraph 3.</strong> Kākāpō are solitary birds and tend to occupy the same home range for many years. They forage on the ground and climb high into trees. They often leap from trees and flap their wings, but at best manage a controlled descent to the ground. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">They are entirely vegetarian, with their diet including the leaves, roots and bark of trees as well as <span class=\"kw\">bulbs</span>, and fern fronds</span>.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Kākāpō breed in summer and autumn, but only in years when food is plentiful</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Males play no part in incubation or chick-rearing – females alone incubate eggs and feed the chicks</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The 1–4 eggs are laid in <span class=\"kw\">soil</span>, which is repeatedly turned over before and during incubation</span>. The female kākāpō has to spend long periods away from the nest searching for food, which leaves the unattended eggs and chicks particularly vulnerable to predators.</p><p><strong>Paragraph 5.</strong> Before humans arrived, kākāpō were common throughout New Zealand's forests. However, this all changed with the arrival of the first Polynesian settlers about 700 years ago. For the early settlers, the flightless kākāpō was easy prey. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">They ate its meat and used its <span class=\"kw\">feathers</span> to make soft cloaks</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">With them came the Polynesian dog and rat, which also preyed on kākāpō</span>.</p><p><strong>Paragraph 6.</strong> By the time European colonisers arrived in the early 1800s, kākāpō had become confined to the central North Island and forested parts of the South Island. The fall in kākāpō numbers was accelerated by European colonisation. A great deal of habitat was lost through forest clearance, and <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">introduced species such as <span class=\"kw\">deer</span> depleted the remaining forests of food</span>. Other predators such as cats, stoats and two more species of rat were also introduced. The kākāpō were in serious trouble.</p><p><strong>Paragraph 7.</strong> In 1894, the New Zealand government launched its first attempt to save the kākāpō. Conservationist Richard Henry led an effort to relocate several hundred of the birds to predator-free Resolution Island in Fiordland. Unfortunately, the island didn't remain predator free – stoats arrived within six years, eventually destroying the kākāpō population. By the mid-1900s, the kākāpō was practically a lost species. Only a few clung to life in the most isolated parts of New Zealand.</p><p><strong>Paragraph 8.</strong> From 1949 to 1973, the newly formed New Zealand Wildlife Service made over 60 expeditions to find kākāpō, focusing mainly on Fiordland. Six were caught, but there were no females amongst them and all but one died within a few months of captivity.</p><p><strong>Paragraph 9.</strong> In 1974, a new initiative was launched, and by 1977, 18 more kākāpō were found in Fiordland. However, there were still no females. In 1977, a large population of males was spotted in Rakiura – a large island free from stoats, ferrets and weasels. There were about 200 individuals, and <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">in <span class=\"kw\">1980</span> it was confirmed females were also present</span>. These birds have been the foundation of all subsequent work in managing the species.</p><p><strong>Paragraph 10.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kākāpō numbers. As a result, during 1980–97, the surviving population was evacuated to three island sanctuaries</span>: Codfish Island, Maud Island and Little Barrier Island. However, breeding success was hard to achieve. Rats were found to be a major predator of kakapo chicks and an insufficient number of chicks survived to offset adult mortality. By 1995, although at least 12 chicks had been produced on the islands, only three had survived. The kākāpō population had dropped to 51 birds. The critical situation prompted an urgent review of kākāpō management in New Zealand.</p><p><strong>Paragraph 11.</strong> In 1996, a new Recovery Plan was launched, together with a specialist advisory group called the Kākāpō Scientific and Technical Advisory Committee and <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">a higher amount of <span class=\"kw\">funding</span></span>. Renewed steps were taken to control predators on the three islands. Cats were eradicated from Little Barrier Island in 1980, and possums were eradicated from Codfish Island by 1986. However, the population did not start to increase until rats were removed from all three islands, and the birds were more intensively managed. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks</span>.</p><p><strong>Paragraph 12.</strong> After the first five years of the Recovery Plan, the population was on target. By 2000, five new females had been produced, and the total population had grown to 62 birds. For the first time, there was cautious optimism for the future of kākāpō and by June 2020, a total of 210 birds was recorded.</p><p><strong>Paragraph 13.</strong> Today, kākāpō management continues to be guided by the kākāpō Recovery Plan. Its key goals are: minimise the loss of genetic diversity in the kākāpō population, restore or maintain sufficient habitat to accommodate the expected increase in the kākāpō population, and <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">ensure <span class=\"kw\">stakeholders</span> continue to be fully engaged in the preservation of the species</span>.</p>",
   "groups": [
     {
       "id": "g1",
-      "type": "true_false_not_given",
-      "title": "Questions 1–6",
-      "instructions": "Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 1–6 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this",
-      "options": ["TRUE", "FALSE", "NOT GIVEN"],
+      "type": "tfng",
+      "title": "Questions 1-6",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1? In boxes 1-6 on your answer sheet, write:</i><br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this",
       "questionIds": ["q1", "q2", "q3", "q4", "q5", "q6"]
     },
     {
       "id": "g2",
-      "type": "summary",
-      "title": "Questions 7–13",
-      "instructions": "Complete the notes below.<br>Choose <b>ONE WORD AND/OR A NUMBER</b> from the passage for each answer.",
-      "summaryTitle": "New Zealand's kākāpō",
+      "type": "notes",
+      "title": "Questions 7-13",
+      "instructions": "<i>Complete the notes below. Choose <b>ONE WORD AND/OR A NUMBER</b> from the passage for each answer. Write your answers in boxes 7-13 on your answer sheet.</i>",
+      "noteTitle": "New Zealand's kākāpō",
       "questionIds": ["q7", "q8", "q9", "q10", "q11", "q12", "q13"],
-      "template": "<p><b>A type of parrot:</b><br>• diet consists of fern fronds, various parts of a tree and <b>7.</b> {{q7}}<br>• nests are created <b>8.</b> {{q8}} in where eggs are laid.</p><p><b>Arrival of Polynesian settlers:</b><br>• the <b>9.</b> {{q9}} of the kākāpō were used to make clothes.</p><p><b>Arrival of European colonisers:</b><br>• <b>10.</b> {{q10}} were an animal which they introduced that ate the kākāpō's food sources.</p><p><b>Protecting kākāpō:</b><br>• Richard Henry, a conservationist, tried to protect the kākāpō.<br>• a definite sighting of female kākāpō on Rakiura Island was reported in the year <b>11.</b> {{q11}}<br>• the Recovery Plan included an increase in <b>12.</b> {{q12}}<br>• a current goal of the Recovery Plan is to maintain the involvement of <b>13.</b> {{q13}} in kākāpō protection.</p>"
+      "template": "<p><b>A type of parrot:</b></p><ul><li style=\"margin-bottom: 12px;\">diet consists of fern fronds, various parts of a tree and <b>7.</b> {{q7}}</li><li style=\"margin-bottom: 12px;\">nests are created in <b>8.</b> {{q8}} where eggs are laid.</li></ul><p><b>Arrival of Polynesian settlers</b></p><ul><li style=\"margin-bottom: 12px;\">the <b>9.</b> {{q9}} of the kākāpō were used to make clothes.</li></ul><p><b>Arrival of European colonisers</b></p><ul><li style=\"margin-bottom: 12px;\"><b>10.</b> {{q10}} were an animal which they introduced that ate the kākāpō's food sources.</li></ul><p><b>Protecting kākāpō</b></p><ul><li style=\"margin-bottom: 12px;\">Richard Henry, a conservationist, tried to protect the kākāpō.</li><li style=\"margin-bottom: 12px;\">a definite sighting of female kākāpō on Rakiura Island was reported in the year <b>11.</b> {{q11}}</li><li style=\"margin-bottom: 12px;\">the Recovery Plan included an increase in <b>12.</b> {{q12}}</li><li style=\"margin-bottom: 12px;\">a current goal of the Recovery Plan is to maintain the involvement of <b>13.</b> {{q13}} in kākāpō protection.</li></ul>"
     }
   ],
   "questions": {
     "q1": {
       "num": 1,
-      "type": "true_false_not_given",
-      "options": ["TRUE", "FALSE", "NOT GIVEN"],
       "text": "There are other parrots that share the kakapo's inability to fly.",
       "finalAnswer": "FALSE",
       "highlightId": "hl-q1",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Xé câu & Đóng khung từ quyết định",
-            "question": "Dùng Quy tắc 6 xé câu này làm 3 mảnh [S - V - O]. Từ hạn định nào mang tính quyết định số phận của nhận định này (Quy tắc 7)?",
-            "guide": "Xé 3 mảnh: [There are OTHER parrots - Có những loài vẹt KHÁC] / [share - cùng chia sẻ] / [the kakapo's inability to fly - việc không biết bay]. Từ quyết định tối hậu là 'OTHER' (loài khác). Ta phải tìm xem có loài nào khác ngoài kakapo không biết bay không.",
-            "bridge": "Xác định mỏ neo định vị để kiểm chứng sự tồn tại của loài vẹt khác."
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 1 nói gì? Có những loài vẹt KHÁC ('other parrots') cũng không biết bay giống như kākāpō. Từ quyết định ở đây là từ nào?",
+            "guide": "Từ quan trọng nhất là 'other' (những loài khác).",
+            "bridge": "Mình cùng tìm thông tin về việc không biết bay ở Paragraph 2 nhé."
           },
           {
-            "title": "Nấc 2/4 - Chọn mỏ neo định vị",
-            "question": "Để định vị câu chứa thông tin này, tại sao em TUYỆT ĐỐI KHÔNG ĐƯỢC chọn từ 'kakapo' (Quy tắc 2)? Từ khóa đặc định nào về khả năng bay sẽ giúp em bắt trúng câu ở Đoạn 2?",
-            "guide": "'Kakapo' là tên bài đọc, xuất hiện ở mọi dòng nên scan nó là tự sát (Quy tắc 2). Hãy chọn cụm từ chỉ đặc tính bay: 'inability to fly' (được paraphrase thành 'flightless' - Quy tắc 5). Mắt dừng lại ngay tại câu 2 của Đoạn 2.",
-            "bridge": "So sánh đối xứng số lượng loài không biết bay."
+            "title": "Đối chiếu với bài đọc",
+            "question": "Ở cuối Paragraph 2, bài đọc nói kākāpō là loài vẹt không biết bay thế nào trên thế giới ('the world's ______ flightless parrot')?",
+            "guide": "Paragraph 2 viết: 'It is the world's only flightless parrot' (Nó là loài vẹt không biết bay DUY NHẤT trên thế giới).",
+            "bridge": "Bài đọc khẳng định là 'duy nhất' (only)."
           },
           {
-            "title": "Nấc 3/4 - Bắt cặp đối xứng & Triệt tiêu",
-            "question": "Nhìn vào câu vừa tìm được ở Đoạn 2, triệt tiêu cụm 'inability to fly' = 'flightless'. Bài đọc dùng từ gì để chỉ số lượng loài vẹt không biết bay trên thế giới?",
-            "guide": "Bài đọc chốt hạ cụm: 'the world's ONLY flightless parrot' (loài vẹt không biết bay DUY NHẤT trên thế giới).",
-            "bridge": "Cân logic giữa hai khẳng định đối lập."
-          },
-          {
-            "title": "Nấc 4/4 - Cân logic & Chốt sổ",
-            "question": "Đề bài khẳng định có 'OTHER parrots' (những con vẹt KHÁC), bài đọc lại chốt là 'ONLY' (DUY NHẤT). Hai thông tin này đập nhau chan chát hay đi cùng chiều? Theo Quy tắc 13 chốt đáp án gì?",
-            "guide": "'OTHER' (loài khác) đập nhau chan chát 100% với 'ONLY' (duy nhất). Thằng này đúng thì thằng kia bắt buộc phải sai. Theo Quy tắc 13 -> Chốt FALSE.",
-            "bridge": "Hoàn thành câu 1."
+            "title": "So sánh và kết luận",
+            "question": "Câu hỏi bảo có loài vẹt KHÁC (other), còn bài đọc khẳng định nó là loài DUY NHẤT (only). Hai ý này trái ngược nhau hoàn toàn, đúng không?",
+            "guide": "Thông tin trái ngược 100% nên đáp án là FALSE.",
+            "bridge": "Chốt câu 1: FALSE."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: S [There are other parrots] + V [share] + O [the kakapo's inability to fly]. Từ hạn định là 'other'.<br>• Bước 2 (Keyword): Chọn 'inability to fly' vì đây là chức năng đặc thù. Quét từ đồng nghĩa 'flightless' ở Đoạn 2.<br>• Bước 3: Đề bài: 'other parrots... inability to fly'. Bài đọc: 'the world's ONLY flightless parrot'.<br>• Bước 4: 'Other' mâu thuẫn trực tiếp với 'only'. Hai vế triệt tiêu lẫn nhau. Chọn FALSE.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: Đề bảo 'other parrots' (có những con vẹt KHÁC cũng không biết bay).<br>• Bước 2: Quét mắt Đoạn 2 thấy chữ 'flightless parrot' (con vẹt không bay được).<br>• Bước 3: Thấy chữ 'ONLY' đứng trước (nghĩa là DUY NHẤT).<br>• Bước 4: Đề bảo 'Có loài khác' >< Bài bảo 'Duy nhất'. Cãi nhau 100% -> Điền FALSE."
+          "<b>Ý nhận định:</b> Có những loài vẹt khác cũng không biết bay giống kākāpō.",
+          "<b>Paragraph 2 (dòng 4-5):</b> <i>'It is the world's only flightless parrot...'</i> (Nó là loài vẹt không biết bay duy nhất trên thế giới).",
+          "<b>Đối chiếu:</b> Nhận định nói có loài khác (<i>other</i>), bài đọc khẳng định là duy nhất (<i>only</i>). Hai thông tin phủ định nhau.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
         ]
       }
     },
     "q2": {
       "num": 2,
-      "type": "true_false_not_given",
-      "options": ["TRUE", "FALSE", "NOT GIVEN"],
       "text": "Adult kakapo produce chicks every year.",
       "finalAnswer": "FALSE",
       "highlightId": "hl-q2",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Xé câu & Đóng khung từ tần suất",
-            "question": "Xé câu làm 3 mảnh [S - V - O]. Từ chỉ tần suất tuyệt đối nào ở cuối câu bắt buộc phải đóng khung lại (Quy tắc 7)?",
-            "guide": "[Adult kakapo] / [produce chicks] / [EVERY YEAR - Hàng năm/Mỗi năm]. Từ quyết định là 'every year'.",
-            "bridge": "Tìm hành động sinh sản được diễn đạt tương đương trong bài."
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 2 nói gì? Vẹt kākāpō trưởng thành sinh sản ('produce chicks') MỖI NĂM ('every year'). Chú ý từ chỉ tần suất 'every year'.",
+            "guide": "Em cần kiểm tra xem chúng có đẻ con hàng năm hay không.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 4 nhé."
           },
           {
-            "title": "Nấc 2/4 - Chọn mỏ neo định vị",
-            "question": "Hành động 'produce chicks' (sinh sản/đẻ con) thường được bài đọc khoa học paraphrase bằng động từ chuyên ngành nào bắt đầu bằng chữ 'b' (Quy tắc 5)? Quét nó ở đoạn nào?",
-            "guide": "'Produce chicks' được đổi vỏ thành động từ 'breed' (sinh sản). Mắt dừng lại ngay câu đầu tiên của Đoạn 4.",
-            "bridge": "Kiểm tra điều kiện đi kèm của hành động sinh sản."
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 4 nói kākāpō sinh sản vào thời gian nào?",
+            "guide": "Paragraph 4 viết: 'Kākāpō breed in summer and autumn, but only in years when food is plentiful.' (Chúng sinh sản vào mùa hè và thu, nhưng CHỈ VÀO NHỮNG NĂM dồi dào thức ăn).",
+            "bridge": "Chỉ những năm nào nhiều thức ăn chúng mới sinh sản."
           },
           {
-            "title": "Nấc 3/4 - Bắt chữ lật kèo & Điều kiện",
-            "question": "Đọc câu đầu Đoạn 4: Ngay sau chữ 'but', bài đọc đưa ra điều kiện ngặt nghèo nào cho việc sinh sản của vẹt kakapo?",
-            "guide": "Bài viết: 'but ONLY in years when food is plentiful' (nhưng CHỈ VÀO NHỮNG NĂM thức ăn dồi dào).",
-            "bridge": "So sánh tần suất tuyệt đối với điều kiện phụ thuộc."
-          },
-          {
-            "title": "Nấc 4/4 - Cân logic & Chốt sổ",
-            "question": "Đề bài nói 'năm nào cũng đẻ' (every year), bài đọc lại bảo 'chỉ năm nào nhiều đồ ăn mới đẻ' (only in years when food is plentiful). Hai mốc thời gian này có khớp nhau không? Theo Quy tắc 13 chọn gì?",
-            "guide": "Năm nào cũng đẻ >< Chỉ năm đủ thức ăn mới đẻ (tức là năm đói kém sẽ KHÔNG đẻ). Hai điều kiện đá nhau chan chát. Theo Quy tắc 13 -> Chốt FALSE.",
-            "bridge": "Hoàn thành câu 2."
+            "title": "So sánh và kết luận",
+            "question": "Câu hỏi bảo năm nào cũng đẻ (every year), nhưng bài đọc bảo chỉ năm nào nhiều đồ ăn mới đẻ (only in years when food is plentiful). Vậy đáp án là gì?",
+            "guide": "Ý trong bài phủ định câu hỏi, đáp án là FALSE.",
+            "bridge": "Chốt câu 2: FALSE."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: S [Adult kakapo] + V [produce chicks] + Trạng từ [every year]. Trọng tâm là tần suất hàng năm.<br>• Bước 2 (Keyword): Động từ 'produce chicks' được chuyển đổi sang thuật ngữ sinh sản 'breed'. Quét đầu Đoạn 4.<br>• Bước 3: Đề bài: 'every year'. Bài đọc: 'only in years when food is plentiful' (phụ thuộc vào mùa vụ thức ăn).<br>• Bước 4: 'Mỗi năm' đối lập trực tiếp với điều kiện 'chỉ khi thức ăn dồi dào'. Chọn FALSE.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: Đề bảo 'every year' (năm nào cũng đẻ con).<br>• Bước 2: Quét đầu Đoạn 4 thấy chữ 'breed' (sinh sản).<br>• Bước 3: Thấy chữ 'only in years when food is plentiful' (chỉ năm nào nhiều đồ ăn mới đẻ).<br>• Bước 4: Đề bảo 'năm nào cũng đẻ' >< Bài bảo 'năm đói thì nhịn'. Cãi nhau -> Điền FALSE."
+          "<b>Ý nhận định:</b> Vẹt kākāpō trưởng thành sinh sản hàng năm.",
+          "<b>Paragraph 4 (câu đầu):</b> <i>'Kākāpō breed in summer and autumn, but only in years when food is plentiful.'</i>",
+          "<b>Đối chiếu:</b> Nhận định bảo đẻ hàng năm (<i>every year</i>), nhưng bài đọc nói chỉ đẻ vào những năm thức ăn dồi dào (<i>only in years when food is plentiful</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
         ]
       }
     },
     "q3": {
       "num": 3,
-      "type": "true_false_not_given",
-      "options": ["TRUE", "FALSE", "NOT GIVEN"],
       "text": "Adult male kakapo bring food back to nesting females.",
       "finalAnswer": "FALSE",
       "highlightId": "hl-q3",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Xé câu & Khóa chủ thể hành động",
-            "question": "Xé câu làm 3 phần. Chủ thể thực hiện hành động 'bring food back' (mang đồ ăn về) là con đực (MALE) hay con cái (FEMALE)?",
-            "guide": "[Adult MALE kakapo - Con vẹt ĐỰC] / [bring food back - mang thức ăn về] / [to nesting females - cho con cái trong tổ].",
-            "bridge": "Tìm vị trí nói về phân chia vai trò giới tính của vẹt."
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 3 nói gì? Vẹt đực trưởng thành ('Adult male kakapo') mang thức ăn về tổ cho vẹt cái ('bring food back to nesting females').",
+            "guide": "Em cần tìm xem vẹt đực có đi kiếm mồi mang về tổ cho con cái hay không.",
+            "bridge": "Hãy đọc tiếp các câu tiếp theo ở Paragraph 4."
           },
           {
-            "title": "Nấc 2/4 - Định vị kẹp bánh mì",
-            "question": "Câu 2 nằm ở dòng 1 Đoạn 4. Theo Quy tắc 26 (Dòng chảy tịnh tiến), câu 3 chắc chắn nằm ở đâu? Tìm chữ nào để bắt trúng con đực?",
-            "guide": "Nằm ngay dưới câu 2 tại Đoạn 4. Quét mỏ neo cứng: 'Males' (những con đực).",
-            "bridge": "So sánh hành động thực tế của con đực và con cái."
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 4 miêu tả vai trò của vẹt đực và vẹt cái như thế nào?",
+            "guide": "Paragraph 4 viết: 'Males play no part in incubation or chick-rearing – females alone incubate eggs and feed the chicks.' (Con đực không đóng vai trò gì trong việc ấp trứng hay nuôi con – một mình con cái ấp trứng và mớm mồi cho con non).",
+            "bridge": "Con đực hoàn toàn không tham gia, con cái phải tự thân vận động một mình."
           },
           {
-            "title": "Nấc 3/4 - Bắt hành vi thực tế",
-            "question": "Bài đọc nói con đực làm gì trong việc nuôi con ('Males play ______') và con cái phải tự làm gì để có thức ăn?",
-            "guide": "Bài đọc ghi: 'Males play NO PART in incubation or chick-rearing' (Con đực KHÔNG ĐÓNG VAI TRÒ GÌ). Con cái phải một mình nuôi con ('females alone') và phải 'away from the nest searching for food' (rời tổ tự đi kiếm ăn).",
-            "bridge": "Đối chiếu hành động giả định ở đề với sự thật bài đọc."
-          },
-          {
-            "title": "Nấc 4/4 - Cân logic & Chốt sổ",
-            "question": "Đề bảo con đực 'ship đồ ăn về tổ cho con cái', nhưng bài đọc bảo con đực 'không làm gì cả' và con cái phải 'tự rời tổ đi kiếm ăn'. Hành động ở đề bài là Đúng hay Bị bác bỏ hoàn toàn?",
-            "guide": "Con đực không tham gia gì, con cái phải tự đi kiếm ăn -> Việc con đực mang thức ăn về là sự bịa đặt ngược lại thực tế. Theo Quy tắc 13 -> Chốt FALSE.",
-            "bridge": "Hoàn thành câu 3."
+            "title": "So sánh và kết luận",
+            "question": "Vẹt đực không tham gia nuôi con ('play no part'), vậy việc nói vẹt đực mang đồ ăn về tổ là đúng hay sai?",
+            "guide": "Thông tin hoàn toàn sai so với bài đọc, chọn FALSE.",
+            "bridge": "Chốt câu 3: FALSE."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: S [Adult male kakapo] + V [bring food back] + O [to nesting females].<br>• Bước 2 (Keyword): Chọn danh từ giới tính 'male' để định vị vai trò của con đực. Quét dòng 2-4 Đoạn 4 theo dòng chảy tịnh tiến.<br>• Bước 3: Đề bài: con đực mang thức ăn về tổ. Bài đọc: 'Males play no part', 'females alone... feed the chicks', con cái phải 'away from the nest searching for food'.<br>• Bước 4: Con cái phải tự rời tổ kiếm ăn vì con đực không có bất kỳ vai trò nào. Thông tin đối lập 100%. Chọn FALSE.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: Đề bảo 'male' (con đực) 'bring food' (mang đồ ăn về).<br>• Bước 2: Quét tiếp Đoạn 4 thấy chữ 'Males' và chữ 'food'.<br>• Bước 3: Bài viết: 'Males play NO PART' (con đực không làm gì hết) và con cái phải 'away from nest searching for food' (tự đi kiếm ăn).<br>• Bước 4: Con đực bỏ mặc, con cái tự đi kiếm -> Bảo con đực ship đồ ăn là SAI. Điền FALSE."
+          "<b>Ý nhận định:</b> Vẹt đực mang thức ăn về tổ cho vẹt cái.",
+          "<b>Paragraph 4 (dòng 2-3):</b> <i>'Males play no part in incubation or chick-rearing – females alone incubate eggs and feed the chicks.'</i>",
+          "<b>Đối chiếu:</b> Con đực không tham gia việc gì (<i>play no part</i>) và con cái phải tự làm một mình (<i>females alone</i>). Hành động mang thức ăn về tổ bị bác bỏ hoàn toàn.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
         ]
       }
     },
     "q4": {
       "num": 4,
-      "type": "true_false_not_given",
-      "options": ["TRUE", "FALSE", "NOT GIVEN"],
       "text": "The Polynesian rat was a greater threat to the kakapo than Polynesian settlers.",
       "finalAnswer": "NOT GIVEN",
       "highlightId": "hl-q4",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Xé câu & Đóng khung bẫy so sánh",
-            "question": "Xé câu làm 3 phần. Dấu hiệu so sánh nào ở Mảnh 2 bắt buộc phải đóng khung cảnh giác (Quy tắc 8)?",
-            "guide": "[The Polynesian rat] / [was a GREATER threat THAN - Đe dọa LỚN HƠN] / [Polynesian settlers]. Công thức so sánh: Chuột > Người định cư.",
-            "bridge": "Định vị sự xuất hiện của hai đối tượng này trong cùng văn cảnh."
+            "title": "Phân tích phép so sánh",
+            "question": "Câu 4 đưa ra so sánh gì? Chuột Polynesian là mối đe dọa lớn hơn ('greater threat than') đối với kākāpō so với những người định cư Polynesian.",
+            "guide": "Em cần tìm xem bài đọc có so sánh giữa chuột và người xem bên nào nguy hiểm hơn đối với kākāpō không.",
+            "bridge": "Cùng đọc Paragraph 5 nơi nói về người Polynesian và loài chuột nhé."
           },
           {
-            "title": "Nấc 2/4 - Khóa hiện trường hai chân kiềng",
-            "question": "Áp dụng Quy tắc 3 (Hai chân kiềng), 2 danh từ riêng nào bắt buộc phải xuất hiện cùng nhau để khóa đoạn văn?",
-            "guide": "Cần cặp từ: 'Polynesian settlers' và 'Polynesian rat'. Mắt quét thấy cả 2 cùng xuất hiện ở Đoạn 5.",
-            "bridge": "Kiểm tra xem tác giả có thực hiện phép so sánh hơn kém hay không."
+            "title": "Đọc dẫn chứng ở Paragraph 5",
+            "question": "Paragraph 5 nhắc đến người Polynesian và chuột Polynesian như thế nào?",
+            "guide": "Bài viết: người định cư ăn thịt vẹt và lấy lông làm áo choàng; đi cùng họ có chó và chuột, chúng cũng săn bắt vẹt ('which also preyed on kākāpō').",
+            "bridge": "Bài có so sánh xem giữa chuột và người thì bên nào đe dọa lớn hơn không?"
           },
           {
-            "title": "Nấc 3/4 - Kiểm tra phép so sánh",
-            "question": "Đọc kỹ Đoạn 5: Người định cư ăn thịt vẹt, và chuột 'CŨNG' (also) săn vẹt. Tác giả có đặt chữ nào lên bàn cân để so sánh xem Chuột hay Người nguy hiểm HƠN không?",
-            "guide": "Bài đọc chỉ dùng chữ 'also' (cũng) để LIỆT KÊ danh sách các loài săn vẹt (Người, Chó, Chuột). Hoàn toàn KHÔNG có bất kỳ cấu trúc so sánh hơn kém nào (greater, more, worse).",
-            "bridge": "Áp dụng quy tắc suy diễn khi thiếu vế so sánh."
-          },
-          {
-            "title": "Nấc 4/4 - Bộ lọc thiếu vế & Chốt sổ",
-            "question": "Theo Quy tắc 14: Đề có so sánh A > B, bài đọc nhắc cả A và B nhưng KHÔNG SO SÁNH. Ta có được tự suy diễn không (Quy tắc 12)? Bấm đáp án gì?",
-            "guide": "Thiếu hẳn thành phần so sánh. Áp dụng Quy tắc 14 & 29 -> Chốt NOT GIVEN ngay trong 1 giây.",
-            "bridge": "Hoàn thành câu 4."
+            "title": "Đưa ra kết luận",
+            "question": "Bài nhắc đến cả hai đối tượng nhưng chỉ dùng từ 'also' (cũng) để kể thêm, hoàn toàn KHÔNG so sánh bên nào gây hại nhiều hơn. Vậy ta chọn đáp án gì?",
+            "guide": "Thiếu phép so sánh nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 4: NOT GIVEN."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: S [The Polynesian rat] + V [was a greater threat than] + O [Polynesian settlers]. Cấu trúc so sánh hơn A > B.<br>• Bước 2 (Keyword): Cặp tên riêng lịch sử 'Polynesian settlers' và 'Polynesian rat' giúp định vị chính xác Đoạn 5.<br>• Bước 3: Bài đọc ghi người định cư săn vẹt, và chó/chuột 'also preyed on kakapo'. Đây thuần túy là phép liệt kê song hành (addition), không có yếu tố so sánh mức độ nguy hại.<br>• Bước 4: Đề so sánh A > B, bài không so sánh. Thiếu dữ kiện. Chọn NOT GIVEN.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: Đề so sánh: Chuột (rat) nguy hiểm HƠN (greater than) Người (settlers).<br>• Bước 2: Quét Đoạn 5 thấy cả chữ 'settlers' và chữ 'rat'.<br>• Bước 3: Đọc câu văn: Người bắt vẹt ăn thịt, đi kèm có chuột 'ALSO' (CŨNG) bắt vẹt.<br>• Bước 4: Bài chỉ bảo 'cả hai cùng bắt', không hề nói con nào ghê HƠN -> Áp dụng luật thiếu so sánh, chọn NOT GIVEN."
+          "<b>Ý nhận định:</b> Chuột Polynesian là mối đe dọa lớn hơn đối với vẹt kākāpō so với người định cư.",
+          "<b>Paragraph 5:</b> Bài đọc kể người định cư săn vẹt lấy thịt và lông, và chuột cũng săn vẹt (<i>'which also preyed on kākāpō'</i>).",
+          "<b>Đối chiếu:</b> Tác giả chỉ liệt kê các mối nguy chứ không hề so sánh mức độ nguy hiểm giữa chuột và người (<i>greater threat than</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
         ]
       }
     },
     "q5": {
       "num": 5,
-      "type": "true_false_not_given",
-      "options": ["TRUE", "FALSE", "NOT GIVEN"],
       "text": "Kakapo were transferred from Rakiura Island to other locations because they were at risk from feral cats.",
       "finalAnswer": "TRUE",
       "highlightId": "hl-q5",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Xé câu & Đóng khung quan hệ nhân quả",
-            "question": "Xé câu làm 2 vế. Từ liên từ logic chỉ nguyên nhân nào ở giữa câu là từ then chốt cần đóng khung (Quy tắc 7)?",
-            "guide": "[Kakapo were transferred... to other locations] / [BECAUSE - Bởi vì] / [they were at risk from feral cats]. Mối quan hệ: Bị mèo đe dọa -> Dẫn đến phải chuyển đi nơi khác.",
-            "bridge": "Khóa tọa độ địa lý và loài thú đe dọa."
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 5 nói gì? Kākāpō được chuyển từ đảo Rakiura sang các địa điểm khác ('transferred to other locations') VÌ chúng gặp nguy hiểm từ mèo hoang ('at risk from feral cats').",
+            "guide": "Em cần kiểm tra xem có đúng là vẹt được sơ tán đi nơi khác vì bị mèo hoang đe dọa không.",
+            "bridge": "Cùng đọc câu đầu Paragraph 10 nhé."
           },
           {
-            "title": "Nấc 2/4 - Khóa hiện trường bằng mỏ neo cứng",
-            "question": "Tên riêng địa danh nào viết hoa (Quy tắc 1) kết hợp với loài thú 'feral cats' giúp em khóa chặt tọa độ bài đọc?",
-            "guide": "Mỏ neo cứng: 'Rakiura Island' và 'feral cats'. Định vị ngay đầu Đoạn 9.",
-            "bridge": "Lột vỏ các cụm từ đồng nghĩa biểu thị di dời và nguy hiểm."
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 10 giải thích nguyên nhân vẹt được chuyển đi là gì?",
+            "guide": "Paragraph 10 viết: 'predation by feral cats on Rakiura Island led to a rapid decline in kākāpō numbers. As a result, during 1980–97, the surviving population was evacuated to three island sanctuaries...'",
+            "bridge": "'evacuated to three island sanctuaries' chính là chuyển đi nơi khác; 'As a result' nối nguyên nhân mèo hoang ăn thịt với kết quả sơ tán."
           },
           {
-            "title": "Nấc 3/4 - Bắt cặp từ đồng nghĩa hai vế",
-            "question": "Trong Đoạn 9, cụm từ nào đồng nghĩa với 'transferred to other locations' (chuyển đi nơi khác)? Cụm nào đồng nghĩa với 'at risk from feral cats'?",
-            "guide": "'Transferred to other locations' = 'evacuated to three island sanctuaries' (sơ tán tới 3 hòn đảo bảo tồn). 'At risk from feral cats' = 'predation by feral cats' (bị mèo hoang săn bắt).",
-            "bridge": "Đối chiếu mối quan hệ logic nhân quả."
-          },
-          {
-            "title": "Nấc 4/4 - Khớp bản chất logic & Chốt sổ",
-            "question": "Bài đọc dùng liên từ chỉ kết quả nào ('As a ______') để nối việc bị mèo bắt với việc phải sơ tán? Chiều logic có khớp 100% với chữ 'BECAUSE' ở đề không?",
-            "guide": "Bài đọc dùng: 'As a result' (Kết quả là / Do đó). Nguyên nhân do mèo -> Kết quả là phải chuyển đi. Logic khớp hoàn hảo 100%. Áp dụng Quy tắc 11 -> Chốt TRUE.",
-            "bridge": "Hoàn thành câu 5."
+            "title": "So sánh và kết luận",
+            "question": "Mối quan hệ nguyên nhân - kết quả giữa việc bị mèo hoang săn bắt và việc sơ tán có khớp hoàn toàn với câu hỏi không?",
+            "guide": "Thông tin hoàn toàn chính xác, chọn TRUE.",
+            "bridge": "Chốt câu 5: TRUE."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: Mệnh đề chính [Kakapo were transferred... to other locations] + Liên từ [because] + Mệnh đề nguyên nhân [they were at risk from feral cats].<br>• Bước 2 (Keyword): Tên riêng địa danh 'Rakiura Island' và cụm loài xâm lấn 'feral cats' là Hard Keywords ở đầu Đoạn 9.<br>• Bước 3: 'transferred... to other locations' = 'evacuated to three island sanctuaries'; 'at risk from feral cats' = 'predation by feral cats'; 'because' = 'As a result'.<br>• Bước 4: Toàn bộ quan hệ nguyên nhân - kết quả trùng khớp tuyệt đối. Chọn TRUE.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: Đề bảo: Vẹt bị chuyển đi nơi khác BỞI VÌ (because) gặp nguy hiểm do mèo hoang (feral cats).<br>• Bước 2: Quét chữ viết hoa 'Rakiura Island' và chữ 'feral cats' ở đầu Đoạn 9.<br>• Bước 3: Thấy 'evacuated' (= transferred: sơ tán/chuyển đi), thấy 'predation by cats' (= at risk from cats: bị mèo ăn thịt).<br>• Bước 4: Thấy chữ 'As a result' (Do đó) nối 2 câu. Đúng quan hệ nguyên nhân - kết quả -> Điền TRUE."
+          "<b>Ý nhận định:</b> Kākāpō được chuyển từ đảo Rakiura đến nơi khác vì bị đe dọa bởi mèo hoang.",
+          "<b>Paragraph 10 (dòng 1-3):</b> <i>'Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kākāpō numbers. As a result... the surviving population was evacuated to three island sanctuaries...'</i>",
+          "<b>Khớp từ:</b> <i>transferred to other locations</i> = <i>evacuated to three island sanctuaries</i>; <i>because they were at risk from feral cats</i> = <i>predation by feral cats... As a result</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
         ]
       }
     },
     "q6": {
       "num": 6,
-      "type": "true_false_not_given",
-      "options": ["TRUE", "FALSE", "NOT GIVEN"],
       "text": "One Recovery Plan initiative that helped increase the kakapo population size was caring for struggling young birds.",
       "finalAnswer": "TRUE",
       "highlightId": "hl-q6",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Xé câu & Phân tích hành động",
-            "question": "Xé câu: Kế hoạch Phục hồi (Recovery Plan) đã thực hiện hành động cụ thể nào đối với 'struggling young birds' (những con chim non yếu ớt)?",
-            "guide": "[One Recovery Plan initiative] / [was] / [CARING FOR struggling young birds - Chăm sóc những con chim non gặp khó khăn/yếu ớt].",
-            "bridge": "Tìm vị trí kế hoạch phục hồi được triển khai."
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 6 nói gì? Một sáng kiến trong Kế hoạch Phục hồi ('Recovery Plan initiative') giúp tăng số lượng cá thể kākāpō là chăm sóc những chú chim non yếu ớt ('caring for struggling young birds').",
+            "guide": "Em hãy tìm từ khóa 'Recovery Plan' và xem có hành động chăm sóc chim non ốm yếu không.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph 11."
           },
           {
-            "title": "Nấc 2/4 - Khóa hiện trường bằng mỏ neo viết hoa",
-            "question": "Cụm từ viết hoa nào là mỏ neo định vị tuyệt đối (Quy tắc 1)? Nó xuất hiện ở đoạn nào?",
-            "guide": "Mỏ neo cứng: 'Recovery Plan' (Kế hoạch Phục hồi). Xuất hiện tại câu đầu Đoạn 10.",
-            "bridge": "Lột vỏ các từ đồng nghĩa chỉ hành vi chăm sóc chim non yếu."
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 11 liệt kê những công việc chăm sóc vẹt bao gồm việc gì?",
+            "guide": "Paragraph 11 viết: 'This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks.' (bao gồm việc giải cứu và tự tay chăm sóc những chú chim non yếu ớt).",
+            "bridge": "'caring for' = 'rescuing and hand-raising'; 'struggling young birds' = 'failing chicks'."
           },
           {
-            "title": "Nấc 3/4 - Lột vỏ từ đồng nghĩa 3 lớp",
-            "question": "Ở câu cuối Đoạn 10, tìm 3 từ đồng nghĩa đối xứng với: 'young birds' (chim non), 'struggling' (yếu ớt), và 'caring for' (chăm sóc)?",
-            "guide": "• 'young birds' = 'chicks' (chim non).<br>• 'struggling' = 'failing' (suy yếu, sắp chết).<br>• 'caring for' = 'rescuing and hand-raising' (giải cứu và tự tay nuôi nấng).",
-            "bridge": "So khớp ý nghĩa và kết quả phục hồi bầy đàn."
-          },
-          {
-            "title": "Nấc 4/4 - Cân logic & Chốt sổ",
-            "question": "Hành động 'tự tay chăm sóc nuôi nấng chim non yếu ớt' trong bài đọc có khớp 100% với ý 'caring for struggling young birds' của kế hoạch không? Chốt đáp án gì?",
-            "guide": "Các cặp từ đối xứng khớp hoàn toàn về ngữ nghĩa và hành động thực tế. Áp dụng Quy tắc 11 -> Chốt TRUE.",
-            "bridge": "Hoàn thành câu 6."
+            "title": "So sánh và kết luận",
+            "question": "Ý của nhận định có trùng khớp hoàn toàn với những việc được làm trong kế hoạch phục hồi không?",
+            "guide": "Thông tin trùng khớp 100%, chọn TRUE.",
+            "bridge": "Chốt câu 6: TRUE."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: S [One Recovery Plan initiative...] + V [was] + Cụm danh động từ [caring for struggling young birds].<br>• Bước 2 (Keyword): Tên chương trình viết hoa 'Recovery Plan' định vị chính xác Đoạn 10.<br>• Bước 3: Đối chiếu paraphrase 3 điểm: 'caring for' = 'rescuing and hand-raising'; 'struggling' = 'failing'; 'young birds' = 'chicks'.<br>• Bước 4: Toàn bộ hành động cứu trợ chim non khớp 100% với đề bài. Chọn TRUE.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: Đề bảo: Có một kế hoạch là 'caring for' (chăm sóc) 'young birds' (chim non).<br>• Bước 2: Quét chữ viết hoa 'Recovery Plan' ở Đoạn 10.<br>• Bước 3: Đọc câu cuối: thấy chữ 'hand-raising' (tự tay nuôi = chăm sóc), thấy 'chicks' (= chim non), thấy 'failing' (= yếu ớt).<br>• Bước 4: Khớp từng chữ một, đúng 100% -> Điền TRUE."
+          "<b>Ý nhận định:</b> Một sáng kiến của Kế hoạch Phục hồi giúp tăng bầy đàn là chăm sóc chim non ốm yếu.",
+          "<b>Paragraph 11 (câu cuối):</b> <i>'...This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks.'</i>",
+          "<b>Khớp từ:</b> <i>caring for</i> = <i>rescuing and hand-raising</i>; <i>struggling young birds</i> = <i>failing chicks</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
         ]
       }
     },
     "q7": {
       "num": 7,
-      "type": "fill_in",
-      "text": "diet consists of fern fronds, various parts of a tree and 7 …………….",
       "finalAnswer": "bulbs",
-      "highlightId": "hl-q7",
       "inputWidth": "110px",
+      "highlightId": "hl-q7",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Rào ngữ pháp chuỗi liệt kê",
-            "question": "Chỗ trống đứng sau từ nối 'and' trong chuỗi liệt kê: 'fern fronds, various parts of a tree and [7]'. Theo Quy tắc 21 & 22, từ cần điền phải có dạng ngữ pháp gì và thuộc trường nghĩa nào?",
-            "guide": "Chuỗi danh từ liệt kê thức ăn ('fern fronds' có số nhiều). Do đó, ô trống 7 bắt buộc phải là Danh từ (số nhiều hoặc không đếm được) chỉ một món ăn của vẹt.",
-            "bridge": "Chọn từ khóa thực vật hiếm gặp để định vị."
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 7 trong bảng tóm tắt: Thức ăn của kākāpō gồm có lá dương xỉ ('fern fronds'), các bộ phận của cây ('various parts of a tree') và món gì nữa ('and 7 ______')?",
+            "guide": "Đứng sau từ nối 'and' cần một danh từ chỉ thức ăn thực vật của vẹt.",
+            "bridge": "Hãy tìm câu nói về thức ăn ở cuối Paragraph 3."
           },
           {
-            "title": "Nấc 2/4 - Chọn mỏ neo mềm",
-            "question": "Cụm từ thực vật đặc định nào trong câu hỏi ('fern fronds' / 'parts of a tree') giúp em quét nhanh mà không bị nhầm đoạn?",
-            "guide": "Dùng cụm từ lạ tai 'fern fronds' (lá dương xỉ) làm mỏ neo mềm. Quét mắt thấy ngay ở cuối Đoạn 3.",
-            "bridge": "Gạch bỏ các thành phần đã xuất hiện trong câu tóm tắt."
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 3 liệt kê những món ăn nào của kākāpō?",
+            "guide": "Paragraph 3 viết: '...their diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds.'",
+            "bridge": "'leaves, roots and bark of trees' chính là các bộ phận của cây. Món còn lại là gì?"
           },
           {
-            "title": "Nấc 3/4 - Triệt tiêu đối xứng chuỗi thức ăn",
-            "question": "Hãy đặt bút gạch bỏ các món ăn đã có trong câu hỏi: Gạch 'fern fronds'; gạch 'various parts of a tree' (= leaves, roots and bark of trees). Sau khi gạch xong, món ăn duy nhất còn lại là gì?",
-            "guide": "Bài đọc liệt kê: 'leaves, roots and bark of trees' (đã gạch) + 'fern fronds' (đã gạch) + 'bulbs' (củ cây). Từ duy nhất còn lại chưa bị gạch là 'bulbs'.",
-            "bridge": "Kiểm tra hình thái số nhiều và giới hạn từ."
-          },
-          {
-            "title": "Nấc 4/4 - Kiểm tra luật số nhiều & Chốt sổ",
-            "question": "Từ 'bulbs' có đuôi '-s' không? Có thỏa mãn luật ONE WORD ONLY và nhãn danh từ số nhiều ở bước 1 không?",
-            "guide": "'Bulbs' có đuôi '-s' (danh từ số nhiều), đúng 1 từ duy nhất. Áp dụng Quy tắc 30 (giữ nguyên ký tự) -> Chốt bulbs.",
-            "bridge": "Hoàn thành câu 7."
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ thức ăn còn lại trong chuỗi liệt kê là gì?",
+            "guide": "Đáp án là 'bulbs' (củ cây).",
+            "bridge": "Chốt câu 7: bulbs."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: Cấu trúc song hành 'A, B and C': Cần một Danh từ số nhiều chỉ loại thực vật thuộc 'diet' (chế độ ăn).<br>• Bước 2 (Keyword): Chọn 'fern fronds' (lá dương xỉ) làm từ khóa đặc định vì đây là danh từ sinh học hiếm gặp ở Đoạn 3.<br>• Bước 3: Triệt tiêu: 'various parts of a tree' = 'the leaves, roots and bark of trees'; 'fern fronds' = 'fern fronds'. Thành phần thức ăn còn sót lại sau 'as well as' là 'bulbs'.<br>• Bước 4: 'bulbs' thỏa mãn ngữ pháp số nhiều và giới hạn ONE WORD ONLY. Điền bulbs.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: Chỗ trống nằm trong danh sách đồ ăn, đứng sau chữ 'and' -> Cần 1 từ chỉ cây cối/thức ăn có đuôi -s.<br>• Bước 2: Quét chữ lạ 'fern fronds' ở cuối Đoạn 3.<br>• Bước 3: Gạch chữ trùng: Gạch 'fern fronds', gạch 'trees'. Thấy còn trơ lại chữ 'bulbs' (củ cây).<br>• Bước 4: Chép nguyên chữ bulbs có đuôi -s vào bài."
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ thức ăn thực vật sau từ nối <i>and</i>.",
+          "<b>Paragraph 3 (câu cuối):</b> <i>'...their diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds.'</i>",
+          "<b>Khớp từ:</b> <i>various parts of a tree</i> = <i>leaves, roots and bark of trees</i>; từ còn lại trong danh sách là <i>bulbs</i>.",
+          "<b>Từ cần điền:</b> <b>bulbs</b>."
         ]
       }
     },
     "q8": {
       "num": 8,
-      "type": "fill_in",
-      "text": "nests are created 8 ……………. in where eggs are laid.",
       "finalAnswer": "soil",
-      "highlightId": "hl-q8",
       "inputWidth": "100px",
+      "highlightId": "hl-q8",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Rào ngữ pháp vị trí",
-            "question": "Chỗ trống đứng sau giới từ chỉ địa điểm 'in' ('created in 8 ______'). Theo Quy tắc 21, từ cần điền bắt buộc phải là loại từ gì?",
-            "guide": "Đứng sau giới từ 'in', cần một Danh từ chỉ nơi chốn / chất liệu / môi trường nơi tổ được tạo ra để đẻ trứng.",
-            "bridge": "Định vị hành vi đẻ trứng của vẹt."
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 8: Tổ được làm ở đâu ('nests are created in 8 ______ where eggs are laid')?",
+            "guide": "Sau giới từ 'in' và trước 'where eggs are laid' cần một danh từ chỉ nơi chốn/chất liệu đất cát nơi trứng được đẻ.",
+            "bridge": "Hãy đọc Paragraph 4 chỗ nói về việc đẻ trứng ('eggs are laid')."
           },
           {
-            "title": "Nấc 2/4 - Chọn mỏ neo mềm",
-            "question": "Cụm từ hành động nào ('nests' / 'eggs are laid') giúp em bắt trúng câu văn ở Đoạn 4?",
-            "guide": "Dùng cụm từ 'eggs are laid' (trứng được đẻ). Mắt quét dừng lại ở dòng 3 Đoạn 4.",
-            "bridge": "So khớp cấu trúc câu chứa giới từ in."
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 4 nói trứng được đẻ ở đâu: 'The 1–4 eggs are laid in ______'?",
+            "guide": "Paragraph 4 viết: 'The 1–4 eggs are laid in soil, which is repeatedly turned over before and during incubation.'",
+            "bridge": "Trứng được đẻ trực tiếp trong đất cát."
           },
           {
-            "title": "Nấc 3/4 - Triệt tiêu đối xứng & Bắt giới từ",
-            "question": "Đối chiếu câu: Đề có 'where eggs are laid' <-> Bài có 'The 1-4 eggs are laid in...'. Sau giới từ 'in' của bài đọc là danh từ nào?",
-            "guide": "Bài đọc viết: 'eggs are laid in SOIL' (trứng được đẻ trong ĐẤT).",
-            "bridge": "Kiểm tra tính phù hợp ngữ nghĩa và quy tắc số từ."
-          },
-          {
-            "title": "Nấc 4/4 - Kiểm tra nghĩa & Chốt sổ",
-            "question": "Từ 'soil' (đất) có phải danh từ chỉ chất liệu/nơi làm tổ không? Có đúng 1 từ duy nhất không?",
-            "guide": "'Soil' là danh từ không đếm được, khớp hoàn toàn với giới từ 'in', đúng luật 1 từ. Áp dụng Quy tắc 30 -> Chốt soil.",
-            "bridge": "Hoàn thành câu 8."
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất sau giới từ 'in' là gì?",
+            "guide": "Đáp án là 'soil' (đất).",
+            "bridge": "Chốt câu 8: soil."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: 'nests are created in [8] where eggs are laid' -> Cần Danh từ chỉ địa điểm/chất liệu tổ chim.<br>• Bước 2 (Keyword): Chọn cụm 'eggs are laid' làm mỏ neo vì hành vi sinh học này xuất hiện duy nhất ở Đoạn 4.<br>• Bước 3: Đối chiếu: Đề có 'in [chỗ trống] where eggs are laid' = Bài có 'eggs are laid in soil'.<br>• Bước 4: Danh từ đứng sau giới từ 'in' chỉ vị trí là 'soil'. Điền soil.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: 'created in ______' (được tạo ra ở đâu) -> Cần 1 từ chỉ nơi chốn.<br>• Bước 2: Quét chữ 'eggs are laid' (trứng được đẻ) ở dòng 3 Đoạn 4.<br>• Bước 3: Nhìn ngay sau chữ 'in': Thấy chữ 'soil' (đất cát).<br>• Bước 4: Chép đúng 1 từ soil."
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ chất liệu/vị trí đặt tổ sau giới từ <i>in</i>.",
+          "<b>Paragraph 4 (dòng 3):</b> <i>'The 1–4 eggs are laid in soil, which is repeatedly turned over before and during incubation.'</i>",
+          "<b>Từ cần điền:</b> <b>soil</b>."
         ]
       }
     },
     "q9": {
       "num": 9,
-      "type": "fill_in",
-      "text": "the 9 ……………. of the kakapo were used to make clothes.",
       "finalAnswer": "feathers",
+      "inputWidth": "110px",
       "highlightId": "hl-q9",
-      "inputWidth": "120px",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Rào ngữ pháp cấu trúc sở hữu",
-            "question": "Chỗ trống đứng giữa 'the' và 'of the kakapo' ('the 9 ______ of the kakapo'). Theo Quy tắc 24, từ cần điền là loại từ gì và thuộc bộ phận nào của con vật?",
-            "guide": "Cần một Danh từ chỉ bộ phận cơ thể của con vẹt, dùng làm nguyên liệu may mặc ('used to make clothes').",
-            "bridge": "Sử dụng tiêu đề phụ để quét nhanh đoạn văn."
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 9: Bộ phận nào của kākāpō ('the 9 ______ of the kākāpō') được người định cư dùng để may áo quần ('make clothes')?",
+            "guide": "Cần một danh từ chỉ bộ phận cơ thể của loài vẹt được dùng làm trang phục.",
+            "bridge": "Hãy đọc Paragraph 5 nơi nói về người định cư Polynesian."
           },
           {
-            "title": "Nấc 2/4 - Định vị tiêu đề phụ",
-            "question": "Nhìn lên tiêu đề phụ trong bảng ghi 'Arrival of Polynesian settlers'. Tên người định cư này đưa em đến đoạn văn nào?",
-            "guide": "Tiêu đề phụ dẫn thẳng mắt đến Đoạn 5 ('the first Polynesian settlers').",
-            "bridge": "Tìm từ đồng nghĩa với trang phục, quần áo."
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 5 nói người định cư dùng cái gì của vẹt để làm áo choàng mềm ('make soft cloaks')?",
+            "guide": "Paragraph 5 viết: 'They ate its meat and used its feathers to make soft cloaks.'",
+            "bridge": "'soft cloaks' chính là quần áo (clothes). Vậy thứ được dùng là gì?"
           },
           {
-            "title": "Nấc 3/4 - Bắt cặp từ đồng nghĩa may mặc",
-            "question": "Trong Đoạn 5, từ nào đồng nghĩa với 'clothes' (quần áo - Quy tắc 5)? Và người ta dùng thứ gì của con vẹt để may thứ đó?",
-            "guide": "'Clothes' (quần áo) được đổi vỏ thành 'cloaks' (áo choàng). Bài đọc ghi: 'used its FEATHERS to make soft cloaks'.",
-            "bridge": "Kiểm tra đuôi số nhiều và giới hạn 1 từ."
-          },
-          {
-            "title": "Nấc 4/4 - Kiểm tra chính tả & Chốt sổ",
-            "question": "Giữa 'meat' (thịt) và 'feathers' (lông vũ), từ nào dùng làm áo choàng? Từ đó có đuôi '-s' không?",
-            "guide": "Thịt (meat) để ăn, lông vũ (feathers) để làm áo choàng. Từ 'feathers' có đuôi '-s', thỏa mãn 1 từ duy nhất -> Chốt feathers.",
-            "bridge": "Hoàn thành câu 9."
+            "title": "Chọn từ nguyên văn",
+            "question": "Bộ phận đó là gì?",
+            "guide": "Đáp án là 'feathers' (lông vũ).",
+            "bridge": "Chốt câu 9: feathers."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: 'the [9] of the kakapo were used to make clothes' -> Cần Danh từ chỉ bộ phận sinh học làm chất liệu may mặc.<br>• Bước 2 (Keyword): Tiêu đề phụ 'Polynesian settlers' định vị Đoạn 5. Quét từ đồng nghĩa của 'clothes' là 'cloaks'.<br>• Bước 3: Đối chiếu: 'used to make clothes' = 'used its... to make soft cloaks'. Hai đối tượng sở hữu của 'its' là 'meat' và 'feathers'.<br>• Bước 4: Chỉ có 'feathers' (lông vũ) mới dùng để làm áo. Giữ nguyên đuôi -s. Điền feathers.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: Cần 1 thứ trên người con vẹt dùng làm 'clothes' (quần áo).<br>• Bước 2: Quét Đoạn 5 thấy 'Polynesian settlers' (người định cư).<br>• Bước 3: Thấy 'cloaks' (áo choàng), thấy câu: 'used its feathers to make soft cloaks'.<br>• Bước 4: Lông vũ làm áo -> Chép từ feathers có đuôi -s."
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ bộ phận cơ thể chim sau mạo từ <i>the</i>.",
+          "<b>Paragraph 5 (dòng 4):</b> <i>'They ate its meat and used its feathers to make soft cloaks.'</i>",
+          "<b>Khớp từ:</b> <i>clothes</i> = <i>soft cloaks</i>; bộ phận được dùng là <i>feathers</i>.",
+          "<b>Từ cần điền:</b> <b>feathers</b>."
         ]
       }
     },
     "q10": {
       "num": 10,
-      "type": "fill_in",
-      "text": "10 ……………. were an animal which they introduced that ate the kakapo's food sources.",
       "finalAnswer": "deer",
-      "highlightId": "hl-q10",
       "inputWidth": "100px",
+      "highlightId": "hl-q10",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Rào ngữ pháp số nhiều",
-            "question": "Chỗ trống đứng đầu câu trước động từ to-be số nhiều 'were' ('10 ______ were an animal...'). Theo Quy tắc 21 & 22, từ cần điền phải là danh từ có dạng thức như thế nào?",
-            "guide": "Bắt buộc phải là Danh từ số nhiều (hoặc danh từ có dạng số ít/nhiều như nhau) chỉ tên một loài động vật du nhập.",
-            "bridge": "Định vị mốc người thực dân châu Âu đến."
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 10: Loài động vật nào ('10 ______ were an animal') do người châu Âu mang đến đã ăn hết nguồn thức ăn của kākāpō?",
+            "guide": "Đứng trước động từ 'were' cần một danh từ chỉ loài động vật du nhập.",
+            "bridge": "Hãy tìm mốc người châu Âu (European colonisers) ở Paragraph 6."
           },
           {
-            "title": "Nấc 2/4 - Định vị tiêu đề phụ",
-            "question": "Tiêu đề phụ ghi 'Arrival of European colonisers'. Cụm từ lịch sử này nằm ở đoạn mấy?",
-            "guide": "Dẫn thẳng mắt đến câu đầu tiên của Đoạn 6 ('European colonisers arrived').",
-            "bridge": "Tìm hành động ăn cạn kiệt thức ăn của loài thú du nhập."
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 6 nhắc đến loài động vật du nhập nào ăn cạn thức ăn trong rừng?",
+            "guide": "Paragraph 6 viết: '...and introduced species such as deer depleted the remaining forests of food.' (loài du nhập như loài hươu/nai đã làm cạn kiệt thức ăn còn lại trong rừng).",
+            "bridge": "'depleted the remaining forests of food' chính là ăn hết nguồn thức ăn của vẹt."
           },
           {
-            "title": "Nấc 3/4 - Bắt cặp từ đồng nghĩa ăn cạn kiệt thức ăn",
-            "question": "Trong Đoạn 6, cụm từ nào đồng nghĩa với 'ate food sources' (ăn mất nguồn thức ăn)? Con vật nào đứng ngay sau chữ ví dụ 'such as'?",
-            "guide": "'Ate the food sources' được đổi vỏ thành 'depleted the remaining forests of food' (làm cạn kiệt thức ăn trong rừng). Loài vật đứng sau 'introduced species such as' là 'deer'.",
-            "bridge": "Giải thích bẫy số nhiều bất quy tắc."
-          },
-          {
-            "title": "Nấc 4/4 - Bẫy ngữ pháp số nhiều & Chốt sổ",
-            "question": "Từ 'deer' không có đuôi '-s', tại sao nó lại đi được với động từ 'were' ở câu hỏi? Có thỏa mãn luật ONE WORD ONLY không?",
-            "guide": "Trong tiếng Anh, 'deer' (loài hươu/nai) là danh từ đặc biệt: số ít và số nhiều viết y chang nhau. Trong bài đọc, nó đi với 'introduced species' (số nhiều) nên hoàn toàn làm chủ ngữ cho 'were'. Đúng 1 từ -> Chốt deer.",
-            "bridge": "Hoàn thành câu 10."
+            "title": "Chọn từ nguyên văn",
+            "question": "Tên loài động vật đó là gì?",
+            "guide": "Đáp án là 'deer' (loài hươu).",
+            "bridge": "Chốt câu 10: deer."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: S [10 ______] + V [were an animal...] -> Cần Danh từ chỉ tên loài động vật số nhiều ăn tranh thức ăn.<br>• Bước 2 (Keyword): Tiêu đề phụ 'European colonisers' khóa chặt Đoạn 6. Quét từ đồng nghĩa 'ate food' = 'depleted... of food'.<br>• Bước 3: Đề bài: 'introduced [animal] that ate... food sources'. Bài đọc: 'introduced species such as deer depleted the remaining forests of food'.<br>• Bước 4: 'Deer' là danh từ số nhiều bất quy tắc (không thêm -s). Điền deer.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: Cần Tên một con vật đứng trước chữ 'were' (số nhiều).<br>• Bước 2: Quét Đoạn 6 thấy 'European colonisers' và chữ 'food' (thức ăn).<br>• Bước 3: Thấy 'introduced species such as deer' (loài du nhập ví dụ như con hươu).<br>• Bước 4: 'Deer' nghĩa là con hươu (số nhiều vẫn viết là deer) -> Điền deer."
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ loài vật trước động từ tobe số nhiều <i>were</i>.",
+          "<b>Paragraph 6 (dòng 3-4):</b> <i>'...introduced species such as deer depleted the remaining forests of food.'</i>",
+          "<b>Khớp từ:</b> <i>ate the kākāpō's food sources</i> = <i>depleted the remaining forests of food</i>.",
+          "<b>Từ cần điền:</b> <b>deer</b>."
         ]
       }
     },
     "q11": {
       "num": 11,
-      "type": "fill_in",
-      "text": "a definite sighting of female kakapo on Rakiura Island was reported in the year 11 …………….",
       "finalAnswer": "1980",
+      "inputWidth": "90px",
       "highlightId": "hl-q11",
-      "inputWidth": "100px",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Rào ngữ pháp thời gian",
-            "question": "Đề bài viết: 'in the year 11 ______'. Chỗ trống này 100% bắt buộc phải là loại dữ liệu gì?",
-            "guide": "Sau cụm 'in the year', bắt buộc phải là một Con số chỉ Năm (Year/Number).",
-            "bridge": "Dùng cặp mỏ neo cứng để tìm đoạn có con số."
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 11: Việc nhìn thấy chắc chắn vẹt kākāpō mái ở đảo Rakiura được ghi nhận vào năm nào ('in the year 11 ______')?",
+            "guide": "Sau 'in the year' chắc chắn phải là một con số chỉ năm.",
+            "bridge": "Hãy quét tên riêng 'Rakiura' và từ 'females' ở Paragraph 9."
           },
           {
-            "title": "Nấc 2/4 - Khóa hiện trường hai chân kiềng",
-            "question": "Cặp mỏ neo cứng gồm địa danh viết hoa 'Rakiura Island' và từ 'female' xuất hiện ở đoạn mấy?",
-            "guide": "Quét mỏ neo 'Rakiura' và 'female' -> Dừng lại ở nửa sau của Đoạn 8.",
-            "bridge": "Lột vỏ cụm từ chỉ việc xác nhận nhìn thấy."
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 9 nói việc xác nhận có vẹt cái diễn ra vào năm nào?",
+            "guide": "Paragraph 9 viết: '...and in 1980 it was confirmed females were also present.'",
+            "bridge": "'confirmed females were also present' chính là 'a definite sighting of female kākāpō was reported'.",
+            "answer": "1980"
           },
           {
-            "title": "Nấc 3/4 - Triệt tiêu từ đồng nghĩa xác nhận nhìn thấy",
-            "question": "Cụm từ nào trong bài đồng nghĩa với 'a definite sighting was reported' (đã chính thức nhìn thấy)? Con số năm nào đi liền với nó?",
-            "guide": "'A definite sighting was reported' được viết lại thành 'it was confirmed' (đã được xác nhận). Mốc năm gắn liền là 1980.",
-            "bridge": "Kiểm tra điều kiện đáp án là con số."
-          },
-          {
-            "title": "Nấc 4/4 - Kiểm tra luật ONE WORD/NUMBER & Chốt sổ",
-            "question": "Con số 1980 có thỏa mãn luật điền từ không?",
-            "guide": "1980 là 1 con số duy nhất, thỏa mãn ONE WORD AND/OR A NUMBER -> Chốt 1980.",
-            "bridge": "Hoàn thành câu 11."
+            "title": "Chọn từ nguyên văn",
+            "question": "Con số năm đó là gì?",
+            "guide": "Đáp án là '1980'.",
+            "bridge": "Chốt câu 11: 1980."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: 'in the year [11]' -> Nhãn tuyệt đối: Con số chỉ năm (4 chữ số).<br>• Bước 2 (Keyword): Tên riêng 'Rakiura Island' và danh từ 'female' là cặp chân kiềng ở Đoạn 8.<br>• Bước 3: Đối chiếu: 'definite sighting... was reported' = 'it was confirmed females were also present'.<br>• Bước 4: Mốc thời gian xác nhận là '1980'. Điền 1980.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: 'in the year ______' -> Cần tìm 1 Năm (con số có 4 số).<br>• Bước 2: Quét chữ viết hoa 'Rakiura' ở Đoạn 8.<br>• Bước 3: Tìm chữ 'females' (con cái), thấy ngay cụm: 'and in 1980 it was confirmed females were also present'.<br>• Bước 4: Chép đúng con số 1980."
+          "<b>Vị trí ngữ pháp:</b> Cần con số chỉ năm sau cụm <i>in the year</i>.",
+          "<b>Paragraph 9 (dòng 5):</b> <i>'...and in 1980 it was confirmed females were also present.'</i>",
+          "<b>Khớp từ:</b> <i>a definite sighting of female kākāpō... was reported</i> = <i>confirmed females were also present</i>.",
+          "<b>Từ cần điền:</b> <b>1980</b>."
         ]
       }
     },
     "q12": {
       "num": 12,
-      "type": "fill_in",
-      "text": "the Recovery Plan included an increase in 12 …………….",
       "finalAnswer": "funding",
+      "inputWidth": "110px",
       "highlightId": "hl-q12",
-      "inputWidth": "120px",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Rào ngữ pháp sau lượng từ tăng tiến",
-            "question": "Đề ghi 'an increase in 12 ______'. Sau giới từ 'in' của cụm tăng trưởng này, mày cần điền loại từ gì?",
-            "guide": "Cần một Danh từ (thường là danh từ không đếm được/trừu tượng) chỉ thứ được gia tăng/rót thêm vào kế hoạch.",
-            "bridge": "Quét mỏ neo tên kế hoạch viết hoa."
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 12: Kế hoạch Phục hồi bao gồm sự gia tăng về cái gì ('an increase in 12 ______')?",
+            "guide": "Sau 'an increase in' cần một danh từ chỉ nguồn lực hoặc kinh phí được tăng thêm.",
+            "bridge": "Hãy tìm mốc năm 1996 và cụm từ 'Recovery Plan' ở đầu Paragraph 11."
           },
           {
-            "title": "Nấc 2/4 - Khóa hiện trường bằng mỏ neo cứng",
-            "question": "Cụm từ viết hoa 'Recovery Plan' xuất hiện lại ở đoạn mấy?",
-            "guide": "Xuất hiện tại câu đầu Đoạn 10 ('In 1996, a new Recovery Plan was launched...').",
-            "bridge": "Bắt cụm từ đồng nghĩa chỉ sự gia tăng."
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 11 nói khi kế hoạch mới ra đời, nó đi kèm với cái gì cao hơn: 'and a higher amount of ______'?",
+            "guide": "Paragraph 11 viết: 'In 1996, a new Recovery Plan was launched, together with a specialist advisory group... and a higher amount of funding.'",
+            "bridge": "'an increase in' chính là 'a higher amount of'. Thứ được tăng lên là gì?"
           },
           {
-            "title": "Nấc 3/4 - Lột vỏ từ đồng nghĩa tăng thêm",
-            "question": "Trong Đoạn 10, cụm từ nào đồng nghĩa với 'an increase in' (sự gia tăng về...)? Danh từ nào đứng ngay sau chữ 'of'?",
-            "guide": "'An increase in' được đổi vỏ thành 'a higher amount of' (một lượng cao hơn của...). Danh từ đứng ngay sau là 'funding' (tiền tài trợ/ngân sách).",
-            "bridge": "Kiểm tra giới hạn từ và ý nghĩa."
-          },
-          {
-            "title": "Nấc 4/4 - Kiểm tra nghĩa & Chốt sổ",
-            "question": "Từ 'funding' có nghĩa là gì? Có đúng 1 từ duy nhất không?",
-            "guide": "'Funding' là tiền tài trợ/kinh phí, hoàn toàn phù hợp với ngữ cảnh tăng ngân sách cho dự án cứu vẹt. Đúng 1 từ -> Chốt funding.",
-            "bridge": "Hoàn thành câu 12."
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất chỉ kinh phí tài trợ là gì?",
+            "guide": "Đáp án là 'funding' (nguồn tài trợ, kinh phí).",
+            "bridge": "Chốt câu 12: funding."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: 'included an increase in [12]' -> Cần Danh từ chỉ đối tượng được tăng cường.<br>• Bước 2 (Keyword): 'Recovery Plan' là thuật ngữ dự án viết hoa ở đầu Đoạn 10.<br>• Bước 3: 'an increase in' = 'a higher amount of'. Danh từ cốt lõi sau 'of' là 'funding'.<br>• Bước 4: 'funding' là danh từ không đếm được, khớp hoàn hảo. Điền funding.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: 'increase in ______' (tăng cái gì đó lên) -> Cần 1 Danh từ.<br>• Bước 2: Quét chữ viết hoa 'Recovery Plan' ở đầu Đoạn 10.<br>• Bước 3: Tìm chữ đồng nghĩa: 'higher amount of' (= increase: số lượng nhiều hơn/tăng lên).<br>• Bước 4: Từ đứng sau chữ 'of' là 'funding' (tiền tài trợ) -> Điền funding."
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau cụm <i>an increase in</i>.",
+          "<b>Paragraph 11 (dòng 1-3):</b> <i>'In 1996, a new Recovery Plan was launched... and a higher amount of funding.'</i>",
+          "<b>Khớp từ:</b> <i>an increase in</i> = <i>a higher amount of</i>.",
+          "<b>Từ cần điền:</b> <b>funding</b>."
         ]
       }
     },
     "q13": {
       "num": 13,
-      "type": "fill_in",
-      "text": "a current goal of the Recovery Plan is to maintain the involvement of 13 ……………. in kakapo protection.",
       "finalAnswer": "stakeholders",
+      "inputWidth": "130px",
       "highlightId": "hl-q13",
-      "inputWidth": "140px",
       "socratic": {
         "steps": [
           {
-            "title": "Nấc 1/4 - Rào ngữ pháp đối tượng con người",
-            "question": "Cấu trúc đề bài: 'maintain the involvement of 13 ______' (duy trì sự tham gia của...). Theo Quy tắc 21, từ cần điền là loại từ gì và chỉ đối tượng nào?",
-            "guide": "Cần một Danh từ (thường là số nhiều) chỉ nhóm người / tổ chức / bên liên quan tham gia vào việc bảo tồn.",
-            "bridge": "Quét xuống câu cuối của văn bản theo dòng chảy tịnh tiến."
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 13: Mục tiêu hiện tại của Kế hoạch là duy trì sự tham gia của đối tượng nào ('the involvement of 13 ______') trong việc bảo vệ kākāpō?",
+            "guide": "Sau 'the involvement of' cần một danh từ chỉ người hoặc các bên liên quan tham gia bảo tồn.",
+            "bridge": "Hãy đọc Paragraph 13 (Paragraph cuối cùng) nói về các mục tiêu hiện nay."
           },
           {
-            "title": "Nấc 2/4 - Khóa hiện trường câu cuối cùng",
-            "question": "Dòng chảy tịnh tiến (Quy tắc 26): Câu 13 là câu cuối cùng của bài thi, có mỏ neo 'current goal' (mục tiêu hiện nay). Mắt em phải quét xuống đoạn nào?",
-            "guide": "Quét xuống Đoạn 12 (đoạn cuối cùng) bắt đầu bằng chữ 'Today... Its key goals are...'.",
-            "bridge": "Triệt tiêu cụm từ duy trì sự can thiệp, gắn kết."
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 13 nói mục tiêu là đảm bảo ai tiếp tục gắn bó, tham gia vào việc bảo tồn loài vẹt?",
+            "guide": "Paragraph 13 viết: '...and ensure stakeholders continue to be fully engaged in the preservation of the species.'",
+            "bridge": "'maintain the involvement of' tương đương với 'ensure ... continue to be fully engaged in'.",
+            "answer": "stakeholders"
           },
           {
-            "title": "Nấc 3/4 - Triệt tiêu cấu trúc duy trì sự tham gia",
-            "question": "Cấu trúc 'maintain the involvement of... in protection' đồng nghĩa với cụm nào ở cuối đoạn 12? Danh từ nhóm người nào đứng giữa chữ 'ensure' và 'continue'?",
-            "guide": "'Maintain the involvement in...' được viết lại thành 'ensure... continue to be fully engaged in...'. Nhóm đối tượng đứng ở giữa là 'stakeholders' (các bên liên quan).",
-            "bridge": "Kiểm tra đuôi số nhiều của danh từ."
-          },
-          {
-            "title": "Nấc 4/4 - Kiểm tra ký tự & Chốt sổ",
-            "question": "Từ 'stakeholders' có đuôi '-s' không? Có giữ nguyên 100% dạng chữ theo Quy tắc 30 không?",
-            "guide": "'Stakeholders' có đuôi '-s', đúng 1 từ duy nhất. Áp dụng Quy tắc 30 -> Chốt stakeholders.",
-            "bridge": "Hoàn thành câu 13."
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ các bên liên quan trong bài là gì?",
+            "guide": "Đáp án là 'stakeholders'.",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: stakeholders."
           }
         ]
       },
       "explanation": {
         "steps": [
-          "<b>Cách 1 (Khá / Giỏi):</b><br>• Bước 1: 'the involvement of [13] in kakapo protection' -> Cần Danh từ chỉ chủ thể tham gia.<br>• Bước 2 (Keyword): 'current goal' = 'Today... key goals' dẫn thẳng mắt về Đoạn 12 (đoạn cuối).<br>• Bước 3: 'maintain the involvement... in kakapo protection' = 'ensure... continue to be fully engaged in the preservation of the species'.<br>• Bước 4: Chủ thể ở vị trí đối xứng là 'stakeholders'. Điền stakeholders.",
-          "<b>Cách 2 (Mất gốc / Lớp 5):</b><br>• Bước 1: 'involvement of ______' (sự tham gia của ai đó) -> Cần từ chỉ người.<br>• Bước 2: Quét đoạn cuối cùng thấy chữ 'Today' (= current: hiện nay) và chữ 'goals' (mục tiêu).<br>• Bước 3: Thấy 'engaged in' (= involvement: tham gia), thấy 'preservation' (= protection: bảo vệ).<br>• Bước 4: Nhặt từ lạ chỉ người đứng ở giữa là 'stakeholders' (các bên liên quan) -> Chép nguyên chữ stakeholders."
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ đối tượng sau cụm <i>the involvement of</i>.",
+          "<b>Paragraph 13 (câu cuối):</b> <i>'...and ensure stakeholders continue to be fully engaged in the preservation of the species.'</i>",
+          "<b>Khớp từ:</b> <i>maintain the involvement of</i> = <i>ensure ... continue to be fully engaged</i>; <i>in kākāpō protection</i> = <i>in the preservation of the species</i>.",
+          "<b>Từ cần điền:</b> <b>stakeholders</b>."
         ]
       }
     }
