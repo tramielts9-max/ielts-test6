@@ -1,0 +1,517 @@
+{
+  "title": "IELTS Academic 18 - Test 1 - Passage 1: Urban farming",
+  "answers": {
+    "q1": "lettuces",
+    "q2": "1,000 kg",
+    "q3": "consumption",
+    "q4": "pesticides",
+    "q5": "journeys",
+    "q6": "producers",
+    "q7": "flavour",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "FALSE",
+    "q11": "TRUE",
+    "q12": "FALSE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>Urban farming</h3><p><em>In Paris, urban farmers are trying a soil-free approach to agriculture that uses less space and fewer resources. Could it help cities face the threats to our food supplies?</em></p><p><strong>Paragraph 1.</strong> On top of a striking new exhibition hall in southern Paris, the world's largest urban rooftop farm has started to bear fruit. Strawberries that are small, intensely flavoured and resplendently red sprout abundantly from large plastic tubes. Peer inside and you see the tubes are completely hollow, the roots of dozens of strawberry plants dangling down inside them. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">From identical vertical tubes nearby burst row upon row of <span class=\"kw\">lettuces</span>; near those are aromatic herbs, such as basil, sage and peppermint</span>. Opposite, in narrow, horizontal trays packed not with soil but with coconut fibre, grow cherry tomatoes, shiny aubergines and brightly coloured chards.</p><p><strong>Paragraph 2.</strong> Pascal Hardy, an engineer and sustainable development consultant, began experimenting with vertical farming and aeroponic growing towers – as the soil-free plastic tubes are known – on his Paris apartment block roof five years ago. The urban rooftop space above the exhibition hall is somewhat bigger: 14,000 square metres and almost exactly the size of a couple of football pitches. Already, the team of young urban farmers who tend it have picked, in one day, 3,000 lettuces and 150 punnets of strawberries. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">When the remaining two thirds of the vast open area are in production, 20 staff will harvest up to <span class=\"kw\">1,000 kg</span> of perhaps 35 different varieties of fruit and vegetables, every day</span>. 'We're not ever, obviously, going to feed the whole city this way,' cautions Hardy. 'In the urban environment you're working with very significant practical constraints, clearly, on what you can do and where. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">But if enough unused space can be developed like this, there's no reason why you shouldn't eventually target maybe between 5% and 10% of <span class=\"kw\">consumption</span></span>.'</p><p><strong>Paragraph 3.</strong> Perhaps most significantly, however, this is a real-life showcase for the work of Hardy's flourishing urban agriculture consultancy, Agripolis, which is currently fielding enquiries from around the world to design, build and equip a new breed of soil-free inner-city farm. 'The method's advantages are many,' he says. 'First, I don't much like the fact that <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">most of the fruit and vegetables we eat have been treated with something like 17 different <span class=\"kw\">pesticides</span></span>, or that the intensive farming techniques that produced them are such huge generators of greenhouse gases. I don't much like the fact, either, that <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">they've travelled an average of 2,000 refrigerated kilometres to my plate, that their quality is so poor, because the varieties are selected for their capacity to withstand such substantial <span class=\"kw\">journeys</span></span>, or that <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">80% of the price I pay goes to wholesalers and transport companies, not the <span class=\"kw\">producers</span></span>.'</p><p><strong>Paragraph 4.</strong> Produce grown using this soil-free method, on the other hand – which relies solely on a small quantity of water, enriched with organic nutrients, pumped around a closed circuit of pipes, towers and trays – is 'produced up here, and sold locally, just down there. It barely travels at all,' Hardy says. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">'You can select crop varieties for their <span class=\"kw\">flavour</span>, not their resistance to the transport and storage chain, and you can pick them when they're really at their best, and not before.'</span> No soil is exhausted, and the water that gently showers the plants' roots every 12 minutes is recycled, so the method uses 90% less water than a classic intensive farm for the same yield.</p><p><strong>Paragraph 5.</strong> Urban farming is not, of course, a new phenomenon. Inner-city agriculture is booming from Shanghai to Detroit and Tokyo to Bangkok. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Strawberries are being grown in disused shipping containers, mushrooms in underground carparks</span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Aeroponic farming, he says, is 'virtuous'. The equipment weighs little, can be installed on almost any flat surface and is cheap to buy: roughly €100 to €150 per square metre</span>. It is cheap to run, too, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">consuming a tiny fraction of the electricity used by some techniques</span>.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Produce grown this way typically sells at prices that, while generally higher than those of classic intensive agriculture, are lower than soil-based organic growers</span>. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">There are limits to what farmers can grow this way, of course, and much of the produce is suited to the summer months</span>. 'Root vegetables we cannot do, at least not yet,' he says. 'Radishes are OK, but carrots, potatoes, that kind of thing – the roots are simply too long. Fruit trees are obviously not an option. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">And beans tend to take up a lot of space for not much return</span>.' Nevertheless, urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture that is bringing food production closer to our lives.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "sentence_completion",
+      "title": "Questions 1-3",
+      "instructions": "<i>Complete the sentences below.<br>Choose <b>NO MORE THAN TWO WORDS AND/OR A NUMBER</b> from the passage for each answer.<br>Write your answers in boxes 1-3 on your answer sheet.</i>",
+      "questionIds": ["q1", "q2", "q3"]
+    },
+    {
+      "id": "g2",
+      "type": "table",
+      "title": "Questions 4-7",
+      "instructions": "<i>Complete the table below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 4-7 on your answer sheet.</i>",
+      "questionIds": ["q4", "q5", "q6", "q7"],
+      "template": "<table style=\"width: 100%; border-collapse: collapse; margin-top: 12px;\" border=\"1\"><thead><tr style=\"background-color: #f2f2f2;\"><th style=\"padding: 8px;\"></th><th style=\"padding: 8px;\">Growth</th><th style=\"padding: 8px;\">Selection</th><th style=\"padding: 8px;\">Sale</th></tr></thead><tbody><tr><td style=\"padding: 8px;\"><b>Intensive farming</b></td><td style=\"padding: 8px;\"><ul><li>wide range of <b>4.</b> {{q4}} used</li><li>techniques pollute air</li></ul></td><td style=\"padding: 8px;\"><ul><li>quality not good</li><li>varieties of fruit and vegetables chosen that can survive long <b>5.</b> {{q5}}</li></ul></td><td style=\"padding: 8px;\"><ul><li><b>6.</b> {{q6}} receive very little of overall income</li></ul></td></tr><tr><td style=\"padding: 8px;\"><b>Aeroponic urban farming</b></td><td style=\"padding: 8px;\"><ul><li>no soil used</li><li>nutrients added to water, which is recycled</li></ul></td><td style=\"padding: 8px;\"><ul><li>produce chosen because of its <b>7.</b> {{q7}}</li></ul></td><td style=\"padding: 8px;\"></td></tr></tbody></table>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "title": "Questions 8-13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8-13 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</i>",
+      "questionIds": ["q8", "q9", "q10", "q11", "q12", "q13"]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Vertical tubes are used to grow strawberries, 1 __________ and herbs.",
+      "finalAnswer": "lettuces",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 1 nói: Các ống nhựa dựng đứng ('Vertical tubes') được dùng để trồng dâu tây, thảo mộc ('herbs') và loại cây nào nữa ('1 ______')?",
+            "guide": "Sau dấu phẩy và trước 'and herbs' cần một danh từ số nhiều chỉ một loại rau/cây trồng trong ống nhựa thẳng đứng.",
+            "bridge": "Cùng đọc Paragraph 1 chỗ miêu tả các ống nhựa nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Trong Paragraph 1, tác giả nhắc đến loại rau nào được trồng trong các ống dựng đứng ('vertical tubes') ngay cạnh những khóm thảo mộc?",
+            "guide": "Paragraph 1 viết: 'From identical vertical tubes nearby burst row upon row of lettuces; near those are aromatic herbs...' (Từ các ống dựng đứng giống hệt gần đó mọc lên từng hàng xà lách; gần đó là các loại thảo mộc thơm...).",
+            "bridge": "Loại rau trồng trong ống dựng đứng cùng với thảo mộc đã lộ diện."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều chỉ loại rau xà lách trong bài là gì?",
+            "guide": "Đáp án là 'lettuces'.",
+            "bridge": "Chốt câu 1: lettuces."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Các ống nhựa dựng đứng dùng để trồng dâu tây, thảo mộc và cây gì.",
+          "<b>Paragraph 1 (dòng 4-5):</b> <i>'From identical vertical tubes nearby burst row upon row of lettuces; near those are aromatic herbs...'</i>",
+          "<b>Từ cần điền:</b> <b>lettuces</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "There will eventually be a daily harvest of as much as 2 __________ in weight of fruit and vegetables.",
+      "finalAnswer": "1,000 kg",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 2 nói: Về sau mỗi ngày trang trại có thể thu hoạch được khối lượng rau quả lên tới bao nhiêu ('as much as 2 ______ in weight')?",
+            "guide": "Chỗ trống cần một con số kèm đơn vị đo khối lượng sản lượng thu hoạch mỗi ngày ('daily harvest').",
+            "bridge": "Hãy tìm mốc sản lượng tương lai ở Paragraph 2."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 2 nói khi hai phần ba diện tích còn lại đi vào sản xuất, nhân viên sẽ thu hoạch được bao nhiêu mỗi ngày?",
+            "guide": "Paragraph 2 viết: '...20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, every day.' (20 nhân viên sẽ thu hoạch tới 1.000 kg rau quả mỗi ngày).",
+            "bridge": "'harvest up to' tương đương với 'harvest of as much as'."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Con số chỉ khối lượng thu hoạch là gì?",
+            "guide": "Đáp án là '1,000 kg' (hoặc 1000 kg).",
+            "bridge": "Chốt câu 2: 1,000 kg."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Khối lượng rau quả thu hoạch mỗi ngày khi trang trại vận hành tối đa.",
+          "<b>Paragraph 2 (dòng 5-6):</b> <i>'...20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, every day.'</i>",
+          "<b>Khớp từ:</b> <i>daily harvest of as much as</i> = <i>harvest up to ... every day</i>.",
+          "<b>Từ cần điền:</b> <b>1,000 kg</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "It may be possible that the farm's produce will account for as much as 10% of the city's 3 __________ overall.",
+      "finalAnswer": "consumption",
+      "inputWidth": "140px",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 3 nói: Nông sản của trang trại có thể sẽ đáp ứng tới 10% mức gì của toàn thành phố ('10% of the city's 3 ______ overall')?",
+            "guide": "Sau sở hữu cách 'city's' cần một danh từ chỉ mức tiêu thụ thực phẩm của người dân thành phố.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph 2 chỗ có con số 10%."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Cuối Paragraph 2, ông Hardy hy vọng mô hình này có thể nhắm tới đáp ứng 5% đến 10% cái gì?",
+            "guide": "Paragraph 2 viết: '...target maybe between 5% and 10% of consumption.' (nhắm tới mục tiêu đáp ứng khoảng từ 5% đến 10% mức tiêu thụ).",
+            "bridge": "Từ đứng sau tỷ lệ phần trăm chính là mức tiêu thụ."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ chỉ mức tiêu thụ trong bài là gì?",
+            "guide": "Đáp án là 'consumption' (hoặc 'food consumption').",
+            "bridge": "Chốt câu 3: consumption."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Trang trại có thể đáp ứng tới 10% mức gì của thành phố.",
+          "<b>Paragraph 2 (câu cuối):</b> <i>'...target maybe between 5% and 10% of consumption.'</i>",
+          "<b>Từ cần điền:</b> <b>consumption</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Intensive farming: wide range of 4 __________ used",
+      "finalAnswer": "pesticides",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 4 trong bảng so sánh: Nông nghiệp truyền thống thâm canh ('Intensive farming') sử dụng nhiều loại gì ('wide range of 4 ______ used')?",
+            "guide": "Sau 'wide range of' cần một danh từ số nhiều chỉ hóa chất hoặc chất bảo vệ thực vật hay dùng trong nông nghiệp truyền thống.",
+            "bridge": "Hãy tìm những lời chỉ trích của Hardy về nông nghiệp truyền thống ở Paragraph 3."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 3 nói rau củ chúng ta ăn thông thường bị phun bao nhiêu loại hóa chất?",
+            "guide": "Paragraph 3 viết: '...most of the fruit and vegetables we eat have been treated with something like 17 different pesticides...' (phần lớn rau quả bị xử lý bằng khoảng 17 loại thuốc trừ sâu khác nhau).",
+            "bridge": "'17 different' chính là 'a wide range of' (nhiều loại khác nhau). Hóa chất được dùng là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ số nhiều chỉ thuốc trừ sâu trong bài là gì?",
+            "guide": "Đáp án là 'pesticides'.",
+            "bridge": "Chốt câu 4: pesticides."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Nông nghiệp thâm canh dùng nhiều loại hóa chất nào.",
+          "<b>Paragraph 3 (dòng 5):</b> <i>'...have been treated with something like 17 different pesticides...'</i>",
+          "<b>Khớp từ:</b> <i>wide range of</i> = <i>17 different</i>.",
+          "<b>Từ cần điền:</b> <b>pesticides</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Intensive farming: varieties of fruit and vegetables chosen that can survive long 5 __________",
+      "finalAnswer": "journeys",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 5: Rau củ trong nông nghiệp truyền thống được chọn những giống có thể chịu đựng được cái gì kéo dài ('survive long 5 ______')?",
+            "guide": "Sau tính từ 'long' cần một danh từ chỉ những chuyến đi hoặc quãng đường vận chuyển xa xôi.",
+            "bridge": "Hãy đọc tiếp Paragraph 3 chỗ nói về quãng đường vận chuyển."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 3 nói các giống cây được chọn vì khả năng chịu đựng được điều gì?",
+            "guide": "Paragraph 3 viết: '...their quality is so poor, because the varieties are selected for their capacity to withstand such substantial journeys...' (chất lượng kém vì giống cây được chọn theo tiêu chí chịu đựng được những chuyến hành trình dài như vậy).",
+            "bridge": "'withstand' tương đương với 'survive' (chịu đựng được); 'substantial' tương đương với 'long' (dài). Thứ phải chịu đựng là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều chỉ các chuyến đi trong bài là gì?",
+            "guide": "Đáp án là 'journeys'.",
+            "bridge": "Chốt câu 5: journeys."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Giống rau quả được chọn để chịu được điều gì dài ngày.",
+          "<b>Paragraph 3 (dòng 7-8):</b> <i>'...the varieties are selected for their capacity to withstand such substantial journeys...'</i>",
+          "<b>Khớp từ:</b> <i>survive</i> = <i>withstand</i>; <i>long</i> = <i>substantial</i>.",
+          "<b>Từ cần điền:</b> <b>journeys</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Intensive farming: 6 __________ receive very little of overall income",
+      "finalAnswer": "producers",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 6: Ai là người chỉ nhận được rất ít trong tổng thu nhập ('6 ______ receive very little of overall income')?",
+            "guide": "Đứng trước động từ 'receive' cần một danh từ chỉ người trực tiếp làm ra nông sản nhưng hưởng ít tiền.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph 3 chỗ phân chia tiền bán hàng."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 3 nói 80% tiền bán hàng rơi vào túi ai, và ai là người không nhận được mấy?",
+            "guide": "Paragraph 3 viết: '...80% of the price I pay goes to wholesalers and transport companies, not the producers.' (80% giá tiền tôi trả rơi vào tay các công ty bán buôn và vận chuyển, chứ không đến tay những người sản xuất).",
+            "bridge": "Người nhận được rất ít tiền chính là những người sản xuất nông sản."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều chỉ người sản xuất trong bài là gì?",
+            "guide": "Đáp án là 'producers'.",
+            "bridge": "Chốt câu 6: producers."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Ai là người nhận được rất ít trong giá bán sản phẩm.",
+          "<b>Paragraph 3 (câu cuối):</b> <i>'...80% of the price I pay goes to wholesalers and transport companies, not the producers.'</i>",
+          "<b>Khớp ý:</b> Phần lớn tiền thuộc về khâu trung gian, người làm ra sản phẩm (<i>producers</i>) nhận rất ít.",
+          "<b>Từ cần điền:</b> <b>producers</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Aeroponic urban farming: produce chosen because of its 7 __________",
+      "finalAnswer": "flavour",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 7: Nông sản khí canh đô thị ('Aeroponic urban farming') được chọn lựa vì yếu tố gì của nó ('because of its 7 ______')?",
+            "guide": "Sau 'its' cần một danh từ chỉ đặc tính chất lượng thơm ngon của rau quả.",
+            "bridge": "Hãy đọc Paragraph 4 chỗ nói về việc lựa chọn giống cây trồng tại chỗ."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 4 nói ông Hardy chọn các giống cây dựa trên tiêu chí nào thay vì chọn theo khả năng vận chuyển?",
+            "guide": "Paragraph 4 viết: 'You can select crop varieties for their flavour, not their resistance to the transport and storage chain...' (Bạn có thể chọn giống cây vì hương vị của chúng, chứ không phải vì khả năng chịu đựng chuỗi vận chuyển và lưu kho).",
+            "bridge": "Tiêu chí để chọn giống cây ở đây chính là hương vị."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ hương vị trong bài là gì?",
+            "guide": "Đáp án là 'flavour' (hoặc 'flavor').",
+            "bridge": "Hoàn thành phần bảng! Chốt câu 7: flavour."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Nông sản trồng trên mái nhà được chọn vì đặc tính gì.",
+          "<b>Paragraph 4 (dòng 3):</b> <i>'You can select crop varieties for their flavour, not their resistance to the transport and storage chain...'</i>",
+          "<b>Từ cần điền:</b> <b>flavour</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Urban farming can take place above or below ground.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 8 nói gì? Nông nghiệp đô thị có thể diễn ra ở trên mặt đất hoặc dưới lòng đất ('above or below ground').",
+            "guide": "Em cần kiểm tra xem trong bài có ví dụ nào về việc trồng trọt trên cao (như mái nhà) và dưới hầm không.",
+            "bridge": "Cùng đọc các câu đầu của Paragraph 5 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 đưa ra ví dụ về các địa điểm trồng trọt ở đô thị như thế nào?",
+            "guide": "Paragraph 5 viết: dâu tây được trồng trong container bỏ hoang, nấm được trồng dưới các bãi đỗ xe ngầm ('mushrooms in underground carparks'), và trang trại trên mái nhà ('rooftop farm') ở các đoạn trước.",
+            "bridge": "'rooftop' là trên cao (above ground), 'underground carparks' là dưới lòng đất (below ground)."
+          },
+          {
+            "title": "So sánh và kết luận",
+            "question": "Cả hai hình thức trên mặt đất và dưới lòng đất đều có trong bài, vậy nhận định này đúng hay sai?",
+            "guide": "Thông tin hoàn toàn chính xác, chọn TRUE.",
+            "bridge": "Chốt câu 8: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Nông nghiệp đô thị có thể tiến hành ở trên mặt đất hoặc dưới lòng đất.",
+          "<b>Paragraph 1 & 5:</b> Bài viết nhắc đến trang trại trên mái nhà (<i>rooftop farm</i>) và trồng nấm ở các bãi đỗ xe dưới lòng đất (<i>mushrooms in underground carparks</i>).",
+          "<b>Khớp ý:</b> Hoàn toàn khớp với <i>above or below ground</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Some of the equipment used in aeroponic farming can be made by hand.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích từ khóa nhận định",
+            "question": "Câu 9 nói: Một số thiết bị dùng trong nông nghiệp khí canh có thể được làm thủ công bằng tay ('made by hand').",
+            "guide": "Em hãy tìm xem trong Paragraph 5 có nhắc đến cách chế tạo thiết bị bằng tay hay không.",
+            "bridge": "Cùng đọc kỹ đoạn miêu tả thiết bị khí canh ở Paragraph 5."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 nói gì về thiết bị khí canh ('The equipment')?",
+            "guide": "Paragraph 5 viết: thiết bị có trọng lượng nhẹ, có thể lắp đặt trên hầu hết mặt phẳng và có giá mua khá rẻ (khoảng 100 đến 150 euro mỗi mét vuông).",
+            "bridge": "Bài có nói thiết bị này có thể tự làm bằng tay (made by hand) hay không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài chỉ nói về khối lượng và giá mua thiết bị, hoàn toàn không nhắc đến việc làm bằng tay. Vậy ta chọn gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 9: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Một số thiết bị khí canh có thể tự làm thủ công bằng tay.",
+          "<b>Paragraph 5:</b> <i>'The equipment weighs little, can be installed on almost any flat surface and is cheap to buy...'</i>",
+          "<b>Đối chiếu:</b> Bài đọc chỉ đề cập thiết bị nhẹ, dễ lắp và rẻ để mua, hoàn toàn không nhắc gì đến việc chúng có thể được làm bằng tay (<i>made by hand</i>) hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Urban farming relies more on electricity than some other types of farming.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 10 nói: Nông nghiệp đô thị phụ thuộc vào điện năng NHIỀU HƠN ('relies more on electricity than') một số hình thức canh tác khác. Hãy chú ý so sánh hơn kém này.",
+            "guide": "Em cần tìm câu nói về lượng điện tiêu thụ ở cuối Paragraph 5.",
+            "bridge": "Cùng xem mức độ tiêu thụ điện của nông nghiệp đô thị nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 nói trang trại này tiêu tốn lượng điện như thế nào so với các kỹ thuật khác?",
+            "guide": "Paragraph 5 viết: 'It is cheap to run, too, consuming a tiny fraction of the electricity used by some techniques.' (Nó vận hành cũng rẻ, chỉ tiêu thụ một phần rất nhỏ lượng điện năng so với một số kỹ thuật khác).",
+            "bridge": "'a tiny fraction of the electricity' nghĩa là chỉ tốn một phần rất nhỏ điện năng, chứ không hề tốn nhiều hơn."
+          },
+          {
+            "title": "So sánh và kết luận",
+            "question": "Câu hỏi bảo nó tốn nhiều điện hơn, bài đọc bảo chỉ tốn một phần rất nhỏ điện năng. Hai thông tin này trái ngược nhau, vậy đáp án là gì?",
+            "guide": "Thông tin phủ định nhau 100%, chọn FALSE.",
+            "bridge": "Chốt câu 10: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Nông nghiệp đô thị dựa vào điện nhiều hơn so với một số phương pháp khác.",
+          "<b>Paragraph 5 (câu cuối):</b> <i>'...consuming a tiny fraction of the electricity used by some techniques.'</i> (chỉ tiêu thụ một phần rất nhỏ lượng điện năng so với một số kỹ thuật khác).",
+          "<b>Đối chiếu:</b> Nhận định nói tốn nhiều điện hơn (<i>relies more on electricity</i>) trái ngược hoàn toàn với việc chỉ tiêu thụ một phần rất nhỏ (<i>a tiny fraction</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Fruit and vegetables grown on an aeroponic urban farm are cheaper than traditionally grown organic produce.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 11 nói gì? Rau củ quả trồng theo phương pháp khí canh đô thị RẺ HƠN ('are cheaper than') rau hữu cơ trồng trong đất truyền thống.",
+            "guide": "Em cần tìm câu so sánh giá cả giữa nông sản khí canh và nông sản hữu cơ trồng đất ở đầu Paragraph 6.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 6 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 so sánh giá bán của nông sản trồng theo cách này với nông sản hữu cơ trồng đất ra sao?",
+            "guide": "Paragraph 6 viết: 'Produce grown this way typically sells at prices that, while generally higher than those of classic intensive agriculture, are lower than soil-based organic growers.' (Nông sản trồng theo cách này bán ở mức giá... thấp hơn so với người trồng rau hữu cơ trong đất).",
+            "bridge": "'lower than soil-based organic growers' chính là rẻ hơn nông sản hữu cơ truyền thống (cheaper)."
+          },
+          {
+            "title": "So sánh và kết luận",
+            "question": "Ý so sánh giá rẻ hơn này có khớp hoàn toàn với bài đọc không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn TRUE.",
+            "bridge": "Chốt câu 11: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Rau quả khí canh đô thị rẻ hơn rau quả hữu cơ truyền thống.",
+          "<b>Paragraph 6 (câu đầu):</b> <i>'...are lower than soil-based organic growers.'</i> (giá thấp hơn những người trồng hữu cơ trong đất).",
+          "<b>Khớp từ:</b> <i>cheaper than</i> = <i>prices are lower than</i>; <i>traditionally grown organic produce</i> = <i>soil-based organic growers</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Most produce can be grown on an aeroponic urban farm at any time of the year.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 12 nói: Hầu hết nông sản có thể được trồng trên trang trại khí canh đô thị VÀO BẤT KỲ THỜI ĐIỂM NÀO TRONG NĂM ('at any time of the year'). Hãy chú ý cụm từ chỉ thời gian này.",
+            "guide": "Em hãy đọc các câu tiếp theo của Paragraph 6 xem mùa nào mới trồng được và có giới hạn gì không.",
+            "bridge": "Cùng xem tính thời vụ của nông sản ở Paragraph 6 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 nói nông sản trồng theo cách này có thích hợp trồng quanh năm không?",
+            "guide": "Paragraph 6 viết: 'There are limits to what farmers can grow this way, of course, and much of the produce is suited to the summer months.' (Dĩ nhiên có những giới hạn về loại cây có thể trồng theo cách này, và phần lớn nông sản chỉ thích hợp cho những tháng mùa hè).",
+            "bridge": "'phần lớn chỉ thích hợp vào mùa hè' đối lập hoàn toàn với 'trồng vào bất kỳ thời điểm nào trong năm'."
+          },
+          {
+            "title": "So sánh và kết luận",
+            "question": "Câu hỏi bảo trồng được quanh năm, bài đọc bảo phần lớn chỉ hợp với mùa hè. Vậy đáp án là gì?",
+            "guide": "Thông tin đối lập 100%, chọn FALSE.",
+            "bridge": "Chốt câu 12: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Phần lớn nông sản có thể trồng ở trang trại khí canh vào bất cứ thời gian nào trong năm.",
+          "<b>Paragraph 6 (dòng 2-3):</b> <i>'There are limits to what farmers can grow this way, of course, and much of the produce is suited to the summer months.'</i> (có những hạn chế... và phần lớn nông sản chỉ thích hợp với các tháng mùa hè).",
+          "<b>Đối chiếu:</b> Nhận định nói trồng được quanh năm (<i>at any time of the year</i>) mâu thuẫn hoàn toàn với bài đọc là chủ yếu hợp với mùa hè (<i>suited to the summer months</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Beans take longer to grow on an urban farm than other vegetables.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích từ khóa nhận định",
+            "question": "Câu 13 nói: Cây đậu ('Beans') mất nhiều thời gian phát triển hơn ('take longer to grow') trên trang trại đô thị so với các loại rau khác.",
+            "guide": "Em hãy tìm từ 'Beans' ở cuối Paragraph 6 xem tác giả nói gì về cây đậu.",
+            "bridge": "Cùng đọc câu nhắc đến cây đậu ở Paragraph 6 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 nói lý do vì sao người ta không mặn mà trồng cây đậu?",
+            "guide": "Paragraph 6 viết: 'And beans tend to take up a lot of space for not much return.' (Và cây đậu có xu hướng chiếm nhiều diện tích mà chẳng đem lại mấy sản lượng).",
+            "bridge": "Bài chỉ nói đậu chiếm nhiều chỗ (take up a lot of space), có nhắc gì đến việc nó mất nhiều thời gian trồng hơn (take longer to grow) không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài nói về diện tích chiếm dụng chứ không hề so sánh thời gian sinh trưởng. Vậy đáp án là gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Đậu cần nhiều thời gian để lớn hơn so với các loại rau khác.",
+          "<b>Paragraph 6 (dòng 6):</b> <i>'And beans tend to take up a lot of space for not much return.'</i> (Đậu chiếm nhiều diện tích mà thu lại không bao nhiêu).",
+          "<b>Đối chiếu:</b> Tác giả chỉ đề cập đến việc đậu chiếm nhiều diện tích đất (<i>space</i>), hoàn toàn không nhắc gì đến thời gian sinh trưởng (<i>take longer to grow</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}
