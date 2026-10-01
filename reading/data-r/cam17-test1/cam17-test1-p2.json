@@ -1,0 +1,542 @@
+{
+  "title": "IELTS Academic 17 - Test 1 - Passage 2: Stadiums: past, present and future",
+  "answers": {
+    "q14": "A",
+    "q15": "F",
+    "q16": "E",
+    "q17": "D",
+    "q18": "fortress",
+    "q19": "bullfights",
+    "q20": "opera",
+    "q21": "salt",
+    "q22": "shops",
+    "q23": "C",
+    "q24": "D",
+    "q25": "B",
+    "q26": "E"
+  },
+  "passageHtml": "<h2>READING PASSAGE 2</h2><h3>Stadiums: past, present and future</h3><p><strong>Paragraph A.</strong> Stadiums are among the oldest forms of urban architecture: vast stadiums where the public could watch sporting events were at the centre of western city life as far back as the ancient Greek and Roman Empires, well before the construction of the great medieval cathedrals and the grand 19th- and 20th-century railway stations which dominated urban skylines in later eras. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion, and stadiums finished for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair</span>. But this need not be the case. History shows that stadiums can drive urban development and adapt to the culture of every age. Even today, architects and planners are finding new ways to adapt the mono-functional sports arenas which became emblematic of modernisation during the 20th century.</p><p><strong>Paragraph B.</strong> The amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators, is perhaps the best example of just how versatile stadiums can be. Built by the Romans in 90 AD, <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">it became a <span class=\"kw\">fortress</span> with four towers after the fifth century</span>, and was then transformed into a village containing more than 200 houses. With the growing interest in conservation during the 19th century, <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">it was converted back into an arena for the staging of <span class=\"kw\">bullfights</span></span>, thereby returning the structure to its original use as a venue for public spectacles. Another example is the imposing arena of Verona in northern Italy, with space for 30,000 spectators, which was built 60 years before the Arles amphitheatre and 40 years before Rome's famous Colosseum. It has endured the centuries and <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">is currently considered one of the world's prime sites for <span class=\"kw\">opera</span>, thanks to its outstanding acoustics</span>.</p><p><strong>Paragraph C.</strong> The area in the centre of the Italian town of Lucca, known as the Piazza dell'Anfiteatro, is yet another impressive example of an amphitheatre becoming absorbed into the fabric of the city. The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">a <span class=\"kw\">salt</span> depot</span> and a prison. But rather than reverting to an arena, it became a market square, designed by Romanticist architect Lorenzo Nottolini. Today, the ruins of the amphitheatre remain embedded in the various <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\"><span class=\"kw\">shops</span></span> and residences surrounding the public square.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\"><span class=\"hl\" id=\"hl-q23-24\" data-q=\"[Q23-24]\">There are many similarities between modern stadiums and the ancient amphitheatres intended for games. But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches. Many such stadiums are situated in suburban areas, designed for sporting use only and surrounded by parking lots. These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat</span></span>.</p><p><strong>Paragraph E.</strong> But many of today's most innovative architects see scope for the stadium to help improve the city. Among the current strategies, two seem to be having particular success: the stadium as an urban hub, and as a power plant. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">There's a growing trend for stadiums to be equipped with public spaces and services that serve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants and bars, children's playgrounds and green space. Creating mixed-use developments such as this reinforces compactness and multi-functionality, making more efficient use of land and helping to regenerate urban spaces</span>. <span class=\"hl\" id=\"hl-q25-26a\" data-q=\"[Q25-26]\">This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters. There have been many examples of this in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world</span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q25-26b\" data-q=\"[Q25-26]\">The phenomenon of stadiums as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses. Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough (more than 40 metres) to make use of micro wind turbines</span>. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Freiburg Mage Solar Stadium in Germany is the first of a new wave of stadiums as power plants, which also includes the Amsterdam Arena and the Kaohsiung Stadium. The latter, inaugurated in 2009, has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity annually. This reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use. This is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions</span>.</p><p><strong>Paragraph G.</strong> Sporting arenas have always been central to the life and culture of cities. In every era, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering. The stadium of today now brings together multiple functions, thus helping cities to create a sustainable future.</p><p><em>* amphitheatre: an open circular or oval building with a central space surrounded by tiers of seats for spectators</em></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "title": "Questions 14-17",
+      "instructions": "<i>Reading Passage 2 has seven sections, <b>A-G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A-G</b>, in boxes 14-17 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i>",
+      "questionIds": ["q14", "q15", "q16", "q17"]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "title": "Questions 18-22",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 18-22 on your answer sheet.</i>",
+      "summaryTitle": "Roman amphitheatres",
+      "questionIds": ["q18", "q19", "q20", "q21", "q22"],
+      "template": "<p>The Roman stadiums of Europe have proved very versatile. The amphitheatre of Arles, for example, was converted first into a <b>18.</b> {{q18}}, then into a residential area and finally into an arena where spectators could watch <b>19.</b> {{q19}}. Meanwhile, the arena in Verona, one of the oldest Roman amphitheatres, is famous today as a venue where <b>20.</b> {{q20}} is performed. The site of Lucca's amphitheatre has also been used for many purposes over the centuries, including the storage of <b>21.</b> {{q21}}. It is now a market square with <b>22.</b> {{q22}} and homes incorporated into the remains of the Roman amphitheatre.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "multiselect",
+      "title": "Questions 23 and 24",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A-E</b>.<br>Write the correct letters in boxes 23 and 24 on your answer sheet.<br>When comparing twentieth-century stadiums to ancient amphitheatres in Section D, which <b>TWO</b> negative features does the writer mention?</i>",
+      "questionIds": ["q23", "q24"]
+    },
+    {
+      "id": "g4",
+      "type": "multiselect",
+      "title": "Questions 25 and 26",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A-E</b>.<br>Write the correct letters in boxes 25 and 26 on your answer sheet.<br>Which <b>TWO</b> advantages of modern stadium design does the writer mention?</i>",
+      "questionIds": ["q25", "q26"]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "a mention of negative attitudes towards stadium building projects",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "A",
+      "highlightId": "hl-q14",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 14 hỏi về điều gì? Hãy chú ý cụm: thái độ tiêu cực / hoài nghi ('negative attitudes') đối với các dự án xây dựng sân vận động ('stadium building projects').",
+            "guide": "Em cần tìm Paragraph nào nhắc đến những lời phàn nàn, sự nghi ngờ về chi phí đắt đỏ hoặc việc các sân vận động bị bỏ hoang sau giải đấu.",
+            "bridge": "Mình cùng đọc Paragraph A xem mọi người ngày nay nhìn nhận sân vận động thế nào nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph A, tác giả nhắc đến sự hoài nghi và những mặt tiêu cực nào khi xây sân vận động?",
+            "guide": "Paragraph A viết: 'Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion, and stadiums finished for major events... have notably fallen into disuse and disrepair.' (Ngày nay sân vận động bị nhìn nhận với sự hoài nghi ngày càng tăng; chi phí xây dựng đội lên hơn 1 tỷ bảng và bị bỏ hoang, xuống cấp sau sự kiện).",
+            "bridge": "'scepticism' (sự hoài nghi) và các vấn đề chi phí, bỏ hoang chính là thái độ tiêu cực."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa thông tin này?",
+            "guide": "Đáp án chính xác là Paragraph A.",
+            "bridge": "Chốt câu 14: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Đề cập đến thái độ tiêu cực đối với các dự án xây sân vận động.",
+          "<b>Paragraph A (dòng 5-7):</b> <i>'Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion, and stadiums... have notably fallen into disuse and disrepair.'</i>",
+          "<b>Khớp từ:</b> <i>negative attitudes</i> = <i>growing scepticism / disuse and disrepair</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "figures demonstrating the environmental benefits of a certain stadium",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "F",
+      "highlightId": "hl-q15",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 15 muốn tìm thông tin gì? Chú ý từ 'figures' (các số liệu, con số cụ thể) chứng minh lợi ích về môi trường ('environmental benefits') của một sân vận động cụ thể ('a certain stadium').",
+            "guide": "Em cần tìm một Paragraph có nêu các con số cụ thể (như số tấm pin, lượng điện tạo ra, lượng khí CO2 giảm được).",
+            "bridge": "Cùng đọc Paragraph F chỗ nói về các sân vận động năng lượng mặt trời nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Ở Paragraph F, sân vận động Kaohsiung có những số liệu môi trường nào đáng chú ý?",
+            "guide": "Paragraph F viết: sân Kaohsiung có '8,844 photovoltaic panels', sản xuất '1.14 GWh of electricity annually', giúp giảm '660 tons' khí CO2 mỗi năm và cung cấp '80 percent' điện cho khu vực xung quanh.",
+            "bridge": "Các con số 8,844 tấm pin, 1.14 GWh, giảm 660 tấn CO2 chính là các con số (figures) chứng minh lợi ích môi trường."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa các số liệu này?",
+            "guide": "Đáp án là Paragraph F.",
+            "bridge": "Chốt câu 15: F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Các số liệu chứng minh lợi ích môi trường của một sân vận động cụ thể.",
+          "<b>Paragraph F (dòng 8-12):</b> Sân Kaohsiung: <i>'has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity annually. This reduces the annual output of carbon dioxide by 660 tons...'</i>",
+          "<b>Khớp từ:</b> <i>figures</i> = <i>8,844 / 1.14 GWh / 660 tons</i>; <i>environmental benefits</i> = <i>reduction of CO2 emissions</i>.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "examples of the wide range of facilities available at some new stadiums",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "E",
+      "highlightId": "hl-q16",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 16 hỏi về điều gì? Hãy chú ý cụm: các ví dụ về hàng loạt tiện ích, cơ sở vật chất đa dạng ('wide range of facilities') có tại một số sân vận động mới.",
+            "guide": "Em cần tìm Paragraph nào liệt kê ra nhiều dịch vụ công cộng đi kèm bên trong sân vận động (như khách sạn, nhà hàng, cửa hàng, khu vui chơi...).",
+            "bridge": "Cùng đọc Paragraph E xem người ta tích hợp những gì vào sân vận động nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph E liệt kê những tiện ích nào được trang bị trong sân vận động?",
+            "guide": "Paragraph E viết: '...equipped with public spaces and services that serve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants and bars, children's playgrounds and green space.'",
+            "bridge": "Khách sạn, cửa hàng bán lẻ, trung tâm hội nghị, quán ăn, sân chơi trẻ em... chính là ví dụ về một loạt tiện ích đa dạng."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa danh sách liệt kê các tiện ích này?",
+            "guide": "Đáp án chính xác là Paragraph E.",
+            "bridge": "Chốt câu 16: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Ví dụ về nhiều tiện ích đa dạng có tại một số sân vận động mới.",
+          "<b>Paragraph E (dòng 3-6):</b> <i>'...equipped with public spaces and services that serve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants and bars, children's playgrounds and green space.'</i>",
+          "<b>Khớp từ:</b> <i>examples of the wide range of facilities</i> = <i>hotels, retail outlets, conference centres, restaurants and bars...</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "reference to the disadvantages of the stadiums built during a certain era",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "D",
+      "highlightId": "hl-q17",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 17 hỏi về điều gì? Hãy chú ý ý: nhắc đến các nhược điểm / bất lợi ('disadvantages') của những sân vận động được xây dựng trong một thời kỳ nhất định ('during a certain era').",
+            "guide": "Em cần tìm một thời kỳ cụ thể trong lịch sử (ví dụ: đầu thế kỷ 20) và những mặt hạn chế của sân vận động thời kỳ đó.",
+            "bridge": "Cùng đọc Paragraph D xem thời kỳ đầu thế kỷ 20 có những nhược điểm gì nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph D chỉ ra những điểm hạn chế nào của sân vận động xây vào đầu thế kỷ 20?",
+            "guide": "Paragraph D viết: vào đầu thế kỷ 20, tính linh hoạt bị mất đi ('flexibility was lost'); sân nằm ở ngoại ô chỉ phục vụ thể thao, 'may not be as accessible to the general public, require more energy to run and contribute to urban heat.' (khó tiếp cận cho công chúng, tốn năng lượng và gây nóng đô thị).",
+            "bridge": "Khó tiếp cận, tốn năng lượng, gây nóng đô thị chính là các nhược điểm (disadvantages) của sân vận động đầu thế kỷ 20."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nói về nhược điểm của sân vận động thời kỳ này?",
+            "guide": "Đáp án là Paragraph D.",
+            "bridge": "Chốt câu 17: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Nhắc đến những nhược điểm của các sân vận động được xây trong một thời kỳ cụ thể.",
+          "<b>Paragraph D:</b> Nói về đầu thế kỷ 20 (<i>beginning of the 20th century</i>): mất đi tính linh hoạt (<i>flexibility was lost</i>), sân ở ngoại ô (<i>suburban areas</i>), khó tiếp cận công chúng (<i>not be as accessible</i>), tốn nhiều năng lượng (<i>require more energy</i>), gây nóng bức (<i>contribute to urban heat</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "The amphitheatre of Arles, for example, was converted first into a 18 __________",
+      "finalAnswer": "fortress",
+      "inputWidth": "110px",
+      "highlightId": "hl-q18",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 18: Đấu trường La Mã ở Arles lần đầu tiên được chuyển đổi thành một công trình gì ('converted first into a 18 ______')?",
+            "guide": "Sau mạo từ 'a' cần một danh từ số ít chỉ loại công trình mà đấu trường Arles được cải tạo thành đầu tiên.",
+            "bridge": "Hãy tìm tên đấu trường Arles ở đầu Paragraph B."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph B nói sau thế kỷ thứ 5, đấu trường Arles đã trở thành cái gì có 4 tháp canh?",
+            "guide": "Paragraph B viết: 'Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village...'",
+            "bridge": "Công trình đầu tiên nó trở thành chính là một pháo đài (fortress)."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'fortress' (pháo đài).",
+            "bridge": "Chốt câu 18: fortress."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số ít sau mạo từ <i>a</i>.",
+          "<b>Paragraph B (dòng 2-3):</b> <i>'...it became a fortress with four towers after the fifth century, and was then transformed into a village...'</i>",
+          "<b>Khớp từ:</b> <i>converted first into a</i> = <i>became a</i>; từ cần điền là <i>fortress</i>.",
+          "<b>Từ cần điền:</b> <b>fortress</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "then into a residential area and finally into an arena where spectators could watch 19 __________",
+      "finalAnswer": "bullfights",
+      "inputWidth": "120px",
+      "highlightId": "hl-q19",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 19: ...sau đó thành khu dân cư và cuối cùng thành đấu trường nơi khán giả có thể xem hoạt động gì ('spectators could watch 19 ______')?",
+            "guide": "Sau động từ 'watch' cần một danh từ chỉ màn trình diễn hoặc sự kiện thi đấu mà khán giả đến xem.",
+            "bridge": "Cùng đọc tiếp các câu tiếp theo ở Paragraph B."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph B nói vào thế kỷ 19, đấu trường được chuyển đổi lại để tổ chức sự kiện gì?",
+            "guide": "Paragraph B viết: '...it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use...'",
+            "bridge": "'staging of bullfights' nghĩa là tổ chức những trận đấu bò tót cho khán giả xem."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ hoạt động thi đấu trong bài là gì?",
+            "guide": "Đáp án là 'bullfights' (các trận đấu bò tót).",
+            "bridge": "Chốt câu 19: bullfights."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ sự kiện/hoạt động xem được sau động từ <i>watch</i>.",
+          "<b>Paragraph B (dòng 4-5):</b> <i>'...it was converted back into an arena for the staging of bullfights...'</i>",
+          "<b>Khớp từ:</b> <i>arena where spectators could watch</i> = <i>arena for the staging of</i>; từ cần điền là <i>bullfights</i>.",
+          "<b>Từ cần điền:</b> <b>bullfights</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Meanwhile, the arena in Verona, one of the oldest Roman amphitheatres, is famous today as a venue where 20 __________ is performed.",
+      "finalAnswer": "opera",
+      "inputWidth": "100px",
+      "highlightId": "hl-q20",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 20: Đấu trường ở Verona ngày nay nổi tiếng là nơi biểu diễn loại hình nghệ thuật nào ('where 20 ______ is performed')?",
+            "guide": "Trước động từ bị động 'is performed' cần một danh từ chỉ loại hình biểu diễn âm nhạc/sân khấu.",
+            "bridge": "Hãy tìm địa danh 'Verona' ở nửa sau Paragraph B."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph B nói đấu trường Verona ngày nay là một trong những địa điểm hàng đầu thế giới dành cho cái gì?",
+            "guide": "Paragraph B viết: '...is currently considered one of the world's prime sites for opera, thanks to its outstanding acoustics.' (hiện được xem là một trong những địa điểm hàng đầu thế giới về nhạc kịch opera, nhờ chất lượng âm thanh tuyệt vời).",
+            "bridge": "Loại hình nghệ thuật được trình diễn ở đây chính là opera."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'opera'.",
+            "bridge": "Chốt câu 20: opera."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ môn nghệ thuật biểu diễn trước <i>is performed</i>.",
+          "<b>Paragraph B (câu cuối):</b> <i>'...is currently considered one of the world's prime sites for opera, thanks to its outstanding acoustics.'</i>",
+          "<b>Từ cần điền:</b> <b>opera</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "The site of Lucca's amphitheatre has also been used for many purposes over the centuries, including the storage of 21 __________",
+      "finalAnswer": "salt",
+      "inputWidth": "100px",
+      "highlightId": "hl-q21",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 21: Khu đấu trường ở Lucca từng được dùng làm nơi cất giữ/chứa loại hàng hóa gì ('the storage of 21 ______')?",
+            "guide": "Sau 'storage of' cần một danh từ chỉ loại hàng hóa hay vật phẩm từng được tích trữ tại đây.",
+            "bridge": "Hãy quét tên riêng 'Lucca' ở đầu Paragraph C."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph C nói khu vực này từng được sử dụng làm nhà ở, nhà tù và kho chứa thứ gì?",
+            "guide": "Paragraph C viết: '...variously used as houses, a salt depot and a prison.' (từng được dùng làm nhà ở, kho muối và nhà tù).",
+            "bridge": "'a salt depot' chính là kho chứa muối (the storage of salt)."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Vật phẩm được lưu trữ ở đây là gì?",
+            "guide": "Đáp án là 'salt' (muối).",
+            "bridge": "Chốt câu 21: salt."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ hàng hóa được lưu trữ sau cụm <i>storage of</i>.",
+          "<b>Paragraph C (dòng 3-4):</b> <i>'...variously used as houses, a salt depot and a prison.'</i>",
+          "<b>Khớp từ:</b> <i>storage of</i> = <i>depot</i> (kho chứa); hàng hóa là <i>salt</i>.",
+          "<b>Từ cần điền:</b> <b>salt</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "It is now a market square with 22 __________ and homes incorporated into the remains of the Roman amphitheatre.",
+      "finalAnswer": "shops",
+      "inputWidth": "100px",
+      "highlightId": "hl-q22",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 22: Hiện nay nơi này là quảng trường chợ với những căn nhà ở và những cái gì ('with 22 ______ and homes') gắn liền trong tàn tích?",
+            "guide": "Đứng trước từ nối 'and homes' cần một danh từ số nhiều chỉ cơ sở kinh doanh buôn bán hòa vào quảng trường.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph C."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph C nói tàn tích đấu trường hiện nay nằm lồng ghép bên trong những công trình nào xung quanh quảng trường?",
+            "guide": "Paragraph C viết: 'Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square.'",
+            "bridge": "'residences' tương ứng với 'homes', vậy từ số nhiều còn lại là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ số nhiều chỉ các cửa hàng trong bài là gì?",
+            "guide": "Đáp án là 'shops' (các cửa hàng).",
+            "bridge": "Hoàn thành phần điền từ! Chốt câu 22: shops."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số nhiều song song với <i>homes</i> sau giới từ <i>with</i>.",
+          "<b>Paragraph C (câu cuối):</b> <i>'Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square.'</i>",
+          "<b>Khớp từ:</b> <i>homes</i> = <i>residences</i>; từ song song là <i>shops</i>.",
+          "<b>Từ cần điền:</b> <b>shops</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "When comparing twentieth-century stadiums to ancient amphitheatres in Section D, which TWO negative features does the writer mention?",
+      "options": [
+        "A. They are less imaginatively designed.",
+        "B. They are less spacious.",
+        "C. They are in less convenient locations.",
+        "D. They are less versatile.",
+        "E. They are made of less durable materials."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q23-24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu hỏi và định vị",
+            "question": "Câu 23-24 hỏi: Khi so sánh sân vận động thế kỷ 20 với các đấu trường cổ đại ở Paragraph D, tác giả nhắc đến hai đặc điểm tiêu cực ('TWO negative features') nào?",
+            "guide": "Em hãy đọc kỹ Paragraph D xem các sân vận động thế kỷ 20 có những điểm trừ gì.",
+            "bridge": "Cùng xem vị trí xây dựng và công năng của sân thế kỷ 20 nhé."
+          },
+          {
+            "title": "Tìm dẫn chứng về vị trí",
+            "question": "Paragraph D nói sân vận động thế kỷ 20 thường nằm ở đâu và ảnh hưởng thế nào đến người dân?",
+            "guide": "Paragraph D viết: 'Many such stadiums are situated in suburban areas... may not be as accessible to the general public' (nhiều sân nằm ở vùng ngoại ô... có thể không dễ tiếp cận đối với công chúng).",
+            "bridge": "Nằm ở ngoại ô và khó tiếp cận nghĩa là vị trí kém thuận tiện (less convenient locations)."
+          },
+          {
+            "title": "Khớp phương án C",
+            "question": "Phương án nào mang ý 'Chúng nằm ở những vị trí kém thuận tiện hơn'?",
+            "guide": "Đó chính là phương án C: 'They are in less convenient locations'.",
+            "bridge": "Đã chọn được đáp án đầu tiên: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Hai điểm tiêu cực của sân vận động thế kỷ 20 ở Paragraph D.",
+          "<b>Paragraph D:</b> <i>'Many such stadiums are situated in suburban areas... may not be as accessible to the general public...'</i>",
+          "<b>Khớp từ:</b> <i>situated in suburban areas / not be as accessible</i> = vị trí kém thuận tiện (<i>in less convenient locations</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "When comparing twentieth-century stadiums to ancient amphitheatres in Section D, which TWO negative features does the writer mention?",
+      "options": [
+        "A. They are less imaginatively designed.",
+        "B. They are less spacious.",
+        "C. They are in less convenient locations.",
+        "D. They are less versatile.",
+        "E. They are made of less durable materials."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q23-24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Tìm dẫn chứng về tính đa năng",
+            "question": "Ở đầu Paragraph D, tác giả nhận xét điều gì về tính linh hoạt/đa dụng của sân vận động thế kỷ 20?",
+            "guide": "Paragraph D viết: 'some of the flexibility was lost at the beginning of the 20th century... designed for sporting use only' (một phần tính linh hoạt đã bị mất đi... chỉ được thiết kế cho mục đích thể thao thuần túy).",
+            "bridge": "Mất tính linh hoạt và chỉ dùng cho một việc nghĩa là kém đa năng hơn (less versatile)."
+          },
+          {
+            "title": "Khớp phương án D",
+            "question": "Phương án nào mang ý 'Chúng kém đa năng, linh hoạt hơn'?",
+            "guide": "Đó là phương án D: 'They are less versatile'.",
+            "bridge": "Hoàn thành nhóm câu 23-24: C và D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Paragraph D (dòng 2-4):</b> <i>'...some of the flexibility was lost at the beginning of the 20th century... designed for sporting use only...'</i>",
+          "<b>Khớp từ:</b> <i>flexibility was lost / for sporting use only</i> = kém đa năng/linh hoạt (<i>less versatile</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Which TWO advantages of modern stadium design does the writer mention?",
+      "options": [
+        "A. offering improved amenities for the enjoyment of sports events",
+        "B. bringing community life back into the city environment",
+        "C. facilitating research into solar and wind energy solutions",
+        "D. enabling local residents to reduce their consumption of electricity",
+        "E. providing a suitable site for the installation of renewable power generators"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q25-26a",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu hỏi và định vị",
+            "question": "Câu 25-26 hỏi: Tác giả nhắc đến hai lợi ích nào ('TWO advantages') của thiết kế sân vận động hiện đại ngày nay?",
+            "guide": "Em hãy đọc Paragraph E và Paragraph F nơi trình bày hai hướng thiết kế thành công hiện nay: làm trung tâm đô thị và làm nhà máy điện.",
+            "bridge": "Cùng xem lợi ích đối với đời sống cộng đồng ở Paragraph E nhé."
+          },
+          {
+            "title": "Dẫn chứng về cộng đồng đô thị",
+            "question": "Paragraph E nói việc mở rộng sân vận động thành nơi đa chức năng mang lại lợi ích gì cho thành phố?",
+            "guide": "Paragraph E viết: '...helping to regenerate urban spaces. This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters.' (giúp tái tạo không gian đô thị, mở ra cho các gia đình và nhiều tầng lớp xã hội).",
+            "bridge": "Mở rộng không gian cho gia đình và cộng đồng chính là mang đời sống cộng đồng trở lại với đô thị."
+          },
+          {
+            "title": "Khớp phương án B",
+            "question": "Phương án nào nói về việc mang đời sống cộng đồng trở lại môi trường thành phố?",
+            "guide": "Đó là phương án B: 'bringing community life back into the city environment'.",
+            "bridge": "Đã chọn được đáp án đầu tiên: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Hai lợi ích của thiết kế sân vận động hiện đại.",
+          "<b>Paragraph E (dòng 5-8):</b> <i>'...helping to regenerate urban spaces. This opens the space up to families and a wider cross-section of society...'</i>",
+          "<b>Khớp ý:</b> Tái tạo không gian đô thị và thu hút các gia đình, cộng đồng = <i>bringing community life back into the city environment</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Which TWO advantages of modern stadium design does the writer mention?",
+      "options": [
+        "A. offering improved amenities for the enjoyment of sports events",
+        "B. bringing community life back into the city environment",
+        "C. facilitating research into solar and wind energy solutions",
+        "D. enabling local residents to reduce their consumption of electricity",
+        "E. providing a suitable site for the installation of renewable power generators"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q25-26b",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Dẫn chứng về lắp đặt máy phát điện",
+            "question": "Paragraph F giải thích tại sao sân vận động lại là nơi lý tưởng để lắp đặt các thiết bị tạo năng lượng tái tạo?",
+            "guide": "Paragraph F viết: 'Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough (more than 40 metres) to make use of micro wind turbines.' (Sân vận động rất lý tưởng vì mái che có diện tích bề mặt lớn để lắp pin mặt trời và đủ cao để đón gió bằng tuabin nhỏ).",
+            "bridge": "Mái che rộng và độ cao lớn cung cấp địa điểm lý tưởng để lắp đặt các thiết bị tạo năng lượng tái tạo."
+          },
+          {
+            "title": "Khớp phương án E",
+            "question": "Phương án nào mang ý 'Cung cấp một địa điểm phù hợp để lắp đặt các máy phát điện tái tạo'?",
+            "guide": "Đó là phương án E: 'providing a suitable site for the installation of renewable power generators'.",
+            "bridge": "Hoàn thành toàn bộ Passage 2! Nhóm câu 25-26 chọn B và E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Paragraph F (dòng 5-7):</b> <i>'Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough... to make use of micro wind turbines.'</i>",
+          "<b>Khớp từ:</b> <i>ideal for these purposes</i> = cung cấp địa điểm phù hợp (<i>providing a suitable site</i>); <i>fitting photovoltaic panels / micro wind turbines</i> = lắp đặt máy phát năng lượng tái tạo (<i>installation of renewable power generators</i>).",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    }
+  }
+}
