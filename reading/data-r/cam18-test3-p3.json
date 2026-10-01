@@ -1,0 +1,630 @@
+{
+  "title": "IELTS Academic 18 - Test 3 - Passage 3: The case for mixed-ability classes",
+  "answers": {
+    "q27": "B",
+    "q28": "A",
+    "q29": "C",
+    "q30": "C",
+    "q31": "H",
+    "q32": "D",
+    "q33": "F",
+    "q34": "E",
+    "q35": "B",
+    "q36": "NO",
+    "q37": "NOT GIVEN",
+    "q38": "YES",
+    "q39": "NO",
+    "q40": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 3</h2><h3>The case for mixed-ability classes</h3><p><strong>Paragraph 1.</strong> Picture this scene. It's an English literature lesson in a UK school, and the teacher has just read an extract from Shakespeare's Romeo and Juliet with a class of 15-year-olds. He's given some of the students copies of No Fear Shakespeare, a kid-friendly translation of the original. For three students, even these literacy demands are beyond them. Another girl simply can't focus and he gives her pens and paper to draw with. The teacher can ask the No Fear group to identify the key characters and maybe provide a tentative plot summary. He can ask most of the class about character development, and five of them might be able to support their statements with textual evidence. Now two curious students are wondering whether Shakespeare advocates living a life of moderation or one of passionate engagement. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">The teacher adapts his approach so that every pupil in the mixed class has a task suited to their level</span>.</p><p><strong>Paragraph 2.</strong> As a teacher myself, I'd think my lesson would be going rather well if the discussion went as described above. But wouldn't this kind of class work better if there weren't such a huge gap between the top and the bottom? If we put all the kids who needed literacy support into one class, and all the students who want to discuss the virtue of moderation into another?</p><p><strong>Paragraph 3.</strong> The practice of 'streaming', or 'tracking', involves separating students into classes depending on their diagnosed levels of attainment. At a macro level, it requires the establishment of academically selective schools for the brightest students, and comprehensive schools for the rest. Within schools, it means selecting students into a 'stream' of general ability, or 'sets' of subject-specific ability. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">The practice is intuitively appealing to almost every stakeholder</span>.</p><p><strong>Paragraph 4.</strong> I have heard the mixed-ability model attacked by way of analogy: a group hike. The fittest in the group take the lead and set a brisk pace, only to have to stop and wait every 20 minutes. This is frustrating, and their enthusiasm wanes. Meanwhile, the slowest ones are not only embarrassed but physically struggling to keep up. What's worse, they never get a long enough break. They honestly just want to quit. Hiking, they feel, is not for them.</p><p><strong>Paragraph 5.</strong> Mixed-ability classes bore students, frustrate parents and burn out teachers. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">The brightest ones will never summit Mount Qomolangma, and the stragglers won't enjoy the lovely stroll in the park they are perhaps more suited to</span>. Individuals suffer at the demands of the collective, mediocrity prevails. So: is learning like hiking?</p><p><strong>Paragraph 6.</strong> The current pedagogical paradigm is arguably that of constructivism, which emerged out of the work of psychologist Lev Vygotsky. In the 1930s, Vygotsky emphasised the importance of targeting a student's specific 'zone of proximal development' (ZPD). This is the gap between what they can achieve only with support – teachers, textbooks, worked examples, parents and so on – and what they can achieve independently. The purpose of teaching is to provide and then gradually remove this <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">'scaffolding'</span> until they are autonomous. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">If we accept this model, it follows that streaming students with similar ZPDs would be an efficient and effective solution. And that forcing everyone on the same hike – regardless of aptitude – would be madness</span>.</p><p><strong>Paragraph 7.</strong> Despite all this, there is limited empirical evidence to suggest that streaming results in better outcomes for students. Professor John Hattie, director of the Melbourne Education Research Institute, notes that <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">'tracking has minimal effects on learning outcomes'</span>. What is more, streaming appears to significantly – and negatively – affect <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">those students assigned to the lowest sets</span>. These students tend to have <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">much higher representation of low socioeconomic class</span>. Less significant is the <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">small benefit for those lucky clever students in the higher sets</span>. The overall result is that the smart stay smart and the dumb get dumber, further entrenching the social divide.</p><p><strong>Paragraph 8.</strong> In the latest update of Hattie's influential meta-analysis of factors influencing student achievement, one of the most significant factors is the teachers' estimate of achievement. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Streaming students by diagnosed achievement automatically limits what the teacher feels the student is capable of</span>. Meanwhile, in a mixed environment, teachers' estimates need to be more diverse and flexible.</p><p><strong>Paragraph 9.</strong> While streaming might seem to help teachers effectively target a student's ZPD, it can underestimate the importance of peer-to-peer learning. A crucial aspect of constructivist theory is the role of the MKO – 'more-knowledgeable other' – in knowledge construction. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">While teachers are traditionally the MKOs in classrooms, the value of knowledgeable student peers must not go unrecognised either</span>.</p><p><strong>Paragraph 10.</strong> I find it amazing to watch students get over an idea to their peers in ways that I would never think of. They operate with different language tools and different social tools from teachers and, having just learnt it themselves, they possess similar cognitive structures to their struggling classmates. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">There is also something exciting about passing on skills and knowledge that you yourself have just mastered – a certain pride and zeal, a certain freshness to the interaction between 'teacher' and 'learner'</span> that is often lost by the expert for whom the steps are obvious and the joy of discovery forgotten.</p><p><strong>Paragraph 11.</strong> Having a variety of different abilities in a collaborative learning environment provides valuable resources for helping students meet their learning needs, not to mention improving their communication and social skills. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">And today, more than ever, we need the many to flourish – not suffer at the expense of a few bright stars</span>. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Once a year, I go on a hike with my class, a mixed bunch of students. It is challenging. The fittest students realise they need to encourage the reluctant. There are lookouts who report back, and extra items to carry for others. We make it – together</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "title": "Questions 27-30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 27-30 on your answer sheet.</i>",
+      "questionIds": ["q27", "q28", "q29", "q30"]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "title": "Questions 31-35",
+      "instructions": "<i>Complete the summary using the list of phrases, <b>A-I</b>, below.<br>Write the correct letter, <b>A-I</b>, in boxes 31-35 on your answer sheet.</i><br><br><b>A.</b> wrong classes<br><b>B.</b> lower expectations<br><b>C.</b> average learners<br><b>D.</b> bottom sets<br><b>E.</b> brightest pupils<br><b>F.</b> disadvantaged backgrounds<br><b>G.</b> weaker students<br><b>H.</b> higher achievements<br><b>I.</b> positive impressions",
+      "summaryTitle": "Is streaming effective?",
+      "questionIds": ["q31", "q32", "q33", "q34", "q35"],
+      "template": "<p>According to Professor John Hattie of the Melbourne Education Research Institute, there is very little indication that streaming leads to <b>31.</b> {{q31}}. He points out that, in schools which use streaming, the most significant impact is on those students placed in the <b>32.</b> {{q32}}, especially where a large proportion of them have <b>33.</b> {{q33}}. Meanwhile, for the <b>34.</b> {{q34}}, there appears to be only minimal advantage. A further issue is that teachers tend to have <b>35.</b> {{q35}} of students in streamed groups.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "title": "Questions 36-40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 3?<br>In boxes 36-40 on your answer sheet, write:<br><b>YES</b> if the statement agrees with the views of the writer<br><b>NO</b> if the statement contradicts the views of the writer<br><b>NOT GIVEN</b> if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": ["q36", "q37", "q38", "q39", "q40"]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "The writer describes the Romeo and Juliet lesson in order to demonstrate",
+      "options": [
+        "A. how few students are interested in literature.",
+        "B. how a teacher handles a range of learning needs.",
+        "C. how unsuitable Shakespeare is for most teenagers.",
+        "D. how weaker students can disrupt their classmates' learning."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 27 hỏi: Tác giả miêu tả tiết học Romeo và Juliet ở Paragraph 1 nhằm mục đích chứng minh điều gì?",
+            "guide": "Em hãy đọc kỹ các chi tiết trong Paragraph 1 xem người thầy giáo đã làm những gì đối với từng nhóm học sinh trong lớp.",
+            "bridge": "Cùng xem người thầy giao nhiệm vụ cho học sinh như thế nào nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Trong lớp học đó, thầy giáo đã phân chia bài tập ra sao cho học sinh kém, học sinh trung bình và học sinh giỏi?",
+            "guide": "Paragraph 1 kể: có bạn không đọc nổi thì được cho bản dịch đơn giản hoặc giấy vẽ, nhóm đọc được thì tóm tắt cốt truyện, nhóm khá hơn thì phân tích nhân vật, và nhóm giỏi nhất thì bàn về triết lý sâu xa.",
+            "bridge": "Thầy giáo đã linh hoạt đáp ứng nhiều trình độ và nhu cầu học tập khác nhau trong cùng một lớp."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào diễn đạt ý 'cách một giáo viên xử lý nhiều nhu cầu học tập khác nhau'?",
+            "guide": "Đó chính là B: 'how a teacher handles a range of learning needs'.",
+            "bridge": "Chốt câu 27: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả kể lại tiết học Romeo và Juliet để minh họa điều gì?",
+          "<b>Paragraph 1:</b> Miêu tả một người thầy giáo giao nhiều nhiệm vụ khác nhau cho từng nhóm học sinh tùy theo năng lực: từ vẽ tranh, tóm tắt cốt truyện đơn giản đến phân tích nhân vật và bàn luận triết lý.",
+          "<b>Khớp ý:</b> Thể hiện cách giáo viên xoay sở để đáp ứng các mức độ tiếp thu khác nhau trong lớp (<i>how a teacher handles a range of learning needs</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "What does the writer say about streaming in the third paragraph?",
+      "options": [
+        "A. It has a very broad appeal.",
+        "B. It favours cleverer students.",
+        "C. It is relatively simple to implement.",
+        "D. It works better in some schools than others."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q28",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 28 hỏi: Ở Paragraph 3, tác giả nói điều gì về việc phân lớp theo năng lực ('streaming')?",
+            "guide": "Em hãy đọc câu cuối cùng của Paragraph 3 để xem mọi người nhìn nhận cách làm này như thế nào.",
+            "bridge": "Cùng đọc câu kết của Paragraph 3 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Câu cuối Paragraph 3 viết: 'The practice is intuitively appealing to almost every stakeholder.' Câu này có nghĩa là gì?",
+            "guide": "Nghĩa là: theo trực giác, cách làm này có sức hút và được hầu như tất cả các bên liên quan (phụ huynh, học sinh, nhà trường) ủng hộ.",
+            "bridge": "'appealing to almost every stakeholder' chính là có sức hút rất rộng rãi."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Lựa chọn nào nói việc phân lớp này có sức hấp dẫn rộng rãi đối với nhiều người?",
+            "guide": "Đó là phương án A: 'It has a very broad appeal'.",
+            "bridge": "Chốt câu 28: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nhận xét gì về việc phân lớp theo trình độ ở Paragraph 3?",
+          "<b>Paragraph 3 (câu cuối):</b> <i>'The practice is intuitively appealing to almost every stakeholder.'</i>",
+          "<b>Khớp từ:</b> <i>appealing to almost every stakeholder</i> = có sức hút rộng rãi đối với hầu hết mọi người (<i>has a very broad appeal</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "What idea is suggested by the reference to Mount Qomolangma in the fifth paragraph?",
+      "options": [
+        "A. students following unsuitable paths",
+        "B. students attempting interesting tasks",
+        "C. students not achieving their full potential",
+        "D. students not being aware of their limitations"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q29",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 29 hỏi: Hình ảnh đỉnh núi Qomolangma (đỉnh Everest) ở Paragraph 5 gợi ra ý nghĩ gì?",
+            "guide": "Hãy tìm tên ngọn núi 'Mount Qomolangma' ở Paragraph 5 để xem tác giả nói gì về những học sinh giỏi nhất.",
+            "bridge": "Cùng đọc câu có nhắc đến đỉnh núi này nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 5 viết: 'The brightest ones will never summit Mount Qomolangma, and the stragglers won't enjoy the lovely stroll in the park...'. Câu này muốn nói lên điều gì?",
+            "guide": "Nghĩa là: nếu học chung một lớp hỗn hợp, những học sinh xuất sắc nhất sẽ không bao giờ vươn tới được đỉnh cao của mình (không leo tới đỉnh núi), còn học sinh chậm hơn thì không được học theo nhịp độ vừa sức.",
+            "bridge": "Không leo tới đỉnh cao nghĩa là các em không phát huy được hết tiềm năng tối đa của mình."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nêu bật ý 'học sinh không đạt được tiềm năng tối đa của mình'?",
+            "guide": "Đó là C: 'students not achieving their full potential'.",
+            "bridge": "Chốt câu 29: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Chi tiết nhắc đến đỉnh núi Everest (Qomolangma) ở Paragraph 5 gợi ý điều gì?",
+          "<b>Paragraph 5:</b> <i>'The brightest ones will never summit Mount Qomolangma...'</i> (Những em học sinh sáng dạ nhất sẽ không bao giờ chạm tới đỉnh Everest).",
+          "<b>Khớp ý:</b> Không chạm tới đỉnh cao tượng trưng cho việc không phát huy hết năng lực vốn có của bản thân (<i>not achieving their full potential</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What does the word 'scaffolding' in the sixth paragraph refer to?",
+      "options": [
+        "A. the factors which prevent a student from learning effectively",
+        "B. the environment where most of a student's learning takes place",
+        "C. the assistance given to a student in their initial stages of learning",
+        "D. the setting of appropriate learning targets for a student's aptitude"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q30",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 30 hỏi: Từ 'scaffolding' (giàn giáo đỡ) trong Paragraph 6 ám chỉ điều gì trong việc dạy học?",
+            "guide": "Em hãy đọc các câu xung quanh từ 'scaffolding' ở Paragraph 6 để xem nó được định nghĩa là gì.",
+            "bridge": "Cùng xem Paragraph 6 nói về sự hỗ trợ của giáo viên nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 6 nói về khoảng cách giữa việc học sinh tự làm và việc cần sự hỗ trợ ('support – teachers, textbooks...'). Câu sau nói mục đích dạy học là gì?",
+            "guide": "Paragraph 6 viết: 'The purpose of teaching is to provide and then gradually remove this 'scaffolding' until they are autonomous.' (Mục đích của việc dạy là cung cấp và sau đó rút dần sự nâng đỡ/giàn giáo này cho đến khi các em có thể tự lập).",
+            "bridge": "'Scaffolding' chính là sự trợ giúp ban đầu của thầy cô giáo và sách vở để học sinh dựa vào trước khi tự làm được."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang nghĩa 'sự hỗ trợ dành cho học sinh trong giai đoạn đầu học tập'?",
+            "guide": "Đó là C: 'the assistance given to a student in their initial stages of learning'.",
+            "bridge": "Chốt câu 30: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Thuật ngữ 'scaffolding' ở Paragraph 6 chỉ điều gì?",
+          "<b>Paragraph 6:</b> Giải thích vùng phát triển gần ZPD là khoảng cách giữa việc tự làm và việc cần hỗ trợ (<i>support – teachers, textbooks...</i>), sau đó nói: <i>'The purpose of teaching is to provide and then gradually remove this 'scaffolding' until they are autonomous.'</i>",
+          "<b>Khớp từ:</b> <i>scaffolding</i> = sự giúp đỡ nâng đỡ ban đầu (<i>the assistance given to a student in their initial stages of learning</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "According to Professor John Hattie of the Melbourne Education Research Institute, there is very little indication that streaming leads to 31 __________",
+      "options": [
+        "A. wrong classes",
+        "B. lower expectations",
+        "C. average learners",
+        "D. bottom sets",
+        "E. brightest pupils",
+        "F. disadvantaged backgrounds",
+        "G. weaker students",
+        "H. higher achievements",
+        "I. positive impressions"
+      ],
+      "finalAnswer": "H",
+      "highlightId": "hl-q31",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung tóm tắt",
+            "question": "Câu 31 nói: Theo giáo sư John Hattie, có rất ít bằng chứng cho thấy việc phân lớp theo trình độ mang lại điều gì ('leads to 31 ______')?",
+            "guide": "Cần một cụm từ chỉ kết quả học tập tốt hơn hoặc thành tích cao hơn.",
+            "bridge": "Hãy tìm tên giáo sư John Hattie ở đầu Paragraph 7."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 7 dẫn lời giáo sư Hattie nhận định thế nào về tác động của phân lớp?",
+            "guide": "Paragraph 7 viết: '...tracking has minimal effects on learning outcomes' (việc phân lớp chỉ có tác động rất nhỏ đến kết quả học tập).",
+            "bridge": "'minimal effects on learning outcomes' tương đương với việc nó không thực sự mang lại thành tích cao hơn."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung A-I mang nghĩa 'thành tích cao hơn'?",
+            "guide": "Đó là H: 'higher achievements'.",
+            "bridge": "Chốt câu 31: H."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Rất ít bằng chứng cho thấy phân lớp mang lại thành tích học tập cao hơn.",
+          "<b>Paragraph 7 (dòng 2-3):</b> John Hattie nhận định: <i>'tracking has minimal effects on learning outcomes'</i>.",
+          "<b>Khớp từ:</b> <i>learning outcomes</i> = thành tích học tập (<i>higher achievements</i>).",
+          "<b>Kết luận:</b> Chọn <b>H</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "He points out that, in schools which use streaming, the most significant impact is on those students placed in the 32 __________",
+      "options": [
+        "A. wrong classes",
+        "B. lower expectations",
+        "C. average learners",
+        "D. bottom sets",
+        "E. brightest pupils",
+        "F. disadvantaged backgrounds",
+        "G. weaker students",
+        "H. higher achievements",
+        "I. positive impressions"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q32",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung tóm tắt",
+            "question": "Câu 32 nói: Tác động tiêu cực lớn nhất của việc phân lớp là rơi vào những học sinh bị xếp vào các lớp nào ('placed in the 32 ______')?",
+            "guide": "Cần một cụm từ chỉ các lớp học dành cho học sinh có học lực thấp nhất.",
+            "bridge": "Đọc tiếp câu sau ở Paragraph 7 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 7 nói việc phân lớp gây ảnh hưởng tiêu cực nặng nề đến nhóm học sinh nào?",
+            "guide": "Paragraph 7 viết: '...streaming appears to significantly – and negatively – affect those students assigned to the lowest sets.' (ảnh hưởng tiêu cực rõ rệt lên những học sinh bị xếp vào các lớp thấp nhất).",
+            "bridge": "'assigned to the lowest sets' chính là 'placed in the bottom sets'."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung có nghĩa là 'các lớp học nhóm dưới/thấp nhất'?",
+            "guide": "Đó là D: 'bottom sets'.",
+            "bridge": "Chốt câu 32: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Tác động tiêu cực nhất rơi vào những học sinh bị xếp vào các lớp thấp nhất.",
+          "<b>Paragraph 7 (dòng 3-5):</b> <i>'...affect those students assigned to the lowest sets.'</i>",
+          "<b>Khớp từ:</b> <i>lowest sets</i> = <i>bottom sets</i>.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "especially where a large proportion of them have 33 __________",
+      "options": [
+        "A. wrong classes",
+        "B. lower expectations",
+        "C. average learners",
+        "D. bottom sets",
+        "E. brightest pupils",
+        "F. disadvantaged backgrounds",
+        "G. weaker students",
+        "H. higher achievements",
+        "I. positive impressions"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q33",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung tóm tắt",
+            "question": "Câu 33 nói: Đặc biệt là khi một tỷ lệ lớn các học sinh ở lớp yếu này có hoàn cảnh như thế nào ('have 33 ______')?",
+            "guide": "Cần một cụm từ chỉ hoàn cảnh kinh tế - xã hội khó khăn, thiệt thòi.",
+            "bridge": "Hãy đọc câu tiếp theo ở Paragraph 7."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 7 miêu tả nguồn gốc xuất thân của học sinh ở các lớp yếu này ra sao?",
+            "guide": "Paragraph 7 viết: 'These students tend to have much higher representation of low socioeconomic class.' (những học sinh này thường chiếm tỷ lệ cao hơn từ tầng lớp kinh tế - xã hội thấp).",
+            "bridge": "'low socioeconomic class' chính là hoàn cảnh khó khăn, thiệt thòi (disadvantaged backgrounds)."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung có nghĩa là 'hoàn cảnh thiệt thòi/khó khăn'?",
+            "guide": "Đó là F: 'disadvantaged backgrounds'.",
+            "bridge": "Chốt câu 33: F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Học sinh ở lớp yếu thường đến từ các hoàn cảnh khó khăn.",
+          "<b>Paragraph 7 (dòng 5):</b> <i>'These students tend to have much higher representation of low socioeconomic class.'</i>",
+          "<b>Khớp từ:</b> <i>low socioeconomic class</i> = hoàn cảnh gia đình khó khăn, thiệt thòi (<i>disadvantaged backgrounds</i>).",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Meanwhile, for the 34 __________ there appears to be only minimal advantage.",
+      "options": [
+        "A. wrong classes",
+        "B. lower expectations",
+        "C. average learners",
+        "D. bottom sets",
+        "E. brightest pupils",
+        "F. disadvantaged backgrounds",
+        "G. weaker students",
+        "H. higher achievements",
+        "I. positive impressions"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q34",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung tóm tắt",
+            "question": "Câu 34 nói: Trong khi đó, đối với nhóm đối tượng nào ('Meanwhile, for the 34 ______') thì lợi ích nhận lại cũng chỉ rất nhỏ bé ('only minimal advantage')?",
+            "guide": "Cần một cụm danh từ chỉ các em học sinh giỏi nhất, thông minh nhất.",
+            "bridge": "Hãy đọc dòng 5-6 của Paragraph 7."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 7 nói lợi ích nhỏ nhoi thuộc về những học sinh nào?",
+            "guide": "Paragraph 7 viết: 'Less significant is the small benefit for those lucky clever students in the higher sets.' (Lợi ích nhỏ nhoi dành cho những học sinh thông minh may mắn ở các lớp trên).",
+            "bridge": "'clever students in the higher sets' chính là những học sinh sáng dạ nhất (brightest pupils)."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung có nghĩa là 'những học sinh giỏi nhất'?",
+            "guide": "Đó là E: 'brightest pupils'.",
+            "bridge": "Chốt câu 34: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Lợi ích thu lại cho những học sinh giỏi nhất cũng chỉ rất ít ỏi.",
+          "<b>Paragraph 7 (dòng 5-6):</b> <i>'Less significant is the small benefit for those lucky clever students in the higher sets.'</i>",
+          "<b>Khớp từ:</b> <i>clever students in the higher sets</i> = <i>brightest pupils</i>; <i>small benefit</i> = <i>minimal advantage</i>.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "A further issue is that teachers tend to have 35 __________ of students in streamed groups.",
+      "options": [
+        "A. wrong classes",
+        "B. lower expectations",
+        "C. average learners",
+        "D. bottom sets",
+        "E. brightest pupils",
+        "F. disadvantaged backgrounds",
+        "G. weaker students",
+        "H. higher achievements",
+        "I. positive impressions"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q35",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung tóm tắt",
+            "question": "Câu 35 nói: Một vấn đề nữa là giáo viên có xu hướng có điều gì ('teachers tend to have 35 ______') đối với học sinh trong các lớp bị phân loại?",
+            "guide": "Cần một cụm từ chỉ sự hạ thấp kỳ vọng hoặc đánh giá thấp khả năng của học sinh.",
+            "bridge": "Hãy đọc Paragraph 8 nói về kỳ vọng và đánh giá của giáo viên."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 8 nói việc phân lớp đã vô tình giới hạn suy nghĩ của giáo viên về học sinh như thế nào?",
+            "guide": "Paragraph 8 viết: 'Streaming students by diagnosed achievement automatically limits what the teacher feels the student is capable of.' (Phân lớp học sinh theo năng lực đo được sẽ tự động giới hạn những gì giáo viên nghĩ là học sinh có thể làm được).",
+            "bridge": "Giới hạn suy nghĩ về năng lực học sinh chính là việc hạ thấp kỳ vọng (lower expectations) vào các em."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'kỳ vọng thấp hơn'?",
+            "guide": "Đó là B: 'lower expectations'.",
+            "bridge": "Hoàn thành phần tóm tắt! Chốt câu 35: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Giáo viên có xu hướng đặt kỳ vọng thấp hơn vào học sinh khi các em bị phân lớp.",
+          "<b>Paragraph 8:</b> <i>'Streaming students by diagnosed achievement automatically limits what the teacher feels the student is capable of.'</i>",
+          "<b>Khớp từ:</b> Giới hạn năng lực học sinh trong mắt giáo viên = hạ thấp kỳ vọng (<i>lower expectations</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "The Vygotsky model of education supports the concept of a mixed-ability class.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 36 nói gì? Mô hình giáo dục của Vygotsky ủng hộ quan điểm về lớp học có nhiều trình độ hỗn hợp ('supports the concept of a mixed-ability class').",
+            "guide": "Em cần kiểm tra xem mô hình của Vygotsky ở Paragraph 6 ủng hộ lớp học hỗn hợp hay ủng hộ việc phân lớp theo năng lực (streaming).",
+            "bridge": "Cùng đọc câu cuối Paragraph 6 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 6 nói nếu áp dụng mô hình của Vygotsky thì giải pháp hiệu quả là gì?",
+            "guide": "Paragraph 6 viết: 'If we accept this model, it follows that streaming students with similar ZPDs would be an efficient and effective solution. And that forcing everyone on the same hike... would be madness.' (Nếu chấp nhận mô hình này, việc phân lớp học sinh có cùng trình độ sẽ là giải pháp hiệu quả. Và việc bắt tất cả đi chung một chuyến dã ngoại là điều điên rồ).",
+            "bridge": "Mô hình này ủng hộ phân lớp (streaming) và coi việc học chung lớp hỗn hợp (forcing everyone on the same hike) là điên rồ."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo mô hình Vygotsky ủng hộ lớp hỗn hợp, nhưng bài đọc bảo mô hình này ủng hộ phân lớp. Hai ý này ngược nhau, đúng không?",
+            "guide": "Thông tin hoàn toàn trái ngược với bài đọc nên chọn NO.",
+            "bridge": "Chốt câu 36: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Mô hình của Vygotsky ủng hộ mô hình lớp học đa trình độ.",
+          "<b>Paragraph 6 (cuối đoạn):</b> <i>'If we accept this model, it follows that streaming students with similar ZPDs would be an efficient and effective solution. And that forcing everyone on the same hike... would be madness.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói mô hình ủng hộ lớp hỗn hợp, nhưng bài đọc khẳng định mô hình này chỉ ra rằng phân lớp (<i>streaming</i>) mới hiệu quả, còn gộp chung lớp hỗn hợp là 'điên rồ' (<i>madness</i>). Hai thông tin phủ định nhau.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Some teachers are uncertain about allowing students to take on MKO roles in the classroom.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q37",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 37 nói gì? Một số giáo viên cảm thấy không chắc chắn, ngần ngại ('uncertain') về việc cho phép học sinh đóng vai trò người am hiểu hơn (MKO) trong lớp.",
+            "guide": "Em cần tìm xem bài đọc có nhắc đến việc giáo viên cảm thấy ngập ngừng hay lo ngại khi để học sinh kèm cặp nhau hay không.",
+            "bridge": "Cùng đọc Paragraph 9 chỗ giới thiệu về MKO nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 9 nói gì về vai trò MKO của học sinh?",
+            "guide": "Paragraph 9 viết: 'While teachers are traditionally the MKOs in classrooms, the value of knowledgeable student peers must not go unrecognised either.' (dù giáo viên theo truyền thống là người am hiểu, nhưng giá trị của bạn bè am hiểu trong lớp cũng không được phép bỏ qua).",
+            "bridge": "Tác giả chỉ khuyên đừng bỏ quên vai trò của bạn học am hiểu."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài đọc có nhắc đến việc giáo viên có cảm giác 'ngập ngừng/không chắc chắn' (uncertain) hay không?",
+            "guide": "Hoàn toàn không có thông tin về thái độ do dự của giáo viên, nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 37: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Một số giáo viên còn do dự/không chắc chắn về việc để học sinh đảm nhận vai trò MKO trong lớp.",
+          "<b>Paragraph 9:</b> Nhắc đến vai trò MKO của giáo viên và khuyên không nên xem nhẹ vai trò của bạn học am hiểu (<i>'the value of knowledgeable student peers must not go unrecognised either'</i>).",
+          "<b>Đối chiếu:</b> Không có câu chữ nào nói về việc một số giáo viên cảm thấy ngần ngại hay không chắc chắn (<i>uncertain</i>) về điều này.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "It can be rewarding to teach knowledge which you have only recently acquired.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 38 nói gì? Việc truyền dạy những kiến thức mà bản thân mình mới vừa học được ('only recently acquired') có thể mang lại cảm giác rất tự hào, thỏa mãn ('rewarding').",
+            "guide": "Em hãy đọc Paragraph 10 xem cảm xúc của học sinh khi vừa học xong lại được giảng lại cho bạn mình là gì.",
+            "bridge": "Cùng đọc đoạn giữa của Paragraph 10 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 10 miêu tả cảm giác của học sinh khi truyền lại kiến thức mình vừa nắm vững như thế nào?",
+            "guide": "Paragraph 10 viết: 'There is also something exciting about passing on skills and knowledge that you yourself have just mastered – a certain pride and zeal, a certain freshness...' (Cũng có điều gì đó rất phấn khích khi truyền dạy kỹ năng và kiến thức mà chính bạn mới vừa nắm vững – một niềm tự hào và nhiệt huyết nhất định).",
+            "bridge": "'passing on knowledge that you yourself have just mastered' chính là dạy điều mình mới học được; 'exciting / pride and zeal' chính là cảm giác thỏa mãn, bổ ích (rewarding)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có hoàn toàn trùng khớp với lời tác giả ở Paragraph 10 không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn YES.",
+            "bridge": "Chốt câu 38: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Việc dạy lại kiến thức mình mới học được mang lại cảm giác rất tuyệt vời/thỏa mãn.",
+          "<b>Paragraph 10:</b> <i>'There is also something exciting about passing on skills and knowledge that you yourself have just mastered – a certain pride and zeal...'</i>",
+          "<b>Khớp từ:</b> <i>rewarding</i> = <i>exciting / pride and zeal</i>; <i>teach knowledge which you have only recently acquired</i> = <i>passing on knowledge that you yourself have just mastered</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "The priority should be to ensure that the highest-achieving students attain their goals.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 39 nói gì? Ưu tiên hàng đầu ('The priority') nên là đảm bảo cho các học sinh giỏi nhất đạt được mục tiêu của họ.",
+            "guide": "Em hãy đọc những câu đầu của Paragraph 11 xem tác giả nhấn mạnh mục tiêu ưu tiên là cho số đông hay chỉ cho vài cá nhân xuất sắc.",
+            "bridge": "Cùng đọc câu thứ hai của Paragraph 11 nhé."
+          },
+          {
+            "title": "Đối chiếu bài đọc",
+            "question": "Paragraph 11 nêu rõ quan điểm về việc học sinh nào cần được phát triển như thế nào?",
+            "guide": "Paragraph 11 viết: 'And today, more than ever, we need the many to flourish – not suffer at the expense of a few bright stars.' (Và ngày nay, hơn bao giờ hết, chúng ta cần số đông cùng phát triển – chứ không phải để số đông chịu thiệt thòi vì một vài ngôi sao sáng).",
+            "bridge": "Tác giả muốn số đông phát triển, phản đối việc ưu tiên vài ngôi sao sáng mà để số đông chịu thiệt."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo ưu tiên cho học sinh giỏi nhất, nhưng tác giả lại khẳng định phải ưu tiên cho số đông phát triển chứ không vì vài cá nhân xuất sắc. Hai ý này ngược nhau, đúng không?",
+            "guide": "Thông tin trái ngược hoàn toàn, chọn NO.",
+            "bridge": "Chốt câu 39: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Ưu tiên hàng đầu nên là đảm bảo những học sinh giỏi nhất đạt được mục tiêu của mình.",
+          "<b>Paragraph 11 (dòng 3):</b> <i>'And today, more than ever, we need the many to flourish – not suffer at the expense of a few bright stars.'</i> (Chúng ta cần số đông cùng phát triển – chứ không phải chịu thiệt vì một vài cá nhân sáng giá).",
+          "<b>Đối chiếu:</b> Tác giả phản đối việc tập trung ưu tiên cho vài học sinh giỏi nhất mà bỏ rơi số đông. Hai quan điểm đối lập nhau.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Taking part in collaborative outdoor activities with teachers and classmates can improve student outcomes in the classroom.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q40",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 40 nói gì? Việc tham gia các hoạt động ngoài trời cùng giáo viên và bạn bè ('outdoor activities') có thể cải thiện kết quả học tập của học sinh trong lớp ('improve student outcomes in the classroom').",
+            "guide": "Em hãy đọc các câu cuối của Paragraph 11 chỗ tác giả kể về chuyến đi leo núi dã ngoại hàng năm.",
+            "bridge": "Cùng xem tác giả kể về chuyến dã ngoại nhằm mục đích gì nhé."
+          },
+          {
+            "title": "Đối chiếu bài đọc",
+            "question": "Ở cuối Paragraph 11, tác giả kể về chuyến leo núi hàng năm với cả lớp để làm gì?",
+            "guide": "Tác giả kể: mỗi năm thầy trò cùng đi dã ngoại, những bạn khỏe giúp đỡ bạn yếu hơn, cùng nhau về đích để làm ví dụ thực tế cho tinh thần đồng đội và hỗ trợ lẫn nhau trong một tập thể hỗn hợp.",
+            "bridge": "Tác giả có nói việc đi dã ngoại này sẽ giúp điểm số hay kết quả học tập trong lớp tốt lên không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Tác giả chỉ kể câu chuyện leo núi như một minh họa về sự đoàn kết, hoàn toàn không nói nó làm tăng kết quả học tập trên lớp. Vậy ta chọn gì?",
+            "guide": "Không có thông tin chứng minh nhận định này, chọn NOT GIVEN.",
+            "bridge": "Hoàn thành toàn bộ Passage 3! Chốt câu 40: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Tham gia hoạt động dã ngoại ngoài trời có thể cải thiện kết quả học tập của học sinh trên lớp.",
+          "<b>Paragraph 11 (cuối đoạn):</b> Tác giả kể câu chuyện hàng năm đưa cả lớp đi leo núi (<i>'Once a year, I go on a hike with my class...'</i>) để minh họa cho tinh thần hỗ trợ nhau cùng tiến bộ (<i>'We make it – together'</i>).",
+          "<b>Đối chiếu:</b> Bài đọc hoàn toàn không khẳng định rằng việc tham gia hoạt động ngoài trời sẽ giúp nâng cao điểm số hay kết quả học tập thực tế trong lớp học (<i>improve student outcomes in the classroom</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}
