@@ -1,0 +1,584 @@
+{
+  "title": "IELTS Academic 19 - Test 4 - Passage 3: The Unselfish Gene",
+  "answers": {
+    "q27": "C",
+    "q28": "C",
+    "q29": "B",
+    "q30": "A",
+    "q31": "egalitarianism",
+    "q32": "status",
+    "q33": "hunting",
+    "q34": "domineering",
+    "q35": "autonomy",
+    "q36": "NOT GIVEN",
+    "q37": "NO",
+    "q38": "YES",
+    "q39": "NOT GIVEN",
+    "q40": "NO"
+  },
+  "passageHtml": "<h2>READING PASSAGE 3</h2><h3>The Unselfish Gene</h3><p><em>A psychologist gives his view on how humans became self-centred</em></p><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">There has long been a general assumption that human beings are essentially selfish. We're apparently ruthless, with strong impulses to compete against each other for resources and to accumulate power and possessions. If we are kind to one another, it's usually because we have ulterior motives. If we are good, it's only because we have managed to control and transcend our innate selfishness and brutality</span>.</p><p><strong>Paragraph 2.</strong> This bleak view of human nature is closely associated with the science writer Richard Dawkins, <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">whose 1976 book The Selfish Gene became popular because it fitted so well with – and helped to justify – the competitive and individualistic ethos that was so prevalent in late 20th-century societies</span>. Like many others, Dawkins justifies his views with reference to the field of evolutionary psychology. Evolutionary psychology theorises that present-day human traits developed in prehistoric times, during what is termed the 'environment of evolutionary adaptedness'.</p><p><strong>Paragraph 3.</strong> Prehistory is usually seen as a period of intense competition, when life was such a brutal battle that only those with traits such as selfishness, aggression and ruthlessness survived. And because survival depended on access to resources – such as rivers, forests and animals – there was bound to be conflict between rival groups, which led to the development of traits such as racism and warfare. This seems logical. But, in fact, the assumption on which this all rests – that prehistoric life was a desperate struggle for survival – is false.</p><p><strong>Paragraph 4.</strong> It's important to remember that in the prehistoric era, the world was very sparsely populated. According to some estimates, around 15,000 years ago, the population of Europe was only 29,000, and the population of the whole world was less than half a million. Humans at that time were hunter-gatherers: people who lived by hunting wild animals and collecting wild plants. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">With such small population densities, it seems unlikely that prehistoric hunter-gatherer groups had to compete against each other for resources or had any need to develop ruthlessness and competitiveness, or to go to war</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">There is significant evidence to back this notion from contemporary hunter-gatherer groups, who live in the same way as prehistoric humans did. As the anthropologist Bruce Knauft has remarked, hunter-gatherers are characterised by 'extreme political and sexual <span class=\"kw\"><span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">egalitarianism</span></span>'. Knauft has observed that individuals in such groups don't accumulate property or possessions and have an ethical obligation to share everything. They also have methods of preserving egalitarianism by <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">ensuring that disparities of <span class=\"kw\">status</span> don't arise</span></span>.</p><p><strong>Paragraph 6.</strong> The !Kung people of southern Africa, for example, <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">swap arrows before going <span class=\"kw\">hunting</span> and when an animal is killed, the acclaim does not go to the person who fired the arrow, but to the person the arrow belongs to</span>. And <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">if a person becomes too <span class=\"kw\">domineering</span>, the other members of the group ostracise them, exiling the offender from society</span>. Typically in such groups, men do not dictate what women do. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Women in hunter-gatherer groups worldwide often benefit from a high level of <span class=\"kw\">autonomy</span>, being able to select their own marriage partners, decide what work they do and work whenever they choose to</span>. And if a marriage breaks down, they have custody rights over their children.</p><p><strong>Paragraph 7.</strong> <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Many anthropologists believe that societies such as the !Kung were normal until a few thousand years ago, when population growth led to the development of agriculture and a settled lifestyle</span>. In view of the above, there seems little reason to assume that traits such as racism, warfare and male domination should have been selected by evolution as they would have been of little benefit in the prehistoric era. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Individuals who behaved selfishly and ruthlessly would be less likely to survive, since they would have been ostracised from their groups</span>.</p><p><strong>Paragraph 8.</strong> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">It makes more sense, then, to see traits such as cooperation, egalitarianism, altruism and peacefulness as innate characteristics of human beings</span>. These were the traits that were prevalent in human life for tens of thousands of years. So presumably these traits are still strong in us now.</p><p><strong>Paragraph 9.</strong> But if prehistoric life wasn't really as brutal as has often been assumed, why do modern humans behave so selfishly and ruthlessly? Perhaps these negative traits should be seen as a later development, the result of environmental and psychological factors. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Research has shown repeatedly that when the natural habitats of primates such as apes and gorillas are disrupted, they tend to become more violent and hierarchical</span>.</p><p><strong>Paragraph 10.</strong> So, it could well be that the same thing has happened to us. I believe that the end of the hunter-gatherer lifestyle and the advent of farming was connected to a psychological change that occurred in some groups of people. There was a new sense of individuality and separateness, which led to a new selfishness, and ultimately to hierarchical societies, patriarchy and warfare. At any rate, these negative traits appear to have developed so recently that it doesn't seem feasible to explain them in adaptive or evolutionary terms.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "title": "Questions 27-30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 27-30 on your answer sheet.</i>",
+      "questionIds": ["q27", "q28", "q29", "q30"]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "title": "Questions 31-35",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 31-35 on your answer sheet.</i>",
+      "summaryTitle": "Contemporary hunter-gatherer societies",
+      "questionIds": ["q31", "q32", "q33", "q34", "q35"],
+      "template": "<p>Bruce Knauft's research shows that contemporary hunter-gatherer societies tend to exhibit a high level of <b>31.</b> {{q31}} in all areas of life. In these cultures, distributing resources fairly among all members is a moral obligation. These societies also employ strategies to prevent differences in <b>32.</b> {{q32}} occurring: for example, the !Kung follow a custom whereby the credit for one person's success at <b>33.</b> {{q33}} is given to another member of the group. Individuals who behave in a <b>34.</b> {{q34}} manner are punished by being excluded from the group, and women have a considerable amount of <b>35.</b> {{q35}} in choices regarding work and marriage.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "title": "Questions 36-40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 3?<br>In boxes 36-40 on your answer sheet, write:<br><b>YES</b> if the statement agrees with the views of the writer<br><b>NO</b> if the statement contradicts the views of the writer<br><b>NOT GIVEN</b> if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": ["q36", "q37", "q38", "q39", "q40"]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What is the writer doing in the first paragraph?",
+      "options": [
+        "A. setting out two opposing views about human nature",
+        "B. justifying his opinion about our tendency to be greedy",
+        "C. describing a commonly held belief about people's behaviour",
+        "D. explaining why he thinks that humans act in a selfish manner"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q27",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 27 hỏi: Ở Paragraph 1, tác giả đang làm điều gì?",
+            "guide": "Em hãy đọc câu mở đầu của Paragraph 1 xem tác giả đang miêu tả điều gì.",
+            "bridge": "Cùng xem câu đầu tiên nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 1 mở đầu bằng: 'There has long been a general assumption that human beings are essentially selfish...' Câu này nói về điều gì?",
+            "guide": "Nghĩa là: từ lâu đã có một giả định/quan niệm chung ('general assumption') rằng con người vốn dĩ có bản tính ích kỷ.",
+            "bridge": "'general assumption' chính là quan niệm phổ biến của số đông ('commonly held belief')."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang ý nghĩa 'miêu tả một quan niệm phổ biến về hành vi của con người'?",
+            "guide": "Đó là C: 'describing a commonly held belief about people's behaviour'.",
+            "bridge": "Chốt câu 27: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả đang làm gì ở Paragraph 1?",
+          "<b>Paragraph 1:</b> <i>'There has long been a general assumption that human beings are essentially selfish...'</i> (Từ lâu đã có một giả định phổ biến rằng con người về bản chất là ích kỷ...).",
+          "<b>Khớp ý:</b> <i>general assumption</i> = quan niệm được nhiều người tin tưởng (<i>commonly held belief</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "What point is made about Richard Dawkins' book The Selfish Gene?",
+      "options": [
+        "A. Its appeal lay in the radical nature of its ideas.",
+        "B. Its success was due to the scientific support it offered.",
+        "C. It presented a view that was in line with the attitudes of its time.",
+        "D. It took an innovative approach to the analysis of human psychology."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q28",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 28 hỏi: Tác giả đưa ra nhận định gì về cuốn sách 'The Selfish Gene' của Richard Dawkins?",
+            "guide": "Hãy tìm tên cuốn sách 'The Selfish Gene' ở Paragraph 2 để xem lý do vì sao nó trở nên nổi tiếng.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 2 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 2 nói cuốn sách trở nên phổ biến vì nó phù hợp với điều gì ở thời điểm đó?",
+            "guide": "Paragraph 2 viết: '...whose 1976 book The Selfish Gene became popular because it fitted so well with – and helped to justify – the competitive and individualistic ethos that was so prevalent in late 20th-century societies.' (trở nên nổi tiếng vì nó rất phù hợp với tư tưởng cạnh tranh và chủ nghĩa cá nhân vốn rất thịnh hành trong xã hội cuối thế kỷ 20).",
+            "bridge": "'fitted so well with... prevalent in late 20th-century societies' nghĩa là rất hợp với tư tưởng của thời đại đó."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Lựa chọn nào nói rằng cuốn sách đưa ra góc nhìn phù hợp với quan điểm/thái độ của thời đại đó?",
+            "guide": "Đó là phương án C: 'It presented a view that was in line with the attitudes of its time'.",
+            "bridge": "Chốt câu 28: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nói gì về cuốn sách <i>The Selfish Gene</i> ở Paragraph 2?",
+          "<b>Paragraph 2:</b> Cuốn sách trở nên nổi tiếng vì <i>'it fitted so well with... the competitive and individualistic ethos that was so prevalent in late 20th-century societies'</i>.",
+          "<b>Khớp ý:</b> <i>fitted so well with the prevalent ethos</i> = phù hợp với thái độ/tư tưởng của thời kỳ đó (<i>in line with the attitudes of its time</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "What does the writer suggest about the prehistoric era in the fourth paragraph?",
+      "options": [
+        "A. Societies were more complex than many people believe.",
+        "B. Supplies of natural resources were probably relatively plentiful.",
+        "C. Most estimates about population sizes are likely to be inaccurate.",
+        "D. Humans moved across continents more than was previously thought."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q29",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 29 hỏi: Tác giả gợi ý điều gì về thời kỳ tiền sử trong Paragraph 4?",
+            "guide": "Em hãy đọc kỹ Paragraph 4 về mật độ dân số và mức độ cạnh tranh tài nguyên.",
+            "bridge": "Cùng xem số lượng người và tài nguyên lúc đó ra sao nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 4 nói dân số thời đó rất thưa thớt (châu Âu chỉ có 29.000 người, cả thế giới chưa tới nửa triệu người). Tác giả rút ra kết luận gì ở câu cuối?",
+            "guide": "Paragraph 4 viết: 'With such small population densities, it seems unlikely that prehistoric hunter-gatherer groups had to compete against each other for resources...' (Với mật độ dân số ít ỏi như vậy, khó có khả năng các nhóm người tiền sử phải cạnh tranh với nhau để giành tài nguyên).",
+            "bridge": "Dân số quá ít mà đất đai rộng lớn, không phải tranh giành thức ăn nghĩa là nguồn tài nguyên thiên nhiên lúc đó khá dồi dào so với nhu cầu."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang ý nghĩa 'Nguồn cung tài nguyên thiên nhiên khi đó có lẽ tương đối dồi dào'?",
+            "guide": "Đó là phương án B: 'Supplies of natural resources were probably relatively plentiful'.",
+            "bridge": "Chốt câu 29: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả gợi ý điều gì về thời tiền sử ở Paragraph 4?",
+          "<b>Paragraph 4:</b> Trái đất khi đó cực kỳ thưa dân (<i>very sparsely populated</i>), cả thế giới có chưa đầy nửa triệu người. Do đó, các nhóm săn bắt hái lượm không hề phải tranh giành tài nguyên (<i>unlikely that... had to compete against each other for resources</i>).",
+          "<b>Khớp ý:</b> Không cần tranh giành vì tài nguyên thiên nhiên lúc đó là tương đối dồi dào so với số lượng người ít ỏi (<i>relatively plentiful</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "The writer refers to Bruce Knauft's work as support for the idea that",
+      "options": [
+        "A. selfishness is a relatively recent development in human societies.",
+        "B. only people in isolated communities can live in an unselfish manner.",
+        "C. very few lifestyles have survived unchanged since prehistoric times.",
+        "D. hunter-gatherer cultures worldwide are declining in number."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q30",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 30 hỏi: Tác giả dẫn ra nghiên cứu của nhà nhân học Bruce Knauft để ủng hộ cho quan điểm nào?",
+            "guide": "Hãy tìm tên 'Bruce Knauft' ở Paragraph 5 và xem nghiên cứu của ông chứng minh điều gì cho luận điểm chính.",
+            "bridge": "Cùng đọc câu mở đầu của Paragraph 5 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 5 giới thiệu nghiên cứu của Knauft nhằm củng cố cho quan điểm nào trước đó?",
+            "guide": "Paragraph 5 viết: có bằng chứng vững chắc từ các bộ tộc săn bắt hái lượm ngày nay rằng họ sống cực kỳ bình đẳng, không tích trữ của cải riêng và luôn chia sẻ mọi thứ. Điều này chứng minh rằng con người nguyên thủy không hề ích kỷ, và tính ích kỷ chỉ là sản phẩm phát triển mới xuất hiện gần đây trong xã hội loài người.",
+            "bridge": "Người tiền sử vốn sống chia sẻ và bình đẳng, tính ích kỷ chỉ mới xuất hiện sau này."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Lựa chọn nào nói 'tính ích kỷ là một sự phát triển tương đối mới trong xã hội loài người'?",
+            "guide": "Đó là phương án A: 'selfishness is a relatively recent development in human societies'.",
+            "bridge": "Chốt câu 30: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nhắc đến công trình của Bruce Knauft để chứng minh điều gì?",
+          "<b>Paragraph 5 & 10:</b> Knauft chỉ ra các nhóm săn bắt hái lượm sống rất bình đẳng, chia sẻ mọi thứ và không tích lũy tài sản cá nhân. Tác giả kết luận bản tính nguyên thủy của con người là hợp tác, còn thói ích kỷ chỉ mới xuất hiện gần đây khi xã hội có nông nghiệp và sở hữu riêng (<i>'negative traits appear to have developed so recently'</i>).",
+          "<b>Khớp ý:</b> Chọn <b>A (selfishness is a relatively recent development in human societies)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Bruce Knauft's research shows that contemporary hunter-gatherer societies tend to exhibit a high level of 31 …………… in all areas of life.",
+      "finalAnswer": "egalitarianism",
+      "inputWidth": "140px",
+      "highlightId": "hl-q31",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 31: Nghiên cứu của Bruce Knauft cho thấy các xã hội săn bắt hái lượm ngày nay thể hiện mức độ cao về điều gì ('a high level of 31 ______') trong mọi mặt đời sống?",
+            "guide": "Sau 'a high level of' cần một danh từ chỉ phẩm chất, tư tưởng hoặc nguyên tắc sống.",
+            "bridge": "Hãy tìm câu trích lời của Bruce Knauft ở Paragraph 5."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 5 dẫn lời Knauft miêu tả các nhóm săn bắt hái lượm có đặc trưng nổi bật là gì?",
+            "guide": "Paragraph 5 viết: '...hunter-gatherers are characterised by \"extreme political and sexual egalitarianism\".' (được đặc trưng bởi chủ nghĩa bình đẳng sâu sắc về cả chính trị lẫn giới tính).",
+            "bridge": "'extreme... egalitarianism' chính là mức độ bình đẳng rất cao ('high level of egalitarianism').",
+            "answer": "egalitarianism"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất chỉ chủ nghĩa bình đẳng là gì?",
+            "guide": "Đáp án là 'egalitarianism'.",
+            "bridge": "Chốt câu 31: egalitarianism."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau cụm <i>a high level of</i>.",
+          "<b>Paragraph 5 (dòng 2-3):</b> <i>'...hunter-gatherers are characterised by \"extreme political and sexual egalitarianism\".'</i>",
+          "<b>Khớp từ:</b> <i>high level of</i> = <i>extreme</i>; từ cần điền là <i>egalitarianism</i> (chủ nghĩa bình đẳng).",
+          "<b>Từ cần điền:</b> <b>egalitarianism</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "These societies also employ strategies to prevent differences in 32 …………… occurring",
+      "finalAnswer": "status",
+      "inputWidth": "100px",
+      "highlightId": "hl-q32",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 32: Những xã hội này cũng áp dụng các biện pháp để ngăn chặn sự chênh lệch, khác biệt về cái gì xảy ra ('differences in 32 ______')?",
+            "guide": "Sau giới từ 'in' cần một danh từ chỉ địa vị xã hội hoặc thứ bậc.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph 5."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Câu cuối Paragraph 5 nói họ có những cách để đảm bảo sự chênh lệch về cái gì không nảy sinh?",
+            "guide": "Paragraph 5 viết: 'They also have methods of preserving egalitarianism by ensuring that disparities of status don't arise.' (Họ cũng có những cách thức để đảm bảo sự chênh lệch về địa vị không nảy sinh).",
+            "bridge": "'disparities of status don't arise' chính là ngăn chặn sự khác biệt về địa vị (prevent differences in status occurring).",
+            "answer": "status"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ chỉ địa vị là gì?",
+            "guide": "Đáp án là 'status'.",
+            "bridge": "Chốt câu 32: status."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau giới từ <i>in</i>.",
+          "<b>Paragraph 5 (câu cuối):</b> <i>'...ensuring that disparities of status don't arise.'</i>",
+          "<b>Khớp từ:</b> <i>prevent differences... occurring</i> = <i>ensuring that disparities... don't arise</i>; từ cần điền là <i>status</i> (địa vị).",
+          "<b>Từ cần điền:</b> <b>status</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "the !Kung follow a custom whereby the credit for one person's success at 33 …………… is given to another member of the group.",
+      "finalAnswer": "hunting",
+      "inputWidth": "110px",
+      "highlightId": "hl-q33",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 33: Bộ tộc !Kung có phong tục là sự tán dương cho thành công của một người trong hoạt động gì ('success at 33 ______') sẽ được trao cho một thành viên khác trong nhóm?",
+            "guide": "Sau giới từ 'at' cần một danh từ chỉ hoạt động sinh kế (như săn bắn, hái lượm).",
+            "bridge": "Hãy tìm câu nói về việc đổi mũi tên của người !Kung ở đầu Paragraph 6."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 6 kể phong tục đổi mũi tên trước khi đi làm gì?",
+            "guide": "Paragraph 6 viết: 'The !Kung people of southern Africa, for example, swap arrows before going hunting and when an animal is killed, the acclaim does not go to the person who fired the arrow, but to the person the arrow belongs to.' (người !Kung đổi mũi tên trước khi đi săn bắn, và khi một con thú bị hạ gục, lời ca ngợi không dành cho người bắn mà dành cho người sở hữu mũi tên).",
+            "bridge": "Hoạt động săn bắn hạ gục con thú chính là hunting.",
+            "answer": "hunting"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ chỉ hoạt động đi săn là gì?",
+            "guide": "Đáp án là 'hunting'.",
+            "bridge": "Chốt câu 33: hunting."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ hoạt động sau giới từ <i>at</i>.",
+          "<b>Paragraph 6 (dòng 1-3):</b> <i>'...swap arrows before going hunting and when an animal is killed, the acclaim does not go to the person who fired the arrow...'</i>",
+          "<b>Khớp từ:</b> <i>credit for one person's success</i> = <i>acclaim</i> (sự tán dương khi hạ gục thú); hoạt động là <i>hunting</i>.",
+          "<b>Từ cần điền:</b> <b>hunting</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Individuals who behave in a 34 …………… manner are punished by being excluded from the group",
+      "finalAnswer": "domineering",
+      "inputWidth": "130px",
+      "highlightId": "hl-q34",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 34: Những cá nhân cư xử theo lối như thế nào ('in a 34 ______ manner') thì sẽ bị phạt bằng cách đuổi khỏi nhóm?",
+            "guide": "Trước danh từ 'manner' cần một tính từ miêu tả thái độ hống hách, độc đoán, muốn lấn lướt người khác.",
+            "bridge": "Hãy đọc câu tiếp theo ở Paragraph 6."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 6 nói khi một người trở nên thế nào thì những người khác sẽ tẩy chay và đuổi đi?",
+            "guide": "Paragraph 6 viết: 'And if a person becomes too domineering, the other members of the group ostracise them, exiling the offender from society.' (Và nếu một người trở nên quá độc đoán/hống hách, các thành viên khác sẽ tẩy chay và trục xuất họ).",
+            "bridge": "'ostracise / exiling' chính là bị loại khỏi nhóm (excluded from the group). Tính từ miêu tả hành vi là gì?",
+            "answer": "domineering"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tính từ đó là gì?",
+            "guide": "Đáp án là 'domineering' (độc đoán, lấn lướt).",
+            "bridge": "Chốt câu 34: domineering."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần tính từ bổ nghĩa cho danh từ <i>manner</i>.",
+          "<b>Paragraph 6 (dòng 3-4):</b> <i>'And if a person becomes too domineering, the other members of the group ostracise them, exiling the offender from society.'</i>",
+          "<b>Khớp từ:</b> <i>punished by being excluded</i> = <i>ostracise / exiling</i>; tính từ là <i>domineering</i>.",
+          "<b>Từ cần điền:</b> <b>domineering</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "women have a considerable amount of 35 …………… in choices regarding work and marriage.",
+      "finalAnswer": "autonomy",
+      "inputWidth": "120px",
+      "highlightId": "hl-q35",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 35: Phụ nữ có một mức độ lớn về cái gì ('a considerable amount of 35 ______') trong những lựa chọn liên quan đến hôn nhân và công việc?",
+            "guide": "Sau cụm 'amount of' cần một danh từ chỉ quyền tự quyết, sự tự do cá nhân.",
+            "bridge": "Hãy đọc các câu nói về phụ nữ ở nửa sau Paragraph 6."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 6 miêu tả quyền của phụ nữ trong các nhóm săn bắt hái lượm như thế nào?",
+            "guide": "Paragraph 6 viết: 'Women in hunter-gatherer groups worldwide often benefit from a high level of autonomy, being able to select their own marriage partners, decide what work they do...' (Phụ nữ được hưởng mức độ tự chủ cao, có thể tự chọn bạn đời, tự quyết định công việc...).",
+            "bridge": "'high level of' tương đương với 'considerable amount of'. Từ cần điền là gì?",
+            "answer": "autonomy"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ chỉ quyền tự chủ là gì?",
+            "guide": "Đáp án là 'autonomy' (sự tự chủ, quyền tự quyết).",
+            "bridge": "Hoàn thành bài tóm tắt! Chốt câu 35: autonomy."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau cụm <i>a considerable amount of</i>.",
+          "<b>Paragraph 6 (dòng 5-7):</b> <i>'Women in hunter-gatherer groups worldwide often benefit from a high level of autonomy, being able to select their own marriage partners, decide what work they do...'</i>",
+          "<b>Khớp từ:</b> <i>considerable amount of</i> = <i>high level of</i>; từ cần điền là <i>autonomy</i> (sự tự chủ).",
+          "<b>Từ cần điền:</b> <b>autonomy</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Some anthropologists are mistaken about the point when the number of societies such as the !Kung began to decline.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q36",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 36 nói gì? Một số nhà nhân học đã 'bị nhầm lẫn' ('are mistaken') về thời điểm mà số lượng các xã hội như bộ tộc !Kung bắt đầu suy giảm.",
+            "guide": "Em cần tìm xem bài đọc có phê phán hay nói rằng các nhà nhân học đã tính toán sai thời điểm suy thoái của họ hay không.",
+            "bridge": "Cùng đọc câu đầu Paragraph 7 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 7 nói gì về quan điểm của các nhà nhân học?",
+            "guide": "Paragraph 7 viết: 'Many anthropologists believe that societies such as the !Kung were normal until a few thousand years ago, when population growth led to the development of agriculture and a settled lifestyle.' (Nhiều nhà nhân học tin rằng các xã hội như !Kung vẫn rất phổ biến cho đến vài nghìn năm trước, khi dân số tăng dẫn đến nông nghiệp phát triển).",
+            "bridge": "Bài chỉ nêu quan điểm của các nhà nhân học, có từ nào nói rằng họ 'đã sai lầm/bị nhầm' (mistaken) không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Tác giả không hề nói các nhà nhân học bị nhầm lẫn hay đúng đắn, vậy ta chọn đáp án gì?",
+            "guide": "Không có thông tin đánh giá nên ta chọn NOT GIVEN.",
+            "bridge": "Chốt câu 36: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Một số nhà nhân học đã sai lầm về mốc thời gian các xã hội như !Kung bắt đầu suy giảm.",
+          "<b>Paragraph 7 (câu đầu):</b> <i>'Many anthropologists believe that societies such as the !Kung were normal until a few thousand years ago...'</i>",
+          "<b>Đối chiếu:</b> Tác giả chỉ nêu niềm tin của họ, hoàn toàn không nhận xét hay khẳng định rằng họ đã mắc sai lầm (<i>are mistaken</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Humans who developed warlike traits in prehistory would have had an advantage over those who did not.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 37 nói gì? Những người phát triển các đặc tính hiếu chiến ('warlike traits') thời tiền sử sẽ có lợi thế hơn ('had an advantage') so với những người không có.",
+            "guide": "Em hãy đọc các câu tiếp theo ở Paragraph 7 xem những người hung hăng, hiếu chiến thời xưa có lợi thế sống sót hay bị loại bỏ.",
+            "bridge": "Cùng xem số phận của những người tàn nhẫn thời tiền sử nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 7 nói gì về cơ hội sống sót của những cá nhân ích kỷ và tàn nhẫn thời tiền sử?",
+            "guide": "Paragraph 7 viết: những đặc tính như chiến tranh, phân biệt... mang lại rất ít lợi ích ở thời tiền sử, và 'Individuals who behaved selfishly and ruthlessly would be less likely to survive, since they would have been ostracised from their groups.' (Những cá nhân cư xử ích kỷ và tàn nhẫn sẽ ít có cơ hội sống sót hơn, vì họ sẽ bị tẩy chay và đuổi khỏi nhóm).",
+            "bridge": "'less likely to survive' (ít cơ hội sống sót hơn, bị đuổi khỏi nhóm) hoàn toàn trái ngược với 'có lợi thế hơn' (had an advantage)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo họ có lợi thế hơn, bài đọc bảo họ ít có cơ hội sống sót hơn và bị trục xuất. Hai ý này phủ định nhau 100%, vậy ta chọn gì?",
+            "guide": "Đáp án là NO.",
+            "bridge": "Chốt câu 37: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Những người có đặc tính hiếu chiến thời tiền sử có lợi thế hơn những người khác.",
+          "<b>Paragraph 7:</b> <i>'...would have been of little benefit in the prehistoric era. Individuals who behaved selfishly and ruthlessly would be less likely to survive, since they would have been ostracised from their groups.'</i>",
+          "<b>Đối chiếu:</b> Bài đọc khẳng định người hiếu chiến/tàn nhẫn ít có khả năng sống sót hơn vì bị đuổi khỏi nhóm, trái ngược hoàn toàn với việc có lợi thế (<i>had an advantage</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Being peaceful and cooperative is a natural way for people to behave.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 38 nói gì? Sống hòa bình và hợp tác ('peaceful and cooperative') là cách cư xử tự nhiên/bản năng bẩm sinh ('a natural way') của con người.",
+            "guide": "Em hãy đọc câu đầu tiên của Paragraph 8 xem tác giả nhìn nhận tính hòa bình và hợp tác như thế nào.",
+            "bridge": "Cùng đọc Paragraph 8 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 nói những phẩm chất như hợp tác, hòa bình có phải là đặc tính bẩm sinh của con người không?",
+            "guide": "Paragraph 8 viết: 'It makes more sense, then, to see traits such as cooperation, egalitarianism, altruism and peacefulness as innate characteristics of human beings.' (Sẽ hợp lý hơn khi coi những phẩm chất như hợp tác, bình đẳng, vị tha và yêu chuộng hòa bình là những đặc tính bẩm sinh của con người).",
+            "bridge": "'innate characteristics' (đặc tính bẩm sinh sẵn có) chính là cách cư xử tự nhiên (a natural way to behave)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có trùng khớp hoàn toàn với quan điểm của tác giả không?",
+            "guide": "Thông tin hoàn toàn chính xác, chọn YES.",
+            "bridge": "Chốt câu 38: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Yêu hòa bình và hợp tác là bản tính tự nhiên của con người.",
+          "<b>Paragraph 8 (câu đầu):</b> <i>'It makes more sense, then, to see traits such as cooperation, egalitarianism, altruism and peacefulness as innate characteristics of human beings.'</i>",
+          "<b>Khớp từ:</b> <i>peaceful and cooperative</i> = <i>cooperation... and peacefulness</i>; <i>natural way to behave</i> = <i>innate characteristics</i> (đặc tính bẩm sinh).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Negative traits are more apparent in some modern cultures than in others.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q39",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích phép so sánh",
+            "question": "Câu 39 đưa ra so sánh gì? Các tính xấu ('Negative traits') thể hiện rõ rệt ở một số nền văn hóa hiện đại HƠN LÀ ở các nền văn hóa khác ('more apparent in some modern cultures than in others').",
+            "guide": "Em cần tìm xem bài đọc có so sánh giữa các nền văn hóa hiện đại với nhau xem nơi nào con người cư xử xấu hơn không.",
+            "bridge": "Hãy đọc Paragraph 9 và Paragraph 10 nơi nói về con người hiện đại."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 9 và 10 giải thích tại sao con người hiện đại cư xử ích kỷ. Tác giả có so sánh văn hóa nước này với văn hóa nước khác không?",
+            "guide": "Tác giả chỉ nói chung về con người hiện đại ('modern humans') và nguồn gốc phát sinh của tính xấu do sự chuyển đổi sang làm nông nghiệp và sống định cư, hoàn toàn không so sánh nền văn hóa hiện đại nào có nhiều tính xấu hơn nền văn hóa nào.",
+            "bridge": "Không hề có phép so sánh giữa các nền văn hóa hiện đại khác nhau."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Thiếu vế so sánh giữa các nền văn hóa hiện đại, vậy đáp án là gì?",
+            "guide": "Đáp án là NOT GIVEN.",
+            "bridge": "Chốt câu 39: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các đặc tính tiêu cực bộc lộ rõ ở một số nền văn hóa hiện đại hơn các nền văn hóa khác.",
+          "<b>Paragraph 9 & 10:</b> Tác giả bàn về việc tại sao con người hiện đại nói chung (<i>modern humans</i>) lại có những thói xấu ích kỷ và tàn nhẫn.",
+          "<b>Đối chiếu:</b> Hoàn toàn không có sự so sánh mức độ xuất hiện thói xấu giữa các nền văn hóa hiện đại cụ thể nào (<i>more apparent in some... than in others</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Animal research has failed to reveal a link between changes in the environment and the emergence of aggressive tendencies.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q40",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 40 nói gì? Các nghiên cứu trên động vật đã KHÔNG THỂ ('has failed to reveal') tìm ra mối liên hệ giữa sự thay đổi môi trường và sự xuất hiện các xu hướng hung hăng gây hấn ('aggressive tendencies').",
+            "guide": "Em hãy tìm từ khóa 'primates', 'apes and gorillas' ở cuối Paragraph 9 để xem nghiên cứu động vật chỉ ra điều gì.",
+            "bridge": "Cùng đọc câu cuối của Paragraph 9 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 9 nói nghiên cứu trên các loài linh trưởng (vượn, khỉ đột) đã cho thấy điều gì khi môi trường sống bị xáo trộn?",
+            "guide": "Paragraph 9 viết: 'Research has shown repeatedly that when the natural habitats of primates such as apes and gorillas are disrupted, they tend to become more violent and hierarchical.' (Nghiên cứu đã liên tục chỉ ra rằng khi môi trường sống tự nhiên bị xáo trộn, chúng có xu hướng trở nên bạo lực và phân chia thứ bậc hơn).",
+            "bridge": "'Research has shown repeatedly' (nghiên cứu đã chứng minh nhiều lần) hoàn toàn trái ngược với 'failed to reveal' (thất bại, không thể tìm ra)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo nghiên cứu động vật thất bại không tìm ra mối liên hệ, bài đọc lại bảo nghiên cứu đã liên tục chỉ ra mối liên hệ này. Hai ý này ngược nhau, vậy đáp án là gì?",
+            "guide": "Thông tin đối lập 100%, chọn NO.",
+            "bridge": "Hoàn thành toàn bộ Passage 3! Chốt câu 40: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Nghiên cứu động vật đã không thể tìm ra mối liên hệ giữa thay đổi môi trường và sự hung hăng.",
+          "<b>Paragraph 9 (câu cuối):</b> <i>'Research has shown repeatedly that when the natural habitats of primates such as apes and gorillas are disrupted, they tend to become more violent and hierarchical.'</i>",
+          "<b>Đối chiếu:</b> Bài đọc nói nghiên cứu đã chỉ ra rất rõ ràng và lặp đi lặp lại (<i>shown repeatedly</i>) rằng xáo trộn môi trường khiến chúng trở nên hung bạo hơn (<i>more violent</i>). Ý này đối lập hoàn toàn với việc thất bại không tìm ra (<i>failed to reveal</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    }
+  }
+}
