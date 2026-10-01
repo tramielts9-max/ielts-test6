@@ -1,0 +1,505 @@
+{
+  "title": "IELTS Academic 19 - Test 3 - Passage 1: Archaeologists discover evidence of prehistoric island settlers",
+  "answers": {
+    "q1": "FALSE",
+    "q2": "FALSE",
+    "q3": "TRUE",
+    "q4": "NOT GIVEN",
+    "q5": "TRUE",
+    "q6": "NOT GIVEN",
+    "q7": "FALSE",
+    "q8": "caves",
+    "q9": "stone",
+    "q10": "bones",
+    "q11": "beads",
+    "q12": "pottery",
+    "q13": "spices"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>Archaeologists discover evidence of prehistoric island settlers</h3><p><strong>Paragraph 1.</strong> In early April 2019, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Dr Ceri Shipton and his colleagues from Australian National University became the first archaeologists to explore Obi</span>, one of many tropical islands in Indonesia's Maluku Utara province. The research team's discoveries suggest that the prehistoric people who lived on Obi were adept on both land and sea, hunting in the dense rainforest, foraging on the seashore, and possibly even voyaging between islands.</p><p><strong>Paragraph 2.</strong> The excavations were part of a project to learn more about how people first dispersed from mainland Asia, through the Indonesian archipelago and into the prehistoric continent that once connected Australia and New Guinea. The team's earlier research suggested that the northernmost islands in the group, known as the Wallacean islands, including Obi, would have offered the easiest migration route. It also seemed likely that these islands were crucial 'stepping stones' on humans' island-hopping voyages through this region millennia ago. But to support this idea, they needed archaeological evidence for humans living in this remote area in the ancient past. So, they travelled to Obi to look for sites that might reveal evidence of early occupation.</p><p><strong>Paragraph 3.</strong> Just inland from the village of Kelo on Obi's northern coast, Shipton and his colleagues found two <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">caves</span> containing prehistoric rock shelters</span> that were suitable for excavation. With the permission and help of the local people of Kelo, they dug a small test excavation in each shelter. There they found numerous artefacts, including fragments of axes, some dating to about 14,000 years ago. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">The earliest axes at Kelo were made using clam shells. Axes made from clam shells from roughly the same time had also previously been found elsewhere in this region, including on the nearby island of Gebe</span> to the northeast. As on Gebe, it is highly likely that Obi's axes were used in the construction of canoes, thus allowing these early peoples to maintain connections between communities on neighbouring islands.</p><p><strong>Paragraph 4.</strong> The oldest cultural layers from the Kelo site provided the team with the earliest record for human occupation on Obi, dating back around 18,000 years. At this time the climate was drier and colder than today, and the island's dense rainforests would likely have been much less impenetrable than they are now. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Sea levels were about 120 metres lower, meaning Obi was a much larger island, encompassing what is today the separate island of Bisa, as well as several other small islands nearby</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Roughly 11,700 years ago, as the most recent ice age ended, the climate became significantly warmer and wetter, no doubt making Obi's jungle much thicker</span>. According to the researchers, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">it is no coincidence that around this time the first axes crafted from <span class=\"kw\">stone</span> rather than sea shells appear, likely in response to their heavy-duty use for clearing and modification of the increasingly dense rainforest</span></span>. While stone takes about twice as long to grind into an axe compared to shell, the harder material keeps its sharp edge for longer.</p><p><strong>Paragraph 6.</strong> Judging by the <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"kw\">bones</span> which the researchers unearthed in the Kelo caves</span>, people living there mainly hunted the Rothschild's cuscus</span>, a possum-like creature that still lives on Obi today. As the forest grew more dense, people probably used axes to clear patches of forest and make hunting easier.</p><p><strong>Paragraph 7.</strong> Shipton's team's excavation of the shelters at the Kelo site unearthed a volcanic glass substance called obsidian, which must have been brought over from another island, as there is no known source on Obi. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">It also revealed particular types of <span class=\"kw\">beads</span>, similar to those previously found on islands in southern Wallacea</span>. These finds again support the idea that Obi islanders routinely travelled to other islands.</p><p><strong>Paragraph 8.</strong> The excavations suggest people successfully lived in the two Kelo shelters for about 10,000 years. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">But then, about 8,000 years ago, both were abandoned</span>. Did the residents leave Obi completely, or move elsewhere on the island? Perhaps the jungle had grown so thick that axes were no longer a match for the dense undergrowth. Perhaps people simply moved to the coast and turned to fishing rather than hunting as a means of survival.</p><p><strong>Paragraph 9.</strong> Whatever the reason for the departure, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">there is no evidence for use of the Kelo shelters after this time, until about 1,000 years ago, when they were re-occupied</span> by <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">people who owned <span class=\"kw\">pottery</span> as well as items made out of gold and silver</span>. It seems likely, in view of Obi's location, that this final phase of occupation also saw the Kelo shelters used by <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">people involved in the historic trade in <span class=\"kw\">spices</span> between the Maluku islands and the rest of the world</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "title": "Questions 1-7",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 1-7 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</i>",
+      "questionIds": ["q1", "q2", "q3", "q4", "q5", "q6", "q7"]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "title": "Questions 8-13",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 8-13 on your answer sheet.</i>",
+      "noteTitle": "Archaeological findings on Obi",
+      "questionIds": ["q8", "q9", "q10", "q11", "q12", "q13"],
+      "template": "<p><b>Archaeological findings on Obi</b></p><p>Excavations of rock shelters inside <b>8.</b> {{q8}} near the village of Kelo revealed:</p><ul><li style=\"margin-bottom: 12px;\">axes from around 14,000 years ago, probably used to make canoes</li><li style=\"margin-bottom: 12px;\">axes made out of <b>9.</b> {{q9}}, dating from around 11,700 years ago</li><li style=\"margin-bottom: 12px;\"><b>10.</b> {{q10}} of an animal: evidence of what ancient islanders ate</li><li style=\"margin-bottom: 12px;\">evidence of travel between islands:<ul><li style=\"margin-bottom: 8px;\">obsidian: a material that is not found naturally on Obi</li><li style=\"margin-bottom: 8px;\"><b>11.</b> {{q11}} which resembled ones found on other islands.</li></ul></li></ul><p>It is thought that from 8,000 years ago, Obi islanders:</p><ul><li style=\"margin-bottom: 12px;\">may have switched from hunting to fishing</li><li style=\"margin-bottom: 12px;\">had <b>12.</b> {{q12}} as well as items made out of metal</li><li style=\"margin-bottom: 12px;\">probably took part in the production and sale of <b>13.</b> {{q13}}.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Archaeological research had taken place on the island of Obi before the arrival of Ceri Shipton and his colleagues.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 1 nói gì? Nghiên cứu khảo cổ học từng diễn ra trên đảo Obi TRƯỚC KHI nhóm của ông Ceri Shipton đặt chân đến đây ('before the arrival of...').",
+            "guide": "Em hãy tìm xem nhóm của Ceri Shipton có phải là những nhà khảo cổ đầu tiên đến đây không.",
+            "bridge": "Mình cùng đọc câu đầu tiên của Paragraph 1 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 1 viết nhóm của tiến sĩ Ceri Shipton là ai trên hòn đảo Obi này?",
+            "guide": "Paragraph 1 viết rõ: tiến sĩ Ceri Shipton và các đồng nghiệp 'became the first archaeologists to explore Obi' (đã trở thành những nhà khảo cổ ĐẦU TIÊN khám phá đảo Obi).",
+            "bridge": "Họ là những người đầu tiên, vậy trước đó có ai từng làm khảo cổ ở đây chưa?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo 'đã từng có nghiên cứu trước đó', nhưng bài đọc khẳng định họ là 'những người đầu tiên'. Hai thông tin này trái ngược nhau, vậy đáp án là gì?",
+            "guide": "Thông tin đối lập 100% nên ta chọn FALSE.",
+            "bridge": "Chốt câu 1: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Hoạt động nghiên cứu khảo cổ từng diễn ra trên đảo Obi trước khi nhóm của Ceri Shipton tới.",
+          "<b>Paragraph 1:</b> <i>'Dr Ceri Shipton and his colleagues... became the first archaeologists to explore Obi...'</i> (Họ là những nhà khảo cổ ĐẦU TIÊN khám phá đảo Obi).",
+          "<b>Đối chiếu:</b> Nhận định nói đã có người làm trước đó (<i>before the arrival</i>) trái ngược hoàn toàn với việc họ là những người đầu tiên (<i>first archaeologists</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "At the Kelo sites, the researchers found the first clam shell axes ever to be discovered in the region.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 2 nói gì? Tại di chỉ Kelo, các nhà nghiên cứu đã tìm thấy những chiếc rìu làm bằng vỏ sò đầu tiên từng được phát hiện trong khu vực ('first... ever to be discovered in the region').",
+            "guide": "Em cần chú ý xem những chiếc rìu vỏ sò ở Kelo có phải là rìu vỏ sò đầu tiên được tìm thấy trong cả khu vực này không.",
+            "bridge": "Hãy tìm thông tin về rìu vỏ sò (clam shell axes) ở Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 3 nói trước đó người ta đã từng tìm thấy rìu làm bằng vỏ sò ở đâu chưa?",
+            "guide": "Paragraph 3 viết: 'Axes made from clam shells from roughly the same time had also previously been found elsewhere in this region, including on the nearby island of Gebe...' (Rìu làm từ vỏ sò cùng thời kỳ trước đây CŨNG ĐÃ ĐƯỢC TÌM THẤY ở nơi khác trong khu vực này, bao gồm cả đảo Gebe gần đó).",
+            "bridge": "Người ta đã từng tìm thấy rìu vỏ sò ở đảo Gebe từ trước rồi."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Vậy những chiếc rìu tìm thấy ở Kelo có phải là rìu vỏ sò đầu tiên được phát hiện trong vùng không?",
+            "guide": "Không phải đầu tiên vì đã tìm thấy ở nơi khác trước rồi. Do đó chọn FALSE.",
+            "bridge": "Chốt câu 2: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Rìu vỏ sò tìm thấy ở di chỉ Kelo là những chiếc rìu vỏ sò đầu tiên từng được phát hiện trong khu vực.",
+          "<b>Paragraph 3:</b> <i>'Axes made from clam shells from roughly the same time had also previously been found elsewhere in this region, including on the nearby island of Gebe...'</i>",
+          "<b>Đối chiếu:</b> Bài đọc cho biết rìu vỏ sò trước đó đã được tìm thấy ở nơi khác (đảo Gebe), nên rìu ở Kelo không phải là những chiếc đầu tiên trong khu vực.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "The size of Obi today is less than it was 18,000 years ago.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 3 so sánh điều gì? Diện tích đảo Obi ngày nay nhỏ hơn ('less than') so với diện tích của nó vào 18.000 năm trước.",
+            "guide": "Em hãy quét mốc thời gian 18.000 năm trước để xem lúc đó đảo to hơn hay nhỏ hơn bây giờ.",
+            "bridge": "Cùng đọc Paragraph 4 có nhắc mốc 18,000 years."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 4 giải thích diện tích đảo Obi vào 18.000 năm trước như thế nào?",
+            "guide": "Paragraph 4 viết: vào thời điểm đó mực nước biển thấp hơn khoảng 120 mét, 'meaning Obi was a much larger island, encompassing what is today the separate island of Bisa...' (nghĩa là đảo Obi từng là một hòn đảo LỚN HƠN RẤT NHIỀU, bao trùm cả hòn đảo Bisa tách biệt ngày nay).",
+            "bridge": "Quá khứ đảo lớn hơn nhiều, đồng nghĩa với ngày nay đảo nhỏ hơn."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Nhận định 'kích thước ngày nay nhỏ hơn 18.000 năm trước' hoàn toàn trùng khớp với bài đọc đúng không?",
+            "guide": "Ý nghĩa hoàn toàn khớp nên ta chọn TRUE.",
+            "bridge": "Chốt câu 3: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Kích thước đảo Obi ngày nay nhỏ hơn so với 18.000 năm trước.",
+          "<b>Paragraph 4:</b> <i>'Sea levels were about 120 metres lower, meaning Obi was a much larger island...'</i> (Mực nước biển thấp hơn 120m, nghĩa là Obi từng là hòn đảo lớn hơn rất nhiều).",
+          "<b>Đối chiếu:</b> 18.000 năm trước Obi lớn hơn nhiều -> kích thước ngày nay nhỏ hơn. Thông tin hoàn toàn khớp nhau.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "A change in the climate around 11,700 years ago had a greater impact on Obi than on the surrounding islands.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích phép so sánh",
+            "question": "Câu 4 đưa ra so sánh gì? Sự thay đổi khí hậu khoảng 11.700 năm trước đã gây tác động lên đảo Obi LỚN HƠN ('greater impact... than') so với các hòn đảo lân cận.",
+            "guide": "Em cần kiểm tra xem bài đọc có so sánh mức độ ảnh hưởng của khí hậu giữa đảo Obi và các đảo xung quanh hay không.",
+            "bridge": "Hãy tìm mốc 11.700 năm trước ở Paragraph 5."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 nói khí hậu thời kỳ đó làm đảo Obi thay đổi ra sao?",
+            "guide": "Paragraph 5 viết: khoảng 11.700 năm trước thời tiết trở nên ấm và ẩm hơn rõ rệt, khiến rừng nhiệt đới của Obi rậm rạp hơn.",
+            "bridge": "Bài có so sánh mức độ ảnh hưởng này với các đảo xung quanh không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài đọc chỉ nói về đảo Obi mà không hề nhắc tới việc các đảo xung quanh bị ảnh hưởng nhiều hơn hay ít hơn. Vậy đáp án là gì?",
+            "guide": "Thiếu vế so sánh nên ta chọn NOT GIVEN.",
+            "bridge": "Chốt câu 4: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Biến đổi khí hậu 11.700 năm trước ảnh hưởng tới Obi nặng nề hơn các đảo xung quanh.",
+          "<b>Paragraph 5:</b> Miêu tả khí hậu trở nên ấm và ẩm hơn làm rừng ở Obi rậm rạp hơn.",
+          "<b>Đối chiếu:</b> Hoàn toàn không có thông tin so sánh tác động của khí hậu giữa Obi và các đảo lân cận (<i>surrounding islands</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "The researchers believe there is a connection between warmer, wetter weather and a change in the material used to make axes.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 5 nói: Các nhà nghiên cứu tin rằng có mối liên hệ ('a connection') giữa thời tiết ấm, ẩm ướt hơn với sự thay đổi chất liệu làm rìu ('material used to make axes').",
+            "guide": "Em hãy tìm xem việc chuyển từ rìu vỏ sò sang rìu đá có liên quan đến việc thời tiết ấm ẩm làm rừng rậm rạp hơn không.",
+            "bridge": "Đọc tiếp Paragraph 5 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 giải thích lý do xuất hiện rìu đá thay cho rìu vỏ sò như thế nào?",
+            "guide": "Paragraph 5 viết: khi khí hậu ấm và ẩm hơn làm rừng dày hơn, 'it is no coincidence that around this time the first axes crafted from stone rather than sea shells appear, likely in response to their heavy-duty use for clearing... dense rainforest.' (không phải ngẫu nhiên mà những chiếc rìu làm bằng đá thay vì vỏ sò xuất hiện, để phục vụ việc phát quang khu rừng ngày càng rậm rạp).",
+            "bridge": "'không phải ngẫu nhiên' (no coincidence) chính là có mối liên hệ nhân quả."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Mối liên hệ giữa khí hậu ấm ẩm và sự thay đổi chất liệu làm rìu là hoàn toàn có thật. Vậy đáp án là gì?",
+            "guide": "Thông tin trùng khớp hoàn toàn nên ta chọn TRUE.",
+            "bridge": "Chốt câu 5: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Có mối liên hệ giữa thời tiết ấm, ẩm hơn và sự đổi chất liệu làm rìu.",
+          "<b>Paragraph 5:</b> <i>'...the climate became significantly warmer and wetter... it is no coincidence that around this time the first axes crafted from stone rather than sea shells appear, likely in response to their heavy-duty use for clearing...'</i>",
+          "<b>Đối chiếu:</b> Tác giả khẳng định 'không phải ngẫu nhiên' (<i>no coincidence</i>) khi thời tiết thay đổi kéo theo việc chuyển sang dùng rìu đá để chặt cây trong rừng rậm. Ý nghĩa hoàn toàn khớp.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Shipton's team were surprised to find evidence of the Obi islanders' hunting practices.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Tìm từ khóa nhận định",
+            "question": "Câu 6 nói gì? Đội của Shipton đã cảm thấy ngạc nhiên ('were surprised') khi tìm thấy bằng chứng về tập quán săn bắn của cư dân trên đảo.",
+            "guide": "Em cần tìm đoạn nói về việc người dân săn bắt thú và xem các nhà khoa học có biểu lộ cảm xúc ngạc nhiên không.",
+            "bridge": "Hãy đọc Paragraph 6 chỗ nhắc đến việc săn bắt thú."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 nói gì về việc săn bắt loài thú cuscus?",
+            "guide": "Paragraph 6 viết: dựa vào xương đào được, các nhà nghiên cứu biết người dân chủ yếu săn loài cuscus, và có thể dùng rìu phát quang rừng để săn bắn dễ hơn.",
+            "bridge": "Bài có câu chữ nào nói nhóm của Shipton thấy 'bất ngờ' hay 'ngạc nhiên' không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài chỉ nêu sự thật về việc săn bắt mà không hề nói nhóm nghiên cứu có ngạc nhiên hay không. Vậy đáp án là gì?",
+            "guide": "Thiếu thông tin về cảm xúc nên ta chọn NOT GIVEN.",
+            "bridge": "Chốt câu 6: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Nhóm của Shipton ngạc nhiên khi thấy bằng chứng về tập quán săn bắn của người dân đảo Obi.",
+          "<b>Paragraph 6:</b> Nhắc đến việc tìm thấy xương động vật và nhận định cư dân chủ yếu săn bắt loài cuscus.",
+          "<b>Đối chiếu:</b> Bài đọc hoàn toàn không nhắc tới cảm xúc ngạc nhiên (<i>surprised</i>) của các nhà nghiên cứu.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "It is thought that the Kelo shelters were occupied continuously until about 1,000 years ago.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 7 nói gì? Người ta cho rằng các hang trú ẩn Kelo đã có người sinh sống LIÊN TỤC ('occupied continuously') cho đến khoảng 1.000 năm trước.",
+            "guide": "Chú ý từ 'continuously' (liên tục). Em hãy kiểm tra xem họ có ở liên tục không hay từng có giai đoạn bỏ hoang.",
+            "bridge": "Hãy đọc Paragraph 8 và 9 nói về sự gián đoạn sinh sống."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 và 9 nói gì về việc người dân rời bỏ hang Kelo?",
+            "guide": "Paragraph 8 viết: khoảng 8.000 năm trước cả hai hang đều bị bỏ hoang ('abandoned'). Paragraph 9 viết tiếp: không có bằng chứng nào cho thấy hang được sử dụng từ thời điểm đó cho đến tận 1.000 năm trước mới có người đến ở lại.",
+            "bridge": "Hang đã bị bỏ hoang suốt 7.000 năm, chứ không hề có người ở liên tục."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Nhận định bảo 'ở liên tục', nhưng bài đọc bảo 'bỏ hoang suốt nhiều nghìn năm'. Hai thông tin này đối nghịch nhau, vậy đáp án là gì?",
+            "guide": "Thông tin trái ngược hoàn toàn nên ta chọn FALSE.",
+            "bridge": "Hoàn thành Questions 1-7! Chốt câu 7: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các mái đá trú ẩn Kelo có người ở liên tục cho tới khoảng 1.000 năm trước.",
+          "<b>Paragraph 8 & 9:</b> Khoảng 8.000 năm trước nơi này đã bị bỏ hoang (<i>abandoned</i>), và không có bằng chứng nào về con người trong suốt thời gian đó cho tới tận 1.000 năm trước mới có người đến ở lại (<i>re-occupied</i>).",
+          "<b>Đối chiếu:</b> Việc bị bỏ hoang hàng ngàn năm phủ định hoàn toàn chữ sống liên tục (<i>continuously</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "caves",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Hoạt động khai quật các mái đá trú ẩn nằm bên trong cái gì ('inside 8 ______') gần làng Kelo? Cần từ loại gì ở đây?",
+            "guide": "Sau giới từ 'inside' cần một danh từ chỉ nơi chốn/địa điểm chứa các mái đá trú ẩn.",
+            "bridge": "Hãy tìm câu đầu tiên của Paragraph 3."
+          },
+          {
+            "title": "Tìm từ trong bài đọc",
+            "question": "Paragraph 3 viết nhóm nghiên cứu tìm thấy hai cái gì gần làng Kelo: 'found two ______ containing prehistoric rock shelters'?",
+            "guide": "Paragraph 3 viết: 'found two caves containing prehistoric rock shelters'.",
+            "bridge": "Hai mái đá trú ẩn nằm bên trong hai hang động."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ nơi chốn trong bài là gì?",
+            "guide": "Đáp án là 'caves' (những hang động).",
+            "bridge": "Chốt câu 8: caves."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ nơi chốn sau <i>inside</i>.",
+          "<b>Paragraph 3 (dòng 1-2):</b> <i>'...found two caves containing prehistoric rock shelters that were suitable for excavation.'</i>",
+          "<b>Từ cần điền:</b> <b>caves</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "stone",
+      "inputWidth": "100px",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Những chiếc rìu làm bằng chất liệu gì ('axes made out of 9 ______'), có niên đại khoảng 11.700 năm trước?",
+            "guide": "Sau cụm 'made out of' cần một danh từ chỉ chất liệu làm ra rìu.",
+            "bridge": "Hãy tìm mốc thời gian 11.700 năm trước ở Paragraph 5."
+          },
+          {
+            "title": "Tìm từ trong bài đọc",
+            "question": "Paragraph 5 nói vào khoảng 11.700 năm trước, những chiếc rìu đầu tiên được chế tác từ chất liệu gì: 'first axes crafted from ______ rather than sea shells'?",
+            "guide": "Paragraph 5 viết: 'the first axes crafted from stone rather than sea shells appear'.",
+            "bridge": "'crafted from' chính là 'made out of' (làm từ). Chất liệu là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ chất liệu trong bài là gì?",
+            "guide": "Đáp án là 'stone' (đá).",
+            "bridge": "Chốt câu 9: stone."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ chất liệu sau cụm <i>made out of</i>.",
+          "<b>Paragraph 5 (dòng 3):</b> <i>'...the first axes crafted from stone rather than sea shells appear...'</i>",
+          "<b>Khớp từ:</b> <i>axes made out of</i> = <i>axes crafted from</i>.",
+          "<b>Từ cần điền:</b> <b>stone</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "bones",
+      "inputWidth": "100px",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Cái gì của động vật ('10 ______ of an animal') là bằng chứng cho thấy cư dân cổ đại trên đảo đã ăn món gì?",
+            "guide": "Đứng đầu câu trước 'of an animal' cần một danh từ chỉ phần còn sót lại của động vật bị ăn thịt.",
+            "bridge": "Hãy đọc câu đầu tiên của Paragraph 6."
+          },
+          {
+            "title": "Tìm từ trong bài đọc",
+            "question": "Paragraph 6 nói các nhà nghiên cứu dựa vào thứ gì được khai quật để biết người dân săn bắt thú: 'Judging by the ______ which the researchers unearthed'?",
+            "guide": "Paragraph 6 viết: 'Judging by the bones which the researchers unearthed in the Kelo caves, people living there mainly hunted the Rothschild's cuscus...'.",
+            "bridge": "Chính những mẩu xương động vật đào được là bằng chứng cho thức ăn của họ."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ bộ phận đó là gì?",
+            "guide": "Đáp án là 'bones' (những khúc xương).",
+            "bridge": "Chốt câu 10: bones."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số nhiều đứng trước <i>of an animal</i>.",
+          "<b>Paragraph 6 (dòng 1):</b> <i>'Judging by the bones which the researchers unearthed in the Kelo caves, people living there mainly hunted the Rothschild's cuscus...'</i>",
+          "<b>Từ cần điền:</b> <b>bones</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "finalAnswer": "beads",
+      "inputWidth": "100px",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt ở phần bằng chứng về việc di chuyển giữa các đảo: Ngoài đá núi lửa obsidian, còn có món đồ gì ('11 ______ which resembled ones found on other islands') giống với những món tìm thấy trên các đảo khác?",
+            "guide": "Chỗ trống cần một danh từ số nhiều chỉ đồ tạo tác hoặc đồ trang sức được tìm thấy.",
+            "bridge": "Cùng đọc Paragraph 7 nói về các hiện vật khai quật được nhé."
+          },
+          {
+            "title": "Tìm từ trong bài đọc",
+            "question": "Paragraph 7 kể ngoài obsidian, họ còn phát hiện ra vật gì giống với đồ ở các đảo khác: 'revealed particular types of ______, similar to those previously found on islands'?",
+            "guide": "Paragraph 7 viết: 'It also revealed particular types of beads, similar to those previously found on islands in southern Wallacea.'",
+            "bridge": "'similar to' chính là 'resembled' (giống với). Đồ vật đó là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ số nhiều chỉ món đồ đó là gì?",
+            "guide": "Đáp án là 'beads' (những chuỗi hạt trang sức).",
+            "bridge": "Chốt câu 11: beads."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số nhiều làm chủ ngữ cho mệnh đề quan hệ <i>which resembled</i>.",
+          "<b>Paragraph 7 (dòng 3):</b> <i>'It also revealed particular types of beads, similar to those previously found on islands in southern Wallacea.'</i>",
+          "<b>Khớp từ:</b> <i>resembled</i> = <i>similar to</i>.",
+          "<b>Từ cần điền:</b> <b>beads</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "finalAnswer": "pottery",
+      "inputWidth": "110px",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Người dân đảo Obi sở hữu thứ đồ dùng gì ('had 12 ______') cũng như các đồ vật làm bằng kim loại?",
+            "guide": "Sau động từ 'had' cần một danh từ chỉ đồ dùng, vật dụng sinh hoạt của người dân.",
+            "bridge": "Hãy tìm mốc thời gian khoảng 1.000 năm trước ở Paragraph 9."
+          },
+          {
+            "title": "Tìm từ trong bài đọc",
+            "question": "Paragraph 9 miêu tả những người đến ở lại hang 1.000 năm trước sở hữu đồ gì: 're-occupied by people who owned ______ as well as items made out of gold and silver'?",
+            "guide": "Paragraph 9 viết: 'people who owned pottery as well as items made out of gold and silver'.",
+            "bridge": "'owned' bằng nghĩa với 'had'; 'gold and silver' chính là kim loại ('metal'). Vậy đồ dùng đi cùng là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ đồ gia dụng bằng đất nung đó là gì?",
+            "guide": "Đáp án là 'pottery' (đồ gốm).",
+            "bridge": "Chốt câu 12: pottery."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau động từ <i>had</i>.",
+          "<b>Paragraph 9 (dòng 3):</b> <i>'...re-occupied by people who owned pottery as well as items made out of gold and silver.'</i>",
+          "<b>Khớp từ:</b> <i>had</i> = <i>owned</i>; <i>items made out of metal</i> = <i>items made out of gold and silver</i>.",
+          "<b>Từ cần điền:</b> <b>pottery</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "finalAnswer": "spices",
+      "inputWidth": "100px",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Cư dân có thể đã tham gia vào việc sản xuất và buôn bán mặt hàng gì ('production and sale of 13 ______')?",
+            "guide": "Sau giới từ 'of' cần một danh từ chỉ mặt hàng buôn bán nổi tiếng của quần đảo Maluku.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph 9."
+          },
+          {
+            "title": "Tìm từ trong bài đọc",
+            "question": "Paragraph 9 nói họ tham gia vào hoạt động giao thương mặt hàng gì: 'involved in the historic trade in ______'?",
+            "guide": "Paragraph 9 viết: 'people involved in the historic trade in spices between the Maluku islands and the rest of the world.'",
+            "bridge": "'trade' chính là hoạt động mua bán ('production and sale'). Mặt hàng được nhắc đến là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Mặt hàng gia vị đó là gì?",
+            "guide": "Đáp án là 'spices' (các loại gia vị).",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: spices."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ hàng hóa thương mại sau <i>production and sale of</i>.",
+          "<b>Paragraph 9 (câu cuối):</b> <i>'...people involved in the historic trade in spices between the Maluku islands and the rest of the world.'</i>",
+          "<b>Khớp từ:</b> <i>production and sale</i> = <i>trade</i>.",
+          "<b>Từ cần điền:</b> <b>spices</b>."
+        ]
+      }
+    }
+  }
+}
