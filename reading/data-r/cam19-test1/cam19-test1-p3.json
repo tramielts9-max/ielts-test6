@@ -1,0 +1,570 @@
+{
+  "title": "IELTS Academic 19 - Test 1 - Passage 3: The persistence and peril of misinformation",
+  "answers": {
+    "q27": "D",
+    "q28": "A",
+    "q29": "C",
+    "q30": "D",
+    "q31": "G",
+    "q32": "J",
+    "q33": "H",
+    "q34": "B",
+    "q35": "E",
+    "q36": "C",
+    "q37": "YES",
+    "q38": "NOT GIVEN",
+    "q39": "NO",
+    "q40": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 3</h2><h3>The persistence and peril of misinformation</h3><p><em>Brian Southwell looks at how human brains verify information and discusses some of the challenges of battling widespread falsehoods</em></p><p><strong>[Paragraph 1]</strong> Misinformation – both deliberately promoted and accidentally shared – is perhaps an inevitable part of the world in which we live, but it is not a new problem. People likely have lied to one another for roughly as long as verbal communication has existed. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">Deceiving others can offer an apparent opportunity to gain strategic advantage, to motivate others to action, or even to protect interpersonal bonds. Moreover, people inadvertently have been sharing inaccurate information with one another for thousands of years</span>.</p><p><strong>[Paragraph 2]</strong> However, we currently live in an era in which technology enables information to reach large audiences distributed across the globe, and thus the potential for immediate and widespread effects from misinformation now looms larger than in the past. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Yet the means to correct misinformation might, over time, be found in those same patterns of mass communication and of the facilitated spread of information</span>.</p><p><strong>[Paragraph 3]</strong> The main worry regarding misinformation is its potential to unduly influence attitudes and behavior, leading people to think and act differently than they would if they were correctly informed, as suggested by the research teams of Stephan Lewandowsky of the University of Bristol and Elizabeth Marsh of Duke University, among others. In other words, we worry that misinformation might lead people to hold misperceptions (or false beliefs) and that these misperceptions, especially when they occur among large groups of people, may have detrimental, downstream consequences for health, social harmony, and the political climate.</p><p><strong>[Paragraph 4]</strong> <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">At least three observations related to misinformation in the contemporary mass-media environment warrant the attention of researchers, policy makers, and really everyone who watches television, listens to the radio, or reads information online. First of all, people who encounter misinformation tend to believe it, at least initially. Secondly, electronic and print media often do not block many types of misinformation before it appears in content available to large audiences. Thirdly, countering misinformation once it has enjoyed wide exposure can be a resource-intensive effort</span>.</p><p><strong>[Paragraph 5]</strong> Knowing what happens when people initially encounter misinformation holds tremendous importance for estimating the potential for subsequent problems. <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">Although it is fairly routine for individuals to come across information that is false</span>, the question of exactly how – and when – we mentally label information as true or false has garnered philosophical debate. The dilemma is neatly summarized by a contrast between how the 17th-century philosophers <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">René Descartes and Baruch Spinoza described human information engagement, with conflicting predictions</span> that only recently have been empirically tested in robust ways. Descartes argued that a person only accepts or rejects information after considering its truth or falsehood; Spinoza argued that people accept all encountered information (or misinformation) by default and then subsequently verify or reject it through a <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">separate cognitive process</span>. In recent decades, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">empirical evidence from the research teams of Erik Asp of the University of Chicago and Daniel Gilbert at Harvard University, among others, has supported Spinoza's account</span>: people appear to encode all new information as if it were true, <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">even if only momentarily</span>, and later tag the information as being either true or false, a pattern that seems consistent with the observation that mental resources for skepticism physically <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">reside in a different part of the brain</span> than the resources used in perceiving and encoding.</p><p><strong>[Paragraph 6]</strong> What about our second observation that misinformation often can appear in electronic or print media without being preemptively blocked? In support of this, one might consider the nature of regulatory structures in the United States: regulatory agencies here tend to focus on post hoc detection of broadcast information. Organizations such as the Food and Drug Administration (FDA) offer considerable monitoring and notification functions, but these roles typically do not involve preemptive censoring. The FDA oversees direct-to-consumer prescription drug advertising, for example, and has developed mechanisms such as the 'Bad Ad' program, through which people can report advertising in apparent violation of FDA guidelines on drug risks. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Such programs, although laudable and useful, do not keep false advertising off the airwaves</span>. In addition, even misinformation that is successfully corrected can continue to affect attitudes.</p><p><strong>[Paragraph 7]</strong> This leads us to our third observation: a campaign to correct misinformation, even if rhetorically compelling, requires resources and planning to accomplish necessary reach and frequency. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">For corrective campaigns to be persuasive, audiences need to be able to comprehend them</span>, which requires either effort to frame messages in ways that are accessible or effort to educate and sensitize audiences to the possibility of misinformation. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">That some audiences might be unaware of the potential for misinformation also suggests the utility of media literacy efforts as early as elementary school</span>. Even with journalists and scholars pointing to the phenomenon of 'fake news', people do not distinguish between demonstrably false stories and those based in fact when scanning and processing written information.</p><p><strong>[Paragraph 8]</strong> We live at a time when widespread misinformation is common. Yet at this time many people also are passionately developing potential solutions and remedies. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">The journey forward undoubtedly will be a long and arduous one</span>. Future remedies will require not only continued theoretical consideration but also the development and maintenance of consistent monitoring tools – and a recognition among fellow members of society that claims which find prominence in the media that are insufficiently based in scientific consensus and social reality should be countered. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Misinformation arises as a result of human fallibility and human information needs</span>. To overcome the worst effects of the phenomenon, we will need coordinated efforts over time, rather than any singular one-time panacea we could hope to offer.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "title": "Questions 27-30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 27-30 on your answer sheet.</i>",
+      "questionIds": ["q27", "q28", "q29", "q30"]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "title": "Questions 31-36",
+      "instructions": "<i>Complete the summary using the list of phrases, <b>A-J</b>, below.<br>Write the correct letter, <b>A-J</b>, in boxes 31-36 on your answer sheet.</i><br><br><b>A.</b> constant conflict<br><b>B.</b> additional evidence<br><b>C.</b> different locations<br><b>D.</b> experimental subjects<br><b>E.</b> short period<br><b>F.</b> extreme distrust<br><b>G.</b> frequent exposure<br><b>H.</b> mental operation<br><b>I.</b> dubious reason<br><b>J.</b> different ideas",
+      "summaryTitle": "What happens when people encounter misinformation?",
+      "questionIds": ["q31", "q32", "q33", "q34", "q35", "q36"],
+      "template": "<p>Although people have <b>31.</b> {{q31}} to misinformation, there is debate about precisely how and when we label something as true or untrue. The philosophers Descartes and Spinoza had <b>32.</b> {{q32}} about how people engage with information. While Descartes believed that people accept or reject information after considering whether it is true or not, Spinoza argued that people accepted all information they encountered (and by default misinformation) and did not verify or reject it until afterwards. Moreover, Spinoza believed that a distinct <b>33.</b> {{q33}} is involved in these stages. Recent research has provided <b>34.</b> {{q34}} for Spinoza's theory and it would appear that people accept all encountered information as if it were true, even if this is for an extremely <b>35.</b> {{q35}}, and do not label the information as true or false until later. This is consistent with the fact that the resources for scepticism and the resources for perceiving and encoding are in <b>36.</b> {{q36}} in the brain.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "title": "Questions 37-40",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 3?<br>In boxes 37-40 on your answer sheet, write:<br><b>YES</b> if the statement agrees with the claims of the writer<br><b>NO</b> if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": ["q37", "q38", "q39", "q40"]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What point does the writer make about misinformation in the first paragraph?",
+      "options": [
+        "A. Misinformation is a relatively recent phenomenon.",
+        "B. Some people find it easy to identify misinformation.",
+        "C. Misinformation changes as it is passed from one person to another.",
+        "D. There may be a number of reasons for the spread of misinformation."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q27",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 27 hỏi về điểm mấu chốt mà tác giả đưa ra về tin sai lệch ('misinformation') trong Paragraph 1 là gì?",
+            "guide": "Em hãy đọc kỹ Paragraph 1, chú ý phần tác giả giải thích vì sao con người lại nói dối hoặc chia sẻ thông tin sai lệch.",
+            "bridge": "Cùng xem những lý do nào được tác giả liệt kê ở Paragraph 1 nhé."
+          },
+          {
+            "title": "Tìm dẫn chứng trong Paragraph 1",
+            "question": "Tác giả chỉ ra những nguyên nhân nào khiến người ta lừa dối hoặc lan truyền tin sai?",
+            "guide": "Paragraph 1 viết: lừa dối có thể để 'gain strategic advantage' (đạt lợi thế chiến lược), 'motivate others' (thúc đẩy người khác hành động), hoặc 'protect interpersonal bonds' (bảo vệ mối quan hệ). Ngoài ra còn do vô tình ('inadvertently sharing').",
+            "bridge": "Có nhiều lý do khác nhau (cả cố ý lẫn vô tình) dẫn đến việc lan truyền tin sai lệch."
+          },
+          {
+            "title": "Chọn đáp án",
+            "question": "Lựa chọn nào khớp với ý 'Có nhiều lý do khác nhau dẫn đến sự lan truyền tin sai lệch'?",
+            "guide": "Đó chính là D: 'There may be a number of reasons for the spread of misinformation'.",
+            "bridge": "Chốt câu 27: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Quan điểm của tác giả về tin sai lệch trong Paragraph 1.",
+          "<b>Paragraph 1:</b> Tác giả liệt kê nhiều động cơ như: đạt lợi thế chiến lược, thúc đẩy người khác, bảo vệ mối quan hệ, hoặc vô tình chia sẻ tin chưa đúng.",
+          "<b>Khớp ý:</b> Việc đưa ra nhiều mục đích khác nhau đồng nghĩa với việc có nhiều nguyên nhân (<i>a number of reasons</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "What does the writer say about the role of technology?",
+      "options": [
+        "A. It may at some point provide us with a solution to misinformation.",
+        "B. It could fundamentally alter the way in which people regard information.",
+        "C. It has changed the way in which organisations use misinformation.",
+        "D. It has made it easier for people to check whether information is accurate."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q28",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 28 hỏi tác giả nói gì về vai trò của công nghệ ('role of technology')?",
+            "guide": "Em hãy quét từ khóa 'technology' ở Paragraph 2 để xem công nghệ đóng vai trò gì trong việc xử lý tin sai lệch.",
+            "bridge": "Cùng xem câu cuối của Paragraph 2 tác giả nói gì về giải pháp nhé."
+          },
+          {
+            "title": "Tìm dẫn chứng trong Paragraph 2",
+            "question": "Câu cuối Paragraph 2 nói công cụ để khắc phục tin sai lệch có thể được tìm thấy ở đâu?",
+            "guide": "Paragraph 2 viết: 'Yet the means to correct misinformation might, over time, be found in those same patterns of mass communication...' (Tuy vậy, phương tiện để sửa chữa tin sai lệch có thể, theo thời gian, sẽ được tìm thấy từ chính những hình thức truyền thông đại chúng đó).",
+            "bridge": "'the means to correct' chính là giải pháp ('a solution') mà công nghệ truyền thông mang lại."
+          },
+          {
+            "title": "Chọn đáp án",
+            "question": "Lựa chọn nào nói 'Công nghệ đến một lúc nào đó có thể đem lại giải pháp cho chúng ta'?",
+            "guide": "Đó chính là A: 'It may at some point provide us with a solution to misinformation'.",
+            "bridge": "Chốt câu 28: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nói gì về vai trò của công nghệ đối với tin sai lệch?",
+          "<b>Paragraph 2 (câu cuối):</b> <i>'Yet the means to correct misinformation might, over time, be found in those same patterns of mass communication...'</i>",
+          "<b>Khớp từ:</b> <i>the means to correct</i> = <i>solution</i>; <i>over time</i> = <i>at some point</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "What is the writer doing in the fourth paragraph?",
+      "options": [
+        "A. comparing the different opinions people have of misinformation",
+        "B. explaining how the effects of misinformation have changed over time",
+        "C. outlining which issues connected with misinformation are significant today",
+        "D. describing the attitude of policy makers towards misinformation in the media"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q29",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 29 hỏi: Tác giả đang làm điều gì trong Paragraph 4 ('fourth paragraph')?",
+            "guide": "Em hãy nhìn vào cách tác giả mở đầu và trình bày các ý trong Paragraph 4.",
+            "bridge": "Paragraph 4 bắt đầu bằng cụm từ chỉ 3 điểm quan sát đáng chú ý."
+          },
+          {
+            "title": "Phân tích cấu trúc Paragraph 4",
+            "question": "Tác giả liệt kê những gì qua các từ 'First of all', 'Secondly', 'Thirdly'?",
+            "guide": "Paragraph 4 viết: có 3 điểm quan sát cần được các nhà nghiên cứu, nhà hoạch định chính sách và mọi người chú ý ('warrant the attention'). Sau đó tác giả liệt kê lần lượt 3 vấn đề lớn này.",
+            "bridge": "Liệt kê các điểm cần chú ý chính là nêu ra các vấn đề quan trọng hiện nay."
+          },
+          {
+            "title": "Chọn đáp án",
+            "question": "Phương án nào mang ý 'Khái quát những vấn đề nổi bật liên quan đến tin sai lệch hiện nay'?",
+            "guide": "Đó là C: 'outlining which issues connected with misinformation are significant today'.",
+            "bridge": "Chốt câu 29: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả đang làm gì trong Paragraph 4?",
+          "<b>Paragraph 4:</b> Tác giả mở đầu bằng <i>'At least three observations... warrant the attention of researchers, policy makers, and really everyone...'</i> và liệt kê 3 điều (<i>First of all... Secondly... Thirdly...</i>).",
+          "<b>Khớp ý:</b> Đưa ra 3 điểm quan sát đáng chú ý = phác thảo những vấn đề quan trọng (<i>outlining which issues... are significant today</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What point does the writer make about regulation in the USA?",
+      "options": [
+        "A. The guidelines issued by the FDA need to be simplified.",
+        "B. Regulation does not affect people's opinions of new prescription drugs.",
+        "C. The USA has more regulatory bodies than most other countries.",
+        "D. Regulation fails to prevent misinformation from appearing in the media."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q30",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 30 hỏi: Tác giả đưa ra nhận định gì về các quy định pháp lý tại Mỹ ('regulation in the USA')?",
+            "guide": "Hãy tìm từ khóa 'United States' và các cơ quan quản lý như 'FDA' ở Paragraph 6.",
+            "bridge": "Cùng xem các quy định này có ngăn chặn được tin sai lệch xuất hiện không."
+          },
+          {
+            "title": "Tìm dẫn chứng trong Paragraph 6",
+            "question": "Paragraph 6 nói các cơ quan như FDA kiểm soát thông tin như thế nào? Họ có chặn trước được quảng cáo sai sự thật không?",
+            "guide": "Paragraph 6 viết: các cơ quan ở Mỹ chỉ phát hiện sau khi đã phát sóng ('post hoc detection'), không kiểm duyệt trước ('do not involve preemptive censoring') và các chương trình 'do not keep false advertising off the airwaves' (không ngăn được quảng cáo sai xuất hiện trên sóng truyền thông).",
+            "bridge": "Nghĩa là quy định hiện tại không thể ngăn chặn tin giả xuất hiện trên truyền thông."
+          },
+          {
+            "title": "Chọn đáp án",
+            "question": "Phương án nào khớp với nhận định 'Quy định pháp lý không ngăn được tin sai lệch xuất hiện trên truyền thông'?",
+            "guide": "Đó chính là D: 'Regulation fails to prevent misinformation from appearing in the media'.",
+            "bridge": "Chốt câu 30: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nói gì về việc quản lý/quy định tại Mỹ?",
+          "<b>Paragraph 6:</b> Nhấn mạnh các cơ quan chỉ xử lý sau khi thông tin đã phát (<i>post hoc</i>), không kiểm duyệt chặn trước (<i>not preemptive</i>) và các chương trình <i>'do not keep false advertising off the airwaves'</i>.",
+          "<b>Khớp ý:</b> Không ngăn được quảng cáo sai lên sóng = thất bại trong việc ngăn tin sai xuất hiện trên truyền thông (<i>fails to prevent misinformation from appearing in the media</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "G",
+      "highlightId": "hl-q31",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Câu 31 nói: Dù con người có sự tiếp xúc như thế nào ('have ______ to misinformation') với tin sai lệch, vẫn có tranh luận về việc não bộ gắn nhãn đúng hay sai ra sao?",
+            "guide": "Chỗ trống cần một cụm từ chỉ việc con người thường xuyên bắt gặp, tiếp xúc nhiều với thông tin sai lệch.",
+            "bridge": "Hãy tìm câu thứ hai của Paragraph 5."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 nói việc con người bắt gặp thông tin sai lệch là việc diễn ra như thế nào?",
+            "guide": "Paragraph 5 viết: 'Although it is fairly routine for individuals to come across information that is false...' (Mặc dù việc mọi người bắt gặp thông tin sai lệch là điều diễn ra khá thường xuyên/như cơm bữa...).",
+            "bridge": "'fairly routine to come across' đồng nghĩa với việc tiếp xúc thường xuyên."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'sự tiếp xúc thường xuyên'?",
+            "guide": "Đó là G: 'frequent exposure'.",
+            "bridge": "Chốt câu 31: G."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Dù con người thường xuyên tiếp xúc với tin sai lệch...",
+          "<b>Paragraph 5 (dòng 2):</b> <i>'Although it is fairly routine for individuals to come across information that is false...'</i>",
+          "<b>Khớp từ:</b> <i>fairly routine to come across</i> = <i>frequent exposure</i> (tiếp xúc thường xuyên).",
+          "<b>Kết luận:</b> Chọn <b>G</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "J",
+      "highlightId": "hl-q32",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Hai nhà triết học Descartes và Spinoza có điều gì ('had ______ about how people engage with information') về cách con người tiếp nhận thông tin?",
+            "guide": "Cần một cụm từ mang nghĩa 'những quan điểm, ý kiến trái ngược hoặc khác nhau'.",
+            "bridge": "Hãy tìm chỗ nhắc đến tên hai ông ở Paragraph 5."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 miêu tả quan điểm của Descartes và Spinoza như thế nào?",
+            "guide": "Paragraph 5 viết: có sự tương phản ('contrast') giữa hai ông cùng với những dự đoán mâu thuẫn nhau ('conflicting predictions') về cách con người tiếp nhận thông tin.",
+            "bridge": "Hai người có hai luồng quan điểm, ý tưởng hoàn toàn khác nhau."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'những ý kiến/quan điểm khác nhau'?",
+            "guide": "Đó là J: 'different ideas'.",
+            "bridge": "Chốt câu 32: J."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Hai triết gia có những quan điểm khác nhau về việc tiếp nhận thông tin.",
+          "<b>Paragraph 5:</b> Nhắc đến sự tương phản (<i>contrast</i>) và dự đoán trái ngược nhau (<i>conflicting predictions</i>) giữa Descartes và Spinoza.",
+          "<b>Khớp từ:</b> <i>contrast / conflicting predictions</i> = <i>different ideas</i> (những ý kiến khác nhau).",
+          "<b>Kết luận:</b> Chọn <b>J</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "H",
+      "highlightId": "hl-q33",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Spinoza tin rằng có một tiến trình trí óc riêng biệt ('a distinct ______ is involved') diễn ra giữa các giai đoạn tiếp nhận và đánh giá?",
+            "guide": "Chỗ trống cần một cụm từ chỉ hoạt động nhận thức hoặc xử lý của trí não.",
+            "bridge": "Đọc câu nói về quan điểm của Spinoza ở giữa Paragraph 5."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Spinoza giải thích quá trình kiểm chứng thông tin diễn ra như thế nào?",
+            "guide": "Paragraph 5 viết: con người chấp nhận thông tin trước, rồi sau đó mới xác minh hoặc bác bỏ nó qua một 'separate cognitive process' (tiến trình nhận thức riêng biệt).",
+            "bridge": "'cognitive process' (tiến trình nhận thức) đồng nghĩa với thao tác trí óc.",
+            "answer": "mental operation"
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'thao tác trí não / hoạt động nhận thức'?",
+            "guide": "Đó là H: 'mental operation'.",
+            "bridge": "Chốt câu 33: H."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Spinoza tin rằng có một hoạt động trí óc riêng biệt tham gia vào quá trình này.",
+          "<b>Paragraph 5:</b> <i>'...subsequently verify or reject it through a separate cognitive process.'</i>",
+          "<b>Khớp từ:</b> <i>separate cognitive process</i> = <i>distinct mental operation</i> (thao tác trí óc riêng biệt).",
+          "<b>Kết luận:</b> Chọn <b>H</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "B",
+      "highlightId": "hl-q34",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Các nghiên cứu gần đây đã cung cấp cái gì ('provided ______ for Spinoza's theory') cho lý thuyết của Spinoza?",
+            "guide": "Cần một cụm từ chỉ bằng chứng hoặc tài liệu thực nghiệm củng cố cho quan điểm của ông.",
+            "bridge": "Hãy đọc câu tiếp theo ở Paragraph 5 nhắc đến các nhóm nghiên cứu hiện đại."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 viết gì về kết quả từ các nhóm nghiên cứu của Erik Asp và Daniel Gilbert?",
+            "guide": "Paragraph 5 viết: 'empirical evidence from the research teams... has supported Spinoza's account' (bằng chứng thực nghiệm từ các nhóm nghiên cứu đã ủng hộ quan điểm của Spinoza).",
+            "bridge": "'empirical evidence has supported' chính là cung cấp thêm bằng chứng củng cố."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'thêm bằng chứng'?",
+            "guide": "Đó là B: 'additional evidence'.",
+            "bridge": "Chốt câu 34: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Nghiên cứu gần đây đem lại thêm bằng chứng cho giả thuyết của Spinoza.",
+          "<b>Paragraph 5:</b> <i>'In recent decades, empirical evidence from the research teams... has supported Spinoza's account...'</i>",
+          "<b>Khớp từ:</b> <i>empirical evidence supported</i> = <i>provided additional evidence</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "E",
+      "highlightId": "hl-q35",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Con người tiếp nhận mọi thông tin như thể nó là thật, dù điều này chỉ diễn ra trong một khoảng thời gian cực kỳ thế nào ('an extremely ______')?",
+            "guide": "Cần một cụm từ chỉ thời gian rất ngắn, chỉ trong chớp mắt.",
+            "bridge": "Hãy tìm từ miêu tả thời gian tiếp nhận ban đầu ở Paragraph 5."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 nói con người ghi nhận thông tin là đúng trong bao lâu?",
+            "guide": "Paragraph 5 viết: 'people appear to encode all new information as if it were true, even if only momentarily...' (con người dường như tiếp nhận mọi tin mới như thể nó đúng, dù chỉ là trong thoáng chốc).",
+            "bridge": "'momentarily' (trong khoảnh khắc/thoáng chốc) chính là trong một khoảng thời gian rất ngắn."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung chỉ 'khoảng thời gian ngắn'?",
+            "guide": "Đó là E: 'short period'.",
+            "bridge": "Chốt câu 35: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Người ta tạm tin thông tin là thật, dù chỉ trong một khoảng thời gian rất ngắn.",
+          "<b>Paragraph 5:</b> <i>'...people appear to encode all new information as if it were true, even if only momentarily...'</i>",
+          "<b>Khớp từ:</b> <i>momentarily</i> = <i>for an extremely short period</i> (trong một thoáng ngắn).",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "finalAnswer": "C",
+      "highlightId": "hl-q36",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Vùng não dùng để hoài nghi và vùng não dùng để nhận biết/ghi nhận thông tin nằm ở những chỗ như thế nào trong não ('in ______ in the brain')?",
+            "guide": "Cần một cụm từ chỉ hai vị trí khác nhau trên vỏ não.",
+            "bridge": "Đọc câu cuối cùng của Paragraph 5."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 giải thích vị trí của hai chức năng này trong não ra sao?",
+            "guide": "Paragraph 5 viết: tài nguyên trí não dành cho sự hoài nghi 'physically reside in a different part of the brain than the resources used in perceiving and encoding' (nằm ở một phần khác trong não so với phần nhận thức và mã hóa).",
+            "bridge": "'in a different part of the brain' chính là nằm ở những vị trí khác nhau."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'những vị trí khác nhau'?",
+            "guide": "Đó là C: 'different locations'.",
+            "bridge": "Hoàn thành bài tóm tắt! Chốt câu 36: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Vùng hoài nghi và vùng tiếp nhận thông tin nằm ở hai vị trí khác nhau trong não.",
+          "<b>Paragraph 5 (câu cuối):</b> <i>'...mental resources for skepticism physically reside in a different part of the brain than the resources used in perceiving and encoding.'</i>",
+          "<b>Khớp từ:</b> <i>in a different part of the brain</i> = <i>in different locations in the brain</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Campaigns designed to correct misinformation will fail to achieve their purpose if people are unable to understand them.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 37 nói: Các chiến dịch đính chính tin sai lệch sẽ thất bại nếu công chúng không hiểu được chúng ('fail to achieve their purpose if people are unable to understand them').",
+            "guide": "Em cần tìm xem tác giả có nhấn mạnh rằng công chúng bắt buộc phải hiểu được thông điệp đính chính thì chiến dịch mới có tác dụng hay không.",
+            "bridge": "Hãy đọc đầu Paragraph 7 nói về các chiến dịch đính chính nhé."
+          },
+          {
+            "title": "Đối chiếu với Paragraph 7",
+            "question": "Paragraph 7 nói điều kiện để các chiến dịch đính chính có sức thuyết phục là gì?",
+            "guide": "Paragraph 7 viết: 'For corrective campaigns to be persuasive, audiences need to be able to comprehend them...' (Để các chiến dịch đính chính có sức thuyết phục, công chúng cần phải hiểu được chúng).",
+            "bridge": "'need to comprehend' nghĩa là nếu không hiểu ('unable to understand') thì chiến dịch sẽ không thuyết phục được ai, tức là không đạt mục đích."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Nhận định này hoàn toàn khớp với ý của tác giả trong bài đúng không?",
+            "guide": "Thông tin hoàn toàn trùng khớp nên ta chọn YES.",
+            "bridge": "Chốt câu 37: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Chiến dịch đính chính tin sai lệch sẽ thất bại nếu người dân không hiểu được thông điệp.",
+          "<b>Paragraph 7 (dòng 2-3):</b> <i>'For corrective campaigns to be persuasive, audiences need to be able to comprehend them...'</i> (Để chiến dịch đính chính có tính thuyết phục, người nghe phải hiểu được chúng).",
+          "<b>Đối chiếu:</b> Ý nhận định khẳng định nếu không hiểu thì chiến dịch không đạt mục đích thuyết phục, hoàn toàn trùng khớp quan điểm của tác giả.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Attempts to teach elementary school students about misinformation have been opposed.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 38 nói: Các nỗ lực dạy học sinh tiểu học ('elementary school students') về tin sai lệch đã bị phản đối ('have been opposed').",
+            "guide": "Em hãy quét từ khóa 'elementary school' ở Paragraph 7 để xem có ai phản đối việc này không.",
+            "bridge": "Cùng đọc câu có chứa 'elementary school' ở Paragraph 7."
+          },
+          {
+            "title": "Tìm dẫn chứng trong Paragraph 7",
+            "question": "Paragraph 7 nói gì về việc giáo dục cho học sinh tiểu học?",
+            "guide": "Tác giả viết: việc một số khán giả không nhận thức được tin giả cho thấy sự hữu ích của việc phổ cập kỹ năng truyền thông từ sớm ngay từ bậc tiểu học ('utility of media literacy efforts as early as elementary school').",
+            "bridge": "Tác giả chỉ khen ngợi việc này là hữu ích. Bài có nói ai 'phản đối' (opposed) không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài viết không hề đề cập đến bất kỳ sự phản đối nào đối với việc dạy học sinh tiểu học. Vậy ta chọn gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 38: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Việc dạy học sinh tiểu học về tin sai lệch đã gặp phải sự phản đối.",
+          "<b>Paragraph 7:</b> <i>'...suggests the utility of media literacy efforts as early as elementary school.'</i> (chỉ ra sự hữu ích của việc giáo dục kỹ năng tiếp nhận truyền thông ngay từ bậc tiểu học).",
+          "<b>Đối chiếu:</b> Tác giả chỉ khẳng định việc này hữu ích, hoàn toàn không có thông tin nào cho thấy có ai phản đối (<i>opposed</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "It may be possible to overcome the problem of misinformation in a relatively short period.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 39 nói gì? Có thể giải quyết vấn nạn tin sai lệch trong một khoảng thời gian tương đối ngắn ('in a relatively short period').",
+            "guide": "Em cần tìm xem tác giả nhận định cuộc chiến chống tin giả sẽ diễn ra nhanh chóng hay lâu dài.",
+            "bridge": "Hãy đọc Paragraph 8 (đoạn kết của bài)."
+          },
+          {
+            "title": "Tìm dẫn chứng trong Paragraph 8",
+            "question": "Paragraph 8 miêu tả chặng đường phía trước để khắc phục tin giả như thế nào?",
+            "guide": "Paragraph 8 viết: 'The journey forward undoubtedly will be a long and arduous one... we will need coordinated efforts over time, rather than any singular one-time panacea...' (Chặng đường phía trước chắc chắn sẽ dài và gian khổ... ta cần nỗ lực phối hợp lâu dài chứ không có liều thuốc thần tiên một lần là xong).",
+            "bridge": "'chặng đường dài và gian khổ' (long and arduous) trái ngược hoàn toàn với 'thời gian ngắn' (short period)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Hai thông tin này đối lập nhau 100%. Vậy đáp án là gì?",
+            "guide": "Thông tin bị bác bỏ nên chọn NO.",
+            "bridge": "Chốt câu 39: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Có thể giải quyết nạn tin giả trong thời gian ngắn.",
+          "<b>Paragraph 8:</b> <i>'The journey forward undoubtedly will be a long and arduous one... we will need coordinated efforts over time, rather than any singular one-time panacea...'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói thời gian ngắn (<i>relatively short period</i>) trái ngược hoàn toàn với nhận định của tác giả rằng đây là hành trình dài và gian khổ (<i>long and arduous</i>) cần nỗ lực bền bỉ theo thời gian.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "The need to keep up with new information is hugely exaggerated in today's world.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q40",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 40 nói: Nhu cầu phải luôn cập nhật thông tin mới đang bị phóng đại quá mức ('hugely exaggerated') trong thế giới ngày nay.",
+            "guide": "Em hãy quét cụm từ liên quan đến nhu cầu thông tin ('information needs') ở Paragraph 8.",
+            "bridge": "Cùng đọc câu gần cuối của Paragraph 8."
+          },
+          {
+            "title": "Tìm dẫn chứng trong Paragraph 8",
+            "question": "Paragraph 8 nói gì về nhu cầu thông tin của con người?",
+            "guide": "Tác giả viết: 'Misinformation arises as a result of human fallibility and human information needs.' (Tin sai lệch nảy sinh do sự sai sót của con người và do nhu cầu thông tin của con người).",
+            "bridge": "Tác giả chỉ công nhận con người có nhu cầu thông tin. Tác giả có nói nhu cầu này 'bị thổi phồng/phóng đại' không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài viết không có từ nào nhận xét nhu cầu này bị phóng đại. Vậy ta chọn đáp án gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Hoàn thành toàn bộ Passage 3! Chốt câu 40: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Nhu cầu cập nhật thông tin mới đang bị phóng đại quá mức.",
+          "<b>Paragraph 8:</b> <i>'Misinformation arises as a result of human fallibility and human information needs.'</i>",
+          "<b>Đối chiếu:</b> Bài đọc chỉ nhắc đến nhu cầu thông tin của con người như một thực tế khách quan dẫn đến tin sai lệch, hoàn toàn không nói nhu cầu này có bị thổi phồng/phóng đại (<i>hugely exaggerated</i>) hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}
