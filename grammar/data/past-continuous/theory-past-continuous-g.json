@@ -1,0 +1,53 @@
+{
+  "tense_id": "past-continuous",
+  "tense_name": "THÌ QUÁ KHỨ TIẾP DIỄN (PAST CONTINUOUS)",
+  "sections": [
+    {
+      "id": "pc_formulas",
+      "title": "1. Công Thức Thì Quá Khứ Tiếp Diễn",
+      "formulas": {
+        "affirmative": "(+) S + was/were + V-ing",
+        "negative": "(–) S + was/were + NOT + V-ing",
+        "interrogative": "(?) Was / Were + S + V-ing?"
+      },
+      "subject_rules": [
+        "I, He, She, It, Danh từ số ít (ÍT) ➔ WAS + V-ing",
+        "You, We, They, Danh từ số nhiều (NHIỀU) ➔ WERE + V-ing"
+      ]
+    },
+    {
+      "id": "pc_usages",
+      "title": "2. 3 Cách Sử Dụng Thì Quá Khứ Tiếp Diễn",
+      "usages": [
+        { "name": "Ở thời điểm nhất định trong quá khứ", "desc": "Hành động đang diễn ra tại một mốc thời gian cụ thể", "example": "At 9:00 pm yesterday, we were watching Avenger: Endgame." },
+        { "name": "Xảy ra đồng thời trong quá khứ", "desc": "Hai hành động diễn ra song song cùng một lúc", "example": "At this time yesterday, I was playing PUBG while my brother was doing homework." },
+        { "name": "Đang xảy ra thì bị xen vào", "desc": "Hành động đang diễn ra (QKTD) thì hành động khác cắt ngang (QKĐ - V2)", "example": "I was reading Harry Potter when he knocked on the door." }
+      ]
+    },
+    {
+      "id": "pc_clauses",
+      "title": "3. Cấu Trúc Phối Hợp Mệnh Đề Với When và While",
+      "rules": [
+        "Cấu trúc When: S + was/were + V-ing + WHEN + S + V2/ed (Hành động đang diễn ra thì hành động ngắn khác cắt ngang).",
+        "Cấu trúc While: S1 + was/were + V-ing + WHILE + S2 + was/were + V-ing (Hai hành động diễn ra song song đồng thời)."
+      ]
+    },
+    {
+      "id": "pc_markers",
+      "title": "4. Dấu Hiệu Nhận Biết",
+      "rules": [
+        "at + giờ cụ thể + thời gian quá khứ (ví dụ: at 12 o'clock last night, at 7 PM yesterday)",
+        "at this time + thời gian quá khứ (ví dụ: at this time last month, at this moment last year)"
+      ]
+    }
+  ],
+  "essay_prompt": {
+    "instruction": "Học sinh tự nhớ lại và trình bày toàn bộ lý thuyết Quá khứ tiếp diễn theo từng mục dưới đây vào phần bài làm. Bắt buộc viết rõ công thức, 3 cách dùng kèm ví dụ tự đặt dịch nghĩa, cấu trúc kết hợp When/While và dấu hiệu nhận biết.",
+    "questions": [
+      "<b>A. Công thức (Form):</b> Viết công thức 3 thể (+, -, ?) của thì Quá khứ tiếp diễn với was/were.",
+      "<b>B. 3 Cách sử dụng chính & Ví dụ:</b> Trình bày đầy đủ 3 cách dùng của thì QKTD (Thời điểm nhất định trong quá khứ, Hai hành động xảy ra đồng thời, Đang xảy ra thì bị xen vào). <i>BẮT BUỘC: Tự đặt 01 câu ví dụ bằng tiếng Anh kèm dịch nghĩa tiếng Việt cho mỗi cách dùng.</i>",
+      "<b>C. Cấu trúc phối thì với When và While:</b> Viết rõ 2 công thức kết hợp mệnh đề khi dùng 'WHEN' (hành động cắt ngang) và 'WHILE' (hai hành động song song).",
+      "<b>D. Dấu hiệu nhận biết:</b> Liệt kê các mốc thời gian đặc trưng (at + giờ + quá khứ, at this time...)."
+    ]
+  }
+}

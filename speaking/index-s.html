@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IELTS Speaking Master - Hệ Thống Sửa Bài 2 Tầng</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="../css/base.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="speaking.css">
+</head>
+<body>
+
+<div class="s-container">
+  <!-- Header -->
+  <div class="s-header-nav">
+    <div>
+      <h1 class="s-title">🎙️ HỆ THỐNG LUYỆN & CHẤM IELTS SPEAKING 2 TẦNG</h1>
+      <div class="s-subtitle">Speech-to-Text Tức Thì • Đề Thi Quý Cập Nhật • Chuẩn Hóa Lỗi & Nâng Tầm Band 8.0+</div>
+    </div>
+    <a href="../index.html" class="home-link">🏠 Về Trang Chủ</a>
+  </div>
+
+  <!-- Tabs Chọn Part -->
+  <div class="part-tabs">
+    <button type="button" class="part-tab-btn active" id="tabPart1Btn" onclick="switchPart(1)">💬 PART 1: DAILY TOPICS</button>
+    <button type="button" class="part-tab-btn" id="tabPart2Btn" onclick="switchPart(2)">🎙️ PART 2: LONG TURN (CUE CARD)</button>
+    <button type="button" class="part-tab-btn" id="tabPart3Btn" onclick="switchPart(3)">🧠 PART 3: DISCUSSION</button>
+  </div>
+
+  <!-- Chọn chế độ kho đề hoặc tự dán -->
+  <div class="mode-selection">
+    <label class="radio-label">
+      <input type="radio" name="promptMode" id="modeBank" value="bank" checked onchange="togglePromptMode()">
+      📚 Chọn từ kho đề
+    </label>
+    <label class="radio-label">
+      <input type="radio" name="promptMode" id="modeCustom" value="custom" onchange="togglePromptMode()">
+      ✍️ Tự dán đề riêng
+    </label>
+  </div>
+
+  <!-- Khu vực chọn đề 2 tầng -->
+  <div id="bankSelectors" class="dropdown-grid">
+    <div class="input-group">
+      <label for="topicSelect">📁 1. Chọn Chủ đề (Topic):</label>
+      <select id="topicSelect" onchange="handleTopicChange()"></select>
+    </div>
+    <div class="input-group">
+      <label for="promptSelect">📁 2. Chọn Đề bài thuộc dạng này:</label>
+      <select id="promptSelect" onchange="handlePromptChange()"></select>
+    </div>
+  </div>
+
+  <!-- Đề bài Card (Theo UI mẫu) -->
+  <div class="prompt-card">
+    <div class="prompt-card-header">
+      <span class="prompt-badge-title">📌 Đề bài & Hướng dẫn trả lời</span>
+      <span class="part-tag" id="currentPartTag">Part 1</span>
+    </div>
+    <div class="prompt-box">
+      <div class="prompt-heading">📋 IELTS SPEAKING PROMPT:</div>
+      <div id="promptDisplayArea" class="prompt-text">Vui lòng chọn đề bài bên trên...</div>
+      <textarea id="customPromptInput" class="custom-prompt-input" rows="4" placeholder="Dán toàn bộ câu hỏi Speaking của em vào đây..." style="display:none;" oninput="syncCustomPrompt()"></textarea>
+    </div>
+
+    <!-- Thanh mở hướng dẫn và bấm giờ tự lực -->
+    <div class="guide-actions-bar">
+      <button type="button" id="btnToggleGuide" class="btn-guide-toggle" onclick="toggleGuide()">
+        📖 MỞ HƯỚNG DẪN CHI TIẾT (GỢI Ý & TỪ VỰNG)
+      </button>
+      <div id="selfRelianceBadge" class="self-reliance-badge clean">
+        🟢 Tự lực (<span id="timerCount">0</span>s / tối đa 20s)
+      </div>
+    </div>
+
+    <!-- Hộp gợi ý ẩn -->
+    <div id="guideContentBox" class="guide-content-box" style="display:none;">
+      <div class="guide-section">
+        <strong>💡 Ý tưởng & Chiến lược phản xạ:</strong>
+        <p id="guideIdeasText">Chưa có hướng dẫn cho đề này.</p>
+      </div>
+      <div class="guide-section">
+        <strong>🚀 Từ vựng & Collocations đắt giá:</strong>
+        <ul id="guideVocabList" class="guide-vocab-list"></ul>
+      </div>
+      <div class="guide-section">
+        <strong>📝 Dàn ý tham khảo nhanh:</strong>
+        <pre id="guideOutlineText" class="guide-outline"></pre>
+      </div>
+    </div>
+  </div>
+
+  <!-- Khu vực thu âm & Speech-to-Text -->
+  <div class="record-box">
+    <button type="button" id="recBtn" class="rec-btn" onclick="toggleRecording()">
+      <span id="recIcon">🎙️</span> <span id="recText">Bắt đầu ghi âm & nói tiếng Anh (1 lần cho toàn bộ câu)</span>
+    </button>
+    <p class="rec-tip">
+      ⚡ Tích hợp <b>Web Speech API</b>: Trả lời liên tục, bài nói sẽ tự ký âm trực tiếp vào ô bên dưới.
+    </p>
+    <div id="audioContainer" class="audio-container" style="display:none;">
+      <audio id="audioPreview" controls></audio>
+    </div>
+  </div>
+
+  <!-- Bản Ký Âm -->
+  <div class="input-group">
+    <label for="speechTranscript">Bản ký âm câu trả lời của em (Transcript - có thể chỉnh sửa tự do):</label>
+    <textarea id="speechTranscript" rows="8" placeholder="Bấm nút đỏ ghi âm để nói, hoặc gõ/dán trực tiếp toàn bộ bài nói tiếng Anh của em vào đây..."></textarea>
+  </div>
+
+  <!-- Actions -->
+  <div class="btn-container">
+    <button type="button" id="btnStartGrading" class="btn-action btn-grade" onclick="startGrading()">🚀 GIÁO VIÊN BẮT ĐẦU CHẤM SPEAKING</button>
+    <button type="button" id="btnPrintReport" class="btn-action btn-print" onclick="window.print()">📥 XUẤT BÁO CÁO NHẬN XÉT (PDF)</button>
+  </div>
+
+  <div id="status-bar"></div>
+
+  <!-- Kết Quả Chấm 2 Tầng -->
+  <div id="result-box">
+    <div class="color-legend">
+      <div class="legend-item"><span class="badge-dot" style="background:#2d3748;"></span> Chữ thường: Em nói thực tế</div>
+      <div class="legend-item"><span class="badge-dot" style="background:#e53e3e;"></span> <del class="err">Gạch đỏ:</del> Lỗi ngữ pháp / Phát âm nhầm</div>
+      <div class="legend-item"><span class="badge-dot" style="background:#166534;"></span> <ins class="fix">Xanh lá:</ins> Sửa đúng chuẩn tự nhiên</div>
+      <div class="legend-item"><span class="badge-dot" style="background:#854d0e;"></span> <mark class="vocab">Vàng:</mark> Collocation / Idiom Band 8.0+</div>
+      <div class="legend-item"><span class="badge-dot" style="background:#6b21a8;"></span> <span class="teacher-note">💬 Tím: Lưu ý phản xạ & ngữ điệu</span></div>
+    </div>
+    <div id="result-content"></div>
+  </div>
+</div>
+
+<script src="speaking.js"></script>
+</body>
+</html>

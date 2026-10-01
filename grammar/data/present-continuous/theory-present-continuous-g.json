@@ -1,0 +1,59 @@
+{
+  "tense_id": "present-continuous",
+  "tense_name": "THÌ HIỆN TẠI TIẾP DIỄN (PRESENT CONTINUOUS)",
+  "sections": [
+    {
+      "id": "pc_formulas",
+      "title": "1. Công Thức Thì Hiện Tại Tiếp Diễn",
+      "formulas": {
+        "affirmative": "(+) S + am/is/are + V-ing",
+        "negative": "(–) S + am/is/are + NOT + V-ing",
+        "interrogative": "(?) Am/Is/Are + S + V-ing?"
+      },
+      "subject_rules": [
+        "I ➔ am + V-ing",
+        "He, She, It, Danh từ số ít (ÍT) ➔ is + V-ing",
+        "You, We, They, Danh từ số nhiều (NHIỀU) ➔ are + V-ing"
+      ]
+    },
+    {
+      "id": "pc_spelling",
+      "title": "2. Quy Tắc Thêm Đuôi -ing Vào Động Từ",
+      "spelling_rules": [
+        { "condition": "Động từ kết thúc bằng -e", "rule": "Bỏ -e trước khi thêm -ing", "examples": "take ➔ taking, drive ➔ driving" },
+        { "condition": "Trọng âm rơi vào âm cuối & 1 nguyên âm kẹp 2 phụ âm", "rule": "Gấp đôi phụ âm cuối rồi thêm -ing", "examples": "begin ➔ beginning, win ➔ winning" },
+        { "condition": "Động từ 1 âm tiết có 1 nguyên âm kẹp giữa 2 phụ âm", "rule": "Gấp đôi phụ âm cuối rồi thêm -ing", "examples": "run ➔ running, swim ➔ swimming" },
+        { "condition": "Trường hợp đặc biệt kết thúc bằng -ie", "rule": "Đổi -ie thành -y rồi thêm -ing", "examples": "lie ➔ lying, die ➔ dying" }
+      ]
+    },
+    {
+      "id": "pc_usages",
+      "title": "3. 4 Cách Sử Dụng Thì Hiện Tại Tiếp Diễn",
+      "usages": [
+        { "name": "Tại thời điểm nói", "desc": "Hành động đang diễn ra ngay lúc đang nói", "example": "We are doing homework now." },
+        { "name": "Đang diễn ra nhưng không cần ngay lúc nói", "desc": "Hành động có tính chất kéo dài xung quanh thời điểm hiện tại", "example": "He is writing an economic book." },
+        { "name": "Dự trù trước cho tương lai", "desc": "Kế hoạch hoặc lịch trình cá nhân đã chuẩn bị sẵn", "example": "He is attending the exhibition tomorrow." },
+        { "name": "Thường xuyên gây khó chịu (có always)", "desc": "Phàn nàn một thói quen xấu lặp đi lặp lại", "example": "She is always talking in my class." }
+      ]
+    },
+    {
+      "id": "pc_markers",
+      "title": "4. Dấu Hiệu Nhận Biết",
+      "rules": [
+        "now (bây giờ), right now (ngay bây giờ)",
+        "at the moment (lúc này), at present (hiện tại)",
+        "at + giờ cụ thể (ví dụ: at 12 o'clock)",
+        "Các động từ gây chú ý: Look!, Listen!, Be quiet!..."
+      ]
+    }
+  ],
+  "essay_prompt": {
+    "instruction": "Học sinh tự nhớ lại và trình bày toàn bộ lý thuyết Hiện tại tiếp diễn theo từng mục dưới đây vào phần bài làm. Bắt buộc viết rõ công thức, 4 quy tắc thêm đuôi -ing, đủ 4 cách dùng kèm ví dụ tự đặt dịch nghĩa và dấu hiệu nhận biết.",
+    "questions": [
+      "<b>A. Công thức (Form):</b> Viết công thức 3 thể (+, -, ?) của thì Hiện tại tiếp diễn với am/is/are.",
+      "<b>B. Quy tắc thêm đuôi -ing:</b> Nêu rõ 4 quy tắc biến đổi chính tả khi thêm đuôi -ing (đuôi e, gấp đôi phụ âm cuối, đuôi -ie).",
+      "<b>C. 4 Cách sử dụng chính & Ví dụ:</b> Trình bày đầy đủ 4 cách dùng của thì HTTD (Thời điểm nói, Đang diễn ra nhưng không nhất thiết lúc nói, Kế hoạch dự trù tương lai, Phàn nàn gây khó chịu có always). <i>BẮT BUỘC: Tự đặt 01 câu ví dụ bằng tiếng Anh kèm dịch nghĩa tiếng Việt cho mỗi cách dùng.</i>",
+      "<b>D. Dấu hiệu nhận biết:</b> Liệt kê đầy đủ các trạng từ thời gian đặc trưng và câu lệnh gây chú ý đứng đầu câu."
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+.hero-box-g {
+  background: linear-gradient(135deg, #115e59 0%, #0d9488 100%);
+  color: #ffffff;
+  padding: 24px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+.hero-box-g h1 { margin: 0 0 6px 0; font-size: 24px; }
+.hero-box-g p { margin: 0; font-size: 14px; opacity: 0.95; }
+
+.tab-nav-g {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 12px;
+}
+.tab-btn-g {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border-color);
+  padding: 10px 22px;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 14.5px;
+  color: var(--text-main);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.tab-btn-g.active {
+  background: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+  box-shadow: 0 4px 10px rgba(13, 148, 136, 0.25);
+}
+
+.theory-card-g {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+.theory-card-g h3 {
+  color: var(--primary-dark);
+  margin-top: 0;
+  font-size: 17px;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 8px;
+}
+.formula-box-g {
+  background: #f0fdfa;
+  border-left: 4px solid var(--primary-color);
+  padding: 10px 14px;
+  border-radius: 4px;
+  font-family: monospace;
+  font-weight: 700;
+  color: #0f766e;
+  margin: 12px 0;
+}
