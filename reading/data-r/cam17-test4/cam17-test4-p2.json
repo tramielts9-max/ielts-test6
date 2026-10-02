@@ -1,0 +1,554 @@
+{
+  "title": "IELTS Academic 17 - Test 4 - Passage 2: Does education fuel economic growth?",
+  "answers": {
+    "q14": "E",
+    "q15": "A",
+    "q16": "D",
+    "q17": "F",
+    "q18": "C",
+    "q19": "descendants",
+    "q20": "sermon",
+    "q21": "fine",
+    "q22": "innovation",
+    "q23": "B",
+    "q24": "E",
+    "q25": "B",
+    "q26": "D"
+  },
+  "passageHtml": "<h2>READING PASSAGE 2</h2><h3>Does education fuel economic growth?</h3><p><strong>Paragraph A.</strong> Over the last decade, a huge database about the lives of southwest German villagers between 1600 and 1900 has been compiled by a team led by Professor Sheilagh Ogilvie at Cambridge University's Faculty of Economics. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">It includes court records, guild ledgers, parish registers, village censuses, tax lists and – the most recent addition – 9,000 handwritten inventories listing over a million personal possessions</span> belonging to ordinary women and men across three centuries. Ogilvie, who discovered the inventories in the archives of two German communities 30 years ago, believes they may hold the answer to a conundrum that has long puzzled economists: the lack of evidence for a causal link between education and a country's economic growth.</p><p><strong>Paragraph B.</strong> As Ogilvie explains, 'Education helps us to work more productively, invent better technology, and earn more … surely it must be critical for economic growth? But, if you look back through history, there's no evidence that having a high literacy rate made a country industrialise earlier.' Between 1600 and 1900, England had only mediocre literacy rates by European standards, yet its economy grew fast and it was the first country to industrialise. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">During this period, Germany and Scandinavia had excellent literacy rates</span>, but their economies grew slowly and they industrialised late. 'Modern cross-country analyses have also struggled to find evidence that education causes economic growth, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">even though there is plenty of evidence that growth increases education</span>,' she adds.</p><p><strong>Paragraph C.</strong> In the handwritten inventories that Ogilvie is analysing are the belongings of women and men at marriage, remarriage and death. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">From badger skins to Bibles, sewing machines to scarlet bodices – the villagers' entire worldly goods are included. Inventories of agricultural equipment and craft tools reveal economic activities; ownership of books and education-related objects like pens and slates suggests how people learned</span>. In addition, the tax lists included in the database record the value of farms, workshops, assets and debts; signatures and people's estimates of their age indicate literacy and numeracy levels; and court records reveal obstacles (such as the activities of the guilds*) that stifled industry.<br><br>Previous studies usually had just one way of linking education with economic growth – the presence of schools and printing presses, perhaps, or school enrolment, or the ability to sign names. According to Ogilvie, the database provides multiple indicators for the same individuals, making it possible to analyse links between literacy, numeracy, wealth, and industriousness, for individual women and men over the long term.</p><p><strong>Paragraph D.</strong> Ogilvie and her team have been building the vast database of material possessions on top of their full demographic reconstruction of the people who lived in these two German communities. 'We can follow the same people – and <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">their <span class=\"kw\">descendants</span></span> – across 300 years of educational and economic change,' she says. Individual lives have unfolded before their eyes. Stories like that of the 24-year-olds Ana Regina and Magdalena Riethmüllerin, who were chastised in 1707 for reading books in church instead of listening to the <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\"><span class=\"kw\">sermon</span></span>. 'This tells us they were continuing to develop their reading skills at least a decade after leaving school,' explains Ogilvie. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">The database also reveals the case of Juliana Schweickherdt, a 50-year-old spinster living in the small Black Forest community of Wildberg, who was reprimanded in 1752 by the local weavers' guild for 'weaving cloth and combing wool, counter to the guild ordinance'. When Juliana continued taking jobs reserved for male guild members, she was summoned before the guild court and told to pay a <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\"><span class=\"kw\">fine</span></span> equivalent to one third of a servant's annual wage</span>. It was a small act of defiance by today's standards, but it reflects a time when laws in Germany and elsewhere regulated people's access to labour markets. The dominance of guilds not only prevented people from using their skills, but also held back even the simplest industrial <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\"><span class=\"kw\">innovation</span></span>.</p><p><strong>Paragraph E.</strong> The data-gathering phase of the project has been completed and now, according to Ogilvie, it is time 'to ask the big questions'. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">One way to look at whether education causes economic growth is to 'hold wealth constant'. This involves following the lives of different people with the same level of wealth over a period of time. If wealth is constant, it is possible to discover whether education was, for example, linked to the cultivation of new crops, or to the adoption of industrial innovations like sewing machines</span>. The team will also ask what aspect of education helped people engage more with productive and innovative activities. Was it, for instance, literacy, numeracy, book ownership, years of schooling? Was there a threshold level – a tipping point – that needed to be reached to affect economic performance?</p><p><strong>Paragraph F.</strong> Ogilvie hopes to start finding answers to these questions over the next few years. One thing is already clear, she says: the relationship between education and economic growth is far from straightforward. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">'German-speaking central Europe is an excellent laboratory for testing theories of economic growth,'</span> she explains. Between 1600 and 1900, literacy rates and book ownership were high and yet the region remained poor. It was also the case that local guilds and merchant associations were extremely powerful and <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">legislated against anything that undermined their monopolies</span>. In villages throughout the region, <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">guilds blocked labour migration</span> and resisted changes that might reduce their influence.<br><br>'Early findings suggest that the potential benefits of education for the economy can be held back by other barriers, and this has implications for today,' says Ogilvie. 'Huge amounts are spent improving education in developing countries, but this spending can fail to deliver economic growth if restrictions block people – especially women and the poor – from using their education in economically productive ways. If economic institutions are poorly set up, for instance, education can't lead to growth.'</p><p><em>* guild: an association of artisans or merchants which oversees the practice of their craft or trade in a particular area</em></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "title": "Questions 14-18",
+      "instructions": "<i>Reading Passage 2 has six sections, <b>A-F</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A-F</b>, in boxes 14-18 on your answer sheet.</i>",
+      "questionIds": ["q14", "q15", "q16", "q17", "q18"]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "title": "Questions 19-22",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD</b> from the passage for each answer.<br>Write your answers in boxes 19-22 on your answer sheet.</i>",
+      "summaryTitle": "Demographic reconstruction of two German communities",
+      "questionIds": ["q19", "q20", "q21", "q22"],
+      "template": "<p>The database that Ogilvie and her team has compiled sheds light on the lives of a range of individuals, as well as those of their <b>19.</b> {{q19}}, over a 300-year period. For example, Ana Regina and Magdalena Riethmüllerin were reprimanded for reading while they should have been paying attention to a <b>20.</b> {{q20}}.</p><p>There was also Juliana Schweickherdt, who came to the notice of the weavers' guild in the year 1752 for breaking guild rules. As a punishment, she was later given a <b>21.</b> {{q21}}. Cases like this illustrate how the guilds could prevent <b>22.</b> {{q22}} and stop skilled people from working.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "multiselect",
+      "title": "Questions 23 and 24",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A-E</b>.<br>Write the correct letters in boxes 23 and 24 on your answer sheet.<br>Which <b>TWO</b> of the following statements does the writer make about literacy rates in Section B?</i>",
+      "questionIds": ["q23", "q24"]
+    },
+    {
+      "id": "g4",
+      "type": "multiselect",
+      "title": "Questions 25 and 26",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A-E</b>.<br>Write the correct letters in boxes 25 and 26 on your answer sheet.<br>Which <b>TWO</b> of the following statements does the writer make in Section F about guilds in German-speaking Central Europe between 1600 and 1900?</i>",
+      "questionIds": ["q25", "q26"]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "an explanation of the need for research to focus on individuals with a fairly consistent income",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "E",
+      "highlightId": "hl-q14",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 14 hỏi về điều gì? Hãy chú ý cụm: lời giải thích vì sao nghiên cứu cần tập trung vào những người có mức tài sản/thu nhập tương đối ổn định, không đổi ('fairly consistent income / wealth').",
+            "guide": "Em hãy tìm Paragraph nào nói về phương pháp giữ mức tài sản không đổi ('hold wealth constant') để nghiên cứu tác động của giáo dục.",
+            "bridge": "Cùng đọc Paragraph E nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph E giải thích cách làm nghiên cứu như thế nào khi xem xét yếu tố tài sản?",
+            "guide": "Paragraph E viết: 'One way to look at whether education causes economic growth is to \"hold wealth constant\". This involves following the lives of different people with the same level of wealth over a period of time. If wealth is constant, it is possible to discover...'",
+            "bridge": "'hold wealth constant / same level of wealth' chính là giữ mức thu nhập/tài sản ổn định (consistent income/wealth)."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào giải thích sự cần thiết của phương pháp này?",
+            "guide": "Đáp án chính xác là Paragraph E.",
+            "bridge": "Chốt câu 14: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Lời giải thích về việc nghiên cứu cần tập trung vào những cá nhân có mức tài sản/thu nhập không đổi.",
+          "<b>Paragraph E (dòng 2-4):</b> <i>'One way to look at whether education causes economic growth is to \"hold wealth constant\". This involves following the lives of different people with the same level of wealth over a period of time.'</i>",
+          "<b>Khớp từ:</b> <i>focus on individuals with a fairly consistent income</i> = <i>follow the lives of different people with the same level of wealth / hold wealth constant</i>.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "examples of the sources the database has been compiled from",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "A",
+      "highlightId": "hl-q15",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 15 muốn tìm thông tin gì? Hãy chú ý cụm 'examples of the sources' (các ví dụ về những nguồn tài liệu) được dùng để tổng hợp nên bộ cơ sở dữ liệu ('database has been compiled from').",
+            "guide": "Em cần tìm Paragraph nào liệt kê tên các loại tài liệu lịch sử như hồ sơ tòa án, sổ sách, danh sách điều tra dân số...",
+            "bridge": "Hãy đọc ngay Paragraph A nơi giới thiệu về bộ cơ sở dữ liệu."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph A liệt kê những nguồn tài liệu cụ thể nào?",
+            "guide": "Paragraph A viết: 'It includes court records, guild ledgers, parish registers, village censuses, tax lists and – the most recent addition – 9,000 handwritten inventories...' (bao gồm hồ sơ tòa án, sổ cái phường hội, sổ đăng ký giáo xứ, điều tra dân số làng, danh sách thuế và bản kiểm kê viết tay).",
+            "bridge": "Đây chính là danh sách các nguồn tài liệu để xây dựng bộ dữ liệu."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa ví dụ về các nguồn tài liệu này?",
+            "guide": "Đáp án là Paragraph A.",
+            "bridge": "Chốt câu 15: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Các ví dụ về nguồn tài liệu dùng để tạo nên cơ sở dữ liệu.",
+          "<b>Paragraph A (dòng 3-5):</b> <i>'It includes court records, guild ledgers, parish registers, village censuses, tax lists and... 9,000 handwritten inventories...'</i>",
+          "<b>Khớp từ:</b> Liệt kê các tài liệu gốc chính là <i>examples of the sources</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "an account of one individual's refusal to obey an order",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "D",
+      "highlightId": "hl-q16",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 16 hỏi về điều gì? Hãy chú ý cụm: câu chuyện kể về việc một cá nhân từ chối tuân theo mệnh lệnh/quy định ('one individual's refusal to obey an order').",
+            "guide": "Em hãy tìm một câu chuyện kể về một người cụ thể có hành động chống đối, bất chấp quy định của phường hội.",
+            "bridge": "Cùng đọc Paragraph D chỗ kể câu chuyện về người phụ nữ tên Juliana nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph D kể người phụ nữ tên Juliana Schweickherdt đã chống lệnh phường hội như thế nào?",
+            "guide": "Paragraph D viết: Juliana bị phường hội thợ dệt khiển trách vì dệt vải trái với quy định. 'When Juliana continued taking jobs reserved for male guild members, she was summoned before the guild court and told to pay a fine... It was a small act of defiance...' (Khi Juliana tiếp tục làm công việc vốn chỉ dành cho nam giới, bà bị gọi ra tòa phường hội và phạt tiền... Đó là một hành động bất tuân, chống đối).",
+            "bridge": "Việc bà tiếp tục làm công việc bị cấm và hành động bất tuân ('act of defiance') chính là từ chối tuân lệnh."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào kể lại câu chuyện từ chối tuân lệnh này?",
+            "guide": "Đáp án là Paragraph D.",
+            "bridge": "Chốt câu 16: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Câu chuyện về một cá nhân từ chối tuân lệnh.",
+          "<b>Paragraph D (dòng 7-11):</b> Kể về Juliana Schweickherdt: khi bị cấm dệt vải, bà vẫn tiếp tục làm công việc đó bất chấp quy định (<i>continued taking jobs reserved for male guild members</i>) và tác giả gọi đó là <i>'a small act of defiance'</i> (hành động bất tuân/chống đối).",
+          "<b>Khớp từ:</b> <i>refusal to obey an order</i> = <i>continued taking jobs... act of defiance</i>.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "a reference to a region being particularly suited to research into the link between education and economic growth",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "F",
+      "highlightId": "hl-q17",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 17 hỏi về điều gì? Hãy chú ý cụm: nhắc đến một khu vực đặc biệt phù hợp ('a region being particularly suited') để nghiên cứu mối liên hệ giữa giáo dục và tăng trưởng kinh tế.",
+            "guide": "Em cần tìm Paragraph nào coi một vùng đất như một phòng thí nghiệm tuyệt vời để kiểm chứng lý thuyết này.",
+            "bridge": "Cùng đọc Paragraph F xem có khu vực nào được ví như phòng thí nghiệm không nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph F, bà Ogilvie nhận định khu vực nào là nơi lý tưởng cho nghiên cứu?",
+            "guide": "Paragraph F viết: '\"German-speaking central Europe is an excellent laboratory for testing theories of economic growth,\" she explains.' (Khu vực Trung Âu nói tiếng Đức là một phòng thí nghiệm tuyệt vời để kiểm tra các lý thuyết tăng trưởng kinh tế).",
+            "bridge": "'an excellent laboratory' chính là nơi cực kỳ phù hợp (particularly suited) cho nghiên cứu."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa nhận định về khu vực này?",
+            "guide": "Đáp án là Paragraph F.",
+            "bridge": "Chốt câu 17: F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Nhắc đến một khu vực đặc biệt thích hợp để nghiên cứu mối liên hệ giữa giáo dục và kinh tế.",
+          "<b>Paragraph F (dòng 3):</b> <i>'\"German-speaking central Europe is an excellent laboratory for testing theories of economic growth,\" she explains.'</i>",
+          "<b>Khớp từ:</b> <i>a region being particularly suited</i> = <i>an excellent laboratory</i>.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "examples of the items included in a list of personal possessions",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q18",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 18 hỏi về điều gì? Hãy chú ý: các ví dụ về những đồ vật cụ thể nằm trong danh sách đồ dùng cá nhân ('list of personal possessions').",
+            "guide": "Em cần tìm Paragraph nào liệt kê tên các đồ dùng hàng ngày của người dân (như da thú, sách kinh, máy may, áo quần...).",
+            "bridge": "Hãy đọc Paragraph C nói về tài sản của người dân nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph C liệt kê những món đồ dùng cá nhân nào của dân làng?",
+            "guide": "Paragraph C viết: 'From badger skins to Bibles, sewing machines to scarlet bodices – the villagers' entire worldly goods are included.' (Từ da lửng đến kinh thánh, từ máy may đến áo nịt ngực màu đỏ – toàn bộ của cải vật chất của dân làng đều có đủ).",
+            "bridge": "Đây chính là các ví dụ về những món đồ dùng cá nhân."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa danh sách các đồ vật này?",
+            "guide": "Đáp án là Paragraph C.",
+            "bridge": "Chốt câu 18: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Ví dụ về các đồ vật nằm trong danh mục tài sản cá nhân.",
+          "<b>Paragraph C (dòng 2-3):</b> <i>'From badger skins to Bibles, sewing machines to scarlet bodices – the villagers' entire worldly goods are included.'</i>",
+          "<b>Khớp từ:</b> Liệt kê tên các đồ vật (da lửng, kinh thánh, máy may, áo nịt ngực...) chính là <i>examples of the items included in a list of personal possessions</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "descendants",
+      "inputWidth": "130px",
+      "highlightId": "hl-q19",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 19: Bộ cơ sở dữ liệu làm sáng tỏ cuộc đời của nhiều cá nhân, cũng như cuộc đời của ai của họ ('as well as those of their 19 ______') trong suốt 300 năm?",
+            "guide": "Sau từ sở hữu 'their' cần một danh từ chỉ những người thế hệ sau, con cháu trong gia đình của họ.",
+            "bridge": "Hãy đọc câu thứ hai của Paragraph D."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph D nói nhóm nghiên cứu có thể theo dõi cùng những con người đó và ai nữa: 'follow the same people – and their ______'?",
+            "guide": "Paragraph D viết: '\"We can follow the same people – and their descendants – across 300 years of educational and economic change,\" she says.'",
+            "bridge": "Nhóm nghiên cứu theo dõi chính những con người đó và con cháu đời sau của họ."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ chỉ con cháu đời sau trong bài là gì?",
+            "guide": "Đáp án là 'descendants' (hậu duệ, con cháu).",
+            "bridge": "Chốt câu 19: descendants."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số nhiều sau tính từ sở hữu <i>their</i>.",
+          "<b>Paragraph D (dòng 2-3):</b> <i>'\"We can follow the same people – and their descendants – across 300 years...\"'</i>",
+          "<b>Khớp từ:</b> <i>lives of a range of individuals, as well as those of their descendants</i> = <i>the same people – and their descendants</i>.",
+          "<b>Từ cần điền:</b> <b>descendants</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "sermon",
+      "inputWidth": "100px",
+      "highlightId": "hl-q20",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 20: Hai cô gái Ana Regina và Magdalena bị khiển trách vì mải đọc sách trong khi lẽ ra họ phải chú ý lắng nghe cái gì ('paying attention to a 20 ______')?",
+            "guide": "Sau mạo từ 'a' cần một danh từ số ít chỉ bài thuyết giảng hoặc buổi lễ trong nhà thờ.",
+            "bridge": "Hãy quét tên riêng 'Ana Regina' ở Paragraph D."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph D nói hai cô gái bị quở trách vì đọc sách trong nhà thờ thay vì nghe cái gì: 'instead of listening to the ______'?",
+            "guide": "Paragraph D viết: '...who were chastised in 1707 for reading books in church instead of listening to the sermon.'",
+            "bridge": "Lẽ ra họ phải lắng nghe bài thuyết giáo của linh mục."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ chỉ bài thuyết giáo trong bài là gì?",
+            "guide": "Đáp án là 'sermon' (bài thuyết giáo).",
+            "bridge": "Chốt câu 20: sermon."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số ít sau mạo từ <i>a</i>.",
+          "<b>Paragraph D (dòng 4-5):</b> <i>'...were chastised in 1707 for reading books in church instead of listening to the sermon.'</i>",
+          "<b>Khớp từ:</b> <i>paying attention to</i> = <i>listening to</i>; từ cần điền là <i>sermon</i>.",
+          "<b>Từ cần điền:</b> <b>sermon</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "fine",
+      "inputWidth": "90px",
+      "highlightId": "hl-q21",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 21: Như một hình phạt ('As a punishment'), bà Juliana sau đó đã phải nhận/nộp một cái gì ('she was later given a 21 ______')?",
+            "guide": "Sau 'given a' cần một danh từ chỉ hình phạt cụ thể (khoản tiền phạt).",
+            "bridge": "Hãy tìm tên 'Juliana Schweickherdt' ở Paragraph D."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph D nói khi Juliana bị đưa ra tòa phường hội, bà bị bắt phải nộp cái gì: 'told to pay a ______'?",
+            "guide": "Paragraph D viết: '...she was summoned before the guild court and told to pay a fine equivalent to one third of a servant's annual wage.' (bà bị bắt nộp một khoản tiền phạt tương đương một phần ba tiền lương cả năm của người hầu).",
+            "bridge": "Hình phạt ở đây là một khoản tiền phạt."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ chỉ tiền phạt là gì?",
+            "guide": "Đáp án là 'fine' (khoản tiền phạt).",
+            "bridge": "Chốt câu 21: fine."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau mạo từ <i>a</i>.",
+          "<b>Paragraph D (dòng 9-10):</b> <i>'...told to pay a fine equivalent to one third of a servant's annual wage.'</i>",
+          "<b>Khớp từ:</b> <i>given a fine</i> = <i>told to pay a fine</i>.",
+          "<b>Từ cần điền:</b> <b>fine</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "innovation",
+      "inputWidth": "120px",
+      "highlightId": "hl-q22",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt 22: Những trường hợp như thế này minh họa cho việc các phường hội có thể ngăn chặn điều gì ('prevent 22 ______') và ngăn người có tay nghề làm việc?",
+            "guide": "Sau động từ 'prevent' cần một danh từ chỉ sự đổi mới, cải tiến kỹ thuật bị cản trở.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph D."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Câu cuối Paragraph D nói sự thống trị của phường hội không chỉ ngăn người ta dùng kỹ năng mà còn kìm hãm cái gì: 'held back even the simplest industrial ______'?",
+            "guide": "Paragraph D viết: 'The dominance of guilds not only prevented people from using their skills, but also held back even the simplest industrial innovation.' (kìm hãm cả sự đổi mới công nghiệp đơn giản nhất).",
+            "bridge": "'held back' tương đương với 'prevent' (ngăn chặn, kìm hãm). Thứ bị ngăn chặn là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ danh từ đó là gì?",
+            "guide": "Đáp án là 'innovation' (sự đổi mới/sáng tạo).",
+            "bridge": "Hoàn thành phần tóm tắt! Chốt câu 22: innovation."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau động từ <i>prevent</i>.",
+          "<b>Paragraph D (câu cuối):</b> <i>'...not only prevented people from using their skills, but also held back even the simplest industrial innovation.'</i>",
+          "<b>Khớp từ:</b> <i>prevent</i> = <i>held back</i>; từ cần điền là <i>innovation</i>.",
+          "<b>Từ cần điền:</b> <b>innovation</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Which TWO of the following statements does the writer make about literacy rates in Section B?",
+      "options": [
+        "A. Very little research has been done into the link between high literacy rates and improved earnings.",
+        "B. Literacy rates in Germany between 1600 and 1900 were very good.",
+        "C. There is strong evidence that high literacy rates in the modern world result in economic growth.",
+        "D. England is a good example of how high literacy rates helped a country industrialise.",
+        "E. Economic growth can help to improve literacy rates."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q23",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu yêu cầu câu hỏi 23-24",
+            "question": "Câu 23-24 hỏi: Hai nhận định nào về tỷ lệ biết chữ ('literacy rates') được tác giả đưa ra trong Paragraph B?",
+            "guide": "Em hãy đọc kỹ các chi tiết nói về tỷ lệ biết chữ của nước Anh, nước Đức và các nghiên cứu hiện đại ở Paragraph B.",
+            "bridge": "Cùng xem nước Đức và Scandinavia có tỷ lệ biết chữ thế nào ở Paragraph B."
+          },
+          {
+            "title": "Soi dẫn chứng về nước Đức",
+            "question": "Paragraph B nhận xét thế nào về tỷ lệ biết chữ của Đức và Scandinavia giai đoạn 1600–1900?",
+            "guide": "Paragraph B viết: 'During this period, Germany and Scandinavia had excellent literacy rates, but their economies grew slowly...' (Trong giai đoạn này, Đức và Scandinavia có tỷ lệ biết chữ xuất sắc, nhưng kinh tế lại tăng trưởng chậm).",
+            "bridge": "'excellent literacy rates' chính là tỷ lệ biết chữ rất tốt (very good)."
+          },
+          {
+            "title": "Khớp với phương án B",
+            "question": "Phương án nào nêu đúng chi tiết về tỷ lệ biết chữ ở Đức?",
+            "guide": "Đó là phương án B: 'Literacy rates in Germany between 1600 and 1900 were very good'.",
+            "bridge": "Chọn được đáp án đầu tiên: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tìm nhận định đúng về tỷ lệ biết chữ ở Paragraph B.",
+          "<b>Paragraph B (dòng 5):</b> <i>'During this period, Germany and Scandinavia had excellent literacy rates...'</i>",
+          "<b>Khớp ý:</b> <i>excellent literacy rates</i> = <i>Literacy rates... were very good</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Which TWO of the following statements does the writer make about literacy rates in Section B?",
+      "options": [
+        "A. Very little research has been done into the link between high literacy rates and improved earnings.",
+        "B. Literacy rates in Germany between 1600 and 1900 were very good.",
+        "C. There is strong evidence that high literacy rates in the modern world result in economic growth.",
+        "D. England is a good example of how high literacy rates helped a country industrialise.",
+        "E. Economic growth can help to improve literacy rates."
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu cuối cùng của Paragraph B",
+            "question": "Ở cuối Paragraph B, tác giả nói có nhiều bằng chứng ('plenty of evidence') chứng minh điều gì về mối quan hệ giữa tăng trưởng kinh tế và giáo dục?",
+            "guide": "Paragraph B viết: '...even though there is plenty of evidence that growth increases education' (mặc dù có rất nhiều bằng chứng cho thấy tăng trưởng làm tăng giáo dục/học vấn).",
+            "bridge": "Tăng trưởng kinh tế làm tăng học vấn (growth increases education) chính là tăng trưởng kinh tế giúp nâng cao tỷ lệ biết chữ."
+          },
+          {
+            "title": "Khớp với phương án E",
+            "question": "Phương án nào mang nghĩa 'Tăng trưởng kinh tế có thể giúp cải thiện tỷ lệ biết chữ'?",
+            "guide": "Đó là phương án E: 'Economic growth can help to improve literacy rates'.",
+            "bridge": "Loại trừ: A sai vì bài nói giáo dục giúp kiếm nhiều tiền là điều đương nhiên; C sai vì bài nói các nghiên cứu hiện đại chật vật không tìm thấy bằng chứng; D sai vì Anh thời đó có tỷ lệ biết chữ chỉ ở mức trung bình (mediocre)."
+          },
+          {
+            "title": "Chốt đáp án thứ hai",
+            "question": "Vậy đáp án còn lại cho nhóm 23-24 là gì?",
+            "guide": "Đáp án là E.",
+            "bridge": "Hoàn thành câu 23-24: B và E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Paragraph B (câu cuối):</b> <i>'...even though there is plenty of evidence that growth increases education...'</i> (dù có nhiều bằng chứng rằng tăng trưởng kinh tế giúp nâng cao giáo dục).",
+          "<b>Khớp ý:</b> <i>growth increases education</i> = <i>Economic growth can help to improve literacy rates</i>.",
+          "<b>Loại trừ:</b> A (không đúng), C (bài nói hiện đại vẫn chật vật tìm bằng chứng), D (nước Anh có tỷ lệ biết chữ kém).",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Which TWO of the following statements does the writer make in Section F about guilds in German-speaking Central Europe between 1600 and 1900?",
+      "options": [
+        "A. They helped young people to learn a skill.",
+        "B. They were opposed to people moving to an area for work.",
+        "C. They kept better records than guilds in other parts of the world.",
+        "D. They opposed practices that threatened their control over a trade.",
+        "E. They predominantly consisted of wealthy merchants."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q25",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu yêu cầu câu hỏi 25-26",
+            "question": "Câu 25-26 hỏi: Hai nhận định nào về các phường hội ('guilds') ở khu vực Trung Âu được tác giả đưa ra trong Paragraph F?",
+            "guide": "Em hãy đọc kỹ đoạn miêu tả quyền lực và sự kiểm soát của các phường hội ở Paragraph F.",
+            "bridge": "Cùng xem các phường hội đã làm gì đối với người lao động di cư nhé."
+          },
+          {
+            "title": "Soi dẫn chứng về di cư lao động",
+            "question": "Paragraph F nói các phường hội ở các ngôi làng đã làm gì đối với việc người ngoài chuyển đến tìm việc?",
+            "guide": "Paragraph F viết: 'In villages throughout the region, guilds blocked labour migration and resisted changes that might reduce their influence.' (Ở các ngôi làng, các phường hội ngăn chặn dòng lao động di cư và chống lại mọi thay đổi có thể làm giảm tầm ảnh hưởng của họ).",
+            "bridge": "'blocked labour migration' chính là phản đối việc người khác chuyển đến khu vực để làm việc."
+          },
+          {
+            "title": "Khớp với phương án B",
+            "question": "Phương án nào mang ý nghĩa 'Họ phản đối việc mọi người chuyển đến địa bàn để tìm việc'?",
+            "guide": "Đó là phương án B: 'They were opposed to people moving to an area for work'.",
+            "bridge": "Chọn được đáp án đầu tiên: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Nhận định đúng về các phường hội ở Paragraph F.",
+          "<b>Paragraph F (dòng 6-7):</b> <i>'In villages throughout the region, guilds blocked labour migration and resisted changes that might reduce their influence.'</i>",
+          "<b>Khớp từ:</b> <i>blocked labour migration</i> = phản đối người nơi khác chuyển đến làm việc (<i>opposed to people moving to an area for work</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Which TWO of the following statements does the writer make in Section F about guilds in German-speaking Central Europe between 1600 and 1900?",
+      "options": [
+        "A. They helped young people to learn a skill.",
+        "B. They were opposed to people moving to an area for work.",
+        "C. They kept better records than guilds in other parts of the world.",
+        "D. They opposed practices that threatened their control over a trade.",
+        "E. They predominantly consisted of wealthy merchants."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q26",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc tiếp dẫn chứng ở Paragraph F",
+            "question": "Ở Paragraph F, các phường hội đã làm gì để bảo vệ thế độc quyền trong ngành nghề của mình?",
+            "guide": "Paragraph F viết: '...local guilds and merchant associations were extremely powerful and legislated against anything that undermined their monopolies.' (phường hội địa phương rất quyền lực và ban hành luật chống lại bất cứ điều gì đe dọa vị thế độc quyền của họ).",
+            "bridge": "'legislated against anything that undermined their monopolies' nghĩa là phản đối, ngăn cấm các hoạt động đe dọa sự kiểm soát ngành nghề của họ."
+          },
+          {
+            "title": "Khớp với phương án D",
+            "question": "Phương án nào mang ý nghĩa 'Họ phản đối những hành vi đe dọa quyền kiểm soát của họ đối với một ngành nghề'?",
+            "guide": "Đó là phương án D: 'They opposed practices that threatened their control over a trade'.",
+            "bridge": "Loại trừ: A, C, E không được nhắc đến trong Paragraph F."
+          },
+          {
+            "title": "Chốt đáp án thứ hai",
+            "question": "Vậy đáp án còn lại cho nhóm 25-26 là gì?",
+            "guide": "Đáp án là D.",
+            "bridge": "Hoàn thành toàn bộ Passage 2! Đáp án: B và D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Paragraph F (dòng 5-6):</b> <i>'...local guilds and merchant associations were extremely powerful and legislated against anything that undermined their monopolies.'</i>",
+          "<b>Khớp ý:</b> <i>legislated against anything that undermined their monopolies</i> = phản đối những gì đe dọa quyền kiểm soát buôn bán độc quyền của họ (<i>opposed practices that threatened their control over a trade</i>).",
+          "<b>Loại trừ:</b> A, C, E không có thông tin trong Paragraph F.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}
