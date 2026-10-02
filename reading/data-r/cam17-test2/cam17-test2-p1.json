@@ -1,0 +1,507 @@
+{
+  "title": "IELTS Academic 17 - Test 2 - Passage 1: The Dead Sea Scrolls",
+  "answers": {
+    "q1": "rock",
+    "q2": "cave",
+    "q3": "clay",
+    "q4": "Essenes",
+    "q5": "Hebrew",
+    "q6": "NOT GIVEN",
+    "q7": "FALSE",
+    "q8": "TRUE",
+    "q9": "TRUE",
+    "q10": "FALSE",
+    "q11": "FALSE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>The Dead Sea Scrolls</h3><p><strong>Paragraph 1.</strong> In late 1946 or early 1947, three Bedouin teenagers were tending their goats and sheep near the ancient settlement of Qumran, located on the northwest shore of the Dead Sea in what is now known as the West Bank. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">One of these young shepherds tossed a <span class=\"kw\">rock</span> into an opening on the side of a cliff and was surprised to hear a shattering sound</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">He and his companions later entered the <span class=\"kw\">cave</span> and stumbled across a collection of large <span class=\"kw\">clay</span> jars, seven of which contained scrolls with writing on them</span></span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">The teenagers took the seven scrolls to a nearby town where they were sold for a small sum to a local antiquities dealer</span>. Word of the find spread, and Bedouins and archaeologists eventually unearthed tens of thousands of additional scroll fragments from 10 nearby caves; together they make up between 800 and 900 manuscripts. It soon became clear that this was one of the greatest archaeological discoveries ever made.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">The origin of the Dead Sea Scrolls, which were written around 2,000 years ago between 150 BCE and 70 CE, is still the subject of scholarly debate even today</span>. According to the prevailing theory, they are the work of a population that inhabited the area until Roman troops destroyed the settlement around 70 CE. The area was known as Judea at that time, and <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">the people are thought to have belonged to a group called the <span class=\"kw\">Essenes</span>, a devout Jewish sect</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">The majority of the texts on the Dead Sea Scrolls are in <span class=\"kw\">Hebrew</span></span>, with some fragments written in an ancient version of its alphabet thought to have fallen out of use in the fifth century BCE. But there are other languages as well. Some scrolls are in Aramaic, the language spoken by many inhabitants of the region from the sixth century BCE to the siege of Jerusalem in 70 CE. In addition, several texts feature translations of the Hebrew Bible into Greek.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The Dead Sea Scrolls include fragments from every book of the Old Testament of the Bible except for the Book of Esther. The only entire book of the Hebrew Bible preserved among the manuscripts from Qumran is Isaiah; this copy, dated to the first century BCE, is considered the earliest biblical manuscript still in existence</span>. Along with biblical texts, the scrolls include documents about sectarian regulations and religious writings that do not appear in the Old Testament.</p><p><strong>Paragraph 5.</strong> The writing on the Dead Sea Scrolls is mostly in black or occasionally red ink, and the scrolls themselves are nearly all made of either parchment (animal skin) or an early form of paper called ‘papyrus’. The only exception is the scroll numbered 3Q15, which was created out of a combination of copper and tin. Known as the Copper Scroll, this curious document features letters chiselled onto metal – perhaps, as some have theorized, to better withstand the passage of time. One of the most intriguing manuscripts from Qumran, this is a sort of ancient treasure map that lists dozens of gold and silver caches. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Using an unconventional vocabulary and odd spelling, it describes 64 underground hiding places that supposedly contain riches buried for safekeeping</span>. None of these hoards have been recovered, possibly because the Romans pillaged Judea during the first century CE. According to various hypotheses, the treasure belonged to local people, or was rescued from the Second Temple before its destruction or never existed to begin with.</p><p><strong>Paragraph 6.</strong> Some of the Dead Sea Scrolls have been on interesting journeys. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">In 1948, a Syrian Orthodox archbishop known as Mar Samuel acquired four of the original seven scrolls from a Jerusalem shoemaker and part-time antiquity dealer, paying less than $100 for them</span>. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">He then travelled to the United States and unsuccessfully offered them to a number of universities, including Yale</span>. Finally, in 1954, he placed an advertisement in the business newspaper The Wall Street Journal – under the category ‘Miscellaneous Items for Sale’ – that read: ‘Biblical Manuscripts dating back to at least 200 B.C. are for sale. This would be an ideal gift to an educational or religious institution by an individual or group.’ Fortunately, Israeli archaeologist and statesman Yigael Yadin negotiated their purchase and brought the scrolls back to Jerusalem, where they remain to this day.</p><p><strong>Paragraph 7.</strong> In 2017, researchers from the University of Haifa restored and deciphered one of the last untranslated scrolls. The university’s Eshbal Ratson and Jonathan Ben-Dov spent one year reassembling the 60 fragments that make up the scroll. Deciphered from a band of coded text on parchment, the find provides insight into the community of people who wrote it and the 364-day calendar they would have used. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">The scroll names celebrations that indicate shifts in seasons and details two yearly religious events known from another Dead Sea Scroll</span>. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Only one more known scroll remains untranslated</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "title": "Questions 1-5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1-5 on your answer sheet.</i>",
+      "noteTitle": "The Dead Sea Scrolls",
+      "questionIds": ["q1", "q2", "q3", "q4", "q5"],
+      "template": "<p><b>Discovery</b></p><p>Qumran, 1946/7</p><ul><li style=\"margin-bottom: 12px;\">three Bedouin shepherds in their teens were near an opening on side of cliff</li><li style=\"margin-bottom: 12px;\">heard a noise of breaking when one teenager threw a <b>1.</b> {{q1}}</li><li style=\"margin-bottom: 12px;\">teenagers went into the <b>2.</b> {{q2}} and found a number of containers made of <b>3.</b> {{q3}}</li></ul><p><b>The scrolls</b></p><ul><li style=\"margin-bottom: 12px;\">date from between 150 BCE and 70 CE</li><li style=\"margin-bottom: 12px;\">thought to have been written by group of people known as the <b>4.</b> {{q4}}</li><li style=\"margin-bottom: 12px;\">written mainly in the <b>5.</b> {{q5}} language</li><li style=\"margin-bottom: 12px;\">most are on religious topics, written using ink on parchment or papyrus</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "title": "Questions 6-13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 6-13 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</i>",
+      "questionIds": ["q6", "q7", "q8", "q9", "q10", "q11", "q12", "q13"]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "rock",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 1 nói: các thiếu niên chăn cừu nghe thấy tiếng vỡ khi một người ném cái gì ('threw a 1 ______')?",
+            "guide": "Sau mạo từ 'a' cần một danh từ số ít chỉ vật thể bị ném vào vách đá.",
+            "bridge": "Mình cùng đọc câu thứ hai của Paragraph 1 nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 1 kể cậu bé chăn cừu đã ném thứ gì vào khe nứt trên vách đá?",
+            "guide": "Paragraph 1 viết: 'One of these young shepherds tossed a rock into an opening on the side of a cliff and was surprised to hear a shattering sound.'",
+            "bridge": "'tossed' = 'threw' (ném); 'shattering sound' = 'noise of breaking' (tiếng vỡ loảng xoảng). Thứ bị ném là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'rock' (hòn đá).",
+            "bridge": "Chốt câu 1: rock."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số ít đếm được sau mạo từ <i>a</i>.",
+          "<b>Paragraph 1 (dòng 3-4):</b> <i>'One of these young shepherds tossed a rock into an opening on the side of a cliff and was surprised to hear a shattering sound.'</i>",
+          "<b>Khớp từ:</b> <i>threw a rock</i> = <i>tossed a rock</i>; <i>noise of breaking</i> = <i>shattering sound</i>.",
+          "<b>Từ cần điền:</b> <b>rock</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "cave",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 2 nói: những thiếu niên này sau đó đã đi vào trong đâu ('went into the 2 ______')?",
+            "guide": "Sau 'the' cần một danh từ chỉ địa điểm/nơi chốn mà các cậu bé bước vào.",
+            "bridge": "Hãy đọc tiếp câu thứ ba của Paragraph 1."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 1 nói cậu bé và các bạn đã đi vào đâu?",
+            "guide": "Paragraph 1 viết: 'He and his companions later entered the cave and stumbled across a collection of large clay jars...'",
+            "bridge": "'entered' chính là 'went into'. Nơi các cậu bé đi vào là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ chỉ địa điểm đó là gì?",
+            "guide": "Đáp án là 'cave' (hang động).",
+            "bridge": "Chốt câu 2: cave."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ nơi chốn sau <i>went into the</i>.",
+          "<b>Paragraph 1 (dòng 4-5):</b> <i>'He and his companions later entered the cave and stumbled across...'</i>",
+          "<b>Khớp từ:</b> <i>went into</i> = <i>entered</i>.",
+          "<b>Từ cần điền:</b> <b>cave</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "clay",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 3 hỏi: những bình chứa này được làm bằng chất liệu gì ('containers made of 3 ______')?",
+            "guide": "Sau 'made of' cần một danh từ chỉ chất liệu làm nên các hũ/bình đựng cuộn giấy.",
+            "bridge": "Cùng nhìn lại câu vừa đọc ở Paragraph 1 nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 1 miêu tả những chiếc bình lớn đó được làm từ chất liệu gì: 'a collection of large ______ jars'?",
+            "guide": "Paragraph 1 viết: 'stumbled across a collection of large clay jars, seven of which contained scrolls...'",
+            "bridge": "'jars' chính là các bình chứa ('containers'). Chất liệu là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Chất liệu đó là gì?",
+            "guide": "Đáp án là 'clay' (đất sét).",
+            "bridge": "Chốt câu 3: clay."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ chất liệu sau cụm <i>made of</i>.",
+          "<b>Paragraph 1 (dòng 5):</b> <i>'...stumbled across a collection of large clay jars, seven of which contained scrolls...'</i>",
+          "<b>Khớp từ:</b> <i>containers</i> = <i>jars</i>; chất liệu làm nên chúng là <i>clay</i>.",
+          "<b>Từ cần điền:</b> <b>clay</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "Essenes",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 4 nói: Các cuộn sách được cho là do một nhóm người có tên là gì viết ra ('group of people known as the 4 ______')?",
+            "guide": "Sau 'the' cần một danh từ riêng chỉ tên của nhóm người/giáo phái thời cổ xưa.",
+            "bridge": "Hãy chuyển sang Paragraph 2 nơi nói về nguồn gốc của các cuộn sách nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Cuối Paragraph 2 nói nhóm người sống ở vùng này thuộc giáo phái nào: 'belonged to a group called the ______'?",
+            "guide": "Paragraph 2 viết: '...and the people are thought to have belonged to a group called the Essenes, a devout Jewish sect.'",
+            "bridge": "'known as the' = 'called the'. Tên của nhóm người này là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tên riêng của nhóm người đó là gì?",
+            "guide": "Đáp án là 'Essenes'.",
+            "bridge": "Chốt câu 4: Essenes."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ riêng chỉ tên nhóm người sau <i>known as the</i>.",
+          "<b>Paragraph 2 (câu cuối):</b> <i>'...the people are thought to have belonged to a group called the Essenes, a devout Jewish sect.'</i>",
+          "<b>Khớp từ:</b> <i>known as</i> = <i>called</i>.",
+          "<b>Từ cần điền:</b> <b>Essenes</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "Hebrew",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Câu 5 nói: Các cuộn giấy chủ yếu được viết bằng ngôn ngữ nào ('written mainly in the 5 ______ language')?",
+            "guide": "Trước từ 'language' cần tên của ngôn ngữ chính được dùng để viết các văn bản.",
+            "bridge": "Hãy đọc ngay câu đầu tiên của Paragraph 3."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 3 nói phần lớn các văn bản trong cuộn giấy được viết bằng thứ tiếng gì?",
+            "guide": "Paragraph 3 viết: 'The majority of the texts on the Dead Sea Scrolls are in Hebrew...'",
+            "bridge": "'The majority of' chính là phần lớn / chủ yếu ('mainly'). Ngôn ngữ đó là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tên ngôn ngữ đó là gì?",
+            "guide": "Đáp án là 'Hebrew' (tiếng Do Thái).",
+            "bridge": "Hoàn thành phần điền từ! Chốt câu 5: Hebrew."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ/tính từ chỉ tên ngôn ngữ trước từ <i>language</i>.",
+          "<b>Paragraph 3 (câu đầu):</b> <i>'The majority of the texts on the Dead Sea Scrolls are in Hebrew...'</i>",
+          "<b>Khớp từ:</b> <i>written mainly in</i> = <i>The majority of the texts... are in</i>.",
+          "<b>Từ cần điền:</b> <b>Hebrew</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The Bedouin teenagers who found the scrolls were disappointed by how little money they received for them.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 6 nói gì? Những thiếu niên người Bedouin tìm thấy các cuộn giấy đã cảm thấy thất vọng ('disappointed') vì nhận được quá ít tiền khi bán chúng.",
+            "guide": "Em cần tìm xem bài đọc có nhắc đến cảm xúc thất vọng hay thái độ của các cậu bé đối với số tiền bán được hay không.",
+            "bridge": "Hãy đọc câu nói về việc bán các cuộn giấy ở Paragraph 1."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 1 nói họ mang bán các cuộn sách như thế nào?",
+            "guide": "Paragraph 1 viết: 'The teenagers took the seven scrolls to a nearby town where they were sold for a small sum to a local antiquities dealer.' (Các thiếu niên mang 7 cuộn giấy đến thị trấn gần đó và bán chúng với một số tiền nhỏ cho một người buôn cổ vật địa phương).",
+            "bridge": "Bài đọc có nói các cậu bé có cảm thấy 'thất vọng' (disappointed) hay không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài chỉ nói chúng được bán với số tiền nhỏ ('a small sum'), hoàn toàn không nói đến cảm xúc của các cậu bé là thất vọng hay hài lòng. Vậy ta chọn đáp án gì?",
+            "guide": "Thiếu thông tin về cảm xúc nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 6: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các thiếu niên tìm thấy cuộn giấy đã thất vọng vì nhận được ít tiền.",
+          "<b>Paragraph 1:</b> <i>'...they were sold for a small sum to a local antiquities dealer.'</i>",
+          "<b>Đối chiếu:</b> Bài đọc chỉ cho biết cuộn giấy được bán với số tiền nhỏ (<i>a small sum</i>), hoàn toàn không đề cập đến cảm xúc của những người bán có thất vọng (<i>disappointed</i>) hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "There is agreement among academics about the origin of the Dead Sea Scrolls.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 7 nói gì? Có sự đồng thuận giữa giới học giả ('agreement among academics') về nguồn gốc xuất xứ của các Cuộn sách Biển Chết.",
+            "guide": "Em hãy kiểm tra xem các học giả đã thống nhất ý kiến hay vẫn còn đang tranh cãi về nguồn gốc của chúng.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 2 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 2 nói nguồn gốc của các cuộn sách hiện nay như thế nào?",
+            "guide": "Paragraph 2 viết: 'The origin of the Dead Sea Scrolls... is still the subject of scholarly debate even today.' (Nguồn gốc của các cuộn sách Biển Chết... đến tận ngày nay vẫn là chủ đề tranh luận của giới học giả).",
+            "bridge": "'scholarly debate' (tranh cãi học thuật) trái ngược hoàn toàn với 'agreement' (sự đồng thuận, nhất trí)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Một bên bảo 'đã đồng thuận', một bên bảo 'vẫn đang tranh luận gay gắt'. Hai ý này đối lập nhau, vậy đáp án là gì?",
+            "guide": "Thông tin phủ định nhau 100%, chọn FALSE.",
+            "bridge": "Chốt câu 7: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Có sự đồng thuận giữa các học giả về nguồn gốc của các cuộn sách.",
+          "<b>Paragraph 2 (câu đầu):</b> <i>'The origin of the Dead Sea Scrolls... is still the subject of scholarly debate even today.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói có sự đồng thuận (<i>agreement</i>) trái ngược hoàn toàn với thực tế là vẫn còn tranh cãi học thuật (<i>scholarly debate</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Most of the books of the Bible written on the scrolls are incomplete.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 8 nói gì? Hầu hết các sách Kinh Thánh được viết trên các cuộn giấy đều không nguyên vẹn / không đầy đủ ('incomplete').",
+            "guide": "Em cần tìm xem các sách Kinh Thánh tìm thấy ở đây là bản thảo hoàn chỉnh hay chỉ là các mảnh rời rạc.",
+            "bridge": "Cùng đọc Paragraph 4 chỗ nói về các sách Cựu Ước (Old Testament)."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 4 miêu tả tình trạng của các sách Kinh Thánh như thế nào?",
+            "guide": "Paragraph 4 viết: các cuộn sách bao gồm các mảnh vỡ ('fragments') từ mọi sách của Cựu Ước... và cuốn sách DUY NHẤT còn nguyên vẹn toàn bộ ('The only entire book... preserved') là sách Isaiah.",
+            "bridge": "Chỉ có đúng một cuốn duy nhất là nguyên vẹn (entire), điều đó có nghĩa là tất cả các cuốn còn lại đều chỉ là mảnh vỡ, tức là không đầy đủ (incomplete)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có trùng khớp hoàn toàn với thực tế được miêu tả trong bài không?",
+            "guide": "Thông tin hoàn toàn chính xác, chọn TRUE.",
+            "bridge": "Chốt câu 8: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Phần lớn các sách Kinh Thánh trên các cuộn giấy đều không trọn vẹn.",
+          "<b>Paragraph 4:</b> <i>'The Dead Sea Scrolls include fragments from every book... The only entire book of the Hebrew Bible preserved among the manuscripts from Qumran is Isaiah...'</i>",
+          "<b>Khớp ý:</b> Chỉ có duy nhất một cuốn sách còn nguyên vẹn (<i>only entire book</i>), các sách khác đều chỉ còn mảnh vỡ (<i>fragments</i>) -> Hầu hết là không trọn vẹn (<i>incomplete</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The information on the Copper Scroll is written in an unusual way.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 9 nói gì? Thông tin trên Cuộn sách Đồng ('Copper Scroll') được viết theo một cách khác thường ('in an unusual way').",
+            "guide": "Em hãy tìm từ khóa 'Copper Scroll' ở Paragraph 5 và xem cách viết văn bản này có gì đặc biệt.",
+            "bridge": "Cùng đọc đoạn giữa của Paragraph 5 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 miêu tả từ vựng và cách viết chính tả của Cuộn sách Đồng như thế nào?",
+            "guide": "Paragraph 5 viết: 'Using an unconventional vocabulary and odd spelling, it describes 64 underground hiding places...' (Sử dụng từ vựng khác thường và cách đánh vần kỳ lạ, nó miêu tả 64 nơi chôn giấu kho báu dưới lòng đất...).",
+            "bridge": "'unconventional vocabulary and odd spelling' chính là được viết theo một cách rất khác thường (unusual way)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Nhận định này có trùng khớp hoàn toàn với bài đọc không?",
+            "guide": "Thông tin hoàn toàn chính xác, chọn TRUE.",
+            "bridge": "Chốt câu 9: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Thông tin trên Cuộn sách Đồng được viết theo một cách kỳ lạ, khác thường.",
+          "<b>Paragraph 5 (dòng 8-9):</b> <i>'Using an unconventional vocabulary and odd spelling, it describes 64 underground hiding places...'</i>",
+          "<b>Khớp từ:</b> <i>written in an unusual way</i> = <i>Using an unconventional vocabulary and odd spelling</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Mar Samuel was given some of the scrolls as a gift.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 10 nói gì? Tổng giám mục Mar Samuel đã được tặng một số cuộn giấy như một món quà ('given some of the scrolls as a gift').",
+            "guide": "Em cần tìm tên riêng 'Mar Samuel' ở Paragraph 6 xem ông ấy có được những cuộn giấy bằng cách nào.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 6."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 nói Mar Samuel có được 4 cuộn giấy như thế nào?",
+            "guide": "Paragraph 6 viết: 'In 1948, a Syrian Orthodox archbishop known as Mar Samuel acquired four of the original seven scrolls from a Jerusalem shoemaker... paying less than $100 for them.' (ông ấy mua 4 cuộn giấy từ một người thợ sửa giày kiêm buôn đồ cổ, và trả chưa tới 100 đô la).",
+            "bridge": "Ông ấy bỏ tiền ra mua (paying less than $100), chứ không phải được tặng làm quà."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo được tặng quà, nhưng bài đọc bảo là bỏ tiền ra mua. Hai thông tin này trái ngược nhau, đúng không?",
+            "guide": "Thông tin bị bác bỏ hoàn toàn nên chọn FALSE.",
+            "bridge": "Chốt câu 10: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Mar Samuel được tặng một số cuộn sách như một món quà.",
+          "<b>Paragraph 6 (dòng 1-3):</b> <i>'...Mar Samuel acquired four of the original seven scrolls from a Jerusalem shoemaker... paying less than $100 for them.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói được tặng quà (<i>as a gift</i>) trái ngược với việc ông ấy phải trả tiền để mua (<i>paying less than $100</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "In the early 1950s, a number of educational establishments in the US were keen to buy scrolls from Mar Samuel.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 11 nói gì? Vào đầu những năm 1950, nhiều cơ sở giáo dục ở Mỹ rất thiết tha / mong muốn ('were keen to buy') mua các cuộn giấy từ Mar Samuel.",
+            "guide": "Em hãy đọc tiếp Paragraph 6 xem các trường đại học ở Mỹ đón nhận lời chào mời của Mar Samuel như thế nào.",
+            "bridge": "Cùng xem chuyến đi Mỹ của Mar Samuel ở dòng 3-4 Paragraph 6."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 nói việc ông ấy chào bán các cuộn giấy cho các trường đại học ở Mỹ diễn ra ra sao?",
+            "guide": "Paragraph 6 viết: 'He then travelled to the United States and unsuccessfully offered them to a number of universities, including Yale.' (ông đến Mỹ và chào bán không thành công cho một số trường đại học, bao gồm cả Yale; sau đó phải đăng quảng cáo trên báo mục đồ tạp nham).",
+            "bridge": "Chào bán thất bại (unsuccessfully offered) chứng tỏ các trường đại học không hề mặn mà hay tha thiết muốn mua."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo các trường học tha thiết mua (were keen to buy), nhưng bài đọc bảo ông ấy chào bán thất bại (unsuccessfully offered). Hai ý này ngược nhau, đúng không?",
+            "guide": "Thông tin đối lập hoàn toàn, chọn FALSE.",
+            "bridge": "Chốt câu 11: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Vào đầu thập niên 1950, nhiều trường học ở Mỹ rất muốn mua các cuộn giấy từ Mar Samuel.",
+          "<b>Paragraph 6 (dòng 3-4):</b> <i>'He then travelled to the United States and unsuccessfully offered them to a number of universities, including Yale.'</i>",
+          "<b>Đối chiếu:</b> Chào bán thất bại (<i>unsuccessfully offered</i>) và phải rao bán trên mục linh tinh của báo kinh doanh chứng tỏ các trường đại học không hề mặn mà muốn mua (<i>were keen to buy</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The scroll that was pieced together in 2017 contains information about annual occasions in the Qumran area 2,000 years ago.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 12 nói gì? Cuộn giấy được ghép lại vào năm 2017 chứa thông tin về các dịp lễ hàng năm ('annual occasions') ở vùng Qumran cách đây 2.000 năm.",
+            "guide": "Em hãy tìm mốc thời gian năm 2017 ở Paragraph 7.",
+            "bridge": "Cùng xem nội dung giải mã của cuộn giấy này nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 7 miêu tả nội dung của cuộn sách ghép năm 2017 viết về những gì?",
+            "guide": "Paragraph 7 viết: 'The scroll names celebrations that indicate shifts in seasons and details two yearly religious events known from another Dead Sea Scroll.' (Cuộn giấy nêu tên các ngày kỷ niệm đánh dấu sự chuyển mùa và chi tiết về hai sự kiện tôn giáo diễn ra hàng năm).",
+            "bridge": "'celebrations that indicate shifts in seasons' và 'two yearly religious events' chính là các dịp lễ kỷ niệm hàng năm (annual occasions)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có trùng khớp hoàn toàn với bài đọc không?",
+            "guide": "Thông tin hoàn toàn chính xác, chọn TRUE.",
+            "bridge": "Chốt câu 12: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Cuộn giấy được ghép lại năm 2017 chứa thông tin về các sự kiện hàng năm ở vùng Qumran.",
+          "<b>Paragraph 7 (dòng 5-7):</b> <i>'The scroll names celebrations that indicate shifts in seasons and details two yearly religious events...'</i>",
+          "<b>Khớp từ:</b> <i>annual occasions</i> = <i>celebrations that indicate shifts in seasons and details two yearly religious events</i> (các dịp lễ chuyển mùa và sự kiện tôn giáo hàng năm).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Academics at the University of Haifa are currently researching how to decipher the final scroll.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 13 nói gì? Các học giả tại Đại học Haifa hiện đang nghiên cứu cách giải mã cuộn giấy cuối cùng ('currently researching how to decipher the final scroll').",
+            "guide": "Em hãy đọc câu cuối cùng của Paragraph 7 nói về cuộn sách cuối cùng.",
+            "bridge": "Cùng xem bài đọc nói gì về cuộn sách này nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Câu cuối của Paragraph 7 nói gì về cuộn sách còn lại?",
+            "guide": "Paragraph 7 chỉ viết: 'Only one more known scroll remains untranslated.' (Chỉ còn duy nhất một cuộn sách được biết đến là chưa được dịch).",
+            "bridge": "Bài có nói rõ các học giả ở Đại học Haifa có đang nghiên cứu dịch cuộn sách đó hay không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài chỉ nói còn một cuộn chưa được dịch, hoàn toàn không nói ai đang dịch hay Đại học Haifa có đang nghiên cứu nó không. Vậy đáp án là gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các học giả tại Đại học Haifa hiện đang nghiên cứu giải mã cuộn sách cuối cùng.",
+          "<b>Paragraph 7 (câu cuối):</b> <i>'Only one more known scroll remains untranslated.'</i> (Chỉ còn đúng một cuộn sách được biết tới là chưa được dịch).",
+          "<b>Đối chiếu:</b> Bài đọc hoàn toàn không nhắc tới việc các học giả ở Đại học Haifa có đang tiến hành nghiên cứu để dịch cuộn này hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}
