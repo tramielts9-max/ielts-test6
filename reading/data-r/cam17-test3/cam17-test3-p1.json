@@ -1,0 +1,506 @@
+{
+  "title": "IELTS Academic 17 - Test 3 - Passage 1: The thylacine",
+  "answers": {
+    "q1": "carnivorous",
+    "q2": "scent",
+    "q3": "pouch",
+    "q4": "fossil",
+    "q5": "habitat",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN",
+    "q11": "FALSE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>The thylacine</h3><p><strong>Paragraph 1.</strong> The extinct thylacine, also known as the Tasmanian tiger, was a marsupial* that bore a superficial resemblance to a dog. Its most distinguishing feature was the 13–19 dark brown stripes over its back, beginning at the rear of the body and extending onto the tail. The thylacine’s average nose-to-tail length for adult males was 162.6 cm, compared to 153.7 cm for females.</p><p><strong>Paragraph 2.</strong> The thylacine appeared to occupy most types of terrain except dense rainforest, with open eucalyptus forest thought to be its prime habitat. In terms of feeding, it was exclusively <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">carnivorous</span></span>, and its stomach was muscular with an ability to distend so that it could eat large amounts of food at one time, probably an adaptation to compensate for long periods when hunting was unsuccessful and food scarce. The thylacine was not a fast runner and probably caught its prey by exhausting it during a long pursuit. During long-distance chases, thylacines were likely to have relied more on <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">scent</span></span> than any other sense. They emerged to hunt during the evening, night and early morning and tended to retreat to the hills and forest for shelter during the day. Despite the common name ‘tiger’, the thylacine had a shy, nervous temperament. Although mainly nocturnal, it was sighted moving during the day and some individuals were even recorded basking in the sun.</p><p><strong>Paragraph 3.</strong> The thylacine had an extended breeding season from winter to spring, with indications that some breeding took place throughout the year. The thylacine, like all marsupials, was tiny and hairless when born. Newborns crawled into the <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">pouch</span></span> on the belly of their mother, and attached themselves to one of the four teats, remaining there for up to three months. When old enough to leave the pouch, the young stayed in a lair such as a deep rocky cave, well-hidden nest or hollow log, whilst the mother hunted.</p><p><strong>Paragraph 4.</strong> Approximately 4,000 years ago, the thylacine was widespread throughout New Guinea and most of mainland Australia, as well as the island of Tasmania. The most recent, well-dated occurrence of a thylacine on the mainland is a carbon-dated <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">fossil</span></span> from Murray Cave in Western Australia, which is around 3,100 years old. Its extinction coincided closely with the arrival of wild dogs called dingoes in Australia and a similar predator in New Guinea. Dingoes never reached Tasmania, and most scientists see this as the main reason for the thylacine’s survival there.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">The dramatic decline of the thylacine in Tasmania, which began in the 1830s and continued for a century, is generally attributed to the relentless efforts of sheep farmers and bounty hunters** with shotguns. While this determined campaign undoubtedly played a large part</span>, it is likely that various other factors also contributed to the decline and eventual extinction of the species. These include competition with wild dogs introduced by European settlers, loss of <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">habitat</span></span> along with the disappearance of prey species, and a distemper-like disease which may also have affected the thylacine.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">There was only one successful attempt to breed a thylacine in captivity, at Melbourne Zoo in 1899</span>. This was despite the large numbers that went through some zoos, particularly London Zoo and Tasmania’s Hobart Zoo. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The famous naturalist John Gould foresaw the thylacine’s demise when he published his Mammals of Australia between 1848 and 1863</span>, writing, ‘The numbers of this singular animal will speedily diminish, extermination will have its full sway, and it will then, like the wolf of England and Scotland, be recorded as an animal of the past.’</p><p><strong>Paragraph 7.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">However, there seems to have been little public pressure to preserve the thylacine, nor was much concern expressed by scientists at the decline of this species in the decades that followed</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">A notable exception was T.T. Flynn, Professor of Biology at the University of Tasmania. In 1914, he was sufficiently concerned about the scarcity of the thylacine to suggest that some should be captured and placed on a small island</span>. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">But it was not until 1929, with the species on the very edge of extinction, that Tasmania’s Animals and Birds Protection Board passed a motion protecting thylacines only for the month of December</span>, which was thought to be their prime breeding season. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">The last known wild thylacine to be killed was shot by a farmer in the north-east of Tasmania in 1930, leaving just captive specimens. Official protection of the species by the Tasmanian government was introduced in July 1936, 59 days before the last known individual died in Hobart Zoo on 7th September, 1936</span>.</p><p><strong>Paragraph 8.</strong> <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">There have been numerous expeditions and searches for the thylacine over the years, none of which has produced definitive evidence that thylacines still exist. The species was declared extinct by the Tasmanian government in 1986</span>.</p><p><em>* marsupial: a mammal, such as a kangaroo, whose young are born incompletely developed and are typically carried and suckled in a pouch on the mother’s belly<br>** bounty hunters: people who are paid a reward for killing a wild animal</em></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–5 on your answer sheet.</i>",
+      "noteTitle": "The thylacine",
+      "questionIds": ["q1", "q2", "q3", "q4", "q5"],
+      "template": "<p><b>Appearance and behaviour</b></p><ul><li style=\"margin-bottom: 12px;\">looked rather like a dog</li><li style=\"margin-bottom: 12px;\">had a series of stripes along its body and tail</li><li style=\"margin-bottom: 12px;\">ate an entirely <b>1.</b> {{q1}} diet</li><li style=\"margin-bottom: 12px;\">probably depended mainly on <b>2.</b> {{q2}} when hunting</li><li style=\"margin-bottom: 12px;\">young spent first months of life inside its mother’s <b>3.</b> {{q3}}</li></ul><p><b>Decline and extinction</b></p><ul><li style=\"margin-bottom: 12px;\">last evidence in mainland Australia is a 3,100-year-old <b>4.</b> {{q4}}</li><li style=\"margin-bottom: 12px;\">probably went extinct in mainland Australia due to animals known as dingoes</li><li style=\"margin-bottom: 12px;\">reduction in <b>5.</b> {{q5}} and available sources of food were partly responsible for decline in Tasmania</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "title": "Questions 6–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 6–13 on your answer sheet, write:<br><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</i>",
+      "questionIds": ["q6", "q7", "q8", "q9", "q10", "q11", "q12", "q13"]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "carnivorous",
+      "inputWidth": "140px",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 1 nói: Thylacine có một chế độ ăn hoàn toàn như thế nào ('ate an entirely 1 ______ diet')?",
+            "guide": "Sau trạng từ 'entirely' và trước danh từ 'diet' cần một tính từ miêu tả thói quen ăn uống (ăn cỏ hay ăn thịt).",
+            "bridge": "Hãy tìm câu nói về việc ăn uống ('feeding') ở đầu Paragraph 2."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 2 miêu tả chế độ ăn uống của thylacine như thế nào?",
+            "guide": "Paragraph 2 viết: 'In terms of feeding, it was exclusively carnivorous...' (Về mặt ăn uống, nó hoàn toàn là loài ăn thịt).",
+            "bridge": "'exclusively' tương đương với 'entirely' (hoàn toàn). Tính từ đi kèm là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tính từ chỉ việc ăn thịt trong bài là gì?",
+            "guide": "Đáp án là 'carnivorous'.",
+            "bridge": "Chốt câu 1: carnivorous."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần tính từ đứng trước danh từ <i>diet</i>.",
+          "<b>Paragraph 2 (dòng 2):</b> <i>'In terms of feeding, it was exclusively carnivorous...'</i>",
+          "<b>Khớp từ:</b> <i>entirely</i> = <i>exclusively</i>; từ cần điền là <i>carnivorous</i>.",
+          "<b>Từ cần điền:</b> <b>carnivorous</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "scent",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 2 nói: Khi đi săn, loài này chủ yếu dựa vào giác quan nào ('depended mainly on 2 ______ when hunting')?",
+            "guide": "Sau giới từ 'on' cần một danh từ chỉ giác quan (thị giác, khứu giác/mùi hương...).",
+            "bridge": "Hãy đọc tiếp đoạn giữa của Paragraph 2 về quá trình săn mồi."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 2 nói khi rượt đuổi con mồi đường dài, thylacine dựa vào giác quan nào nhiều hơn bất kỳ giác quan nào khác?",
+            "guide": "Paragraph 2 viết: 'During long-distance chases, thylacines were likely to have relied more on scent than any other sense.'",
+            "bridge": "'relied more on ... than any other sense' chính là chủ yếu dựa vào giác quan đó ('depended mainly on')."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ mùi hương/khứu giác trong bài là gì?",
+            "guide": "Đáp án là 'scent'.",
+            "bridge": "Chốt câu 2: scent."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ chỉ giác quan sau giới từ <i>on</i>.",
+          "<b>Paragraph 2 (dòng 5-6):</b> <i>'...thylacines were likely to have relied more on scent than any other sense.'</i>",
+          "<b>Khớp từ:</b> <i>depended mainly on</i> = <i>relied more on... than any other sense</i>.",
+          "<b>Từ cần điền:</b> <b>scent</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "pouch",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 3 nói: Con non trải qua những tháng đầu đời bên trong bộ phận nào của mẹ ('inside its mother's 3 ______')?",
+            "guide": "Sau sở hữu cách 'mother's' cần một danh từ chỉ bộ phận mang con của thú có túi.",
+            "bridge": "Hãy đọc Paragraph 3 nơi nói về con non mới sinh nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 3 nói con non mới sinh bò vào đâu trên bụng mẹ và ở đó suốt 3 tháng?",
+            "guide": "Paragraph 3 viết: 'Newborns crawled into the pouch on the belly of their mother, and attached themselves to one of the four teats, remaining there for up to three months.'",
+            "bridge": "Con non ở trong chiếc túi trên bụng mẹ suốt 3 tháng đầu đời."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ chiếc túi của thú có túi là gì?",
+            "guide": "Đáp án là 'pouch'.",
+            "bridge": "Chốt câu 3: pouch."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau sở hữu cách <i>mother's</i>.",
+          "<b>Paragraph 3 (dòng 2-4):</b> <i>'Newborns crawled into the pouch on the belly of their mother... remaining there for up to three months.'</i>",
+          "<b>Từ cần điền:</b> <b>pouch</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "fossil",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 4 nói: Bằng chứng cuối cùng về thylacine ở đại lục Úc là một cái gì có niên đại 3.100 năm tuổi ('a 3,100-year-old 4 ______')?",
+            "guide": "Sau tính từ chỉ độ tuổi '3,100-year-old' cần một danh từ chỉ di tích/di cốt khảo cổ học.",
+            "bridge": "Hãy tìm mốc thời gian 3.100 năm ('3,100 years old') ở Paragraph 4."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 4 nhắc đến bằng chứng niên đại 3.100 năm tìm thấy ở hang Murray là gì?",
+            "guide": "Paragraph 4 viết: 'The most recent, well-dated occurrence of a thylacine on the mainland is a carbon-dated fossil from Murray Cave in Western Australia, which is around 3,100 years old.'",
+            "bridge": "Di tích có tuổi đời 3.100 năm chính là một mẫu hóa thạch."
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ hóa thạch trong bài là gì?",
+            "guide": "Đáp án là 'fossil'.",
+            "bridge": "Chốt câu 4: fossil."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ số ít sau cụm tính từ <i>3,100-year-old</i>.",
+          "<b>Paragraph 4 (dòng 2-3):</b> <i>'...a carbon-dated fossil from Murray Cave in Western Australia, which is around 3,100 years old.'</i>",
+          "<b>Từ cần điền:</b> <b>fossil</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "habitat",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ loại và nội dung",
+            "question": "Câu 5 nói: Sự suy giảm về cái gì ('reduction in 5 ______') cùng với nguồn thức ăn đã góp phần làm suy giảm thylacine ở Tasmania?",
+            "guide": "Sau 'reduction in' cần một danh từ chỉ môi trường sống bị thu hẹp hoặc mất đi.",
+            "bridge": "Hãy tìm các nguyên nhân gây suy giảm ở Paragraph 5."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph 5 liệt kê các yếu tố khiến thylacine biến mất bao gồm mất cái gì cùng với con mồi?",
+            "guide": "Paragraph 5 viết: '...loss of habitat along with the disappearance of prey species...'",
+            "bridge": "'loss of' chính là 'reduction in' (sự mất mát/suy giảm). Yếu tố bị mất đi là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ môi trường sống trong bài là gì?",
+            "guide": "Đáp án là 'habitat'.",
+            "bridge": "Hoàn thành phần điền từ! Chốt câu 5: habitat."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau cụm <i>reduction in</i>.",
+          "<b>Paragraph 5 (dòng 5):</b> <i>'...loss of habitat along with the disappearance of prey species...'</i>",
+          "<b>Khớp từ:</b> <i>reduction in</i> = <i>loss of</i>; từ cần điền là <i>habitat</i>.",
+          "<b>Từ cần điền:</b> <b>habitat</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Significant numbers of thylacines were killed by humans from the 1830s onwards.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 6 nói gì? Một số lượng lớn thylacine ('Significant numbers of thylacines') đã bị con người giết hại từ những năm 1830 trở đi ('from the 1830s onwards').",
+            "guide": "Em cần kiểm tra xem từ thập niên 1830 có phải người ta đã săn bắn và tiêu diệt loài này rất nhiều không.",
+            "bridge": "Cùng đọc câu đầu tiên của Paragraph 5 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 5 miêu tả sự suy giảm của thylacine từ năm 1830 do ai gây ra?",
+            "guide": "Paragraph 5 viết: 'The dramatic decline of the thylacine in Tasmania, which began in the 1830s and continued for a century, is generally attributed to the relentless efforts of sheep farmers and bounty hunters with shotguns. While this determined campaign undoubtedly played a large part...' (Sự suy giảm nghiêm trọng bắt đầu từ những năm 1830... bắt nguồn từ những nỗ lực không ngừng nghỉ của người chăn cừu và thợ săn tiền thưởng với súng săn).",
+            "bridge": "Bị người nuôi cừu và thợ săn bắn giết hàng loạt suốt một thế kỷ chứng minh một lượng lớn cá thể đã bị con người tiêu diệt."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có trùng khớp hoàn toàn với bài đọc không?",
+            "guide": "Thông tin hoàn toàn chính xác, chọn TRUE.",
+            "bridge": "Chốt câu 6: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Một lượng lớn thylacine đã bị con người giết hại từ thập niên 1830 trở đi.",
+          "<b>Paragraph 5 (dòng 1-3):</b> <i>'The dramatic decline of the thylacine in Tasmania, which began in the 1830s... is generally attributed to the relentless efforts of sheep farmers and bounty hunters with shotguns.'</i>",
+          "<b>Khớp ý:</b> Thợ săn và người chăn cừu dùng súng săn tiêu diệt suốt 1 thế kỷ bắt đầu từ 1830 khiến số lượng giảm nghiêm trọng -> Khớp hoàn toàn.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Several thylacines were born in zoos during the late 1800s.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 7 nói gì? Có VÀI CON thylacine ('Several thylacines') được sinh ra trong các sở thú vào cuối những năm 1800. Chú ý số lượng 'several'.",
+            "guide": "Em cần kiểm tra xem trong giai đoạn cuối thế kỷ 19, có bao nhiêu con thylacine được sinh ra thành công trong điều kiện nuôi nhốt.",
+            "bridge": "Hãy đọc câu đầu tiên của Paragraph 6."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 nói có bao nhiêu nỗ lực nhân giống thành công trong sở thú?",
+            "guide": "Paragraph 6 viết: 'There was only one successful attempt to breed a thylacine in captivity, at Melbourne Zoo in 1899.' (CHỈ CÓ DUY NHẤT MỘT nỗ lực nhân giống thành công trong môi trường nuôi nhốt, tại Sở thú Melbourne vào năm 1899).",
+            "bridge": "'only one' (chỉ duy nhất một) đối lập hoàn toàn với 'several' (nhiều/vài con)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo có 'vài con' được sinh ra, nhưng bài đọc khẳng định chỉ có 'duy nhất một' lần nhân giống thành công. Vậy đáp án là gì?",
+            "guide": "Thông tin trái ngược nhau nên chọn FALSE.",
+            "bridge": "Chốt câu 7: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Vài con thylacine đã được sinh ra trong sở thú vào cuối những năm 1800.",
+          "<b>Paragraph 6 (dòng 1):</b> <i>'There was only one successful attempt to breed a thylacine in captivity, at Melbourne Zoo in 1899.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói có vài con (<i>several</i>), bài đọc khẳng định chỉ có duy nhất một lần sinh sản thành công (<i>only one</i>). Hai thông tin phủ định nhau.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "John Gould’s prediction about the thylacine surprised some biologists.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích từ khóa nhận định",
+            "question": "Câu 8 nói gì? Lời dự đoán của nhà tự nhiên học John Gould về loài thylacine đã làm một số nhà sinh vật học ngạc nhiên ('surprised some biologists').",
+            "guide": "Em cần tìm xem bài đọc có nhắc đến phản ứng ngạc nhiên của các nhà sinh vật học trước lời tiên đoán của John Gould hay không.",
+            "bridge": "Hãy quét tên riêng 'John Gould' ở Paragraph 6."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 trích dẫn lời dự đoán của John Gould như thế nào?",
+            "guide": "Bài viết: John Gould đã nhìn thấy trước sự diệt vong của thylacine khi viết rằng số lượng loài này sẽ nhanh chóng suy giảm và trở thành một loài động vật của quá khứ.",
+            "bridge": "Bài có nói lời tiên đoán này có làm các nhà sinh vật học khác ngạc nhiên không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài đọc chỉ trích dẫn lời John Gould chứ không hề nhắc đến việc các nhà sinh vật học có ngạc nhiên hay không. Vậy đáp án là gì?",
+            "guide": "Không có thông tin đối chiếu nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 8: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Dự đoán của John Gould về thylacine làm một số nhà sinh vật học ngạc nhiên.",
+          "<b>Paragraph 6:</b> Tác giả kể John Gould đã dự báo trước sự diệt vong của loài thylacine trong cuốn sách của mình.",
+          "<b>Đối chiếu:</b> Hoàn toàn không có thông tin nào về phản ứng của các nhà sinh vật học (liệu họ có ngạc nhiên hay không - <i>surprised some biologists</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "In the early 1900s, many scientists became worried about the possible extinction of the thylacine.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 9 nói gì? Vào đầu những năm 1900, NHIỀU NHÀ KHOA HỌC đã bắt đầu lo lắng ('many scientists became worried') về nguy cơ tuyệt chủng của thylacine.",
+            "guide": "Em hãy đọc câu đầu tiên của Paragraph 7 xem giới khoa học lúc đó có lo lắng nhiều hay không.",
+            "bridge": "Cùng xem mức độ quan tâm của các nhà khoa học nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 7 nói gì về sự lo lắng của các nhà khoa học trong những thập kỷ sau đó?",
+            "guide": "Paragraph 7 viết: '...nor was much concern expressed by scientists at the decline of this species in the decades that followed. A notable exception was T.T. Flynn...' (cũng chẳng có mấy sự lo ngại nào được các nhà khoa học bày tỏ... Một ngoại lệ đáng chú ý là giáo sư T.T. Flynn).",
+            "bridge": "'nor was much concern expressed by scientists' (không có mấy lo ngại từ các nhà khoa học) trái ngược hoàn toàn với 'many scientists became worried' (nhiều nhà khoa học lo lắng)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài đọc bảo các nhà khoa học gần như không bận tâm (ngoại trừ một ông Flynn), còn câu hỏi bảo 'nhiều nhà khoa học lo lắng'. Vậy đáp án là gì?",
+            "guide": "Thông tin đối lập 100%, chọn FALSE.",
+            "bridge": "Chốt câu 9: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Đầu những năm 1900, nhiều nhà khoa học lo lắng về nguy cơ tuyệt chủng của thylacine.",
+          "<b>Paragraph 7 (dòng 1-2):</b> <i>'...nor was much concern expressed by scientists at the decline of this species in the decades that followed. A notable exception was T.T. Flynn...'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói có nhiều nhà khoa học lo lắng (<i>many scientists became worried</i>), nhưng bài đọc nói hầu như không ai quan tâm, chỉ có một ngoại lệ duy nhất. Hai thông tin trái ngược nhau.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "T. T. Flynn’s proposal to rehome captive thylacines on an island proved to be impractical.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích từ khóa nhận định",
+            "question": "Câu 10 nói gì? Đề xuất của T. T. Flynn về việc đưa thylacine lên nuôi trên một hòn đảo nhỏ đã bị chứng minh là không thực tế ('proved to be impractical').",
+            "guide": "Em cần tìm xem đề xuất của ông Flynn có bị coi là viển vông hay không thực tế không.",
+            "bridge": "Hãy tìm tên riêng 'T.T. Flynn' ở Paragraph 7."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 7 kể gì về đề xuất của ông Flynn vào năm 1914?",
+            "guide": "Bài viết: Vào năm 1914, ông Flynn lo ngại trước sự khan hiếm của loài này nên đề xuất bắt một số con đưa lên đảo nhỏ sinh sống.",
+            "bridge": "Bài có nói đề xuất này sau đó có được thực hiện không, hoặc có ai đánh giá nó là 'không thực tế' (impractical) không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài chỉ nêu ra đề xuất của ông ấy mà không hề nói đề xuất đó có bị chứng minh là không thực tế hay không. Vậy đáp án là gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 10: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Đề xuất của T. T. Flynn về việc đưa thylacine lên đảo bị cho là không thực tế.",
+          "<b>Paragraph 7:</b> <i>'In 1914, he was sufficiently concerned about the scarcity of the thylacine to suggest that some should be captured and placed on a small island.'</i>",
+          "<b>Đối chiếu:</b> Bài đọc chỉ nhắc đến việc ông Flynn đưa ra ý tưởng đó, hoàn toàn không nói ý tưởng này có bị coi là không thực tế (<i>proved to be impractical</i>) hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "There were still reasonable numbers of thylacines in existence when a piece of legislation protecting the species during their breeding season was passed.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 11 nói gì? Vẫn còn MỘT SỐ LƯỢNG KHA KHÁ thylacine ('reasonable numbers of thylacines') khi đạo luật bảo vệ chúng trong mùa sinh sản được thông qua.",
+            "guide": "Em cần tìm xem vào năm 1929 khi luật bảo vệ vào tháng 12 được thông qua, số lượng thylacine lúc đó còn nhiều hay sắp tuyệt chủng.",
+            "bridge": "Hãy tìm mốc năm 1929 ở Paragraph 7."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 7 miêu tả tình trạng số lượng của thylacine vào năm 1929 như thế nào?",
+            "guide": "Paragraph 7 viết: 'But it was not until 1929, with the species on the very edge of extinction, that Tasmania’s Animals and Birds Protection Board passed a motion protecting thylacines only for the month of December...'",
+            "bridge": "'on the very edge of extinction' (đang bên bờ vực tuyệt chủng) đối lập hoàn toàn với 'still reasonable numbers' (vẫn còn một số lượng kha khá).",
+            "answer": "on the very edge of extinction"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Khi luật ra đời thì loài này đã cận kề tuyệt chủng chứ không hề còn số lượng kha khá. Vậy đáp án là gì?",
+            "guide": "Thông tin trái ngược 100%, chọn FALSE.",
+            "bridge": "Chốt câu 11: FALSE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Vẫn còn số lượng tương đối thylacine tồn tại khi đạo luật bảo vệ mùa sinh sản được ban hành.",
+          "<b>Paragraph 7 (dòng 5-6):</b> <i>'But it was not until 1929, with the species on the very edge of extinction, that Tasmania’s Animals and Birds Protection Board passed a motion protecting thylacines...'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói vẫn còn số lượng kha khá (<i>reasonable numbers</i>), nhưng bài đọc khẳng định lúc đó loài này đã cận kề bờ vực tuyệt chủng (<i>on the very edge of extinction</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "From 1930 to 1936, the only known living thylacines were all in captivity.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 12 nói gì? Từ năm 1930 đến năm 1936, những cá thể thylacine sống sót duy nhất được biết đến đều nằm trong điều kiện nuôi nhốt ('all in captivity').",
+            "guide": "Em cần kiểm tra xem sau năm 1930 có còn con thylacine hoang dã nào ngoài tự nhiên không.",
+            "bridge": "Hãy tìm mốc năm 1930 và 1936 ở cuối Paragraph 7."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 7 nói gì về con thylacine hoang dã cuối cùng bị bắn vào năm 1930?",
+            "guide": "Paragraph 7 viết: 'The last known wild thylacine to be killed was shot by a farmer in the north-east of Tasmania in 1930, leaving just captive specimens... before the last known individual died in Hobart Zoo on 7th September, 1936.' (Con thylacine hoang dã cuối cùng bị bắn năm 1930, chỉ còn lại các cá thể nuôi nhốt... trước khi cá thể cuối cùng chết tại Sở thú Hobart vào năm 1936).",
+            "bridge": "Từ sau con hoang dã bị bắn năm 1930 đến khi con cuối cùng chết ở sở thú năm 1936, chỉ còn lại những con trong sở thú (captive specimens)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có trùng khớp hoàn toàn với bài đọc không?",
+            "guide": "Thông tin hoàn toàn chính xác, chọn TRUE.",
+            "bridge": "Chốt câu 12: TRUE."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Từ 1930 đến 1936, những con thylacine sống duy nhất đều ở trong tình trạng nuôi nhốt.",
+          "<b>Paragraph 7 (cuối đoạn):</b> Con thylacine ngoài tự nhiên cuối cùng bị bắn chết năm 1930, <i>'leaving just captive specimens'</i> (chỉ còn lại các cá thể nuôi nhốt) cho tới khi con cuối cùng qua đời ở Sở thú Hobart năm 1936.",
+          "<b>Khớp ý:</b> Đúng là trong khoảng thời gian 1930–1936 chỉ còn cá thể nuôi nhốt tồn tại.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Attempts to find living thylacines are now rarely made.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích từ khóa nhận định",
+            "question": "Câu 13 nói gì? Những nỗ lực tìm kiếm thylacine còn sống ngày nay RẤT HIẾM KHI được thực hiện ('are now rarely made').",
+            "guide": "Em cần tìm xem bài đọc có nhắc đến việc ngày nay người ta có còn thường xuyên đi tìm kiếm loài này hay không.",
+            "bridge": "Cùng đọc Paragraph 8 (Paragraph cuối cùng) nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 nói gì về các cuộc tìm kiếm thylacine?",
+            "guide": "Paragraph 8 viết: 'There have been numerous expeditions and searches for the thylacine over the years, none of which has produced definitive evidence that thylacines still exist.' (Đã có rất nhiều chuyến thám hiểm và tìm kiếm thylacine trong nhiều năm qua, nhưng không chuyến nào mang lại bằng chứng chắc chắn).",
+            "bridge": "Bài chỉ nói đã có nhiều chuyến tìm kiếm trong nhiều năm, có câu nào nói rằng 'ngày nay người ta rất hiếm khi tìm kiếm' không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài không hề nói về tần suất tìm kiếm ở thời điểm hiện tại ('now rarely made'). Vậy ta chọn đáp án gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các nỗ lực tìm kiếm thylacine sống sót hiện nay rất hiếm khi diễn ra.",
+          "<b>Paragraph 8:</b> <i>'There have been numerous expeditions and searches for the thylacine over the years, none of which has produced definitive evidence that thylacines still exist.'</i>",
+          "<b>Đối chiếu:</b> Bài đọc chỉ cho biết đã có nhiều cuộc tìm kiếm trong nhiều năm qua, hoàn toàn không có thông tin về việc hiện nay các nỗ lực này có diễn ra hiếm hoi hay không (<i>now rarely made</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}
