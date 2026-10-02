@@ -1,0 +1,553 @@
+{
+  "title": "IELTS Academic 17 - Test 2 - Passage 2: A second attempt at domesticating the tomato",
+  "answers": {
+    "q14": "C",
+    "q15": "B",
+    "q16": "E",
+    "q17": "A",
+    "q18": "C",
+    "q19": "B",
+    "q20": "D",
+    "q21": "A",
+    "q22": "C",
+    "q23": "A",
+    "q24": "flavour",
+    "q25": "size",
+    "q26": "salt"
+  },
+  "passageHtml": "<h2>READING PASSAGE 2</h2><h3>A second attempt at domesticating the tomato</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">It took at least 3,000 years for humans to learn how to domesticate the wild tomato and cultivate it for food. Now two separate teams in Brazil and China have done it all over again in less than three years. And they have done it better in some ways, as the re-domesticated tomatoes are more nutritious than the ones we eat at present</span>.<br><br>This approach relies on the revolutionary CRISPR genome editing technique, in which changes are deliberately made to the DNA of a living cell, allowing genetic material to be added, removed or altered. The technique could not only improve existing crops, but could also be used to turn thousands of wild plants into useful and appealing foods. In fact, a third team in the US has already begun to do this with a relative of the tomato called the groundcherry.<br><br>This fast-track domestication could help make the world's food supply healthier and far more resistant to diseases, such as the rust fungus devastating wheat crops.<br><br>'This could transform what we eat,' says Jorg Kudla at the University of Munster in Germany, a member of the Brazilian team. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">'There are 50,000 edible plants in the world, but 90 percent of our energy comes from just 15 crops.'</span><br><br>'We can now mimic the known domestication course of major crops like rice, maize, sorghum or others,' says Caixia Gao of the Chinese Academy of Sciences in Beijing. 'Then we might try to domesticate plants that have never been domesticated.'</p><p><strong>Paragraph B.</strong> Wild tomatoes, which are native to the Andes region in South America, produce pea-sized fruits. Over many generations, peoples such as the Aztecs and Incas transformed the plant by selecting and breeding plants with mutations* in their genetic structure, which resulted in desirable traits such as larger fruit.<br><br><span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">But every time a single plant with a mutation is taken from a larger population for breeding, much genetic diversity is lost. And sometimes the desirable mutations come with less desirable traits. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">For instance, the tomato strains grown for supermarkets have lost much of their <span class=\"kw\">flavour</span></span></span>.<br><br>By comparing the genomes of modern plants to those of their wild relatives, biologists have been working out what genetic changes occurred as plants were domesticated. The teams in Brazil and China have now used this knowledge to reintroduce these changes from scratch while maintaining or even enhancing the desirable traits of wild strains.</p><p><strong>Paragraph C.</strong> Kudla's team made six changes altogether. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">For instance, they tripled the <span class=\"kw\">size</span> of fruit by editing a gene called FRUIT WEIGHT</span>, and increased the number of tomatoes per truss by editing another called MULTIFLORA.<br><br>While the historical domestication of tomatoes reduced levels of the red pigment lycopene – thought to have potential health benefits – the team in Brazil managed to boost it instead. The wild tomato has twice as much lycopene as cultivated ones; the newly domesticated one has five times as much.<br><br><span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">'They are quite tasty,' says Kudla. 'A little bit strong. And very aromatic.'</span><br><br>The team in China re-domesticated several strains of wild tomatoes with desirable traits lost in domesticated tomatoes. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">In this way they managed to create a strain resistant to a common disease called bacterial spot race, which can devastate yields</span>. <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">They also created another strain that is more <span class=\"kw\">salt</span> tolerant – and has higher levels of vitamin C</span>.</p><p><strong>Paragraph D.</strong> Meanwhile, Joyce Van Eck at the Boyce Thompson Institute in New York state decided to use the same approach to domesticate the groundcherry or goldenberry (Physalis pruinosa) for the first time. This fruit looks similar to the closely related Cape gooseberry (Physalis peruviana).<br><br>Groundcherries are already sold to a limited extent in the US but they are hard to produce because the plant has a sprawling growth habit and the small fruits fall off the branches when ripe. Van Eck's team has edited the plants to increase fruit size, make their growth more compact and to stop fruits dropping. 'There's potential for this to be a commercial crop,' says Van Eck. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">But she adds that taking the work further would be expensive because of the need to pay for a licence for the CRISPR technology and get regulatory approval</span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">This approach could boost the use of many obscure plants, says Jonathan Jones of the Sainsbury Lab in the UK. But it will be hard for new foods to grow so popular with farmers and consumers that they become new staple crops, he thinks</span>.<br><br><span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">The three teams already have their eye on other plants that could be 'catapulted into the mainstream', including foxtail, oat-grass and cowpea</span>. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">By choosing wild plants that are drought or heat tolerant, says Gao, we could create crops that will thrive even as the planet warms</span>.<br><br><span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">But Kudla didn't want to reveal which species were in his team's sights, because CRISPR has made the process so easy. 'Any one with the right skills could go to their lab and do this.'</span></p><p><em>* mutations: changes in an organism's genetic structure that can be passed down to later generations</em></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "title": "Questions 14-18",
+      "instructions": "<i>Reading Passage 2 has five sections, <b>A-E</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A-E</b>, in boxes 14-18 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i>",
+      "questionIds": ["q14", "q15", "q16", "q17", "q18"]
+    },
+    {
+      "id": "g2",
+      "type": "matching_names",
+      "title": "Questions 19-23",
+      "instructions": "<i>Look at the following statements (Questions 19-23) and the list of researchers below.<br>Match each statement with the correct researcher, <b>A-D</b>.<br>Write the correct letter, <b>A-D</b>, in boxes 19-23 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of Researchers:</b><br><b>A.</b> Jorg Kudla<br><b>B.</b> Caixia Gao<br><b>C.</b> Joyce Van Eck<br><b>D.</b> Jonathan Jones",
+      "questionIds": ["q19", "q20", "q21", "q22", "q23"]
+    },
+    {
+      "id": "g3",
+      "type": "sentence_completion",
+      "title": "Questions 24-26",
+      "instructions": "<i>Complete the sentences below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 24-26 on your answer sheet.</i>",
+      "questionIds": ["q24", "q25", "q26"]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "a reference to a type of tomato that can resist a dangerous infection",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q14",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 14 hỏi về điều gì? Hãy chú ý cụm: một giống cà chua có thể kháng lại bệnh nhiễm khuẩn nguy hiểm ('resist a dangerous infection').",
+            "guide": "Em cần tìm xem Paragraph nào nhắc đến giống cà chua có khả năng chống chọi một căn bệnh phá hoại mùa màng.",
+            "bridge": "Mình cùng đọc Paragraph C chỗ nói về kết quả nghiên cứu của nhóm các nhà khoa học Trung Quốc nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph C nói nhóm nghiên cứu ở Trung Quốc đã tạo ra giống cà chua kháng được bệnh gì?",
+            "guide": "Paragraph C viết: 'In this way they managed to create a strain resistant to a common disease called bacterial spot race, which can devastate yields.' (Họ đã tạo ra một giống kháng lại một căn bệnh phổ biến tên là bệnh đốm vi khuẩn, vốn có thể tàn phá năng suất).",
+            "bridge": "'resistant to a disease called bacterial spot race' chính là có thể kháng lại sự lây nhiễm nguy hiểm."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy thông tin về giống cà chua kháng bệnh nằm ở Paragraph nào?",
+            "guide": "Đáp án là Paragraph C.",
+            "bridge": "Chốt câu 14: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Nhắc đến một giống cà chua có khả năng kháng lại căn bệnh nhiễm khuẩn nguy hiểm.",
+          "<b>Paragraph C (đoạn cuối):</b> <i>'...create a strain resistant to a common disease called bacterial spot race, which can devastate yields.'</i>",
+          "<b>Khớp từ:</b> <i>resist a dangerous infection</i> = <i>resistant to a common disease... which can devastate yields</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "an explanation of how problems can arise from focusing only on a certain type of tomato plant",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "B",
+      "highlightId": "hl-q15",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 15 muốn tìm thông tin gì? Hãy chú ý ý: giải thích về việc những rắc rối/vấn đề có thể nảy sinh khi chỉ tập trung vào một loại cây cà chua nhất định ('focusing only on a certain type').",
+            "guide": "Em hãy tìm Paragraph nói về hậu quả khi chỉ nhân giống từ một số cây mang đột biến gen mong muốn.",
+            "bridge": "Cùng đọc đoạn giữa của Paragraph B nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph B nói việc chọn lọc một cây đột biến mang lại những tác hại/bất lợi gì?",
+            "guide": "Paragraph B viết: '...every time a single plant with a mutation is taken... much genetic diversity is lost. And sometimes the desirable mutations come with less desirable traits. For instance, the tomato strains grown for supermarkets have lost much of their flavour.' (mất đi sự đa dạng di truyền, đột biến tốt lại đi kèm đặc tính xấu, ví dụ như cà chua siêu thị bị mất hết hương vị).",
+            "bridge": "Mất đa dạng sinh học và mất vị ngon chính là những vấn đề nảy sinh."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào giải thích vấn đề này?",
+            "guide": "Đáp án chính xác là Paragraph B.",
+            "bridge": "Chốt câu 15: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Giải thích những rắc rối nảy sinh khi chỉ chú trọng một loại cây cà chua.",
+          "<b>Paragraph B (dòng 4-6):</b> <i>'But every time a single plant with a mutation is taken from a larger population for breeding, much genetic diversity is lost... less desirable traits... lost much of their flavour.'</i>",
+          "<b>Khớp ý:</b> Chọn lọc một giống đột biến gây mất đa dạng di truyền và mất mùi vị cà chua.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "a number of examples of plants that are not cultivated at present but could be useful as food sources",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "E",
+      "highlightId": "hl-q16",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 16 hỏi về điều gì? Hãy chú ý cụm: một loạt các ví dụ về những loài cây hiện chưa được canh tác ('not cultivated at present') nhưng có thể trở thành nguồn lương thực hữu ích ('useful as food sources').",
+            "guide": "Em cần tìm Paragraph nào liệt kê tên của một số loài thực vật hoang dã đang được các nhà khoa học nhắm tới.",
+            "bridge": "Hãy tìm những cái tên cây trồng lạ ở Paragraph E."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph E liệt kê những loài cây nào đang được nhắm tới để đưa vào dòng lương thực chính thống?",
+            "guide": "Paragraph E viết: 'The three teams already have their eye on other plants that could be 'catapulted into the mainstream', including foxtail, oat-grass and cowpea.' (cỏ đuôi phụng/cỏ đuôi chồn, cỏ yến mạch, đậu mắt đen).",
+            "bridge": "foxtail, oat-grass, cowpea chính là ví dụ về các loài thực vật tiềm năng."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa danh sách các ví dụ này?",
+            "guide": "Đáp án là Paragraph E.",
+            "bridge": "Chốt câu 16: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Các ví dụ về những loài cây chưa được trồng rộng rãi nhưng có thể làm thực phẩm hữu ích.",
+          "<b>Paragraph E (dòng 4-5):</b> <i>'The three teams already have their eye on other plants that could be 'catapulted into the mainstream', including foxtail, oat-grass and cowpea.'</i>",
+          "<b>Khớp từ:</b> <i>examples of plants</i> = <i>foxtail, oat-grass and cowpea</i>.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "a comparison between the early domestication of the tomato and more recent research",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "A",
+      "highlightId": "hl-q17",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 17 hỏi về điều gì? Hãy chú ý ý: sự so sánh giữa việc thuần hóa cà chua thời xưa ('early domestication') và nghiên cứu khoa học gần đây ('more recent research').",
+            "guide": "Em cần tìm Paragraph nào đặt thời gian thuần hóa cà chua trong quá khứ cạnh mốc thời gian làm lại gần đây.",
+            "bridge": "Cùng đọc ngay những câu mở đầu của Paragraph A nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph A so sánh khoảng thời gian thuần hóa cà chua ngày xưa và ngày nay như thế nào?",
+            "guide": "Paragraph A viết: 'It took at least 3,000 years for humans to learn how to domesticate the wild tomato... Now two separate teams in Brazil and China have done it all over again in less than three years. And they have done it better in some ways...'",
+            "bridge": "So sánh giữa 3.000 năm thời xưa và chưa đầy 3 năm thời nay chính là sự so sánh giữa thuần hóa xưa và nghiên cứu gần đây."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa phép so sánh này?",
+            "guide": "Đáp án là Paragraph A.",
+            "bridge": "Chốt câu 17: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> So sánh giữa việc thuần hóa cà chua thời xưa và nghiên cứu mới đây.",
+          "<b>Paragraph A (dòng 1-3):</b> <i>'It took at least 3,000 years for humans to learn how to domesticate the wild tomato... Now two separate teams... have done it all over again in less than three years. And they have done it better in some ways...'</i>",
+          "<b>Khớp ý:</b> So sánh 3.000 năm ngày xưa với chưa đầy 3 năm của nghiên cứu hiện đại.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "a personal reaction to the flavour of a tomato that has been genetically edited",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q18",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 18 hỏi về điều gì? Hãy chú ý cụm: cảm nhận cá nhân ('personal reaction') về hương vị ('flavour') của quả cà chua đã qua chỉnh sửa gen.",
+            "guide": "Em hãy tìm lời nhận xét trong dấu ngoặc kép của một nhà khoa học sau khi trực tiếp nếm thử quả cà chua.",
+            "bridge": "Cùng xem lời nhận xét của giáo sư Kudla ở Paragraph C nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Trong Paragraph C, ông Kudla nhận xét hương vị của giống cà chua mới ra sao?",
+            "guide": "Paragraph C viết: ''They are quite tasty,' says Kudla. 'A little bit strong. And very aromatic.'' (Chúng khá là ngon. Vị hơi đậm một chút. Và rất thơm).",
+            "bridge": "'quite tasty, a little bit strong, very aromatic' chính là cảm nhận cá nhân về mùi vị."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa lời cảm nhận về hương vị này?",
+            "guide": "Đáp án là Paragraph C (Paragraph C được chọn 2 lần).",
+            "bridge": "Chốt câu 18: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Cảm nhận cá nhân về hương vị của quả cà chua chỉnh sửa gen.",
+          "<b>Paragraph C (dòng 6):</b> <i>''They are quite tasty,' says Kudla. 'A little bit strong. And very aromatic.''</i>",
+          "<b>Khớp từ:</b> <i>personal reaction to the flavour</i> = lời khen ngon, đậm đà và thơm của Kudla.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Domestication of certain plants could allow them to adapt to future environmental challenges.",
+      "options": [
+        "A. Jorg Kudla",
+        "B. Caixia Gao",
+        "C. Joyce Van Eck",
+        "D. Jonathan Jones"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q19",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 19 nói gì? Việc thuần hóa một số loài cây có thể giúp chúng thích nghi với các thách thức môi trường trong tương lai ('adapt to future environmental challenges').",
+            "guide": "Em hãy tìm xem nhà khoa học nào nhắc đến việc chọn cây chịu hạn, chịu nhiệt để đối phó với hiện tượng Trái Đất ấm lên.",
+            "bridge": "Hãy đọc phát ngôn của các nhà nghiên cứu ở Paragraph E."
+          },
+          {
+            "title": "Soi phát ngôn của nhà nghiên cứu",
+            "question": "Trong Paragraph E, bà Caixia Gao nói gì về việc chọn giống cây chống chọi thời tiết khắc nghiệt?",
+            "guide": "Paragraph E viết: 'By choosing wild plants that are drought or heat tolerant, says Gao, we could create crops that will thrive even as the planet warms.' (Bằng cách chọn các cây hoang dã chịu hạn hoặc chịu nóng, chúng ta có thể tạo ra cây trồng vẫn phát triển tốt ngay cả khi hành tinh nóng lên).",
+            "bridge": "'drought or heat tolerant / planet warms' chính là thích nghi với các thách thức môi trường tương lai."
+          },
+          {
+            "title": "Chốt nhà nghiên cứu",
+            "question": "Ai là người đưa ra ý kiến này?",
+            "guide": "Đó là bà Caixia Gao (đáp án B).",
+            "bridge": "Chốt câu 19: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Thuần hóa một số loài cây giúp chúng thích nghi với thách thức môi trường trong tương lai.",
+          "<b>Paragraph E (dòng 5-6):</b> Caixia Gao nói: <i>'By choosing wild plants that are drought or heat tolerant, says Gao, we could create crops that will thrive even as the planet warms.'</i>",
+          "<b>Khớp từ:</b> <i>adapt to future environmental challenges</i> = <i>thrive even as the planet warms (drought or heat tolerant)</i>.",
+          "<b>Kết luận:</b> Chọn <b>B (Caixia Gao)</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "The idea of growing and eating unusual plants may not be accepted on a large scale.",
+      "options": [
+        "A. Jorg Kudla",
+        "B. Caixia Gao",
+        "C. Joyce Van Eck",
+        "D. Jonathan Jones"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q20",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 20 nói gì? Ý tưởng trồng và ăn những loài cây khác lạ có thể sẽ không được chấp nhận rộng rãi trên quy mô lớn ('may not be accepted on a large scale').",
+            "guide": "Em cần tìm nhà nghiên cứu nào bày tỏ sự nghi ngại về việc những món ăn mới khó trở nên phổ biến với nông dân và người tiêu dùng.",
+            "bridge": "Hãy đọc câu đầu tiên của Paragraph E."
+          },
+          {
+            "title": "Soi phát ngôn của nhà nghiên cứu",
+            "question": "Trong Paragraph E, ông Jonathan Jones nhận xét điều gì về các loài cây lạ/ít người biết ('obscure plants')?",
+            "guide": "Paragraph E viết: '...says Jonathan Jones... But it will be hard for new foods to grow so popular with farmers and consumers that they become new staple crops, he thinks.' (ông nghĩ rằng sẽ rất khó để các loại thực phẩm mới trở nên phổ biến với nông dân và người tiêu dùng đến mức thành cây lương thực chính).",
+            "bridge": "'hard to grow so popular... become staple crops' chính là khó được chấp nhận rộng rãi trên quy mô lớn."
+          },
+          {
+            "title": "Chốt nhà nghiên cứu",
+            "question": "Ai là người đưa ra nhận định này?",
+            "guide": "Đó là ông Jonathan Jones (đáp án D).",
+            "bridge": "Chốt câu 20: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Trồng và ăn các loại cây lạ có thể không được chấp nhận trên diện rộng.",
+          "<b>Paragraph E (dòng 1-3):</b> Jonathan Jones nói: <i>'This approach could boost the use of many obscure plants... But it will be hard for new foods to grow so popular with farmers and consumers that they become new staple crops, he thinks.'</i>",
+          "<b>Khớp ý:</b> Khó phổ biến để thành lương thực chính = không được chấp nhận rộng rãi (<i>may not be accepted on a large scale</i>).",
+          "<b>Kết luận:</b> Chọn <b>D (Jonathan Jones)</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "It is not advisable for the future direction of certain research to be made public.",
+      "options": [
+        "A. Jorg Kudla",
+        "B. Caixia Gao",
+        "C. Joyce Van Eck",
+        "D. Jonathan Jones"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q21",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 21 nói gì? Sẽ là không khôn ngoan nếu công khai cho công chúng biết ('made public') hướng nghiên cứu tiếp theo của một số dự án.",
+            "guide": "Em cần tìm xem nhà nghiên cứu nào từ chối tiết lộ những loài cây mà nhóm mình đang nhắm tới vì sợ người khác sao chép làm theo.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph E."
+          },
+          {
+            "title": "Soi phát ngôn của nhà nghiên cứu",
+            "question": "Ở cuối Paragraph E, ông Kudla có muốn tiết lộ tên các loài cây mà đội của ông đang nhắm tới không?",
+            "guide": "Paragraph E viết: 'But Kudla didn't want to reveal which species were in his team's sights, because CRISPR has made the process so easy. 'Any one with the right skills could go to their lab and do this.'' (Kudla không muốn tiết lộ loài cây nào vì công nghệ quá dễ làm, ai có kỹ năng cũng có thể vào phòng thí nghiệm làm y hệt).",
+            "bridge": "'didn't want to reveal' (không muốn tiết lộ ra ngoài) chính là cho rằng không nên công khai (not advisable to be made public)."
+          },
+          {
+            "title": "Chốt nhà nghiên cứu",
+            "question": "Ai là người giữ bí mật hướng nghiên cứu này?",
+            "guide": "Đó là ông Jorg Kudla (đáp án A).",
+            "bridge": "Chốt câu 21: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Không nên công khai hướng đi tương lai của một số nghiên cứu.",
+          "<b>Paragraph E (cuối đoạn):</b> <i>'But Kudla didn't want to reveal which species were in his team's sights, because CRISPR has made the process so easy. 'Any one with the right skills could go to their lab and do this.''</i>",
+          "<b>Khớp ý:</b> Không muốn tiết lộ loài cây đang nhắm tới vì sợ bị làm theo = không nên công khai ra ngoài (<i>not advisable to be made public</i>).",
+          "<b>Kết luận:</b> Chọn <b>A (Jorg Kudla)</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Present efforts to domesticate one wild fruit are limited by the costs involved.",
+      "options": [
+        "A. Jorg Kudla",
+        "B. Caixia Gao",
+        "C. Joyce Van Eck",
+        "D. Jonathan Jones"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q22",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 22 nói gì? Những nỗ lực hiện tại nhằm thuần hóa một loài quả dại ('one wild fruit') đang bị hạn chế bởi chi phí đắt đỏ ('limited by the costs involved').",
+            "guide": "Em hãy tìm nhà nghiên cứu nào làm việc với một loại quả dại (như groundcherry) và than phiền về chi phí mua bản quyền công nghệ.",
+            "bridge": "Cùng đọc Paragraph D về quả groundcherry nhé."
+          },
+          {
+            "title": "Soi phát ngôn của nhà nghiên cứu",
+            "question": "Ở cuối Paragraph D, bà Joyce Van Eck nói gì về chi phí để tiếp tục dự án thuần hóa quả groundcherry?",
+            "guide": "Paragraph D viết: '...says Van Eck. But she adds that taking the work further would be expensive because of the need to pay for a licence for the CRISPR technology and get regulatory approval.' (bà nói thêm rằng tiến hành công việc tiếp theo sẽ rất tốn kém vì phải trả tiền bản quyền công nghệ CRISPR và xin phê duyệt).",
+            "bridge": "'would be expensive' chính là bị rào cản chi phí hạn chế (limited by the costs)."
+          },
+          {
+            "title": "Chốt nhà nghiên cứu",
+            "question": "Ai là người nhắc đến khó khăn về chi phí này?",
+            "guide": "Đó là bà Joyce Van Eck (đáp án C).",
+            "bridge": "Chốt câu 22: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Nỗ lực thuần hóa một loại quả dại đang bị hạn chế do tốn kém chi phí.",
+          "<b>Paragraph D (câu cuối):</b> Joyce Van Eck nói về quả groundcherry: <i>'...taking the work further would be expensive because of the need to pay for a licence for the CRISPR technology...'</i>",
+          "<b>Khớp từ:</b> <i>one wild fruit</i> = quả groundcherry; <i>limited by the costs</i> = <i>expensive because of the need to pay for a licence...</i>",
+          "<b>Kết luận:</b> Chọn <b>C (Joyce Van Eck)</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Humans only make use of a small proportion of the plant food available on Earth.",
+      "options": [
+        "A. Jorg Kudla",
+        "B. Caixia Gao",
+        "C. Joyce Van Eck",
+        "D. Jonathan Jones"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q23",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 23 nói gì? Con người chỉ mới sử dụng một tỷ lệ rất nhỏ ('only make use of a small proportion') các loài thực vật làm thức ăn có sẵn trên Trái Đất.",
+            "guide": "Em cần tìm nhà nghiên cứu nào đưa ra số liệu chứng minh có hàng chục nghìn cây ăn được nhưng ta chỉ ăn một số ít.",
+            "bridge": "Hãy tìm những con số về loài cây ở Paragraph A."
+          },
+          {
+            "title": "Soi phát ngôn của nhà nghiên cứu",
+            "question": "Trong Paragraph A, ông Jorg Kudla đưa ra con số thống kê nào về cây thực phẩm?",
+            "guide": "Paragraph A viết: ''There are 50,000 edible plants in the world, but 90 percent of our energy comes from just 15 crops,' says Jorg Kudla.' (Có tới 50.000 loài thực vật ăn được trên thế giới, nhưng 90% năng lượng của chúng ta lại chỉ đến từ vỏn vẹn 15 loại cây trồng).",
+            "bridge": "50.000 cây ăn được mà chỉ dùng 15 cây chính là chỉ sử dụng một phần rất nhỏ."
+          },
+          {
+            "title": "Chốt nhà nghiên cứu",
+            "question": "Ai là người đưa ra số liệu này?",
+            "guide": "Đó là ông Jorg Kudla (đáp án A).",
+            "bridge": "Hoàn thành bài nối nhà nghiên cứu! Chốt câu 23: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Con người chỉ mới tận dụng một tỷ lệ rất nhỏ thực vật ăn được trên Trái Đất.",
+          "<b>Paragraph A (dòng 11-12):</b> Jorg Kudla nói: <i>'There are 50,000 edible plants in the world, but 90 percent of our energy comes from just 15 crops.'</i>",
+          "<b>Khớp ý:</b> Có 50.000 loài ăn được nhưng chỉ dựa vào 15 loại cây = chỉ dùng một tỷ lệ rất nhỏ (<i>small proportion of the plant food available</i>).",
+          "<b>Kết luận:</b> Chọn <b>A (Jorg Kudla)</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "An undesirable trait such as loss of 24 __________ may be caused by a mutation in a tomato gene.",
+      "finalAnswer": "flavour",
+      "inputWidth": "110px",
+      "highlightId": "hl-q24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 24: Một đặc tính không mong muốn ('undesirable trait') như việc mất đi cái gì ('loss of 24 ______') có thể do đột biến gen gây ra?",
+            "guide": "Sau 'loss of' cần một danh từ chỉ một đặc tính tốt của quả cà chua bị mất đi.",
+            "bridge": "Hãy tìm từ 'undesirable traits' và 'lost' ở Paragraph B."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph B nói những giống cà chua trồng bán trong siêu thị đã bị mất đi thứ gì?",
+            "guide": "Paragraph B viết: 'And sometimes the desirable mutations come with less desirable traits. For instance, the tomato strains grown for supermarkets have lost much of their flavour.'",
+            "bridge": "'lost much of their flavour' chính là 'loss of flavour'.",
+            "answer": "flavour"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'flavour' (hoặc 'flavor' theo chính tả Mỹ).",
+            "bridge": "Chốt câu 24: flavour."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau cụm <i>loss of</i>.",
+          "<b>Paragraph B (dòng 5-7):</b> <i>'...the desirable mutations come with less desirable traits. For instance, the tomato strains grown for supermarkets have lost much of their flavour.'</i>",
+          "<b>Khớp từ:</b> <i>loss of flavour</i> = <i>lost much of their flavour</i>.",
+          "<b>Từ cần điền:</b> <b>flavour</b> (chấp nhận cả <b>flavor</b>)."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "By modifying one gene in a tomato plant, researchers made the tomato three times its original 25 __________.",
+      "finalAnswer": "size",
+      "inputWidth": "90px",
+      "highlightId": "hl-q25",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 25: Bằng việc chỉnh sửa một gen, các nhà nghiên cứu đã làm cho quả cà chua gấp 3 lần cái gì ban đầu của nó ('three times its original 25 ______')?",
+            "guide": "Sau tính từ 'original' cần một danh từ chỉ kích thước hoặc khối lượng của quả cà chua.",
+            "bridge": "Hãy tìm con số 'gấp ba' (tripled) ở đầu Paragraph C."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Câu đầu Paragraph C nói nhóm của Kudla đã làm tăng gấp 3 cái gì của quả bằng cách sửa gen FRUIT WEIGHT?",
+            "guide": "Paragraph C viết: 'For instance, they tripled the size of fruit by editing a gene called FRUIT WEIGHT...'",
+            "bridge": "'tripled the size' tương đương với 'made the tomato three times its original size'.",
+            "answer": "size"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất là gì?",
+            "guide": "Đáp án là 'size' (kích thước).",
+            "bridge": "Chốt câu 25: size."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau tính từ <i>original</i>.",
+          "<b>Paragraph C (dòng 1-2):</b> <i>'For instance, they tripled the size of fruit by editing a gene called FRUIT WEIGHT...'</i>",
+          "<b>Khớp từ:</b> <i>three times its original size</i> = <i>tripled the size</i>.",
+          "<b>Từ cần điền:</b> <b>size</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "A type of tomato which was not badly affected by 26 __________ , and was rich in vitamin C, was produced by a team of researchers in China.",
+      "finalAnswer": "salt",
+      "inputWidth": "90px",
+      "highlightId": "hl-q26",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 26: Một giống cà chua không bị ảnh hưởng xấu bởi chất gì ('not badly affected by 26 ______') và giàu vitamin C đã được tạo ra bởi nhóm nghiên cứu ở Trung Quốc?",
+            "guide": "Sau giới từ 'by' cần một danh từ chỉ yếu tố môi trường (như độ mặn/muối) mà cây cà chua có thể chịu đựng được.",
+            "bridge": "Hãy tìm nhóm nghiên cứu ở Trung Quốc và 'vitamin C' ở cuối Paragraph C."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Câu cuối Paragraph C nói nhóm Trung Quốc tạo ra giống cà chua có khả năng chịu đựng cái gì tốt hơn và giàu vitamin C?",
+            "guide": "Paragraph C viết: 'They also created another strain that is more salt tolerant – and has higher levels of vitamin C.'",
+            "bridge": "'more salt tolerant' (chịu mặn tốt hơn) chính là không bị ảnh hưởng xấu bởi muối (not badly affected by salt).",
+            "answer": "salt"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'salt' (muối/mặn).",
+            "bridge": "Hoàn thành toàn bộ Passage 2! Chốt câu 26: salt."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Vị trí ngữ pháp:</b> Cần danh từ sau giới từ <i>by</i>.",
+          "<b>Paragraph C (câu cuối):</b> <i>'They also created another strain that is more salt tolerant – and has higher levels of vitamin C.'</i>",
+          "<b>Khớp từ:</b> <i>not badly affected by salt</i> = <i>more salt tolerant</i>.",
+          "<b>Từ cần điền:</b> <b>salt</b>."
+        ]
+      }
+    }
+  }
+}
