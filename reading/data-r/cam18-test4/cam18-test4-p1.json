@@ -1,0 +1,554 @@
+{
+  "title": "IELTS Academic 18 - Test 4 - Passage 1: Green roofs",
+  "answers": {
+    "q1": "D",
+    "q2": "C",
+    "q3": "E",
+    "q4": "B",
+    "q5": "D",
+    "q6": "energy",
+    "q7": "food",
+    "q8": "gardening",
+    "q9": "obesity",
+    "q10": "C",
+    "q11": "D",
+    "q12": "A",
+    "q13": "D"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1</h2><h3>Green roofs</h3><p><strong>Paragraph A.</strong> Rooftops covered with grass, vegetable gardens and lush foliage are now a common sight in many cities around the world. More and more private companies and city authorities are investing in green roofs, drawn to their wide-ranging benefits. Among the benefits are <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">saving on <span class=\"kw\">energy</span> costs</span>, mitigating the risk of floods, making habitats for urban wildlife, tackling air pollution and <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">even growing <span class=\"kw\">food</span></span>. These increasingly radical urban designs can help cities adapt to the monumental problems they face, such as access to resources and a lack of green space due to development. But the involvement of city authorities, businesses and other institutions is crucial to ensuring their success – as is research investigating different options to suit the variety of rooftop spaces found in cities. The UK is relatively new to developing green roofs, and local governments and institutions are playing a major role in spreading the practice. London is home to much of the UK's green roof market, mainly due to forward-thinking policies such as the London Plan, which has paved the way to more than doubling the area of green roofs in the capital.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Ongoing research is showcasing how green roofs in cities can integrate with 'living walls': environmentally friendly walls which are partially or completely covered with greenery, including a growing medium, such as soil or water. Research also indicates that green roofs can be integrated with drainage systems on the ground, such as street trees, so that the water is managed better and the built environment is made more sustainable</span>. There is also evidence to demonstrate the social value of green roofs. Doctors are increasingly prescribing time spent <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">gardening</span> outdoors for patients dealing with anxiety and depression</span>. And research has found that access to even the most basic green spaces can provide a better quality of life for dementia sufferers and help people avoid <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"kw\">obesity</span></span>.</p><p><strong>Paragraph C.</strong> In North America, green roofs have become mainstream, with a wide array of expansive, accessible and food-producing roofs installed in buildings. Again, city leaders and authorities have helped push the movement forward – only recently, San Francisco, USA, created a policy requiring new buildings to have green roofs. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Toronto, Canada, has policies dating from the 1990s, encouraging the development of urban farms on rooftops</span>. These countries also benefit from having newer buildings than in many parts of the world, which makes it easier to install green roofs. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Being able to keep enough water at roof height and distribute it right across the rooftop is crucial to maintaining the plants on any green roof – especially on 'edible roofs' where fruit and vegetables are farmed. And it's much easier to do this in newer buildings, which can typically hold greater weight, than to retro-fit old ones</span>. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper</span>.</p><p><strong>Paragraph D.</strong> For green roofs to become the norm for new developments, there needs to be support from public authorities and private investors. Those responsible for maintaining buildings may have to acquire new skills, such as landscaping, and in some cases, volunteers may be needed to help out. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Other considerations include installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, as well as planning restrictions and disruption from regular activities in and around the buildings during installation</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important. The term 'natural capital' has been developed to explain the economic value of nature; for example, measuring the money saved by installing natural solutions to protect against flood damage, adapt to climate change or help people lead healthier and happier lives</span>.</p><p><strong>Paragraph E.</strong> As the expertise about green roofs grows, official standards have been developed to ensure that they are designed, constructed and maintained properly, and function well. Improvements in the science and technology underpinning green roof development have also led to new variations in the concept. For example, 'blue roofs' enable buildings to hold water over longer periods of time, rather than draining it away quickly – crucial in times of heavier rainfall. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">There are also combinations of green roofs with solar panels</span>, and <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">'brown roofs' which are wilder in nature and maximise biodiversity</span>. If the trend continues, it could create new jobs and a more vibrant and sustainable local food economy – alongside many other benefits. There are still barriers to overcome, but the evidence so far indicates that green roofs have the potential to transform cities and help them function sustainably long into the future. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">The success stories need to be studied and replicated elsewhere, to make green, blue, brown and food-producing roofs the norm in cities around the world</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "title": "Questions 1-5",
+      "instructions": "<i>Reading Passage 1 has five paragraphs, <b>A-E</b>.<br>Which paragraph contains the following information?<br>Write the correct letter, <b>A-E</b>, in boxes 1-5 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i>",
+      "questionIds": ["q1", "q2", "q3", "q4", "q5"]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "title": "Questions 6-9",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 6-9 on your answer sheet.</i>",
+      "summaryTitle": "Advantages of green roofs",
+      "questionIds": ["q6", "q7", "q8", "q9"],
+      "template": "<p>City rooftops covered with greenery have many advantages. These include lessening the likelihood that floods will occur, reducing how much money is spent on <b>6.</b> {{q6}} and creating environments that are suitable for wildlife. In many cases, they can also be used for producing <b>7.</b> {{q7}}.</p><p>There are also social benefits of green roofs. For example, the medical profession recommends <b>8.</b> {{q8}} as an activity to help people cope with mental health issues. Studies have also shown that the availability of green spaces can prevent physical problems such as <b>9.</b> {{q9}}.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "multiselect",
+      "title": "Questions 10 and 11",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A-E</b>.<br>Write the correct letters in boxes 10 and 11 on your answer sheet.<br>Which <b>TWO</b> advantages of using newer buildings for green roofs are mentioned in Paragraph C of the passage?</i>",
+      "questionIds": ["q10", "q11"]
+    },
+    {
+      "id": "g4",
+      "type": "multiselect",
+      "title": "Questions 12 and 13",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A-E</b>.<br>Write the correct letters in boxes 12 and 13 on your answer sheet.<br>Which <b>TWO</b> aims of new variations on the concept of green roofs are mentioned in Paragraph E of the passage?</i>",
+      "questionIds": ["q12", "q13"]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "mention of several challenges to be overcome before a green roof can be installed",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 1 hỏi về điều gì? Hãy chú ý cụm: những thách thức, khó khăn cần vượt qua ('several challenges to be overcome') trước khi lắp đặt mái nhà xanh.",
+            "guide": "Em cần tìm một Paragraph liệt kê các vấn đề phức tạp cần giải quyết (như thoát nước, an toàn, giấy phép, xáo trộn cuộc sống) khi làm mái nhà xanh.",
+            "bridge": "Mình cùng đọc Paragraph D xem có liệt kê các khó khăn này không nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph D, tác giả liệt kê những khó khăn cần xem xét ('Other considerations') nào trong quá trình lắp đặt?",
+            "guide": "Paragraph D viết: 'Other considerations include installing drainage paths, meeting health and safety requirements... planning restrictions and disruption from regular activities... during installation.'",
+            "bridge": "Các yêu cầu về đường thoát nước, an toàn, hạn chế quy hoạch và xáo trộn sinh hoạt chính là các thách thức (challenges)."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào đề cập đến những thách thức này?",
+            "guide": "Đáp án là Paragraph D.",
+            "bridge": "Chốt câu 1: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Đề cập đến một vài thách thức cần vượt qua trước khi lắp đặt mái nhà xanh.",
+          "<b>Paragraph D (dòng 3-5):</b> Liệt kê các khó khăn cần tính đến khi thi công: <i>'installing drainage paths, meeting health and safety requirements... planning restrictions and disruption...'</i>",
+          "<b>Khớp ý:</b> <i>several challenges to be overcome</i> = <i>Other considerations include...</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "reference to a city where green roofs have been promoted for many years",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q2",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 2 muốn tìm thông tin gì? Hãy để ý: một thành phố ('a city') nơi mái nhà xanh đã được thúc đẩy, khuyến khích từ nhiều năm trước ('promoted for many years').",
+            "guide": "Em hãy tìm một thành phố cụ thể đi kèm với mốc thời gian từ lâu trong quá khứ.",
+            "bridge": "Cùng đọc Paragraph C nơi kể tên các thành phố ở Bắc Mỹ nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph C, thành phố Toronto (Canada) đã có chính sách thúc đẩy mái nhà xanh từ khi nào?",
+            "guide": "Paragraph C viết: 'Toronto, Canada, has policies dating from the 1990s, encouraging the development of urban farms on rooftops.' (Toronto đã có các chính sách từ những năm 1990, khuyến khích phát triển nông nghiệp trên mái).",
+            "bridge": "Chính sách từ thập niên 1990 chính là đã được thúc đẩy từ nhiều năm trước."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nhắc đến thành phố này?",
+            "guide": "Đáp án chính xác là Paragraph C.",
+            "bridge": "Chốt câu 2: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Nhắc đến một thành phố nơi mái nhà xanh đã được thúc đẩy từ nhiều năm trước.",
+          "<b>Paragraph C (dòng 3-4):</b> <i>'Toronto, Canada, has policies dating from the 1990s, encouraging the development of urban farms on rooftops.'</i>",
+          "<b>Khớp từ:</b> <i>a city</i> = Toronto; <i>promoted for many years</i> = <i>policies dating from the 1990s, encouraging...</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "a belief that existing green roofs should be used as a model for new ones",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "E",
+      "highlightId": "hl-q3",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 3 nói gì? Quan điểm cho rằng các mái nhà xanh hiện có nên được lấy làm hình mẫu ('used as a model') cho các công trình mới tiếp theo.",
+            "guide": "Em cần tìm một Paragraph khuyên nên học tập và nhân rộng các mô hình thành công đã có.",
+            "bridge": "Hãy đọc câu cuối cùng của bài ở Paragraph E nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Câu cuối của Paragraph E đưa ra lời khuyên gì về các mô hình mái nhà xanh thành công?",
+            "guide": "Paragraph E viết: 'The success stories need to be studied and replicated elsewhere, to make green, blue, brown and food-producing roofs the norm in cities around the world.' (Những câu chuyện thành công cần được nghiên cứu và nhân rộng ra những nơi khác).",
+            "bridge": "'studied and replicated' chính là lấy làm hình mẫu để làm theo."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa lời khuyên nhân rộng mô hình này?",
+            "guide": "Đáp án là Paragraph E.",
+            "bridge": "Chốt câu 3: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Ý kiến cho rằng các mái nhà xanh hiện tại nên được dùng làm hình mẫu cho các công trình mới.",
+          "<b>Paragraph E (câu cuối):</b> <i>'The success stories need to be studied and replicated elsewhere...'</i> (Những mô hình thành công cần được nghiên cứu và nhân rộng ở nơi khác).",
+          "<b>Khớp ý:</b> <i>used as a model for new ones</i> = <i>studied and replicated elsewhere</i>.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "examples of how green roofs can work in combination with other green urban initiatives",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "B",
+      "highlightId": "hl-q4",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 4 hỏi về điều gì? Hãy chú ý cụm: ví dụ về việc mái nhà xanh kết hợp với các sáng kiến xanh đô thị khác ('in combination with other green urban initiatives').",
+            "guide": "Em cần tìm Paragraph nêu ví dụ mái nhà xanh kết hợp cùng tường xanh ('living walls') hay hệ thống cây xanh mặt đất.",
+            "bridge": "Cùng đọc những câu đầu của Paragraph B nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph B nói mái nhà xanh có thể kết hợp (integrate) với những sáng kiến xanh nào?",
+            "guide": "Paragraph B viết: nghiên cứu cho thấy mái nhà xanh có thể kết hợp với 'living walls' (tường sống phủ cây) và tích hợp với hệ thống thoát nước mặt đất như cây xanh đường phố ('street trees').",
+            "bridge": "'living walls' và 'street trees' chính là các sáng kiến xanh đô thị khác."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nêu các ví dụ kết hợp này?",
+            "guide": "Đáp án chính xác là Paragraph B.",
+            "bridge": "Chốt câu 4: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Các ví dụ về việc mái nhà xanh kết hợp với các giải pháp xanh khác trong đô thị.",
+          "<b>Paragraph B (dòng 1-3):</b> <i>'...green roofs in cities can integrate with 'living walls'... integrated with drainage systems on the ground, such as street trees...'</i>",
+          "<b>Khớp ý:</b> <i>in combination with other green urban initiatives</i> = <i>integrate with 'living walls' / integrated with street trees</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "the need to make a persuasive argument for the financial benefits of green roofs",
+      "options": ["A", "B", "C", "D", "E"],
+      "finalAnswer": "D",
+      "highlightId": "hl-q5",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 5 nói về điều gì? Cần phải đưa ra lý lẽ thuyết phục ('persuasive argument') về lợi ích tài chính / kinh tế ('financial benefits') của mái nhà xanh.",
+            "guide": "Em hãy tìm Paragraph nào nói về việc thuyết phục nhà đầu tư bằng những con số hoặc giá trị kinh tế.",
+            "bridge": "Hãy đọc nửa sau của Paragraph D."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph D nói muốn thuyết phục các nhà đầu tư và nhà phát triển bất động sản thì lập luận nào là quan trọng nhất?",
+            "guide": "Paragraph D viết: 'To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important.' (Để thuyết phục các nhà đầu tư, những lập luận về mặt kinh tế vẫn là quan trọng nhất).",
+            "bridge": "'To convince' chính là 'persuasive'; 'economic arguments' chính là lập luận về lợi ích tài chính."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa thông tin này?",
+            "guide": "Đáp án là Paragraph D.",
+            "bridge": "Chốt câu 5: D (Paragraph D được chọn 2 lần)."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Sự cần thiết phải đưa ra lập luận thuyết phục về mặt kinh tế/tài chính.",
+          "<b>Paragraph D (dòng 5-7):</b> <i>'To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important.'</i>",
+          "<b>Khớp từ:</b> <i>persuasive argument</i> = <i>economic arguments to convince</i>; <i>financial benefits</i> = <i>economic value / money saved</i>.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "energy",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Lợi ích của mái nhà xanh bao gồm giảm nguy cơ lũ lụt, giảm số tiền chi tiêu cho cái gì ('reducing how much money is spent on 6 ______')?",
+            "guide": "Sau 'spent on' cần một danh từ chỉ khoản chi tiêu hoặc nguồn tài nguyên được tiết kiệm.",
+            "bridge": "Hãy tìm câu nói về các lợi ích ở đầu Paragraph A."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph A liệt kê việc tiết kiệm chi phí cho cái gì: 'saving on ______ costs'?",
+            "guide": "Paragraph A viết: 'Among the benefits are saving on energy costs, mitigating the risk of floods...'",
+            "bridge": "'saving on ... costs' chính là giảm tiền chi tiêu cho năng lượng.",
+            "answer": "energy"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'energy'.",
+            "bridge": "Chốt câu 6: energy."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Giảm tiền chi tiêu cho khoản nào.",
+          "<b>Paragraph A (dòng 3):</b> <i>'Among the benefits are saving on energy costs, mitigating the risk of floods...'</i>",
+          "<b>Khớp từ:</b> <i>reducing how much money is spent on</i> = <i>saving on ... costs</i>.",
+          "<b>Từ cần điền:</b> <b>energy</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "food",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Trong nhiều trường hợp, mái nhà xanh còn có thể được dùng để sản xuất cái gì ('used for producing 7 ______')?",
+            "guide": "Sau động từ 'producing' cần một danh từ chỉ nông sản hoặc thức ăn.",
+            "bridge": "Đọc tiếp câu liệt kê lợi ích ở Paragraph A."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph A viết mái nhà xanh thậm chí còn dùng để trồng cái gì: 'and even growing ______'?",
+            "guide": "Paragraph A viết: '...and even growing food.' (và thậm chí là trồng thực phẩm).",
+            "bridge": "'growing' (trồng trọt) chính là 'producing' (sản xuất thực phẩm).",
+            "answer": "food"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ duy nhất cần điền là gì?",
+            "guide": "Đáp án là 'food'.",
+            "bridge": "Chốt câu 7: food."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Mái nhà xanh được dùng để sản xuất thứ gì.",
+          "<b>Paragraph A (dòng 4):</b> <i>'...tackling air pollution and even growing food.'</i>",
+          "<b>Khớp từ:</b> <i>used for producing</i> = <i>growing</i>; danh từ là <i>food</i>.",
+          "<b>Từ cần điền:</b> <b>food</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "gardening",
+      "inputWidth": "120px",
+      "highlightId": "hl-q8",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Về mặt xã hội, giới y khoa khuyên nên làm hoạt động gì ('recommends 8 ______ as an activity') để giúp người bệnh giải tỏa các vấn đề sức khỏe tinh thần?",
+            "guide": "Sau động từ 'recommends' cần một danh từ chỉ một hoạt động thư giãn ngoài trời.",
+            "bridge": "Hãy tìm từ khóa 'doctors' hoặc bệnh nhân trầm cảm ở Paragraph B."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph B nói các bác sĩ ngày càng kê đơn hoạt động gì ngoài trời cho bệnh nhân trầm cảm và lo âu?",
+            "guide": "Paragraph B viết: 'Doctors are increasingly prescribing time spent gardening outdoors for patients dealing with anxiety and depression.' (Bác sĩ ngày càng chỉ định việc làm vườn ngoài trời cho bệnh nhân).",
+            "bridge": "'prescribing' (kê đơn/chỉ định) chính là 'recommends' (khuyên làm). Hoạt động đó là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ hoạt động làm vườn là gì?",
+            "guide": "Đáp án là 'gardening'.",
+            "bridge": "Chốt câu 8: gardening."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Bác sĩ khuyên bệnh nhân tham gia hoạt động gì để trị liệu tinh thần.",
+          "<b>Paragraph B (dòng 5-6):</b> <i>'Doctors are increasingly prescribing time spent gardening outdoors for patients dealing with anxiety and depression.'</i>",
+          "<b>Khớp từ:</b> <i>medical profession recommends</i> = <i>Doctors are increasingly prescribing</i>; hoạt động là <i>gardening</i>.",
+          "<b>Từ cần điền:</b> <b>gardening</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "obesity",
+      "inputWidth": "110px",
+      "highlightId": "hl-q9",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu tóm tắt: Không gian xanh còn giúp ngăn ngừa các vấn đề thể chất, ví dụ như bệnh gì ('prevent physical problems such as 9 ______')?",
+            "guide": "Sau 'such as' cần một danh từ chỉ một chứng bệnh hoặc vấn đề sức khỏe thể chất.",
+            "bridge": "Đọc câu cuối cùng của Paragraph B nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Câu cuối Paragraph B nói việc tiếp cận không gian xanh giúp con người tránh được chứng bệnh gì?",
+            "guide": "Paragraph B viết: '...provide a better quality of life for dementia sufferers and help people avoid obesity.' (giúp con người tránh được bệnh béo phì).",
+            "bridge": "'avoid' tương đương với 'prevent' (ngăn ngừa). Vấn đề thể chất được nhắc đến là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ chỉ chứng béo phì là gì?",
+            "guide": "Đáp án là 'obesity'.",
+            "bridge": "Hoàn thành bài tóm tắt! Chốt câu 9: obesity."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Không gian xanh giúp ngăn chặn vấn đề thể chất nào.",
+          "<b>Paragraph B (câu cuối):</b> <i>'...and help people avoid obesity.'</i>",
+          "<b>Khớp từ:</b> <i>prevent physical problems</i> = <i>help people avoid</i>; căn bệnh là <i>obesity</i>.",
+          "<b>Từ cần điền:</b> <b>obesity</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Which TWO advantages of using newer buildings for green roofs are mentioned in Paragraph C of the passage?",
+      "options": [
+        "A. a longer growing season for edible produce",
+        "B. more economical use of water",
+        "C. greater water-storage capacity",
+        "D. ability to cultivate more plant types",
+        "E. a large surface area for growing plants"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu hỏi 10-11",
+            "question": "Câu 10-11 hỏi: Hai lợi thế nào của việc làm mái nhà xanh trên các tòa nhà mới hơn ('newer buildings') được nhắc đến trong Paragraph C?",
+            "guide": "Em hãy đọc kỹ nửa sau của Paragraph C chỗ so sánh các tòa nhà mới xây với các tòa nhà cũ.",
+            "bridge": "Cùng xem tòa nhà mới chịu lực tốt hơn thì chứa được nhiều cái gì hơn nhé."
+          },
+          {
+            "title": "Tìm dẫn chứng về khả năng chứa nước",
+            "question": "Paragraph C nói việc giữ đủ nước trên mái là rất quan trọng, và các tòa nhà mới làm việc này dễ hơn như thế nào?",
+            "guide": "Paragraph C viết: việc giữ đủ nước trên mái rất quan trọng, 'And it's much easier to do this in newer buildings, which can typically hold greater weight...' (các tòa nhà mới thường chịu được tải trọng lớn hơn nên giữ được nhiều nước trên mái hơn).",
+            "bridge": "Chịu tải trọng lớn hơn để giữ nhiều nước chính là có khả năng chứa nước lớn hơn ('greater water-storage capacity')."
+          },
+          {
+            "title": "Khớp với phương án C",
+            "question": "Phương án nào nói về khả năng chứa nước lớn hơn?",
+            "guide": "Đó là phương án C: 'greater water-storage capacity'.",
+            "bridge": "Chọn được đáp án đầu tiên: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Lợi thế của tòa nhà mới khi làm mái nhà xanh.",
+          "<b>Paragraph C (dòng 5-8):</b> <i>'Being able to keep enough water at roof height... it's much easier to do this in newer buildings, which can typically hold greater weight...'</i>",
+          "<b>Khớp ý:</b> Tòa nhà mới chịu được sức nặng tốt hơn để giữ được nhiều nước -> Khả năng tích trữ nước tốt hơn (<i>greater water-storage capacity</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Which TWO advantages of using newer buildings for green roofs are mentioned in Paragraph C of the passage?",
+      "options": [
+        "A. a longer growing season for edible produce",
+        "B. more economical use of water",
+        "C. greater water-storage capacity",
+        "D. ability to cultivate more plant types",
+        "E. a large surface area for growing plants"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q11",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu cuối Paragraph C",
+            "question": "Câu cuối cùng của Paragraph C nêu thêm một lợi thế gì nữa khi mái nhà vững chắc hơn?",
+            "guide": "Paragraph C viết: 'Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper.' (Mái nhà chắc hơn giúp rải lớp đất sâu hơn, từ đó dễ trồng được nhiều loại cây đa dạng hơn).",
+            "bridge": "'grow a greater variety of plants' đồng nghĩa với trồng được nhiều chủng loại cây hơn."
+          },
+          {
+            "title": "Khớp với phương án D",
+            "question": "Phương án nào mang nghĩa 'có thể trồng được nhiều loại cây hơn'?",
+            "guide": "Đó là phương án D: 'ability to cultivate more plant types'.",
+            "bridge": "Hoàn thành nhóm câu 10-11: C và D."
+          },
+          {
+            "title": "Chốt đáp án thứ hai",
+            "question": "Vậy đáp án còn lại cho nhóm câu 10-11 là gì?",
+            "guide": "Đáp án là D.",
+            "bridge": "Chốt câu 11: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Paragraph C (câu cuối):</b> <i>'Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper.'</i>",
+          "<b>Khớp từ:</b> <i>grow a greater variety of plants</i> = <i>ability to cultivate more plant types</i>.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Which TWO aims of new variations on the concept of green roofs are mentioned in Paragraph E of the passage?",
+      "options": [
+        "A. to provide habitats for a wide range of species",
+        "B. to grow plants successfully even in the wettest climates",
+        "C. to regulate the temperature of the immediate environment",
+        "D. to generate power from a sustainable source",
+        "E. to collect water to supply other buildings"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q12",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu hỏi 12-13",
+            "question": "Câu 12-13 hỏi: Hai mục tiêu nào của các biến thể mái nhà mới ('new variations') được nhắc đến trong Paragraph E?",
+            "guide": "Em hãy đọc các câu ở đoạn giữa Paragraph E nơi giới thiệu các biến thể như 'blue roofs', 'solar panels' và 'brown roofs'.",
+            "bridge": "Cùng xem biến thể 'brown roofs' mang lại mục đích gì nhé."
+          },
+          {
+            "title": "Tìm dẫn chứng về đa dạng sinh học",
+            "question": "Paragraph E miêu tả biến thể 'brown roofs' (mái nhà nâu) có tác dụng gì đối với sinh thái?",
+            "guide": "Paragraph E viết: '...and 'brown roofs' which are wilder in nature and maximise biodiversity.' (mái nhà nâu mang tính tự nhiên hoang dã hơn và tối đa hóa sự đa dạng sinh học).",
+            "bridge": "'maximise biodiversity' nghĩa là tạo môi trường sống cho nhiều loài sinh vật khác nhau."
+          },
+          {
+            "title": "Khớp với phương án A",
+            "question": "Phương án nào mang nghĩa 'cung cấp môi trường sống cho nhiều loài sinh vật'?",
+            "guide": "Đó là phương án A: 'to provide habitats for a wide range of species'.",
+            "bridge": "Chọn được đáp án đầu tiên: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Mục đích của các biến thể mái nhà xanh mới ở Paragraph E.",
+          "<b>Paragraph E (dòng 5):</b> <i>'...and 'brown roofs' which are wilder in nature and maximise biodiversity.'</i>",
+          "<b>Khớp ý:</b> Tối đa hóa đa dạng sinh học (<i>maximise biodiversity</i>) = tạo môi trường sống cho nhiều loài (<i>provide habitats for a wide range of species</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Which TWO aims of new variations on the concept of green roofs are mentioned in Paragraph E of the passage?",
+      "options": [
+        "A. to provide habitats for a wide range of species",
+        "B. to grow plants successfully even in the wettest climates",
+        "C. to regulate the temperature of the immediate environment",
+        "D. to generate power from a sustainable source",
+        "E. to collect water to supply other buildings"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q13",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc tiếp dẫn chứng ở Paragraph E",
+            "question": "Ngay trước biến thể 'brown roofs', Paragraph E nhắc đến việc kết hợp mái nhà xanh với cái gì?",
+            "guide": "Paragraph E viết: 'There are also combinations of green roofs with solar panels...' (Có cả sự kết hợp giữa mái nhà xanh với các tấm pin năng lượng mặt trời).",
+            "bridge": "Pin năng lượng mặt trời (solar panels) dùng để sản xuất điện từ nguồn năng lượng bền vững."
+          },
+          {
+            "title": "Khớp với phương án D",
+            "question": "Phương án nào mang nghĩa 'tạo ra điện/năng lượng từ nguồn bền vững'?",
+            "guide": "Đó là phương án D: 'to generate power from a sustainable source'.",
+            "bridge": "Pin mặt trời chính là 'sustainable source' để tạo điện năng ('generate power')."
+          },
+          {
+            "title": "Chốt đáp án thứ hai",
+            "question": "Vậy đáp án còn lại cho nhóm câu 12-13 là gì?",
+            "guide": "Đáp án là D.",
+            "bridge": "Hoàn thành toàn bộ Passage 1! Chốt câu 13: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Paragraph E (dòng 4-5):</b> <i>'There are also combinations of green roofs with solar panels...'</i>",
+          "<b>Khớp ý:</b> Lắp đặt tấm pin năng lượng mặt trời (<i>solar panels</i>) nhằm mục đích sản xuất điện từ nguồn năng lượng tái tạo/bền vững (<i>generate power from a sustainable source</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}
