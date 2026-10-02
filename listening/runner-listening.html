@@ -30,7 +30,7 @@
       border: 1px solid #e2e8f0;
     }
 
-    /* SPLIT-VIEW SAU KHI NỘP BÀI */
+    /* SPLIT-VIEW TRANSCRIPT SAU KHI NỘP BÀI */
     body.listening-test.submitted #mainContainer {
       display: flex !important;
       flex-direction: row !important;
@@ -105,7 +105,7 @@
       border-left: 3px solid #94a3b8;
     }
 
-    /* NÚT PHÁT AUDIO TỪNG CÂU (TỐI GIẢN, TINH TẾ) */
+    /* NÚT PHÁT AUDIO TỪNG CÂU */
     .btn-audio-pill {
       background: #f1f5f9;
       color: #0369a1;
@@ -128,7 +128,102 @@
     }
 
     /* ========================================================
-       2. DẠNG ĐIỀN TỪ (GAP-FILL / TABLE / NOTES)
+       2. MẠCH SUY NGHĨ (THEO READING) & TRỢ GIẢNG AI (TỰ LƯU)
+       ======================================================== */
+    .inline-qa-card {
+      margin: 8px 0 16px 0;
+      padding: 10px 14px;
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+    }
+    .inline-thought-box {
+      margin-bottom: 8px;
+      padding: 8px 12px;
+      background: #f0fdf4;
+      border: 1px solid #bbf7d0;
+      border-left: 3.5px solid #16a34a;
+      border-radius: 6px;
+      line-height: 1.4;
+    }
+    .inline-thought-box label {
+      font-size: 12px;
+      font-weight: 700;
+      color: #166534;
+      display: block;
+      margin-bottom: 4px;
+    }
+    .inline-thought-box textarea {
+      width: 100%;
+      height: 38px;
+      min-height: 38px;
+      padding: 6px 10px;
+      font-size: 13px;
+      border: 1px solid #cbd5e1;
+      border-radius: 4px;
+      background: #ffffff;
+      color: #0f172a;
+      resize: vertical;
+      outline: none;
+      box-sizing: border-box;
+      font-family: inherit;
+    }
+
+    .ai-assistant-box {
+      padding: 8px 12px;
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-left: 3.5px solid #0284c7;
+      border-radius: 6px;
+    }
+    .ai-assistant-box label {
+      font-size: 12px;
+      font-weight: 700;
+      color: #0369a1;
+      display: block;
+      margin-bottom: 4px;
+    }
+    .ai-input-group {
+      display: flex;
+      gap: 6px;
+    }
+    .ai-input-group input {
+      flex: 1;
+      padding: 6px 10px;
+      font-size: 12.5px;
+      border: 1px solid #cbd5e1;
+      border-radius: 4px;
+      outline: none;
+    }
+    .ai-input-group input:focus {
+      border-color: #0284c7;
+    }
+    .ai-btn {
+      background: #0284c7;
+      color: #ffffff;
+      border: none;
+      padding: 6px 12px;
+      border-radius: 4px;
+      font-weight: 700;
+      font-size: 12px;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .ai-btn:hover { background: #0369a1; }
+    .ai-response {
+      margin-top: 8px;
+      font-size: 13px;
+      line-height: 1.5;
+      color: #1e293b;
+      padding: 8px 10px;
+      background: #f0fdf4;
+      border: 1px solid #bbf7d0;
+      border-radius: 6px;
+      display: none;
+    }
+
+    /* ========================================================
+       3. DẠNG ĐIỀN TỪ (TABLE / NOTES)
        ======================================================== */
     .table-question {
       width: 100%;
@@ -197,71 +292,8 @@
       display: inline-block;
     }
 
-    /* MẠCH SUY NGHĨ: GẤP GỌN TIỆN LỢI, KHÔNG RỐI ĐỀ */
-    .thought-details-card {
-      background: #f8fafc;
-      border: 1px solid #e2e8f0;
-      border-radius: 8px;
-      margin: 16px 0 24px 0;
-      overflow: hidden;
-    }
-    .thought-summary-btn {
-      padding: 8px 14px;
-      font-size: 12.5px;
-      font-weight: 700;
-      color: #475569;
-      cursor: pointer;
-      user-select: none;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      background: #f1f5f9;
-      border-bottom: 1px solid transparent;
-      transition: all 0.15s;
-    }
-    .thought-summary-btn:hover {
-      color: #0f172a;
-      background: #e2e8f0;
-    }
-    .thought-content-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 10px;
-      padding: 12px;
-      background: #ffffff;
-      border-top: 1px solid #e2e8f0;
-    }
-    .thought-mini-box {
-      border: 1px solid #cbd5e1;
-      border-radius: 6px;
-      padding: 6px 10px;
-      background: #f8fafc;
-    }
-    .thought-mini-box label {
-      font-size: 11.5px;
-      font-weight: 700;
-      color: #334155;
-      display: block;
-      margin-bottom: 3px;
-    }
-    .thought-mini-box textarea {
-      width: 100%;
-      height: 32px;
-      min-height: 32px;
-      padding: 4px 6px;
-      font-size: 12.5px;
-      border: 1px solid #cbd5e1;
-      border-radius: 4px;
-      background: #ffffff;
-      color: #0f172a;
-      resize: vertical;
-      outline: none;
-      box-sizing: border-box;
-      font-family: inherit;
-    }
-
     /* ========================================================
-       3. DẠNG TRẮC NGHIỆM (MCQ - PART 2 & PART 3)
+       4. DẠNG TRẮC NGHIỆM MCQ (PART 2 & PART 3)
        ======================================================== */
     .lis-question-card {
       background: #ffffff;
@@ -269,10 +301,6 @@
       border-radius: 8px;
       padding: 16px 18px;
       margin-top: 14px;
-      transition: border-color 0.15s ease;
-    }
-    .lis-question-card:hover {
-      border-color: #cbd5e1;
     }
     .lis-card-header {
       display: flex;
@@ -332,17 +360,15 @@
     }
 
     /* ========================================================
-       4. DẠNG KÉO - THẢ (DRAG & DROP) PHONG CÁCH ENGNOVATE
+       5. DẠNG KÉO - THẢ (DRAG & DROP) PHONG CÁCH ENGNOVATE
        ======================================================== */
-    .drag-drop-area {
-      margin: 20px 0;
-    }
+    .drag-drop-area { margin: 20px 0; }
     .flowchart-step {
       margin-bottom: 18px;
       background: #ffffff;
-      padding: 12px 14px;
+      padding: 14px 16px;
       border-radius: 8px;
-      border: 1px solid #f1f5f9;
+      border: 1px solid #e2e8f0;
     }
     .flowchart-step-title {
       font-size: 15px;
@@ -367,6 +393,7 @@
       min-width: 300px;
       max-width: 100%;
       box-sizing: border-box;
+      margin-bottom: 8px;
     }
     .dropzone-box:hover, .dropzone-box.drag-over {
       border-color: #0284c7;
@@ -430,14 +457,12 @@
       align-items: center;
       justify-content: center;
       flex-shrink: 0;
-      transition: background 0.15s;
     }
     .btn-clear-drop:hover {
       background: #dc2626;
       color: #ffffff;
     }
 
-    /* KHO THẺ LỰA CHỌN ĐỂ KÉO */
     .drag-bank-wrapper {
       margin-top: 25px;
       padding: 16px 20px;
@@ -467,16 +492,12 @@
       cursor: grab;
       user-select: none;
       transition: all 0.15s ease;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.02);
     }
     .draggable-card:hover {
       border-color: #0284c7;
       background: #f0f9ff;
       box-shadow: 0 3px 8px rgba(0,0,0,0.06);
-      transform: translateY(-1px);
     }
-    .draggable-card:active { cursor: grabbing; }
-    .draggable-card.is-dragging { opacity: 0.35; }
     .draggable-card.is-used {
       opacity: 0.45;
       background: #f1f5f9;
@@ -495,7 +516,7 @@
     }
 
     /* ========================================================
-       5. DẠNG MAP LABELLING: MA TRẬN RADIO (CHUẨN THI MÁY)
+       6. DẠNG MAP LABELLING: MA TRẬN RADIO
        ======================================================== */
     .map-labelling-layout {
       display: flex;
@@ -517,7 +538,6 @@
       border-radius: 10px;
       padding: 14px;
       text-align: center;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.03);
     }
     .map-image-card img {
       max-width: 100%;
@@ -533,7 +553,6 @@
       border: 1.5px solid #cbd5e1;
       border-radius: 8px;
       overflow: hidden;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.02);
     }
     .map-matrix-table th, .map-matrix-table td {
       border: 1px solid #e2e8f0;
@@ -562,9 +581,7 @@
       accent-color: #0284c7;
     }
 
-    /* ========================================================
-       6. NÚT NỘP BÀI & MODAL BẢNG ĐIỂM
-       ======================================================== */
+    /* NÚT NỘP BÀI & POPUP */
     .btn-submit {
       background: #0284c7;
       color: white;
@@ -582,9 +599,7 @@
     .btn-submit:hover {
       background: #0369a1;
       transform: translateY(-1px);
-      box-shadow: 0 5px 14px rgba(2, 132, 199, 0.35);
     }
-
     .btn-full-submit {
       margin-top: 14px;
       background: linear-gradient(135deg, #4f46e5 0%, #3730a3 100%);
@@ -596,12 +611,6 @@
       font-size: 16px;
       font-weight: 800;
       cursor: pointer;
-      box-shadow: 0 4px 14px rgba(79, 70, 229, 0.3);
-      transition: all 0.2s ease;
-    }
-    .btn-full-submit:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 6px 18px rgba(79, 70, 229, 0.4);
     }
 
     .modal-backdrop {
@@ -727,6 +736,90 @@
 </div>
 
 <script>
+  /* ========================================================
+     HỆ THỐNG LƯU TRỮ VĨNH VIỄN (AUTO-SAVE PERSISTENCE)
+     ======================================================== */
+  window.saveThought = function(qId, val) {
+    if (!window.CURRENT_BASE_TEST) return;
+    try {
+      const key = `ielts_thought_${window.CURRENT_BASE_TEST}`;
+      const store = JSON.parse(localStorage.getItem(key) || '{}');
+      store[qId] = val;
+      localStorage.setItem(key, JSON.stringify(store));
+    } catch(e) {}
+  };
+
+  window.saveAiDraft = function(qId, val) {
+    if (!window.CURRENT_BASE_TEST) return;
+    try {
+      const key = `ielts_ai_${window.CURRENT_BASE_TEST}`;
+      const store = JSON.parse(localStorage.getItem(key) || '{}');
+      if (!store[qId]) store[qId] = {};
+      store[qId].question = val;
+      localStorage.setItem(key, JSON.stringify(store));
+    } catch(e) {}
+  };
+
+  window.saveAiChat = function(qId, question, response) {
+    if (!window.CURRENT_BASE_TEST) return;
+    try {
+      const key = `ielts_ai_${window.CURRENT_BASE_TEST}`;
+      const store = JSON.parse(localStorage.getItem(key) || '{}');
+      store[qId] = { question, response };
+      localStorage.setItem(key, JSON.stringify(store));
+    } catch(e) {}
+  };
+
+  window.restoreSavedUserData = function() {
+    if (!window.CURRENT_BASE_TEST) return;
+
+    // 1. Phục hồi Mạch suy nghĩ
+    try {
+      const thoughtKey = `ielts_thought_${window.CURRENT_BASE_TEST}`;
+      const thoughtStore = JSON.parse(localStorage.getItem(thoughtKey) || '{}');
+      Object.entries(thoughtStore).forEach(([qId, text]) => {
+        const el = document.getElementById(`${qId}_thought`);
+        if (el && text) el.value = text;
+      });
+    } catch(e) {}
+
+    // 2. Phục hồi Câu hỏi & Câu trả lời của AI
+    try {
+      const aiKey = `ielts_ai_${window.CURRENT_BASE_TEST}`;
+      const aiStore = JSON.parse(localStorage.getItem(aiKey) || '{}');
+      Object.entries(aiKey ? aiStore : {}).forEach(([qId, item]) => {
+        const askInp = document.getElementById(`ai_ask_${qId}`);
+        const respEl = document.getElementById(`ai_response_${qId}`);
+        if (askInp && item && item.question) askInp.value = item.question;
+        if (respEl && item && item.response) {
+          respEl.innerHTML = item.response;
+          respEl.style.display = 'block';
+        }
+      });
+    } catch(e) {}
+  };
+
+  // Giám sát tự động lưu câu trả lời của AI khi AI phản hồi xong
+  function setupAiObserver() {
+    const qBox = document.getElementById('questionBox');
+    if (!qBox) return;
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach(m => {
+        if (m.target && m.target.classList && m.target.classList.contains('ai-response')) {
+          const qId = m.target.id.replace('ai_response_', '');
+          const askInp = document.getElementById(`ai_ask_${qId}`);
+          const qText = askInp ? askInp.value : '';
+          const respText = m.target.innerHTML;
+          if (respText && respText.trim()) {
+            m.target.style.display = 'block';
+            window.saveAiChat(qId, qText, respText);
+          }
+        }
+      });
+    });
+    observer.observe(qBox, { childList: true, subtree: true, characterData: true });
+  }
+
   (function() {
     window.seekAudioTo = function(seconds, highlightId) {
       const audio = document.getElementById('mainAudioElement');
@@ -776,9 +869,7 @@
     return `${m < 10 ? '0' : ''}${m}:${s < 10 ? '0' : ''}${s}`;
   }
 
-  /* ========================================================
-     ENGINE KÉO - THẢ & CLICK-TO-SELECT CHO DẠNG MATCHING
-     ======================================================== */
+  /* KÉO - THẢ CHO MATCHING / FLOWCHART */
   window.draggedData = null;
   window.selectedOptionForPlacement = null;
 
@@ -880,8 +971,28 @@
     });
   };
 
+  /* HÀM TRỢ GIÚP TẠO KHUNG MẠCH SUY NGHĨ + TRỢ GIẢNG AI CHO TỪNG CÂU */
+  function renderThoughtAndAiBox(qId, num) {
+    return `
+      <div class="inline-qa-card">
+        <div class="inline-thought-box">
+          <label>💭 Mạch suy nghĩ của em (Câu ${num}):</label>
+          <textarea id="${qId}_thought" placeholder="Ghi chú lý do em chọn đáp án này..." oninput="window.saveThought('${qId}', this.value)"></textarea>
+        </div>
+        <div class="ai-assistant-box">
+          <label>🤖 Hỏi Trợ giảng AI về câu ${num}:</label>
+          <div class="ai-input-group">
+            <input type="text" id="ai_ask_${qId}" placeholder="Hỏi lý do chọn đáp án này..." oninput="window.saveAiDraft('${qId}', this.value)">
+            <button type="button" class="ai-btn" onclick="window.askGeminiAI && window.askGeminiAI('${qId}')">Gửi AI</button>
+          </div>
+          <div class="ai-response" id="ai_response_${qId}"></div>
+        </div>
+      </div>
+    `;
+  }
+
   /* ========================================================
-     XÂY DỰNG GIAO DIỆN BÀI THI CHUẨN TỐI GIẢN
+     XÂY DỰNG GIAO DIỆN BÀI THI HOÀN CHỈNH
      ======================================================== */
   window.buildListeningHtml = function(data, isPart4) {
     if (!data.groups || !data.questions) return data.questionHtml || "";
@@ -898,7 +1009,7 @@
       const isMapGroup = group.type === 'map' || group.imageUrl;
 
       if (isMapGroup) {
-        // 1. DẠNG BẢN ĐỒ MAP LABELLING: MA TRẬN RADIO
+        // 1. DẠNG BẢN ĐỒ MAP LABELLING
         const optsLetters = ['A','B','C','D','E','F','G','H','I','J'].slice(0, group.optionsCount || 9);
         const imgPath = group.imageUrl || 'data-l/images/cam21-t2-p2-map.png';
 
@@ -938,8 +1049,14 @@
           </div>
         `;
 
+        // Khung suy nghĩ & AI cho từng câu của phần Map
+        group.questionIds.forEach(qId => {
+          const q = data.questions[qId];
+          html += renderThoughtAndAiBox(qId, q?.num || qId.replace('q',''));
+        });
+
       } else if (isMatchingDragDrop) {
-        // 2. DẠNG KÉO - THẢ FLOW-CHART / MATCHING
+        // 2. DẠNG KÉO - THẢ MATCHING / FLOW-CHART
         html += `<div class="drag-drop-area">`;
         if (group.notesTitle) {
           html += `<h4 style="margin: 0 0 14px 0; color:#0f172a; font-size:16px; font-weight:800;">${group.notesTitle}</h4>`;
@@ -961,11 +1078,12 @@
                 <span class="drop-q-badge">Câu ${q?.num || qId.replace('q','')}</span>
                 <span class="drop-placeholder">Drop answer here</span>
               </div>
+              ${renderThoughtAndAiBox(qId, q?.num || qId.replace('q',''))}
             </div>
           `;
         });
 
-        // KHO CHỨA CÁC THẺ KÉO
+        // KHO LỰA CHỌN ĐỂ KÉO
         html += `
           <div class="drag-bank-wrapper">
             <div class="drag-bank-header">
@@ -1010,23 +1128,13 @@
 
         html += `<div style="margin-bottom:16px; font-size:15px; line-height:1.8;">${contentBody}</div>`;
 
-        // MẠCH SUY NGHĨ DẠNG DETAILS GẤP GỌN
-        html += `
-          <details class="thought-details-card">
-            <summary class="thought-summary-btn">
-              <span>💭 Ghi chú & Mạch suy nghĩ của em (Questions ${group.questionIds[0].replace('q','')}–${group.questionIds[group.questionIds.length - 1].replace('q','')})</span>
-              <span style="font-size:11px; opacity:0.7;">▼ Bấm để mở / đóng</span>
-            </summary>
-            <div class="thought-content-grid">
-              ${group.questionIds.map(qId => `
-                <div class="thought-mini-box">
-                  <label>Câu ${data.questions[qId]?.num || qId.replace('q','')}:</label>
-                  <textarea id="${qId}_thought" placeholder="Ghi chú từ khóa..."></textarea>
-                </div>
-              `).join('')}
-            </div>
-          </details>
-        `;
+        // KHUNG MẠCH SUY NGHĨ + TRỢ GIẢNG AI TỪNG CÂU CHO GAP-FILL
+        html += `<div style="margin: 16px 0 24px 0;">`;
+        group.questionIds.forEach(qId => {
+          const q = data.questions[qId];
+          html += renderThoughtAndAiBox(qId, q?.num || qId.replace('q',''));
+        });
+        html += `</div>`;
 
       } else {
         // 4. DẠNG TRẮC NGHIỆM TIÊU CHUẨN (MCQ)
@@ -1059,6 +1167,7 @@
               </div>
               <div class="mcq-options-list">${optionsList}</div>
               <div class="result" style="margin-top:6px;"></div>
+              ${renderThoughtAndAiBox(qId, q.num || qId.replace('q',''))}
             </div>
           `;
         });
@@ -1078,7 +1187,7 @@
     return html;
   };
 
-  /* XỬ LÝ CHẤM BÀI & PHẢN HỒI KẾT QUẢ */
+  /* XỬ LÝ CHẤM BÀI */
   window.enableSplitViewAfterSubmit = function() {
     document.body.classList.add('submitted');
     const passageBox = document.getElementById('passageBox');
@@ -1098,7 +1207,7 @@
 
     if (window.TEST_DATA && window.TEST_DATA.answers) {
       Object.entries(window.TEST_DATA.answers).forEach(([qId, official]) => {
-        // Feedback cho Gap-fill
+        // Feedback Gap-fill
         const inp = document.getElementById(`${qId}_input`);
         const feedback = document.getElementById(`${qId}_feedback`);
         if (inp && feedback) {
@@ -1113,7 +1222,7 @@
           }
         }
 
-        // Feedback cho Dropzone
+        // Feedback Dropzone
         const dz = document.getElementById(`dropzone_${qId}`);
         if (dz) {
           const badge = dz.querySelector('.mcq-badge');
@@ -1236,6 +1345,10 @@
       };
 
       await initListeningApp();
+
+      // Phục hồi lại toàn bộ Mạch suy nghĩ & Lịch sử AI đã lưu
+      window.restoreSavedUserData();
+      setupAiObserver();
 
       const realCheckAnswers = window.checkAnswers;
       window.checkAnswers = function() {
