@@ -1,0 +1,532 @@
+{
+  "title": "IELTS Academic 17 - Test 3 - Passage 2: Palm oil",
+  "answers": {
+    "q14": "F",
+    "q15": "G",
+    "q16": "A",
+    "q17": "H",
+    "q18": "B",
+    "q19": "E",
+    "q20": "C",
+    "q21": "B",
+    "q22": "C",
+    "q23": "solid",
+    "q24": "Sumatran orangutan",
+    "q25": "carbon stocks",
+    "q26": "biodiversity"
+  },
+  "passageHtml": "<h2>READING PASSAGE 2</h2><h3>Palm oil</h3><p><strong>Paragraph A.</strong> Palm oil is an edible oil derived from the fruit of the African oil palm tree, and is currently the most consumed vegetable oil in the world. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">It’s almost certainly in the soap we wash with in the morning, the sandwich we have for lunch, and the biscuits we snack on during the day</span>. Why is palm oil so attractive for manufacturers? Primarily because its unique properties – <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">such as remaining <span class=\"kw\">solid</span> at room temperature</span> – make it an ideal ingredient for long-term preservation, allowing many packaged foods on supermarket shelves to have ‘best before’ dates of months, even years, into the future.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Many farmers have seized the opportunity to maximise the planting of oil palm trees. Between 1990 and 2012, the global land area devoted to growing oil palm trees grew from 6 to 17 million hectares, now accounting for around ten percent of total cropland in the entire world. From a mere two million tonnes of palm oil being produced annually globally 50 years ago, there are now around 60 million tonnes produced every single year, a figure looking likely to double or even triple by the middle of the century</span>.</p><p><strong>Paragraph C.</strong> However, there are multiple reasons why conservationists cite the rapid spread of oil palm plantations as a major concern. There are countless news stories of deforestation, habitat destruction and dwindling species populations, all as a direct result of land clearing to establish oil palm tree monoculture on an industrial scale, particularly in Malaysia and Indonesia. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Endangered species – most famously the <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\"><span class=\"kw\">Sumatran orangutan</span></span>, but also rhinos, elephants, tigers, and numerous other fauna – have suffered from the unstoppable spread of oil palm plantations</span>.</p><p><strong>Paragraph D.</strong> ‘Palm oil is surely one of the greatest threats to global biodiversity,’ declares Dr Farnon Ellwood of the University of the West of England, Bristol. ‘Palm oil is replacing rainforest, and rainforest is where all the species are. That’s a problem.’ This has led to some radical questions among environmentalists, such as whether consumers should try to boycott palm oil entirely.<br><br>Meanwhile Bhavani Shankar, Professor at London’s School of Oriental and African Studies, argues, ‘It’s easy to say that palm oil is the enemy and we should be against it. It makes for a more dramatic story, and it’s very intuitive. But given the complexity of the argument, I think a much more nuanced story is closer to the truth.’</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">One response to the boycott movement has been the argument for the vital role palm oil plays in lifting many millions of people in the developing world out of poverty. Is it desirable to have palm oil boycotted, replaced, eliminated from the global supply chain, given how many low-income people in developing countries depend on it for their livelihoods? How best to strike a utilitarian balance between these competing factors has become a serious bone of contention</span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Even the deforestation argument isn’t as straightforward as it seems. Oil palm plantations produce at least four and potentially up to ten times more oil per hectare than soybean, rapeseed, sunflower or other competing oils. That immensely high yield – which is predominantly what makes it so profitable – is potentially also an ecological benefit. If ten times more palm oil can be produced from a patch of land than any competing oil, then ten times more land would need to be cleared in order to produce the same volume of oil from that competitor</span>.<br><br>As for the question of carbon emissions, the issue really depends on what oil palm trees are replacing. Crops vary in the degree to which they sequester carbon – in other words, the amount of carbon they capture from the atmosphere and store within the plant. The more carbon a plant sequesters, the more it reduces the effect of climate change. As Shankar explains: ‘[Palm oil production] actually sequesters more carbon in some ways than other alternatives. […] Of course, if you’re cutting down virgin forest it’s terrible – that’s what’s happening in Indonesia and Malaysia, it’s been allowed to get out of hand. But if it’s replacing rice, for example, it might actually sequester more carbon.’</p><p><strong>Paragraph G.</strong> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">The industry is now regulated by a group called the Roundtable on Sustainable Palm Oil (RSPO), consisting of palm growers, retailers, product manufacturers, and other interested parties</span>. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\"><span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Over the past decade or so, an agreement has gradually been reached regarding standards that producers of palm oil have to meet in order for their product to be regarded as officially ‘sustainable’</span>. The RSPO insists upon no virgin forest clearing, <span class=\"kw\">transparency</span> and <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">regular assessment of <span class=\"kw\">carbon stocks</span></span>, among other criteria</span>. Only once these requirements are fully satisfied is the oil allowed to be sold as certified sustainable palm oil (CSPO). Recent figures show that the RSPO now certifies around 12 million tonnes of palm oil annually, equivalent to roughly 21 percent of the world’s total palm oil production.</p><p><strong>Paragraph H.</strong> There is even hope that oil palm plantations might not need to be such sterile monocultures, or ‘green deserts’, as Ellwood describes them. New research at Ellwood’s lab hints at one plant which might make all the difference. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">The bird’s nest fern (Asplenium nidus) grows on trees in an epiphytic fashion (meaning it’s dependent on the tree only for support, not for nutrients), and is native to many tropical regions, where as a keystone species it performs a vital ecological role. Ellwood believes that reintroducing the bird’s nest fern into oil palm plantations could potentially allow these areas to recover their <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\"><span class=\"kw\">biodiversity</span></span>, providing a home for all manner of species, from fungi and bacteria, to invertebrates such as insects, amphibians, reptiles and even mammals</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "title": "Questions 14-20",
+      "instructions": "<i>Reading Passage 2 has eight sections, <b>A–H</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–H</b>, in boxes 14–20 on your answer sheet.</i>",
+      "questionIds": ["q14", "q15", "q16", "q17", "q18", "q19", "q20"]
+    },
+    {
+      "id": "g2",
+      "type": "multiselect",
+      "title": "Questions 21 and 22",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 21 and 22 on your answer sheet.<br>Which <b>TWO</b> statements are made about the Roundtable on Sustainable Palm Oil (RSPO)?</i>",
+      "questionIds": ["q21", "q22"]
+    },
+    {
+      "id": "g3",
+      "type": "sentence_completion",
+      "title": "Questions 23-26",
+      "instructions": "<i>Complete the sentences below.<br>Choose <b>NO MORE THAN TWO WORDS</b> from the passage for each answer.<br>Write your answers in boxes 23–26 on your answer sheet.</i>",
+      "questionIds": ["q23", "q24", "q25", "q26"]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "examples of a range of potential environmental advantages of oil palm tree cultivation",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "F",
+      "highlightId": "hl-q14",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 14 hỏi về điều gì? Hãy chú ý cụm: những ví dụ về lợi thế tiềm năng đối với môi trường ('potential environmental advantages') của việc trồng cây cọ dầu.",
+            "guide": "Em cần tìm một Paragraph giải thích xem tại sao trồng cọ dầu đôi khi lại có lợi cho môi trường hơn các loại cây lấy dầu khác.",
+            "bridge": "Mình cùng đọc Paragraph F xem có so sánh sản lượng và diện tích đất cần dùng không nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph F chỉ ra lợi thế sinh thái ('ecological benefit') của cây cọ dầu là gì?",
+            "guide": "Paragraph F viết: cọ dầu cho năng suất cao gấp 4 đến 10 lần các cây khác (như đậu nành, hướng dương). Nếu trồng cây khác để lấy cùng lượng dầu thì sẽ phải phá rừng gấp 10 lần. Ngoài ra, nếu thay thế ruộng lúa thì cọ dầu còn giúp hấp thụ nhiều carbon hơn.",
+            "bridge": "Năng suất cao giúp tiết kiệm đất rừng và khả năng hấp thụ carbon chính là các lợi thế môi trường."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào đưa ra các lợi thế môi trường này?",
+            "guide": "Đáp án chính xác là Paragraph F.",
+            "bridge": "Chốt câu 14: F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Những ví dụ về lợi thế tiềm năng cho môi trường của việc trồng cọ dầu.",
+          "<b>Paragraph F:</b> Chỉ ra năng suất cực cao của cọ dầu là một lợi ích sinh thái (<i>ecological benefit</i>) vì giúp tiết kiệm diện tích đất cần phát quang so với cây khác, và có thể hấp thụ nhiều carbon hơn (<i>sequester more carbon</i>) trong một số trường hợp.",
+          "<b>Khớp ý:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "description of an organisation which controls the environmental impact of palm oil production",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "G",
+      "highlightId": "hl-q15",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 15 muốn tìm thông tin gì? Hãy để ý cụm 'description of an organisation' (miêu tả về một tổ chức) kiểm soát tác động môi trường của việc sản xuất cọ dầu.",
+            "guide": "Em hãy tìm một Paragraph giới thiệu tên một tổ chức hoặc hiệp hội quản lý các tiêu chuẩn sản xuất dầu cọ bền vững.",
+            "bridge": "Hãy tìm tên viết hoa của một tổ chức ở Paragraph G."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph G giới thiệu tổ chức nào giám sát và đưa ra quy định cho ngành dầu cọ?",
+            "guide": "Paragraph G viết: 'The industry is now regulated by a group called the Roundtable on Sustainable Palm Oil (RSPO), consisting of palm growers, retailers, product manufacturers...' (Ngành này hiện được quản lý bởi một tổ chức tên là RSPO, gồm người trồng, bên bán lẻ và nhà sản xuất).",
+            "bridge": "Tổ chức RSPO chính là tổ chức được miêu tả ở đây."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nói về tổ chức này?",
+            "guide": "Đó là Paragraph G.",
+            "bridge": "Chốt câu 15: G."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Miêu tả về một tổ chức kiểm soát tác động môi trường của sản xuất dầu cọ.",
+          "<b>Paragraph G (câu đầu):</b> <i>'The industry is now regulated by a group called the Roundtable on Sustainable Palm Oil (RSPO), consisting of palm growers, retailers...'</i>",
+          "<b>Khớp từ:</b> <i>an organisation</i> = <i>a group called the Roundtable on Sustainable Palm Oil (RSPO)</i>.",
+          "<b>Kết luận:</b> Chọn <b>G</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "examples of the widespread global use of palm oil",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "A",
+      "highlightId": "hl-q16",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 16 hỏi về điều gì? Hãy chú ý ý: các ví dụ về việc dầu cọ được sử dụng rộng rãi trên toàn cầu ('widespread global use').",
+            "guide": "Em cần tìm Paragraph liệt kê các món đồ, thực phẩm quen thuộc hàng ngày có chứa dầu cọ.",
+            "bridge": "Cùng đọc Paragraph A xem có liệt kê các sản phẩm như xà phòng, bánh kẹo không nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph A liệt kê những vật dụng và đồ ăn hàng ngày nào có dầu cọ?",
+            "guide": "Paragraph A viết: dầu cọ có trong xà phòng tắm buổi sáng ('soap'), bánh mì kẹp ăn trưa ('sandwich') và bánh quy ăn vặt ('biscuits'), cùng vô số thực phẩm đóng gói trên kệ siêu thị.",
+            "bridge": "Xà phòng, sandwich, bánh quy... chính là các ví dụ về việc sử dụng dầu cọ phổ biến khắp nơi."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa những ví dụ này?",
+            "guide": "Đáp án chính xác là Paragraph A.",
+            "bridge": "Chốt câu 16: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Các ví dụ về việc sử dụng dầu cọ rộng rãi trên toàn thế giới.",
+          "<b>Paragraph A:</b> <i>'It’s almost certainly in the soap we wash with in the morning, the sandwich we have for lunch, and the biscuits we snack on during the day... packaged foods on supermarket shelves...'</i>",
+          "<b>Khớp ý:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "reference to a particular species which could benefit the ecosystem of oil palm plantations",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "H",
+      "highlightId": "hl-q17",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 17 hỏi về điều gì? Hãy chú ý cụm: nhắc đến một loài sinh vật cụ thể ('a particular species') có thể mang lại lợi ích cho hệ sinh thái của các đồn điền cọ dầu ('benefit the ecosystem').",
+            "guide": "Em cần tìm một Paragraph giới thiệu tên một loài cây hoặc con vật cụ thể giúp cải thiện môi trường đồn điền cọ.",
+            "bridge": "Hãy đọc Paragraph H chỗ nhóm của ông Ellwood nghiên cứu."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Trong Paragraph H, loài cây nào được đề xuất đưa vào đồn điền cọ dầu để phục hồi đa dạng sinh học?",
+            "guide": "Paragraph H viết: loài dương xỉ tổ chim ('bird’s nest fern') sống biểu sinh trên cây có thể giúp đồn điền lấy lại sự đa dạng sinh học, tạo nơi ở cho nấm, vi khuẩn, côn trùng và động vật có vú.",
+            "bridge": "'bird’s nest fern' chính là loài sinh vật cụ thể mang lại lợi ích cho hệ sinh thái đồn điền."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nói về loài sinh vật này?",
+            "guide": "Đó là Paragraph H.",
+            "bridge": "Chốt câu 17: H."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Đề cập đến một loài cụ thể có thể làm lợi cho hệ sinh thái đồn điền cọ dầu.",
+          "<b>Paragraph H:</b> Giới thiệu loài dương xỉ tổ chim (<i>bird’s nest fern</i>) có thể giúp các đồn điền phục hồi đa dạng sinh học (<i>recover their biodiversity</i>) và làm tổ cho nhiều loài khác.",
+          "<b>Khớp ý:</b> Chọn <b>H</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "figures illustrating the rapid expansion of the palm oil industry",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "B",
+      "highlightId": "hl-q18",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 18 hỏi về điều gì? Chú ý từ 'figures' (các số liệu, con số thống kê) minh họa cho sự mở rộng nhanh chóng ('rapid expansion') của ngành công nghiệp dầu cọ.",
+            "guide": "Em cần tìm một Paragraph chứa nhiều con số thống kê về diện tích trồng trọt và sản lượng dầu cọ tăng vọt.",
+            "bridge": "Hãy nhìn lướt qua các con số hecta và tấn ở Paragraph B nhé."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph B đưa ra những số liệu nào về sự tăng trưởng của ngành dầu cọ?",
+            "guide": "Paragraph B có hàng loạt số liệu: từ năm 1990 đến 2012 diện tích tăng từ 6 lên 17 triệu hecta (chiếm 10% đất trồng toàn cầu); sản lượng tăng từ 2 triệu tấn cách đây 50 năm lên 60 triệu tấn mỗi năm hiện nay.",
+            "bridge": "Các con số 6 lên 17 triệu hecta, 2 lên 60 triệu tấn chính là các số liệu minh họa cho sự tăng trưởng nhanh."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa các số liệu này?",
+            "guide": "Đáp án chính xác là Paragraph B.",
+            "bridge": "Chốt câu 18: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Những số liệu minh họa cho sự mở rộng nhanh chóng của ngành dầu cọ.",
+          "<b>Paragraph B:</b> Đưa ra hàng loạt con số: diện tích đất tăng từ 6 lên 17 triệu héc-ta (<i>grew from 6 to 17 million hectares</i>), sản lượng tăng từ 2 triệu tấn lên khoảng 60 triệu tấn mỗi năm (<i>from 2 million tonnes to 60 million tonnes</i>).",
+          "<b>Khớp từ:</b> <i>figures</i> = các số liệu thống kê ở Paragraph B.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "an economic justification for not opposing the palm oil industry",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "E",
+      "highlightId": "hl-q19",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 19 hỏi về điều gì? Hãy chú ý cụm: một lý do về mặt kinh tế ('economic justification') để không phản đối/tẩy chay ngành dầu cọ ('for not opposing').",
+            "guide": "Em cần tìm Paragraph nói về lý do tại sao không nên tẩy chay dầu cọ xét trên góc độ lợi ích kinh tế và đời sống người dân nghèo.",
+            "bridge": "Cùng đọc Paragraph E nơi bàn về phong trào tẩy chay (boycott movement)."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph E đưa ra lý do kinh tế nào để phản bác lại phong trào tẩy chay dầu cọ?",
+            "guide": "Paragraph E viết: dầu cọ đóng vai trò sống còn trong việc giúp hàng triệu người ở các nước đang phát triển thoát nghèo, và rất nhiều người có thu nhập thấp đang dựa vào nó để kiếm sống ('depend on it for their livelihoods').",
+            "bridge": "Giúp hàng triệu người thoát nghèo và đảm bảo sinh kế chính là lý do kinh tế chính đáng để không bài trừ dầu cọ."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào nêu lên lý do kinh tế này?",
+            "guide": "Đáp án là Paragraph E.",
+            "bridge": "Chốt câu 19: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Một lý do kinh tế chính đáng để không phản đối ngành dầu cọ.",
+          "<b>Paragraph E:</b> Nêu rõ vai trò của dầu cọ trong việc giúp hàng triệu người thoát nghèo (<i>lifting many millions... out of poverty</i>) và cung cấp sinh kế cho người thu nhập thấp (<i>depend on it for their livelihoods</i>) trước làn sóng đòi tẩy chay.",
+          "<b>Khớp ý:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "examples of creatures badly affected by the establishment of oil palm plantations",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q20",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung câu hỏi",
+            "question": "Câu 20 hỏi về điều gì? Chú ý cụm: các ví dụ về những loài sinh vật bị ảnh hưởng xấu ('creatures badly affected') do việc lập đồn điền cọ dầu.",
+            "guide": "Em cần tìm một Paragraph liệt kê tên các loài động vật hoang dã bị đe dọa sinh sống vì phá rừng làm đồn điền cọ.",
+            "bridge": "Hãy tìm tên các loài động vật như đười ươi, tê giác, hổ ở Paragraph C."
+          },
+          {
+            "title": "Đọc quét tìm dẫn chứng",
+            "question": "Paragraph C kể tên những loài động vật nào đang bị đe dọa?",
+            "guide": "Paragraph C viết: các loài nguy cấp phải chịu thiệt hại gồm đười ươi Sumatra ('Sumatran orangutan'), tê giác ('rhinos'), voi ('elephants'), hổ ('tigers') và nhiều loài động vật khác.",
+            "bridge": "Đười ươi, tê giác, voi, hổ... chính là các ví dụ về sinh vật bị ảnh hưởng nặng nề."
+          },
+          {
+            "title": "Chốt đáp án",
+            "question": "Vậy Paragraph nào chứa danh sách các loài vật này?",
+            "guide": "Đó là Paragraph C.",
+            "bridge": "Chốt câu 20: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Các ví dụ về những loài sinh vật bị ảnh hưởng xấu bởi việc lập đồn điền cọ.",
+          "<b>Paragraph C:</b> Liệt kê hàng loạt loài động vật bị đe dọa do mất môi trường sống: <i>'Sumatran orangutan, but also rhinos, elephants, tigers, and numerous other fauna...'</i>",
+          "<b>Khớp ý:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Which TWO statements are made about the Roundtable on Sustainable Palm Oil (RSPO)?",
+      "options": [
+        "A. Its membership has grown steadily over the course of the last decade.",
+        "B. It demands that certified producers be open and honest about their practices.",
+        "C. It took several years to establish its set of criteria for sustainable palm oil certification.",
+        "D. Its regulations regarding sustainability are stricter than those governing other industries.",
+        "E. It was formed at the request of environmentalists concerned about the loss of virgin forests."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q21",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu yêu cầu câu hỏi 21-22",
+            "question": "Câu 21-22 hỏi: Hai khẳng định nào đúng về tổ chức RSPO (Roundtable on Sustainable Palm Oil)?",
+            "guide": "Em hãy đọc kỹ Paragraph G nơi mô tả các tiêu chuẩn và quá trình hình thành của tổ chức RSPO.",
+            "bridge": "Cùng xem RSPO yêu cầu những người sản xuất được cấp chứng nhận phải làm gì nhé."
+          },
+          {
+            "title": "Soi tiêu chuẩn về tính minh bạch",
+            "question": "Paragraph G nói RSPO yêu cầu các nhà sản xuất phải đáp ứng tiêu chí gì, trong đó có nhắc đến từ 'transparency' (sự minh bạch, trung thực)?",
+            "guide": "Paragraph G viết: 'The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks...' (RSPO kiên quyết yêu cầu không phá rừng nguyên sinh, phải minh bạch và thường xuyên đánh giá trữ lượng carbon).",
+            "bridge": "'transparency' (minh bạch) đồng nghĩa với việc cởi mở và trung thực về hoạt động của mình ('open and honest about their practices')."
+          },
+          {
+            "title": "Chọn phương án đúng đầu tiên",
+            "question": "Lựa chọn nào nói về yêu cầu minh bạch, trung thực này?",
+            "guide": "Đó là phương án B: 'It demands that certified producers be open and honest about their practices'.",
+            "bridge": "Chọn được đáp án đầu tiên: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tìm khẳng định đúng về tổ chức RSPO.",
+          "<b>Paragraph G:</b> <i>'The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks...'</i>",
+          "<b>Khớp từ:</b> <i>insists upon ... transparency</i> = yêu cầu các nhà sản xuất phải minh bạch, trung thực (<i>demands that certified producers be open and honest about their practices</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Which TWO statements are made about the Roundtable on Sustainable Palm Oil (RSPO)?",
+      "options": [
+        "A. Its membership has grown steadily over the course of the last decade.",
+        "B. It demands that certified producers be open and honest about their practices.",
+        "C. It took several years to establish its set of criteria for sustainable palm oil certification.",
+        "D. Its regulations regarding sustainability are stricter than those governing other industries.",
+        "E. It was formed at the request of environmentalists concerned about the loss of virgin forests."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q22",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Soi thời gian xây dựng tiêu chuẩn",
+            "question": "Paragraph G nói mất bao lâu để các bên đạt được thỏa thuận về bộ tiêu chuẩn bền vững?",
+            "guide": "Paragraph G viết: 'Over the past decade or so, an agreement has gradually been reached regarding standards that producers of palm oil have to meet...' (Trong khoảng một thập kỷ qua, thỏa thuận về các tiêu chuẩn mới dần dần đạt được).",
+            "bridge": "'Over the past decade or so... gradually been reached' nghĩa là đã phải mất nhiều năm trời mới thiết lập xong bộ tiêu chuẩn."
+          },
+          {
+            "title": "Chọn phương án đúng thứ hai",
+            "question": "Phương án nào nêu việc phải mất nhiều năm mới lập xong bộ tiêu chí chứng nhận?",
+            "guide": "Đó là phương án C: 'It took several years to establish its set of criteria for sustainable palm oil certification'.",
+            "bridge": "Loại trừ: A, D, E bài không hề nhắc đến việc so sánh độ nghiêm ngặt với ngành khác hay ai yêu cầu thành lập."
+          },
+          {
+            "title": "Chốt đáp án thứ hai",
+            "question": "Vậy đáp án còn lại cho cặp câu 21-22 là gì?",
+            "guide": "Đáp án là C.",
+            "bridge": "Hoàn thành nhóm câu 21-22: B và C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Paragraph G (dòng 2-3):</b> <i>'Over the past decade or so, an agreement has gradually been reached regarding standards that producers of palm oil have to meet in order for their product to be regarded as officially 'sustainable'.'</i>",
+          "<b>Khớp từ:</b> <i>Over the past decade or so... gradually</i> = mất nhiều năm (<i>took several years</i>); <i>standards</i> = <i>criteria</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "One advantage of palm oil for manufacturers is that it stays 23 __________ even when not refrigerated.",
+      "finalAnswer": "solid",
+      "inputWidth": "100px",
+      "highlightId": "hl-q23",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 23: Một lợi thế của dầu cọ đối với các nhà sản xuất là nó vẫn giữ được trạng thái như thế nào ('stays 23 ______') ngay cả khi không để trong tủ lạnh?",
+            "guide": "Sau động từ nối 'stays' cần một tính từ chỉ trạng thái vật lý của dầu cọ ở nhiệt độ phòng.",
+            "bridge": "Cùng đọc Paragraph A chỗ nói về các đặc tính độc đáo của dầu cọ nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph A nói đặc tính độc đáo nào của dầu cọ giúp bảo quản thực phẩm lâu dài?",
+            "guide": "Paragraph A viết: 'Primarily because its unique properties – such as remaining solid at room temperature – make it an ideal ingredient for long-term preservation...'",
+            "bridge": "'remaining solid at room temperature' (giữ ở thể rắn tại nhiệt độ phòng) tương đương với 'stays solid even when not refrigerated'.",
+            "answer": "solid"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tính từ chỉ trạng thái đó là gì?",
+            "guide": "Đáp án là 'solid' (ở thể rắn).",
+            "bridge": "Chốt câu 23: solid."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Dầu cọ có đặc tính giữ nguyên trạng thái nào ở nhiệt độ phòng không cần tủ lạnh.",
+          "<b>Paragraph A (dòng 5):</b> <i>'...its unique properties – such as remaining solid at room temperature – make it an ideal ingredient...'</i>",
+          "<b>Khớp từ:</b> <i>stays ... even when not refrigerated</i> = <i>remaining ... at room temperature</i>.",
+          "<b>Từ cần điền:</b> <b>solid</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "The 24 __________ is the best known of the animals suffering habitat loss as a result of the spread of oil palm plantations.",
+      "finalAnswer": "Sumatran orangutan",
+      "inputWidth": "180px",
+      "highlightId": "hl-q24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 24: Loài vật nào là loài nổi tiếng nhất ('the best known') trong số các loài bị mất môi trường sống do đồn điền cọ dầu mở rộng?",
+            "guide": "Sau 'The' và trước 'is the best known' cần tên một loài động vật cụ thể (tối đa 2 từ).",
+            "bridge": "Hãy tìm tên loài động vật nổi tiếng nhất ở Paragraph C."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph C nói loài nguy cấp nào là nổi tiếng nhất bị ảnh hưởng?",
+            "guide": "Paragraph C viết: 'Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants, tigers... have suffered from the unstoppable spread of oil palm plantations.'",
+            "bridge": "'most famously' chính là 'the best known' (nổi tiếng nhất). Tên loài vật là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Tên loài động vật được nhắc đến là gì?",
+            "guide": "Đáp án là 'Sumatran orangutan' (hoặc 'orangutan').",
+            "bridge": "Chốt câu 24: Sumatran orangutan."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Loài động vật nổi tiếng nhất chịu cảnh mất nhà cửa vì đồn điền cọ dầu.",
+          "<b>Paragraph C (câu cuối):</b> <i>'Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants...'</i>",
+          "<b>Khớp từ:</b> <i>the best known</i> = <i>most famously</i>.",
+          "<b>Từ cần điền:</b> <b>Sumatran orangutan</b> (hoặc <b>orangutan</b>)."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "As one of its criteria for the certification of sustainable palm oil, the RSPO insists that growers check 25 __________ on a routine basis.",
+      "finalAnswer": "carbon stocks",
+      "inputWidth": "150px",
+      "highlightId": "hl-q25",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 25: Trong bộ tiêu chí chứng nhận, tổ chức RSPO kiên quyết yêu cầu người trồng phải kiểm tra cái gì ('check 25 ______') một cách định kỳ thường xuyên ('on a routine basis')?",
+            "guide": "Sau động từ 'check' cần một danh từ hoặc cụm danh từ chỉ chỉ số môi trường cần được đánh giá định kỳ.",
+            "bridge": "Hãy đọc Paragraph G chỗ liệt kê các tiêu chí của RSPO nhé."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph G nói RSPO yêu cầu đánh giá thường xuyên cái gì: 'regular assessment of ______'?",
+            "guide": "Paragraph G viết: 'The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks, among other criteria.'",
+            "bridge": "'regular assessment of' chính là kiểm tra định kỳ (check on a routine basis). Thứ cần đánh giá là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Cụm danh từ đó là gì?",
+            "guide": "Đáp án là 'carbon stocks' (trữ lượng carbon).",
+            "bridge": "Chốt câu 25: carbon stocks."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Tiêu chuẩn RSPO yêu cầu người trồng phải định kỳ kiểm tra chỉ số gì.",
+          "<b>Paragraph G (dòng 5):</b> <i>'The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks...'</i>",
+          "<b>Khớp từ:</b> <i>check ... on a routine basis</i> = <i>regular assessment of</i>.",
+          "<b>Từ cần điền:</b> <b>carbon stocks</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Ellwood and his researchers are looking into whether the bird’s nest fern could restore 26 __________ in areas where oil palm trees are grown.",
+      "finalAnswer": "biodiversity",
+      "inputWidth": "140px",
+      "highlightId": "hl-q26",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Xác định từ cần điền",
+            "question": "Đọc câu hỏi 26: Ông Ellwood và nhóm nghiên cứu đang xem xét liệu loài dương xỉ tổ chim có thể giúp phục hồi cái gì ('restore 26 ______') ở vùng trồng cọ dầu hay không?",
+            "guide": "Sau động từ 'restore' cần một danh từ chỉ giá trị tự nhiên, sinh thái được phục hồi.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph H."
+          },
+          {
+            "title": "Tìm câu chứa thông tin",
+            "question": "Paragraph H nói đưa dương xỉ tổ chim vào đồn điền sẽ giúp phục hồi cái gì: 'allow these areas to recover their ______'?",
+            "guide": "Paragraph H viết: 'Ellwood believes that reintroducing the bird’s nest fern into oil palm plantations could potentially allow these areas to recover their biodiversity...' (giúp các khu vực này khôi phục lại tính đa dạng sinh học).",
+            "bridge": "'recover' đồng nghĩa với 'restore' (phục hồi). Thứ được phục hồi là gì?"
+          },
+          {
+            "title": "Chọn từ nguyên văn",
+            "question": "Từ 1 chữ chỉ tính đa dạng sinh học là gì?",
+            "guide": "Đáp án là 'biodiversity'.",
+            "bridge": "Hoàn thành toàn bộ Passage 2! Chốt câu 26: biodiversity."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ngữ cảnh:</b> Dương xỉ tổ chim có thể giúp phục hồi điều gì cho các đồn điền cọ.",
+          "<b>Paragraph H (câu cuối):</b> <i>'Ellwood believes that reintroducing the bird’s nest fern... could potentially allow these areas to recover their biodiversity...'</i>",
+          "<b>Khớp từ:</b> <i>restore</i> = <i>recover</i>.",
+          "<b>Từ cần điền:</b> <b>biodiversity</b>."
+        ]
+      }
+    }
+  }
+}
