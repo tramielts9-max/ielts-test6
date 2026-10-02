@@ -1,0 +1,572 @@
+{
+  "title": "IELTS Academic 18 - Test 4 - Passage 2: The growth mindset",
+  "answers": {
+    "q14": "B",
+    "q15": "C",
+    "q16": "D",
+    "q17": "C",
+    "q18": "B",
+    "q19": "A",
+    "q20": "E",
+    "q21": "B",
+    "q22": "D",
+    "q23": "YES",
+    "q24": "NO",
+    "q25": "NOT GIVEN",
+    "q26": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 2</h2><h3>The growth mindset</h3><p><strong>Paragraph 1.</strong> Over the past century, a powerful idea has taken root in the educational landscape. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">The concept of intelligence as something innate has been supplanted by the idea that intelligence is not fixed, and that, with the right training, we can be the authors of our own cognitive capabilities. Psychologist Alfred Binet, the developer of the first intelligence tests, was one of many 19th-century scientists who held that earlier view <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">and sought to quantify cognitive ability</span>. Then, in the early 20th century, progressive thinkers revolted against the notion that inherent ability is destiny</span>. Instead, educators such as John Dewey argued that every child's intelligence could be developed, given the right environment.</p><p><strong>Paragraph 2.</strong> 'Growth mindset theory' is a relatively new – and extremely popular – version of this idea. In many schools today you will see hallways covered in motivational posters and hear speeches on the mindset of great sporting heroes who simply believed their way to the top. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">A major focus of the growth mindset in schools is coaxing students away from seeing failure as an indication of their ability, and towards seeing it as a chance to improve that ability</span>. As educationalist Jeff Howard noted several decades ago: 'Smart is not something that you just are, smart is something that you can get.'</p><p><strong>Paragraph 3.</strong> The idea of the growth mindset is based on the work of psychologist Carol Dweck in California in the 1990s. In one key experiment, Dweck divided a group of 10- to 12-year-olds into two groups. All were told that they had achieved a high score on a test but the first group were praised for their intelligence in achieving this, while the others were praised for their effort. The second group – those who had been instilled with a 'growth mindset' – were subsequently far more likely to put effort into future tasks. Meanwhile, the former took on only those tasks that would not risk their sense of worth. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">This group had inferred that success or failure is due to innate ability, and this 'fixed mindset' had led them to fear of failure and lack of effort</span>. Praising ability actually made the students perform worse, while praising effort emphasised that change was possible.</p><p><strong>Paragraph 4.</strong> One of the greatest impediments to successfully implementing a growth mindset, however, is the education system itself: in many parts of the world, the school climate is obsessed with performance in the form of constant testing, analysing and ranking of students – a key characteristic of the fixed mindset. Nor is it unusual for schools to create a certain cognitive dissonance, when they applaud the benefits of a growth mindset but then hand out fixed target grades in lessons based on performance.</p><p><strong>Paragraph 5.</strong> Aside from the implementation problem, the original growth mindset research has also received harsh criticism. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">The statistician Andrew Gelman claims that 'their research designs have enough degrees of freedom that they could take their data to support just about any theory at all'</span>. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Professor of Psychology Timothy Bates, who has been trying to replicate Dweck's work, is finding that the results are repeatedly null. He notes that: 'People with a growth mindset don't cope any better with failure ... Kids with the growth mindset aren't getting better grades, either before or after our intervention study.'</span></p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Much of this criticism is not lost on Dweck, and she deserves great credit for responding to it and adapting her work accordingly</span>. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">In fact, she argues that her work has been misunderstood and misapplied in a range of ways</span>. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">She has also expressed concerns that her theories are being misappropriated in schools by being conflated with the self-esteem movement: 'For me the growth mindset is a tool for learning and improvement. It's not just a vehicle for making children feel good.'</span></p><p><strong>Paragraph 7.</strong> But there is another factor at work here. The failure to translate the growth mindset into the classroom might reflect a misunderstanding of the nature of teaching and learning itself. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Growth mindset supporters David Yeager and Gregory Walton claim that interventions should be delivered in a subtle way to maximise their effectiveness</span>. <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">They say that if adolescents perceive a teacher's intervention as conveying that they are in need of help, this could undo its intended effects</span>.</p><p><strong>Paragraph 8.</strong> A lot of what drives students is their innate beliefs and how they perceive themselves. There is a strong correlation between self-perception and achievement, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">but there is evidence to suggest that the actual effect of achievement on self-perception is stronger than the other way round</span>. To stand up in a classroom and successfully deliver a good speech is a genuine achievement, and that is likely to be more powerfully motivating than vague notions of 'motivation' itself.</p><p><strong>Paragraph 9.</strong> <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Recent evidence would suggest that growth mindset interventions are not the elixir of student learning that its proponents claim it to be. The growth mindset appears to be a viable construct in the lab, which, when administered in the classroom via targeted interventions, doesn't seem to work</span>. It is hard to dispute that having faith in the capacity to change is a good attribute for students. Paradoxically, however, that aspiration is not well served by direct interventions that try to instil it.</p><p><strong>Paragraph 10.</strong> Motivational posters and talks are often a waste of time, and might well give students a deluded notion of what success actually means. Teaching concrete skills such as how to write an effective introduction to an essay then praising students' effort in getting there is probably a far better way of improving confidence than telling them how unique they are, or indeed how capable they are of changing their own brains. Perhaps growth mindset works best as a philosophy and not an intervention.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "title": "Questions 14-16",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 14-16 on your answer sheet.</i>",
+      "questionIds": ["q14", "q15", "q16"]
+    },
+    {
+      "id": "g2",
+      "type": "matching_names",
+      "title": "Questions 17-22",
+      "instructions": "<i>Look at the following statements (Questions 17-22) and the list of people below.<br>Match each statement with the correct person or people, <b>A-E</b>.<br>Write the correct letter, <b>A-E</b>, in boxes 17-22 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of People:</b><br><b>A.</b> Alfred Binet<br><b>B.</b> Carol Dweck<br><b>C.</b> Andrew Gelman<br><b>D.</b> Timothy Bates<br><b>E.</b> David Yeager and Gregory Walton",
+      "questionIds": ["q17", "q18", "q19", "q20", "q21", "q22"]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "title": "Questions 23-26",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 2?<br>In boxes 23-26 on your answer sheet, write:<br><b>YES</b> if the statement agrees with the claims of the writer<br><b>NO</b> if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": ["q23", "q24", "q25", "q26"]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "What can we learn from the first paragraph?",
+      "options": [
+        "A. where the notion of innate intelligence first began",
+        "B. when ideas about the nature of intelligence began to shift",
+        "C. how scientists have responded to changing views of intelligence",
+        "D. why thinkers turned away from the idea of intelligence being fixed"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q14",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 14 hỏi: Chúng ta có thể rút ra điều gì từ Paragraph 1?",
+            "guide": "Em hãy đọc kỹ Paragraph 1 xem tác giả đang miêu tả sự thay đổi về quan điểm trí thông minh diễn ra vào thời gian nào.",
+            "bridge": "Cùng xem các mốc thời gian xuất hiện trong Paragraph 1 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 1 nhắc đến các mốc thời gian nào khi quan niệm về trí thông minh bắt đầu thay đổi?",
+            "guide": "Paragraph 1 viết: trong thế kỷ 19 ('19th-century'), người ta xem trí thông minh là bẩm sinh; nhưng sang đầu thế kỷ 20 ('in the early 20th century'), các nhà tư tưởng tiến bộ đã phản đối quan niệm này và cho rằng trí tuệ có thể phát triển được.",
+            "bridge": "Đoạn văn cho ta biết thời điểm (khi nào) quan niệm về bản chất trí tuệ bắt đầu chuyển biến."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Lựa chọn nào nói về 'thời điểm quan niệm về bản chất trí thông minh bắt đầu thay đổi'?",
+            "guide": "Đó là phương án B: 'when ideas about the nature of intelligence began to shift'.",
+            "bridge": "Chốt câu 14: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Chúng ta biết được điều gì từ Paragraph 1?",
+          "<b>Paragraph 1:</b> Miêu tả sự chuyển dịch quan điểm từ thế kỷ 19 (trí tuệ cố định, bẩm sinh) sang đầu thế kỷ 20 (<i>'in the early 20th century, progressive thinkers revolted...'</i> - trí tuệ có thể rèn luyện và phát triển được).",
+          "<b>Khớp ý:</b> Cung cấp mốc thời gian quan niệm bắt đầu thay đổi (<i>when ideas... began to shift</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "The second paragraph describes how schools encourage students to",
+      "options": [
+        "A. identify their personal ambitions.",
+        "B. help each other to realise their goals.",
+        "C. have confidence in their potential to succeed.",
+        "D. concentrate on where their particular strengths lie."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q15",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 15 hỏi: Paragraph 2 miêu tả các trường học khuyến khích học sinh làm điều gì?",
+            "guide": "Em hãy đọc Paragraph 2 xem nhà trường hướng học sinh có thái độ như thế nào trước thất bại và khả năng thành công.",
+            "bridge": "Cùng đọc câu thứ ba của Paragraph 2 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 2 nói trọng tâm của tư duy phát triển trong trường học là hướng học sinh nhìn nhận thất bại ra sao?",
+            "guide": "Paragraph 2 viết: 'A major focus... is coaxing students away from seeing failure as an indication of their ability, and towards seeing it as a chance to improve that ability' (hướng học sinh không coi thất bại là do năng lực kém, mà coi đó là cơ hội để nâng cao năng lực).",
+            "bridge": "Khuyên học sinh tin rằng mình có thể rèn luyện để giỏi lên chính là giúp các em tự tin vào tiềm năng thành công của mình."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang ý nghĩa 'tự tin vào tiềm năng đạt được thành công của bản thân'?",
+            "guide": "Đó là phương án C: 'have confidence in their potential to succeed'.",
+            "bridge": "Chốt câu 15: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Trường học khuyến khích học sinh làm gì ở Paragraph 2?",
+          "<b>Paragraph 2:</b> Khuyên học sinh tin vào những tấm gương nỗ lực vươn lên và coi thất bại là cơ hội để tiến bộ (<i>'seeing it as a chance to improve that ability'</i>) vì <i>'smart is something that you can get'</i>.",
+          "<b>Khớp ý:</b> Giúp học sinh có niềm tin vào khả năng phát triển để thành công (<i>have confidence in their potential to succeed</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "In the third paragraph, the writer suggests that students with a fixed mindset",
+      "options": [
+        "A. tend to be less competitive.",
+        "B. generally have a low sense of self-esteem.",
+        "C. will only work hard if they are given constant encouragement.",
+        "D. are afraid to push themselves beyond what they see as their limitations."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q16",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 16 hỏi: Ở Paragraph 3, tác giả cho rằng những học sinh có tư duy cố định ('fixed mindset') thường có biểu hiện gì?",
+            "guide": "Em hãy đọc phần thí nghiệm của Carol Dweck ở Paragraph 3 đối với nhóm học sinh được khen là thông minh.",
+            "bridge": "Cùng xem nhóm học sinh này chọn bài tập như thế nào nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 3 nói nhóm học sinh có tư duy cố định này chỉ dám nhận những nhiệm vụ như thế nào?",
+            "guide": "Bài viết: 'the former took on only those tasks that would not risk their sense of worth... this \"fixed mindset\" had led them to fear of failure and lack of effort' (nhóm này chỉ nhận những nhiệm vụ không gây nguy hại đến lòng tự tôn... tư duy cố định khiến họ sợ thất bại và lười nỗ lực hơn).",
+            "bridge": "'sợ thất bại' và chỉ dám làm việc dễ để bảo vệ lòng tự tôn chính là việc sợ vượt qua giới hạn của bản thân."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào diễn đạt ý 'sợ bước ra ngoài những giới hạn mà bản thân tự đặt ra'?",
+            "guide": "Đó là phương án D: 'are afraid to push themselves beyond what they see as their limitations'.",
+            "bridge": "Chốt câu 16: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nói gì về học sinh có tư duy cố định ở Paragraph 3?",
+          "<b>Paragraph 3:</b> <i>'Meanwhile, the former took on only those tasks that would not risk their sense of worth... led them to fear of failure and lack of effort.'</i>",
+          "<b>Khớp ý:</b> Chỉ chọn việc an toàn vì sợ thất bại = sợ thúc đẩy bản thân vượt qua giới hạn tự cảm nhận (<i>afraid to push themselves beyond what they see as their limitations</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "The methodology behind the growth mindset studies was not strict enough.",
+      "options": [
+        "A. Alfred Binet",
+        "B. Carol Dweck",
+        "C. Andrew Gelman",
+        "D. Timothy Bates",
+        "E. David Yeager and Gregory Walton"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q17",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 17 nói gì? Phương pháp nghiên cứu ('methodology') đằng sau các nghiên cứu tư duy phát triển chưa đủ chặt chẽ, nghiêm ngặt ('not strict enough').",
+            "guide": "Em cần tìm xem chuyên gia nào phê bình cách thiết kế nghiên cứu của thuyết này là lỏng lẻo.",
+            "bridge": "Hãy đọc Paragraph 5 nơi nhắc đến các nhà thống kê phê bình."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph 5, nhà thống kê Andrew Gelman nhận xét gì về thiết kế nghiên cứu?",
+            "guide": "Paragraph 5 viết: 'The statistician Andrew Gelman claims that \"their research designs have enough degrees of freedom that they could take their data to support just about any theory at all\"' (thiết kế nghiên cứu có quá nhiều độ tự do đến mức có thể dùng dữ liệu để biện hộ cho hầu như bất kỳ giả thuyết nào).",
+            "bridge": "Thiết kế nghiên cứu quá nhiều kẽ hở chính là phương pháp chưa đủ chặt chẽ (not strict enough)."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra lời nhận xét này?",
+            "guide": "Đó là ông Andrew Gelman (đáp án C).",
+            "bridge": "Chốt câu 17: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Phương pháp nghiên cứu của thuyết tư duy phát triển chưa đủ chặt chẽ.",
+          "<b>Paragraph 5 (dòng 2-3):</b> Andrew Gelman nói: <i>'their research designs have enough degrees of freedom that they could take their data to support just about any theory at all'</i>.",
+          "<b>Khớp từ:</b> <i>methodology... not strict enough</i> = <i>research designs have enough degrees of freedom to support any theory</i>.",
+          "<b>Kết luận:</b> Chọn <b>C (Andrew Gelman)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "The idea of the growth mindset has been incorrectly interpreted.",
+      "options": [
+        "A. Alfred Binet",
+        "B. Carol Dweck",
+        "C. Andrew Gelman",
+        "D. Timothy Bates",
+        "E. David Yeager and Gregory Walton"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q18",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 18 nói gì? Ý tưởng về tư duy phát triển đã bị hiểu sai lệch ('incorrectly interpreted').",
+            "guide": "Em hãy tìm xem ai là người lên tiếng cho rằng công trình của mình đang bị mọi người hiểu nhầm và áp dụng sai.",
+            "bridge": "Cùng đọc Paragraph 6 chỗ bà Carol Dweck phản hồi nhé."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph 6, bà Carol Dweck nói công trình của bà đã bị đối xử ra sao?",
+            "guide": "Paragraph 6 viết: 'In fact, she argues that her work has been misunderstood and misapplied in a range of ways.' (Thực tế, bà lập luận rằng nghiên cứu của mình đã bị hiểu sai và áp dụng sai theo rất nhiều cách).",
+            "bridge": "'misunderstood' chính là bị diễn giải sai lệch ('incorrectly interpreted')."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra ý kiến này?",
+            "guide": "Đó là bà Carol Dweck (đáp án B).",
+            "bridge": "Chốt câu 18: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Ý tưởng tư duy phát triển đã bị diễn giải/hiểu sai lệch.",
+          "<b>Paragraph 6 (dòng 2):</b> Carol Dweck lập luận rằng: <i>'...her work has been misunderstood and misapplied in a range of ways.'</i>",
+          "<b>Khớp từ:</b> <i>incorrectly interpreted</i> = <i>misunderstood</i> (bị hiểu sai).",
+          "<b>Kết luận:</b> Chọn <b>B (Carol Dweck)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Intellectual ability is an unchangeable feature of each individual.",
+      "options": [
+        "A. Alfred Binet",
+        "B. Carol Dweck",
+        "C. Andrew Gelman",
+        "D. Timothy Bates",
+        "E. David Yeager and Gregory Walton"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q19",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 19 nói gì? Năng lực trí tuệ ('Intellectual ability') là một đặc điểm không thể thay đổi ('unchangeable feature') ở mỗi cá nhân.",
+            "guide": "Em cần tìm xem nhà khoa học nào trong quá khứ từng cho rằng trí thông minh là cố định, bẩm sinh và không thay đổi được.",
+            "bridge": "Hãy tìm tên các nhà khoa học ở Paragraph 1."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Paragraph 1 nhắc đến nhà khoa học nào ở thế kỷ 19 tin vào quan niệm trí thông minh là bẩm sinh cố định?",
+            "guide": "Paragraph 1 viết: 'Psychologist Alfred Binet, the developer of the first intelligence tests, was one of many 19th-century scientists who held that earlier view and sought to quantify cognitive ability.' (với quan niệm trước đó là: trí thông minh là bẩm sinh, cố định).",
+            "bridge": "Alfred Binet đại diện cho quan điểm năng lực trí tuệ là cố định, không đổi."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người nắm giữ quan điểm này?",
+            "guide": "Đó là ông Alfred Binet (đáp án A).",
+            "bridge": "Chốt câu 19: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Năng lực trí tuệ là đặc tính không thể thay đổi của mỗi người.",
+          "<b>Paragraph 1:</b> Nhắc đến Alfred Binet là một trong những nhà khoa học thế kỷ 19 tin vào quan niệm cũ: <i>'concept of intelligence as something innate... inherent ability is destiny'</i> (trí tuệ bẩm sinh là định mệnh, cố định).",
+          "<b>Khớp từ:</b> <i>unchangeable feature</i> = <i>innate / inherent ability is destiny</i>.",
+          "<b>Kết luận:</b> Chọn <b>A (Alfred Binet)</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "The growth mindset should be promoted without students being aware of it.",
+      "options": [
+        "A. Alfred Binet",
+        "B. Carol Dweck",
+        "C. Andrew Gelman",
+        "D. Timothy Bates",
+        "E. David Yeager and Gregory Walton"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q20",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 20 nói gì? Tư duy phát triển nên được thúc đẩy mà không để học sinh nhận biết được điều đó ('without students being aware of it').",
+            "guide": "Em cần tìm xem chuyên gia nào khuyên nên truyền tải tư duy này một cách tinh tế, kín đáo để học sinh không cảm thấy mình đang bị can thiệp.",
+            "bridge": "Hãy đọc Paragraph 7 chỗ có hai tác giả ủng hộ tư duy phát triển."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph 7, David Yeager và Gregory Walton khuyên việc can thiệp nên diễn ra thế nào?",
+            "guide": "Paragraph 7 viết: '...claim that interventions should be delivered in a subtle way to maximise their effectiveness. They say that if adolescents perceive a teacher's intervention as conveying that they are in need of help, this could undo its intended effects.' (can thiệp phải được thực hiện một cách tinh tế; nếu học sinh nhận ra thầy cô đang cố giúp đỡ vì nghĩ mình yếu kém thì sẽ phản tác dụng).",
+            "bridge": "'delivered in a subtle way' (làm một cách tinh tế) chính là không để học sinh lộ liễu nhận biết được việc mình đang bị can thiệp."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra ý kiến này?",
+            "guide": "Đó là David Yeager và Gregory Walton (đáp án E).",
+            "bridge": "Chốt câu 20: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Tư duy phát triển nên được quảng bá mà không để học sinh ý thức/nhận ra.",
+          "<b>Paragraph 7 (dòng 3-5):</b> David Yeager và Gregory Walton cho rằng: <i>'interventions should be delivered in a subtle way... if adolescents perceive a teacher's intervention as conveying that they are in need of help, this could undo its intended effects.'</i>",
+          "<b>Khớp ý:</b> Cần truyền đạt tinh tế, tránh để học sinh biết giáo viên đang can thiệp cứu trợ = <i>without students being aware of it</i>.",
+          "<b>Kết luận:</b> Chọn <b>E (David Yeager and Gregory Walton)</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "The growth mindset is not simply about boosting students' morale.",
+      "options": [
+        "A. Alfred Binet",
+        "B. Carol Dweck",
+        "C. Andrew Gelman",
+        "D. Timothy Bates",
+        "E. David Yeager and Gregory Walton"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q21",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 21 nói gì? Tư duy phát triển không chỉ đơn thuần là việc nâng cao tinh thần/sự tự mãn của học sinh ('not simply about boosting students' morale').",
+            "guide": "Em cần tìm chuyên gia khẳng định tư duy này không phải là công cụ chỉ để làm cho học sinh cảm thấy vui vẻ hay hưng phấn tinh thần.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph 6 nhé."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph 6, bà Carol Dweck phản đối việc thuyết của mình bị đánh đồng với phong trào lòng tự trọng ra sao?",
+            "guide": "Bà nói: 'For me the growth mindset is a tool for learning and improvement. It's not just a vehicle for making children feel good.' (Đối với tôi, tư duy phát triển là công cụ để học tập và tiến bộ. Nó không chỉ đơn thuần là phương tiện để làm lũ trẻ cảm thấy dễ chịu).",
+            "bridge": "'not just a vehicle for making children feel good' chính là không chỉ nhằm nâng cao tinh thần/tâm trạng của học sinh."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người khẳng định điều này?",
+            "guide": "Đó là bà Carol Dweck (đáp án B).",
+            "bridge": "Chốt câu 21: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Tư duy phát triển không chỉ đơn giản là nâng cao tinh thần học sinh.",
+          "<b>Paragraph 6 (câu cuối):</b> Carol Dweck nói: <i>'For me the growth mindset is a tool for learning and improvement. It's not just a vehicle for making children feel good.'</i>",
+          "<b>Khớp từ:</b> <i>not simply about boosting students' morale</i> = <i>not just a vehicle for making children feel good</i>.",
+          "<b>Kết luận:</b> Chọn <b>B (Carol Dweck)</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Research shows that the growth mindset has no effect on academic achievement.",
+      "options": [
+        "A. Alfred Binet",
+        "B. Carol Dweck",
+        "C. Andrew Gelman",
+        "D. Timothy Bates",
+        "E. David Yeager and Gregory Walton"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q22",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 22 nói gì? Nghiên cứu cho thấy tư duy phát triển không có tác động nào ('has no effect') lên thành tích học tập ('academic achievement').",
+            "guide": "Em cần tìm xem nhà nghiên cứu nào khi làm lại thí nghiệm đã nhận thấy điểm số của học sinh không hề cải thiện.",
+            "bridge": "Hãy đọc phần nghiên cứu của giáo sư Bates ở Paragraph 5."
+          },
+          {
+            "title": "Soi phát ngôn của chuyên gia",
+            "question": "Trong Paragraph 5, giáo sư Timothy Bates phát hiện ra kết quả gì khi lặp lại nghiên cứu của Dweck?",
+            "guide": "Paragraph 5 viết: kết quả nghiên cứu liên tục bằng không ('repeatedly null'), và ông nhận định: 'Kids with the growth mindset aren't getting better grades, either before or after our intervention study.' (Những đứa trẻ có tư duy phát triển không hề đạt điểm cao hơn, dù là trước hay sau đợt can thiệp).",
+            "bridge": "'không đạt điểm số cao hơn' chính là không có tác động đến thành tích học tập."
+          },
+          {
+            "title": "Chốt chuyên gia",
+            "question": "Ai là người đưa ra kết luận này?",
+            "guide": "Đó là giáo sư Timothy Bates (đáp án D).",
+            "bridge": "Hoàn thành bài nối tên chuyên gia! Chốt câu 22: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Nghiên cứu cho thấy tư duy phát triển không ảnh hưởng đến thành tích học tập.",
+          "<b>Paragraph 5 (cuối đoạn):</b> Timothy Bates cho biết: kết quả thử nghiệm là <i>'repeatedly null'</i> và <i>'Kids with the growth mindset aren't getting better grades, either before or after our intervention study.'</i>",
+          "<b>Khớp từ:</b> <i>has no effect on academic achievement</i> = <i>results are repeatedly null / aren't getting better grades</i>.",
+          "<b>Kết luận:</b> Chọn <b>D (Timothy Bates)</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Dweck has handled criticisms of her work in an admirable way.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 23 nói gì? Bà Dweck đã xử lý những lời chỉ trích đối với công trình của mình theo một cách đáng ngưỡng mộ / đáng khen ngợi ('in an admirable way').",
+            "guide": "Em hãy đọc câu đầu tiên của Paragraph 6 xem tác giả đánh giá thế nào về cách phản ứng của Dweck.",
+            "bridge": "Cùng đọc câu đầu Paragraph 6 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 6 nhận xét bà Dweck xứng đáng nhận được điều gì khi đối diện với các chỉ trích?",
+            "guide": "Paragraph 6 viết: 'Much of this criticism is not lost on Dweck, and she deserves great credit for responding to it and adapting her work accordingly.' (Bà Dweck rất cầu thị trước những chỉ trích, và bà xứng đáng nhận được lời khen ngợi lớn vì đã phản hồi và điều chỉnh lại công trình của mình).",
+            "bridge": "'deserves great credit' (rất đáng khen/ngưỡng mộ) hoàn toàn trùng khớp với 'in an admirable way'."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý kiến tác giả trong bài có trùng khớp với nhận định không?",
+            "guide": "Thông tin hoàn toàn trùng khớp, chọn YES.",
+            "bridge": "Chốt câu 23: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Dweck đã đón nhận và xử lý các chỉ trích theo cách rất đáng khen ngợi.",
+          "<b>Paragraph 6 (câu đầu):</b> <i>'Much of this criticism is not lost on Dweck, and she deserves great credit for responding to it and adapting her work accordingly.'</i>",
+          "<b>Khớp ý:</b> <i>deserves great credit</i> = <i>in an admirable way</i> (đáng được ghi nhận, đáng khâm phục).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Students' self-perception is a more effective driver of self-confidence than actual achievement is.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q24",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích phép so sánh",
+            "question": "Câu 24 so sánh điều gì? Sự tự nhận thức của học sinh ('self-perception') là động lực tạo sự tự tin MẠNH HƠN so với thành tích thực tế ('actual achievement').",
+            "guide": "Em cần kiểm tra xem giữa 'nhận thức bản thân' và 'thành tích thực tế' thì cái nào tác động mạnh hơn cái nào.",
+            "bridge": "Hãy đọc kỹ Paragraph 8 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 8 nói chiều tác động nào mạnh hơn chiều tác động ngược lại?",
+            "guide": "Paragraph 8 viết: '...there is evidence to suggest that the actual effect of achievement on self-perception is stronger than the other way round.' (có bằng chứng cho thấy tác động thực tế của THÀNH TÍCH lên SỰ TỰ NHẬN THỨC là MẠNH HƠN so với chiều ngược lại).",
+            "bridge": "Bài đọc khẳng định thành tích tác động mạnh hơn lên nhận thức, trái ngược với câu hỏi bảo nhận thức mạnh hơn thành tích."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi nói A mạnh hơn B, nhưng bài đọc khẳng định B mạnh hơn A. Hai ý này ngược nhau, đúng không?",
+            "guide": "Thông tin trái ngược hoàn toàn, chọn NO.",
+            "bridge": "Chốt câu 24: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Sự tự nhận thức là động lực tạo tự tin mạnh hơn thành tích thực tế.",
+          "<b>Paragraph 8:</b> <i>'...the actual effect of achievement on self-perception is stronger than the other way round.'</i> (Tác động của thành tích lên nhận thức mạnh hơn chiều ngược lại).",
+          "<b>Đối chiếu:</b> Nhận định cho rằng nhận thức mạnh hơn thành tích, hoàn toàn trái ngược với kết luận của bài đọc.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Recent evidence about growth mindset interventions has attracted unfair coverage in the media.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q25",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Tìm từ khóa nhận định",
+            "question": "Câu 25 khẳng định điều gì? Những bằng chứng gần đây về các can thiệp tư duy phát triển đã thu hút sự đưa tin không công bằng trên truyền thông báo chí ('unfair coverage in the media').",
+            "guide": "Em hãy quét tìm xem bài đọc có nhắc đến báo chí, truyền thông (media) hay việc đưa tin bất công hay không.",
+            "bridge": "Cùng đọc Paragraph 9 nơi nói về các bằng chứng gần đây ('Recent evidence')."
+          },
+          {
+            "title": "Đọc kỹ Paragraph 9",
+            "question": "Paragraph 9 nói các bằng chứng gần đây cho thấy điều gì về các đợt can thiệp trong lớp học?",
+            "guide": "Paragraph 9 chỉ nói các bằng chứng gần đây cho thấy can thiệp tư duy phát triển không phải thần dược và khi áp dụng vào lớp học thì không hiệu quả.",
+            "bridge": "Bài có nhắc gì đến việc báo chí/truyền thông (media) đưa tin bất công (unfair coverage) không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Hoàn toàn không có bất kỳ thông tin nào về truyền thông hay báo chí đưa tin. Vậy ta chọn đáp án gì?",
+            "guide": "Thiếu thông tin nên chọn NOT GIVEN.",
+            "bridge": "Chốt câu 25: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các bằng chứng gần đây về can thiệp tư duy phát triển đã bị truyền thông đưa tin bất công.",
+          "<b>Paragraph 9:</b> Bàn luận về việc các can thiệp gần đây cho thấy phương pháp này không phải thần dược và không hiệu quả trong lớp học thực tế.",
+          "<b>Đối chiếu:</b> Bài đọc hoàn toàn không đề cập đến truyền thông (<i>the media</i>) hay việc đưa tin bất công (<i>unfair coverage</i>).",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Deliberate attempts to encourage students to strive for high achievement may have a negative effect.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q26",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 26 nói gì? Những nỗ lực có chủ ý nhằm thúc ép học sinh phấn đấu đạt thành tích cao ('Deliberate attempts to encourage...') có thể gây ra tác dụng tiêu cực ('may have a negative effect').",
+            "guide": "Em hãy đọc lại câu cuối Paragraph 7 và đoạn Paragraph 10 xem việc giáo viên can thiệp trực tiếp hoặc dùng tranh cổ động hô hào có gây tác dụng ngược không.",
+            "bridge": "Cùng xem lời cảnh báo ở Paragraph 7 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 7 nói nếu học sinh cảm thấy giáo viên can thiệp thúc ép mình thì hậu quả sẽ là gì?",
+            "guide": "Paragraph 7 viết: 'if adolescents perceive a teacher's intervention as conveying that they are in need of help, this could undo its intended effects' (nó có thể phản tác dụng, phá hỏng những hiệu quả mong muốn). Paragraph 10 cũng nói các cuộc nói chuyện và áp phích cổ động dễ làm học sinh ngộ nhận ảo tưởng.",
+            "bridge": "'undo its intended effects' và gây ngộ nhận chính là gây ra tác dụng tiêu cực (negative effect)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Nhận định này hoàn toàn trùng khớp với cảnh báo của tác giả về tác dụng phụ của việc can thiệp gượng ép. Vậy đáp án là gì?",
+            "guide": "Đáp án là YES.",
+            "bridge": "Hoàn thành toàn bộ Passage 2! Chốt câu 26: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Những nỗ lực can thiệp chủ ý thúc giục học sinh đạt thành tích có thể gây tác dụng tiêu cực.",
+          "<b>Paragraph 7 & 10:</b> Paragraph 7 cảnh báo nếu học sinh thấy giáo viên can thiệp thì <i>'this could undo its intended effects'</i> (phản tác dụng). Paragraph 10 khẳng định các bài nói và áp phích truyền cảm hứng thường lãng phí thời gian và làm học sinh ngộ nhận (<i>'deluded notion'</i>).",
+          "<b>Khớp ý:</b> Có thể mang lại hậu quả tiêu cực (<i>may have a negative effect</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}
