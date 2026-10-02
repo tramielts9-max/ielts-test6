@@ -1,0 +1,647 @@
+{
+  "title": "IELTS Academic 18 - Test 4 - Passage 3: Alfred Wegener: science, exploration and the theory of continental drift",
+  "answers": {
+    "q27": "YES",
+    "q28": "NOT GIVEN",
+    "q29": "NO",
+    "q30": "NO",
+    "q31": "I",
+    "q32": "F",
+    "q33": "A",
+    "q34": "C",
+    "q35": "H",
+    "q36": "E",
+    "q37": "B",
+    "q38": "A",
+    "q39": "D",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 3</h2><h3>Alfred Wegener: science, exploration and the theory of continental drift</h3><p><em>by Mott T Greene</em></p><p><strong>Paragraph 1.</strong> This is a book about the life and scientific work of Alfred Wegener, whose reputation today rests with his theory of continental displacements, better known as 'continental drift'. Wegener proposed this theory in 1912 and developed it extensively for nearly 20 years. His book on the subject, <em>The Origin of Continents and Oceans</em>, went through four editions and <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">was the focus of an international controversy in his lifetime and for some years after his death</span>.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Wegener's basic idea was that many mysteries about the Earth's history could be solved if one supposed that the continents moved laterally, rather than supposing that they remained fixed in place</span>. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Wegener showed in great detail how such continental movements were plausible and how they worked, using evidence from a large number of sciences including geology, geophysics, paleontology, and climatology</span>. Wegener's idea – that the continents move – is at the heart of the theory that guides Earth sciences today: namely plate tectonics. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Plate tectonics is in many respects quite different from Wegener's proposal, in the same way that modern evolutionary theory is very different from the ideas Charles Darwin proposed in the 1850s about biological evolution</span>. Yet plate tectonics is a descendant of Alfred Wegener's theory of continental drift, in quite the same way that modern evolutionary theory is a descendant of Darwin's theory of natural selection.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">When I started writing about Wegener's life and work, one of the most intriguing things about him for me was that, although he came up with a theory on continental drift, he was not a geologist</span>. <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">He trained as an astronomer and pursued a career in atmospheric physics</span>. When he proposed the theory of continental displacements in 1912, he was a lecturer in physics and astronomy at the University of Marburg, in southern Germany. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">However, he was not an 'unknown'</span>. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">In 1906 he had set a world record (with his brother Kurt) for time aloft in a hot-air balloon: 52 hours</span>. Between 1906 and 1908 <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">he had taken part in a highly publicized and extremely dangerous expedition to the coast of northeast Greenland</span>. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">He had also made a name for himself amongst a small circle of meteorologists and atmospheric physicists in Germany as the author of a textbook, <em>Thermodynamics of the Atmosphere</em> (1911)</span>, and of a number of interesting scientific papers.</p><p><strong>Paragraph 4.</strong> As important as Wegener's work on continental drift has turned out to be, it was largely a sideline to his interest in atmospheric physics, geophysics, and paleoclimatology*, and thus I have been at great pains to put Wegener's work on continental drift in the larger context of his other scientific work, and in the even larger context of atmospheric sciences in his lifetime. This is a 'continental drift book' only to the extent that Wegener was interested in that topic and later became famous for it. My treatment of his other scientific work is no less detailed, though I certainly have devoted more attention to the reception of his ideas on continental displacement, as they were much more controversial than his other work.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Readers interested in the specific detail of Wegener's career will see that he often stopped pursuing a given line of investigation (sometimes for years on end), only to pick it up later. I have tried to provide guideposts to his rapidly shifting interests by characterizing different phases of his life as careers in different sciences, which is reflected in the titles of the chapters. Thus, the index should be a sufficient guide for those interested in a particular aspect of Wegener's life but perhaps not all of it. My own feeling, however, is that the parts do not make as much sense on their own as do all of his activities taken together. In this respect I urge readers to try to experience Wegener's life as he lived it, with all the interruptions, changes of mind, and renewed efforts this entailed</span>.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Wegener left behind a few published works but, as was standard practice, these reported the results of his work – not the journey he took to reach that point. Only a few hundred of the many thousands of letters he wrote and received in his lifetime have survived and he didn't keep notebooks or diaries that recorded his life and activities. He was not active (with a few exceptions) in scientific societies, and did not seek to find influence or advance his ideas through professional contacts and politics, spending most of his time at home in his study reading and writing, or in the field collecting observations</span>.</p><p><strong>Paragraph 7.</strong> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Some famous scientists, such as Newton, Darwin, and Einstein, left mountains of written material behind, hundreds of notebooks and letters numbering in the tens of thousands. Others, like Michael Faraday, left extensive journals of their thoughts and speculations, parallel to their scientific notebooks. The more such material a scientist leaves behind, the better chance a biographer has of forming an accurate picture of how a scientist's ideas took shape and evolved</span>.</p><p><strong>Paragraph 8.</strong> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">I am firmly of the opinion that most of us, Wegener included, are not in any real sense the authors of our own lives. We plan, think, and act, often with apparent freedom, but most of the time our lives 'happen to us', and we only retrospectively turn this happenstance into a coherent narrative of fulfilled intentions. This book, therefore, is a story both of the life and scientific work that Alfred Wegener planned and intended and of the life and scientific work that actually 'happened to him'. These are, as I think you will soon see, not always the same thing</span>.</p><p><em>* Paleoclimatology: The study of past climates</em></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "title": "Questions 27-30",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 3?<br>In boxes 27-30 on your answer sheet, write:<br><b>YES</b> if the statement agrees with the claims of the writer<br><b>NO</b> if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": ["q27", "q28", "q29", "q30"]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "title": "Questions 31-36",
+      "instructions": "<i>Complete the summary using the list of phrases, <b>A-J</b>, below.<br>Write the correct letter, <b>A-J</b>, in boxes 31-36 on your answer sheet.</i><br><br><b>A.</b> modest fame<br><b>B.</b> vast range<br><b>C.</b> record-breaking achievement<br><b>D.</b> research methods<br><b>E.</b> select group<br><b>F.</b> professional interests<br><b>G.</b> scientific debate<br><b>H.</b> hazardous exploration<br><b>I.</b> biographer's perspective<br><b>J.</b> narrow investigation",
+      "summaryTitle": "Wegener's life and work",
+      "questionIds": ["q31", "q32", "q33", "q34", "q35", "q36"],
+      "template": "<p>One of the remarkable things about Wegener from a <b>31.</b> {{q31}} is that although he proposed a theory of continental drift, he was not a geologist. His <b>32.</b> {{q32}} were limited to atmospheric physics. However, at the time he proposed his theory of continental drift in 1912, he was already a person of <b>33.</b> {{q33}}. Six years previously, there had been his <b>34.</b> {{q34}} of 52 hours in a hot-air balloon, followed by his well-publicised but <b>35.</b> {{q35}} of Greenland's coast. With the publication of his textbook on thermodynamics, he had also come to the attention of a <b>36.</b> {{q36}} of German scientists.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "title": "Questions 37-40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 37-40 on your answer sheet.</i>",
+      "questionIds": ["q37", "q38", "q39", "q40"]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Wegener's ideas about continental drift were widely disputed while he was alive.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q27",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 27 nói gì? Các ý tưởng của Wegener về hiện tượng trôi dạt lục địa đã bị tranh cãi rộng rãi ngay khi ông còn sống ('widely disputed while he was alive').",
+            "guide": "Em cần tìm xem khi Wegener còn sống, cuốn sách và lý thuyết của ông có phải là chủ đề gây tranh cãi lớn hay không.",
+            "bridge": "Cùng đọc câu cuối cùng của Paragraph 1 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 1 nói cuốn sách của Wegener đã trải qua điều gì khi ông còn sống?",
+            "guide": "Paragraph 1 viết: cuốn sách của ông 'was the focus of an international controversy in his lifetime and for some years after his death' (là tâm điểm của một cuộc tranh cãi mang tầm quốc tế ngay trong suốt cuộc đời ông và vài năm sau khi ông mất).",
+            "bridge": "'international controversy in his lifetime' chính là bị tranh cãi rộng rãi khi ông còn sống."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Ý của nhận định có trùng khớp hoàn toàn với bài đọc không?",
+            "guide": "Thông tin hoàn toàn trùng khớp nên ta chọn YES.",
+            "bridge": "Chốt câu 27: YES."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Các ý tưởng của Wegener về trôi dạt lục địa bị tranh cãi gay gắt khi ông còn sống.",
+          "<b>Paragraph 1 (câu cuối):</b> Cuốn sách của ông <i>'was the focus of an international controversy in his lifetime and for some years after his death.'</i>",
+          "<b>Khớp từ:</b> <i>widely disputed</i> = <i>international controversy</i>; <i>while he was alive</i> = <i>in his lifetime</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "The idea that the continents remained fixed in place was defended in a number of respected scientific publications.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q28",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Phân tích từ khóa câu hỏi",
+            "question": "Câu 28 khẳng định: Quan điểm cho rằng các lục địa đứng yên một chỗ ('continents remained fixed in place') đã được bảo vệ trong một số ấn phẩm khoa học uy tín ('respected scientific publications').",
+            "guide": "Em cần tìm xem bài đọc có nhắc đến việc có những bài báo hay tạp chí khoa học uy tín đứng ra bảo vệ quan điểm lục địa đứng yên hay không.",
+            "bridge": "Cùng đọc câu đầu Paragraph 2 nơi nhắc đến giả định lục địa đứng yên."
+          },
+          {
+            "title": "Đọc kỹ Paragraph 2",
+            "question": "Paragraph 2 nói gì về giả định lục địa đứng yên?",
+            "guide": "Bài chỉ viết: Wegener cho rằng nhiều bí ẩn sẽ được giải quyết nếu giả định các lục địa di chuyển ngang, thay vì giả định rằng chúng đứng yên một chỗ ('rather than supposing that they remained fixed in place').",
+            "bridge": "Bài có nhắc gì đến việc các ấn phẩm khoa học uy tín bảo vệ quan điểm này không?"
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Bài đọc hoàn toàn không nhắc đến các ấn phẩm khoa học uy tín bảo vệ ý kiến đó. Vậy ta chọn đáp án gì?",
+            "guide": "Thiếu thông tin nên ta chọn NOT GIVEN.",
+            "bridge": "Chốt câu 28: NOT GIVEN."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Quan điểm các lục địa đứng yên tại chỗ được bảo vệ trong các ấn phẩm khoa học uy tín.",
+          "<b>Paragraph 2 (dòng 1-2):</b> Tác giả chỉ nhắc tới giả định lục địa đứng yên (<i>'supposing that they remained fixed in place'</i>) như một ý niệm đối lập với giả thuyết của Wegener.",
+          "<b>Đối chiếu:</b> Không có bất kỳ chi tiết nào nói về việc các ấn phẩm khoa học uy tín (<i>respected scientific publications</i>) bảo vệ quan điểm này.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Wegener relied on a limited range of scientific fields to support his theory of continental drift.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q29",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 29 nói gì? Wegener chỉ dựa vào một số lượng hạn chế các lĩnh vực khoa học ('a limited range of scientific fields') để chứng minh cho lý thuyết trôi dạt lục địa của mình.",
+            "guide": "Em cần kiểm tra xem Wegener sử dụng ít hay nhiều ngành khoa học để làm bằng chứng.",
+            "bridge": "Cùng đọc câu thứ hai của Paragraph 2 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 2 miêu tả nguồn bằng chứng của Wegener như thế nào?",
+            "guide": "Paragraph 2 viết: 'Wegener showed in great detail how such continental movements were plausible and how they worked, using evidence from a large number of sciences including geology, geophysics, paleontology, and climatology.' (sử dụng bằng chứng từ một lượng lớn các ngành khoa học bao gồm địa chất học, địa vật lý, cổ sinh vật học và khí hậu học).",
+            "bridge": "'a large number of sciences' (rất nhiều ngành khoa học) trái ngược hoàn toàn với 'a limited range' (phạm vi hạn chế)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Một bên bảo dựa vào số ít ngành hạn chế, một bên bảo dựa vào rất nhiều ngành khoa học đa dạng. Hai ý này phủ định nhau đúng không?",
+            "guide": "Thông tin trái ngược 100%, chọn NO.",
+            "bridge": "Chốt câu 29: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Wegener chỉ dựa vào một phạm vi hạn chế các ngành khoa học để củng cố lý thuyết.",
+          "<b>Paragraph 2 (dòng 2-4):</b> <i>'...using evidence from a large number of sciences including geology, geophysics, paleontology, and climatology.'</i>",
+          "<b>Đối chiếu:</b> Nhận định nói phạm vi hạn chế (<i>limited range</i>) trái ngược hoàn toàn với việc dùng bằng chứng từ rất nhiều ngành khoa học (<i>a large number of sciences</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "The similarities between Wegener's theory of continental drift and modern-day plate tectonics are enormous.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q30",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu nội dung nhận định",
+            "question": "Câu 30 nói: Sự tương đồng giữa thuyết trôi dạt lục địa của Wegener và thuyết kiến tạo mảng ngày nay là vô cùng to lớn ('similarities... are enormous').",
+            "guide": "Em hãy đọc câu so sánh giữa thuyết kiến tạo mảng (plate tectonics) và thuyết của Wegener ở Paragraph 2.",
+            "bridge": "Cùng đọc câu thứ tư của Paragraph 2 nhé."
+          },
+          {
+            "title": "Đối chiếu với bài đọc",
+            "question": "Paragraph 2 nói thuyết kiến tạo mảng hiện đại có giống thuyết của Wegener không?",
+            "guide": "Paragraph 2 viết: 'Plate tectonics is in many respects quite different from Wegener's proposal...' (Thuyết kiến tạo mảng trên nhiều phương diện là khá khác biệt so với đề xuất của Wegener).",
+            "bridge": "'quite different' (khá khác biệt) đối lập hoàn toàn với 'similarities are enormous' (sự giống nhau là cực kỳ lớn)."
+          },
+          {
+            "title": "Đưa ra kết luận",
+            "question": "Câu hỏi bảo giống nhau rất nhiều, bài đọc lại bảo trên nhiều phương diện là khác biệt. Vậy ta chọn đáp án gì?",
+            "guide": "Hai thông tin đối chọi nhau nên ta chọn NO.",
+            "bridge": "Chốt câu 30: NO."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý nhận định:</b> Sự giống nhau giữa thuyết của Wegener và thuyết kiến tạo mảng hiện nay là vô cùng lớn.",
+          "<b>Paragraph 2 (dòng 5-7):</b> <i>'Plate tectonics is in many respects quite different from Wegener's proposal...'</i> (Thuyết kiến tạo mảng trên nhiều phương diện khá khác biệt so với đề xuất của Wegener).",
+          "<b>Đối chiếu:</b> <i>similarities are enormous</i> (giống nhau rất nhiều) đá nhau chan chát với <i>quite different</i> (khá khác biệt).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "One of the remarkable things about Wegener from a 31 __________ is that although he proposed a theory of continental drift, he was not a geologist.",
+      "options": [
+        "A. modest fame",
+        "B. vast range",
+        "C. record-breaking achievement",
+        "D. research methods",
+        "E. select group",
+        "F. professional interests",
+        "G. scientific debate",
+        "H. hazardous exploration",
+        "I. biographer's perspective",
+        "J. narrow investigation"
+      ],
+      "finalAnswer": "I",
+      "highlightId": "hl-q31",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Câu 31 nói: Một trong những điều đáng chú ý về Wegener khi nhìn từ góc độ của một người viết tiểu sử ('from a ______') là dù đưa ra thuyết trôi dạt lục địa, ông lại không phải nhà địa chất học.",
+            "guide": "Sau mạo từ 'a' cần một cụm danh từ chỉ góc nhìn của tác giả cuốn sách (người viết tiểu sử).",
+            "bridge": "Hãy đọc ngay câu đầu tiên của Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu bài đọc",
+            "question": "Paragraph 3 mở đầu bằng câu nói của tác giả như thế nào?",
+            "guide": "Tác giả viết: 'When I started writing about Wegener's life and work, one of the most intriguing things about him for me was that, although he came up with a theory on continental drift, he was not a geologist.'",
+            "bridge": "'When I started writing about Wegener's life and work ... for me' chính là góc nhìn của người viết tiểu sử (biographer's perspective)."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'góc nhìn của người viết tiểu sử'?",
+            "guide": "Đó là I: 'biographer's perspective'.",
+            "bridge": "Chốt câu 31: I."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Một điều đáng ngạc nhiên về Wegener dưới góc nhìn của người viết sách tiểu sử.",
+          "<b>Paragraph 3 (câu đầu):</b> <i>'When I started writing about Wegener's life and work, one of the most intriguing things about him for me was that...'</i>",
+          "<b>Khớp từ:</b> <i>from a biographer's perspective</i> = <i>When I started writing about Wegener's life... for me</i>.",
+          "<b>Kết luận:</b> Chọn <b>I</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "His 32 __________ were limited to atmospheric physics.",
+      "options": [
+        "A. modest fame",
+        "B. vast range",
+        "C. record-breaking achievement",
+        "D. research methods",
+        "E. select group",
+        "F. professional interests",
+        "G. scientific debate",
+        "H. hazardous exploration",
+        "I. biographer's perspective",
+        "J. narrow investigation"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q32",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Câu 32 nói: Những mối quan tâm chuyên môn ('His ______') của ông vốn chỉ tập trung vào ngành vật lý khí quyển.",
+            "guide": "Sau tính từ sở hữu 'His' và trước động từ số nhiều 'were' cần một danh từ số nhiều chỉ chuyên môn hoặc sự nghiệp.",
+            "bridge": "Hãy đọc câu tiếp theo của Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu bài đọc",
+            "question": "Paragraph 3 kể về chuyên môn thực tế của Wegener như thế nào?",
+            "guide": "Paragraph 3 viết: 'He trained as an astronomer and pursued a career in atmospheric physics.' (Ông được đào tạo thành nhà thiên văn và theo đuổi sự nghiệp trong ngành vật lý khí quyển).",
+            "bridge": "'pursued a career in atmospheric physics' chính là các mối quan tâm chuyên môn trong công việc của ông."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'các mối quan tâm chuyên môn'?",
+            "guide": "Đó là F: 'professional interests'.",
+            "bridge": "Chốt câu 32: F."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Mối quan tâm nghề nghiệp của ông chỉ giới hạn trong ngành vật lý khí quyển.",
+          "<b>Paragraph 3 (dòng 2):</b> <i>'He trained as an astronomer and pursued a career in atmospheric physics.'</i>",
+          "<b>Khớp từ:</b> <i>professional interests</i> = <i>pursued a career / trained as...</i>",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "However, at the time he proposed his theory of continental drift in 1912, he was already a person of 33 __________.",
+      "options": [
+        "A. modest fame",
+        "B. vast range",
+        "C. record-breaking achievement",
+        "D. research methods",
+        "E. select group",
+        "F. professional interests",
+        "G. scientific debate",
+        "H. hazardous exploration",
+        "I. biographer's perspective",
+        "J. narrow investigation"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q33",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Câu 33 nói: Tuy nhiên, vào thời điểm đưa ra thuyết trôi dạt lục địa năm 1912, ông đã là một người có tên tuổi, có sự nổi tiếng nhất định ('a person of ______').",
+            "guide": "Sau giới từ 'of' cần một cụm danh từ chỉ mức độ danh tiếng hoặc tiếng tăm của ông.",
+            "bridge": "Hãy tìm câu nói về danh tiếng của ông ở giữa Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu bài đọc",
+            "question": "Paragraph 3 khẳng định điều gì về việc ông có phải là người vô danh hay không?",
+            "guide": "Paragraph 3 viết: 'However, he was not an 'unknown'.' (Tuy nhiên, ông không phải là một người vô danh vô tiếng).",
+            "bridge": "'không phải người vô danh' nghĩa là ông đã có chút tiếng tăm, sự nổi tiếng ở mức độ nhất định."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'tiếng tăm khiêm tốn / sự nổi tiếng vừa phải'?",
+            "guide": "Đó là A: 'modest fame'.",
+            "bridge": "Chốt câu 33: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Năm 1912, ông đã là người có tiếng tăm nhất định.",
+          "<b>Paragraph 3 (dòng 5):</b> <i>'However, he was not an 'unknown'.'</i> (Tuy nhiên, ông không phải là một kẻ vô danh).",
+          "<b>Khớp từ:</b> <i>not an 'unknown'</i> = <i>a person of modest fame</i> (người có chút danh tiếng).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Six years previously, there had been his 34 __________ of 52 hours in a hot-air balloon...",
+      "options": [
+        "A. modest fame",
+        "B. vast range",
+        "C. record-breaking achievement",
+        "D. research methods",
+        "E. select group",
+        "F. professional interests",
+        "G. scientific debate",
+        "H. hazardous exploration",
+        "I. biographer's perspective",
+        "J. narrow investigation"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q34",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Câu 34 nói: Sáu năm trước đó (năm 1906), ông đã đạt được thành tích gì kéo dài 52 tiếng trên khinh khí cầu ('his ______ of 52 hours in a hot-air balloon')?",
+            "guide": "Cần một cụm danh từ chỉ một kỳ tích hoặc thành tựu phá vỡ kỷ lục thế giới.",
+            "bridge": "Hãy tìm mốc năm 1906 và khinh khí cầu ('hot-air balloon') ở Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu bài đọc",
+            "question": "Paragraph 3 nói năm 1906 ông và anh trai đã lập được chiến tích gì?",
+            "guide": "Paragraph 3 viết: 'In 1906 he had set a world record (with his brother Kurt) for time aloft in a hot-air balloon: 52 hours.' (Năm 1906 ông đã lập kỷ lục thế giới về thời gian bay trên khinh khí cầu: 52 tiếng).",
+            "bridge": "'set a world record' chính là thành tích phá kỷ lục thế giới."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'thành tích phá kỷ lục'?",
+            "guide": "Đó là C: 'record-breaking achievement'.",
+            "bridge": "Chốt câu 34: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Thành tích lập kỷ lục thế giới 52 giờ bay khinh khí cầu.",
+          "<b>Paragraph 3 (dòng 5-6):</b> <i>'In 1906 he had set a world record (with his brother Kurt) for time aloft in a hot-air balloon: 52 hours.'</i>",
+          "<b>Khớp từ:</b> <i>set a world record</i> = <i>record-breaking achievement</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "...followed by his well-publicised but 35 __________ of Greenland's coast.",
+      "options": [
+        "A. modest fame",
+        "B. vast range",
+        "C. record-breaking achievement",
+        "D. research methods",
+        "E. select group",
+        "F. professional interests",
+        "G. scientific debate",
+        "H. hazardous exploration",
+        "I. biographer's perspective",
+        "J. narrow investigation"
+      ],
+      "finalAnswer": "H",
+      "highlightId": "hl-q35",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Câu 35 nói: Tiếp theo đó là chuyến thám hiểm bờ biển Greenland tuy được nhiều người biết đến nhưng đầy nguy hiểm ('well-publicised but ______ of Greenland's coast').",
+            "guide": "Sau 'but' cần một cụm từ chỉ cuộc thám hiểm mạo hiểm, gian nan.",
+            "bridge": "Hãy tìm từ khóa 'Greenland' ở Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu bài đọc",
+            "question": "Paragraph 3 miêu tả chuyến thám hiểm đảo Greenland của ông ra sao?",
+            "guide": "Paragraph 3 viết: '...he had taken part in a highly publicized and extremely dangerous expedition to the coast of northeast Greenland.' (ông tham gia một chuyến thám hiểm được truyền thông rầm rộ nhưng cực kỳ nguy hiểm tới bờ biển đông bắc Greenland).",
+            "bridge": "'extremely dangerous expedition' chính là chuyến thám hiểm đầy nguy hiểm hiểm nguy."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'chuyến thám hiểm nguy hiểm'?",
+            "guide": "Đó là H: 'hazardous exploration'.",
+            "bridge": "Chốt câu 35: H."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Chuyến thám hiểm vùng Greenland đầy nguy hiểm.",
+          "<b>Paragraph 3 (dòng 7):</b> <i>'...taken part in a highly publicized and extremely dangerous expedition to the coast of northeast Greenland.'</i>",
+          "<b>Khớp từ:</b> <i>extremely dangerous expedition</i> = <i>hazardous exploration</i>.",
+          "<b>Kết luận:</b> Chọn <b>H</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "With the publication of his textbook on thermodynamics, he had also come to the attention of a 36 __________ of German scientists.",
+      "options": [
+        "A. modest fame",
+        "B. vast range",
+        "C. record-breaking achievement",
+        "D. research methods",
+        "E. select group",
+        "F. professional interests",
+        "G. scientific debate",
+        "H. hazardous exploration",
+        "I. biographer's perspective",
+        "J. narrow investigation"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q36",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Hiểu câu tóm tắt",
+            "question": "Câu 36 nói: Nhờ xuất bản cuốn sách giáo khoa về nhiệt động lực học, ông đã được một nhóm nhỏ chọn lọc các nhà khoa học Đức chú ý tới ('a ______ of German scientists').",
+            "guide": "Sau mạo từ 'a' và trước 'of German scientists' cần một cụm từ chỉ một nhóm người chọn lọc, vòng tròn hẹp.",
+            "bridge": "Hãy đọc câu cuối cùng của Paragraph 3."
+          },
+          {
+            "title": "Đối chiếu bài đọc",
+            "question": "Paragraph 3 nói cuốn sách giúp ông tạo dựng tên tuổi trong nhóm nào?",
+            "guide": "Paragraph 3 viết: 'He had also made a name for himself amongst a small circle of meteorologists and atmospheric physicists in Germany as the author of a textbook...'",
+            "bridge": "'a small circle of...' chính là một nhóm tinh hoa/chọn lọc nhỏ (a select group)."
+          },
+          {
+            "title": "Chọn cụm từ trong khung",
+            "question": "Cụm từ nào trong khung mang nghĩa 'nhóm chọn lọc / nhóm tinh hoa'?",
+            "guide": "Đó là E: 'select group'.",
+            "bridge": "Hoàn thành phần điền từ tóm tắt! Chốt câu 36: E."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý tóm tắt:</b> Cuốn sách giáo khoa giúp ông được một nhóm hẹp các nhà khoa học chú ý.",
+          "<b>Paragraph 3 (câu cuối):</b> <i>'He had also made a name for himself amongst a small circle of meteorologists and atmospheric physicists in Germany...'</i>",
+          "<b>Khớp từ:</b> <i>a small circle of</i> = <i>a select group</i> (một nhóm chọn lọc/hẹp).",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What is Mott T Greene doing in the fifth paragraph?",
+      "options": [
+        "A. describing what motivated him to write the book",
+        "B. explaining why it is desirable to read the whole book",
+        "C. suggesting why Wegener pursued so many different careers",
+        "D. indicating what aspects of Wegener's life interested him most"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 37 hỏi: Tác giả Mott T Greene đang làm điều gì trong Paragraph 5?",
+            "guide": "Em hãy đọc kỹ Paragraph 5 xem tác giả khuyên người đọc nên đọc cuốn sách này như thế nào.",
+            "bridge": "Hãy chú ý hai câu cuối cùng của Paragraph 5."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Ở cuối Paragraph 5, tác giả đưa ra lời khuyên gì cho độc giả?",
+            "guide": "Tác giả viết: 'My own feeling, however, is that the parts do not make as much sense on their own as do all of his activities taken together. In this respect I urge readers to try to experience Wegener's life as he lived it...' (cảm nhận của tôi là từng phần riêng lẻ sẽ không có nhiều ý nghĩa bằng khi nhìn toàn bộ các hoạt động cùng nhau. Vì vậy, tôi tha thiết khuyên độc giả hãy trải nghiệm toàn bộ cuộc đời của Wegener như cách ông đã sống).",
+            "bridge": "Tác giả giải thích lý do vì sao độc giả nên đọc toàn bộ cuốn sách chứ không nên chỉ đọc từng phần riêng lẻ."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nêu đúng ý 'giải thích tại sao nên đọc trọn vẹn cuốn sách'?",
+            "guide": "Đó là B: 'explaining why it is desirable to read the whole book'.",
+            "bridge": "Chốt câu 37: B."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả làm gì trong Paragraph 5?",
+          "<b>Paragraph 5 (hai câu cuối):</b> Tác giả cho rằng đọc từng phần rời rạc sẽ không hiểu hết ý nghĩa bằng việc xâu chuỗi tất cả lại, và ông khuyên người đọc: <i>'I urge readers to try to experience Wegener's life as he lived it, with all the interruptions, changes of mind...'</i>",
+          "<b>Khớp ý:</b> Khuyên đọc toàn bộ cuộc đời thay vì từng mẩu nhỏ = giải thích lý do nên đọc toàn bộ cuốn sách (<i>explaining why it is desirable to read the whole book</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "What is said about Wegener in the sixth paragraph?",
+      "options": [
+        "A. He was not a particularly ambitious person.",
+        "B. He kept a record of all his scientific observations.",
+        "C. He did not adopt many of the scientific practices of the time.",
+        "D. He enjoyed discussing new discoveries with other scientists."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q38",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 38 hỏi: Điều gì được nói về con người của Wegener trong Paragraph 6?",
+            "guide": "Em hãy đọc Paragraph 6 xem lối sống và cách làm việc của Wegener được miêu tả ra sao.",
+            "bridge": "Hãy chú ý câu cuối của Paragraph 6 nói về việc tìm kiếm ảnh hưởng và giao thiệp."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 6 nói Wegener có tham gia hoạt động xã hội hay tìm kiếm danh vọng không?",
+            "guide": "Paragraph 6 viết: 'He was not active (with a few exceptions) in scientific societies, and did not seek to find influence or advance his ideas through professional contacts and politics, spending most of his time at home in his study reading and writing...' (ông không tích cực tham gia các hội khoa học, không tìm cách tạo sức ảnh hưởng hay thúc đẩy ý tưởng qua quan hệ chính trị, mà dành phần lớn thời gian ở nhà đọc và viết).",
+            "bridge": "Một người không ham danh vọng, không bon chen tìm kiếm tầm ảnh hưởng chính là người không quá tham vọng."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào mang nghĩa 'ông không phải là người quá tham vọng'?",
+            "guide": "Đó là A: 'He was not a particularly ambitious person'.",
+            "bridge": "Chốt câu 38: A."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Paragraph 6 nói gì về tính cách/con người của Wegener?",
+          "<b>Paragraph 6 (câu cuối):</b> <i>'He was not active... in scientific societies, and did not seek to find influence or advance his ideas through professional contacts and politics, spending most of his time at home...'</i>",
+          "<b>Khớp ý:</b> Không màng tìm kiếm tầm ảnh hưởng hay quan hệ chính trị để thăng tiến = không phải người quá tham vọng (<i>not a particularly ambitious person</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "What does Greene say about some other famous scientists?",
+      "options": [
+        "A. Their published works had a greater impact than Wegener's did.",
+        "B. They had fewer doubts about their scientific ideas than Wegener did.",
+        "C. Their scientific ideas were more controversial than Wegener's.",
+        "D. They are easier subjects to write about than Wegener."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q39",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 39 hỏi: Tác giả Greene nói gì về một số nhà khoa học nổi tiếng khác (như Newton, Darwin, Einstein)?",
+            "guide": "Em hãy đọc Paragraph 7 nơi tác giả nhắc tên các nhà khoa học nổi tiếng khác.",
+            "bridge": "Cùng xem họ để lại những gì và điều đó giúp ích gì cho người viết tiểu sử nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 7 nói các nhà khoa học khác để lại tài liệu thế nào so với Wegener?",
+            "guide": "Paragraph 7 viết: họ để lại 'núi tài liệu', hàng vạn lá thư và sổ tay nhật ký chi tiết; và 'The more such material a scientist leaves behind, the better chance a biographer has of forming an accurate picture...' (càng để lại nhiều tài liệu thì người viết tiểu sử càng dễ dựng lại bức tranh chính xác về họ).",
+            "bridge": "Vì họ để lại rất nhiều tư liệu nên việc viết tiểu sử về họ dễ dàng hơn rất nhiều so với viết về Wegener (người để lại rất ít tài liệu)."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nêu đúng ý 'họ là những nhân vật dễ viết tiểu sử hơn so với Wegener'?",
+            "guide": "Đó là D: 'They are easier subjects to write about than Wegener'.",
+            "bridge": "Chốt câu 39: D."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Tác giả nói gì về các nhà khoa học nổi tiếng khác ở Paragraph 7?",
+          "<b>Paragraph 7:</b> Các nhà khoa học như Newton, Darwin, Einstein để lại hàng núi tài liệu, nhật ký, giúp người viết tiểu sử dễ dàng phác họa bức tranh chính xác về tư tưởng của họ hơn (<i>'better chance a biographer has of forming an accurate picture...'</i>).",
+          "<b>Khớp ý:</b> Có nhiều tư liệu nên dễ viết sách về họ hơn so với Wegener -> <i>They are easier subjects to write about than Wegener</i>.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What is Greene's main point in the final paragraph?",
+      "options": [
+        "A. It is not enough in life to have good intentions.",
+        "B. People need to plan carefully if they want to succeed.",
+        "C. People have little control over many aspects of their lives.",
+        "D. It is important that people ensure they have the freedom to act."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "socratic": {
+        "steps": [
+          {
+            "title": "Đọc câu hỏi và định vị",
+            "question": "Câu 40 hỏi: Điểm cốt lõi mà tác giả Greene muốn gửi gắm trong Paragraph cuối cùng (Paragraph 8) là gì?",
+            "guide": "Em hãy đọc kỹ các câu văn ở Paragraph 8 nói về quyền tự quyết của con người đối với cuộc đời mình.",
+            "bridge": "Cùng đọc câu đầu và câu thứ hai của Paragraph 8 nhé."
+          },
+          {
+            "title": "Tìm câu dẫn chứng",
+            "question": "Paragraph 8 mở đầu bằng triết lý gì về cuộc sống con người?",
+            "guide": "Tác giả viết: '...most of us, Wegener included, are not in any real sense the authors of our own lives... most of the time our lives 'happen to us', and we only retrospectively turn this happenstance into a coherent narrative...' (phần lớn chúng ta không thực sự làm chủ/tự định đoạt cuộc đời mình... phần lớn thời gian cuộc đời tự xảy đến với ta).",
+            "bridge": "'không thực sự tự làm chủ cuộc đời / cuộc đời tự xảy đến với ta' có nghĩa là con người có rất ít quyền kiểm soát với nhiều khía cạnh của cuộc sống."
+          },
+          {
+            "title": "Chọn phương án đúng",
+            "question": "Phương án nào nói 'con người có rất ít quyền kiểm soát đối với nhiều khía cạnh trong đời'?",
+            "guide": "Đó là C: 'People have little control over many aspects of their lives'.",
+            "bridge": "Hoàn thành toàn bộ bài đọc! Chốt câu 40: C."
+          }
+        ]
+      },
+      "explanation": {
+        "steps": [
+          "<b>Ý câu hỏi:</b> Ý chính của tác giả trong Paragraph cuối cùng là gì?",
+          "<b>Paragraph 8 (câu đầu):</b> <i>'...most of us, Wegener included, are not in any real sense the authors of our own lives. We plan, think, and act... but most of the time our lives 'happen to us'...'</i> (chúng ta không thực sự tự quyết định cuộc đời mình, phần lớn thời gian cuộc đời tự xảy đến với ta).",
+          "<b>Khớp ý:</b> Con người không hoàn toàn tự quyết được cuộc đời mình = ít kiểm soát được các khía cạnh cuộc sống (<i>People have little control over many aspects of their lives</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}
