@@ -8,10 +8,12 @@
   <link rel="stylesheet" href="../css/components.css">
   <link rel="stylesheet" href="css-l/listening.css">
   <style>
+    /* ẨN PASSAGE KHI CHƯA SUBMIT */
     body.listening-test:not(.submitted) #passageBox { display: none !important; }
     body.listening-test:not(.submitted) #dragResizer { display: none !important; }
-    body.listening-test:not(.submitted) #questionBox { width: 100% !important; max-width: 950px; margin: 0 auto; }
+    body.listening-test:not(.submitted) #questionBox { width: 100% !important; max-width: 980px; margin: 0 auto; }
 
+    /* CHẾ ĐỘ SPLIT-VIEW SAU KHI NỘP BÀI */
     body.listening-test.submitted #mainContainer {
       display: flex !important; flex-direction: row !important; height: calc(100vh - 130px) !important;
       overflow: hidden !important; gap: 0 !important;
@@ -35,61 +37,73 @@
       background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 8px; padding: 12px 16px;
       margin-bottom: 16px; color: #065f46; font-size: 13.5px; display: flex; align-items: center; gap: 8px;
     }
+
+    /* NÚT NGHE CÂU HỎI TRỰC TIẾP */
+    .btn-audio-pill {
+      background: #e0f2fe; color: #0284c7; border: 1px solid #bae6fd; padding: 3px 8px;
+      border-radius: 12px; font-weight: 700; font-size: 11.5px; cursor: pointer;
+      display: inline-flex; align-items: center; gap: 4px; margin-left: 6px; transition: all 0.15s;
+    }
+    .btn-audio-pill:hover { background: #0284c7; color: #ffffff; }
+
+    /* KHUNG MẠCH SUY NGHĨ DẠNG INLINE GIỐNG BÀI READING */
+    .inline-thought-box {
+      margin: 8px 0 14px 0; padding: 8px 12px; background: #f0fdf4;
+      border: 1px solid #bbf7d0; border-left: 3.5px solid #16a34a; border-radius: 6px; line-height: 1.4;
+    }
+    .inline-thought-box label {
+      font-size: 12px; font-weight: 700; color: #166534; display: block; margin-bottom: 4px;
+    }
+    .inline-thought-box textarea {
+      width: 100%; height: 36px; min-height: 36px; padding: 6px 10px; font-size: 13px;
+      border: 1px solid #cbd5e1; border-radius: 4px; background: #ffffff; color: var(--text-main);
+      resize: vertical; outline: none; box-sizing: border-box; font-family: inherit;
+    }
+
+    /* KHUNG GIẢI THÍCH & ĐÁP ÁN INLINE SAU KHI NỘP */
+    .inline-result-feedback {
+      display: none; margin: 6px 0 10px 0; padding: 8px 12px; border-radius: 6px; font-size: 13px;
+    }
+    .inline-result-feedback.correct {
+      background: #f0fdf4; border: 1px solid #86efac; color: #166534; display: block;
+    }
+    .inline-result-feedback.wrong {
+      background: #fef2f2; border: 1px solid #fca5a5; color: #991b1b; display: block;
+    }
+
+    /* CARD DÀNH RIÊNG CHO MCQ (PART 2 / PART 3) */
     .lis-question-card {
-      background: var(--bg-card, #ffffff); border: 1.5px solid var(--border-color, #e2e8f0); border-radius: 8px;
-      padding: 16px; margin-top: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+      background: var(--bg-card, #ffffff); border: 1.5px solid var(--border-color, #e2e8f0);
+      border-radius: 8px; padding: 16px; margin-top: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.03);
     }
     .lis-card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; flex-wrap: wrap; gap: 8px; }
-    .btn-audio-jump {
-      background: #0284c7; color: #ffffff; border: none; padding: 5px 12px; border-radius: 20px;
-      font-weight: 700; font-size: 12.5px; cursor: pointer; display: inline-flex; align-items: center; gap: 5px; transition: all 0.2s;
-    }
-    .btn-audio-jump:hover { background: #0369a1; transform: scale(1.03); }
-    .btn-locate-text {
-      background: var(--bg-subcard, #f1f5f9); color: #0284c7; border: 1px solid #cbd5e1; padding: 5px 10px;
-      border-radius: 5px; font-weight: 600; font-size: 12px; cursor: pointer; display: inline-flex; align-items: center; gap: 4px; margin-top: 8px;
-    }
-    .btn-locate-text:hover { background: #e0f2fe; }
-
-    .gap-fill-answer-bar {
-      margin-top: 10px; padding: 10px 14px; background: var(--bg-subcard, #f8fafc); border-radius: 6px;
-      border: 1.5px solid #cbd5e1; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
-    }
     .mcq-options-list { display: flex; flex-direction: column; gap: 8px; margin: 10px 0; }
     .mcq-option-item {
-      display: flex; align-items: flex-start; gap: 10px; padding: 9px 12px; border: 1.5px solid var(--border-color, #cbd5e1);
-      border-radius: 6px; background: var(--bg-card, #ffffff); cursor: pointer; transition: all 0.15s ease; user-select: none;
+      display: flex; align-items: flex-start; gap: 10px; padding: 10px 14px;
+      border: 1.5px solid #cbd5e1; border-radius: 6px; background: #ffffff;
+      cursor: pointer; transition: all 0.15s ease; user-select: none;
     }
     .mcq-option-item:hover { border-color: #0284c7; background: #f0f9ff; }
     .mcq-option-item.selected { border-color: #0284c7; background: #e0f2fe; box-shadow: 0 0 0 1px #0284c7; }
     .mcq-badge {
-      font-weight: 800; color: #0369a1; background: #e0f2fe; padding: 2px 7px; border-radius: 4px;
-      font-size: 12.5px; min-width: 22px; text-align: center; flex-shrink: 0;
+      font-weight: 800; color: #0369a1; background: #e0f2fe; padding: 2px 7px;
+      border-radius: 4px; font-size: 12.5px; min-width: 22px; text-align: center; flex-shrink: 0;
     }
     .mcq-option-item.selected .mcq-badge { background: #0284c7; color: #ffffff; }
 
-    .matching-box { background: var(--bg-subcard, #f8fafc); border: 2px solid #0284c7; border-radius: 8px; padding: 14px 18px; margin: 15px 0; }
-    .matching-item {
-      padding: 6px 10px; background: var(--bg-card, #ffffff); border: 1px solid var(--border-color, #e2e8f0);
-      border-radius: 5px; display: flex; align-items: baseline; gap: 8px; font-size: 13.5px;
-    }
-
-    .btn-full-submit {
-      background: linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%); color: white; border: none; padding: 16px 20px;
-      font-size: 17px; font-weight: 800; border-radius: 8px; width: 100%; cursor: pointer; margin-top: 15px;
-      box-shadow: 0 4px 12px rgba(124, 58, 237, 0.35); transition: all 0.2s ease; display: flex; align-items: center; justify-content: center; gap: 10px;
-    }
-    .btn-full-submit:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(124, 58, 237, 0.45); }
-
+    /* FIX LỖI POPUP TRẮNG: MẶC ĐỊNH LÀ DISPLAY NONE */
     .modal-backdrop {
       position: fixed; inset: 0; background: rgba(15, 23, 42, 0.75); backdrop-filter: blur(4px);
-      display: flex; align-items: center; justify-content: center; z-index: 9999; padding: 15px;
+      display: none !important; /* KHÔNG TỰ BUNG POPUP */
+      align-items: center; justify-content: center; z-index: 9999; padding: 15px;
+    }
+    .modal-backdrop.is-active {
+      display: flex !important;
     }
     .modal-content {
       background: #ffffff; width: 100%; max-width: 780px; max-height: 90vh; border-radius: 12px;
-      display: flex; flex-direction: column; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3); overflow: hidden; animation: popIn 0.3s ease-out;
+      display: flex; flex-direction: column; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3); overflow: hidden;
     }
-    @keyframes popIn { from { transform: scale(0.92); opacity: 0; } to { transform: scale(1); opacity: 1; } }
     .modal-header { background: #0f172a; color: white; padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; }
     .modal-body { padding: 20px; overflow-y: auto; }
     .band-score-banner {
@@ -152,11 +166,11 @@
   </div>
 </div>
 
-<div id="fullScoreModal" class="modal-backdrop" style="display: none;">
+<div id="fullScoreModal" class="modal-backdrop">
   <div class="modal-content">
     <div class="modal-header">
       <h3 style="margin: 0; font-size: 17px;">📊 BẢNG TỔNG KẾT ĐIỂM THI IELTS LISTENING (40 CÂU)</h3>
-      <button onclick="document.getElementById('fullScoreModal').style.display='none'" style="background:transparent; border:none; color:white; font-size:22px; cursor:pointer;">&times;</button>
+      <button onclick="document.getElementById('fullScoreModal').classList.remove('is-active')" style="background:transparent; border:none; color:white; font-size:22px; cursor:pointer;">&times;</button>
     </div>
     <div class="modal-body" id="fullScoreModalBody"></div>
   </div>
@@ -188,12 +202,9 @@
         } catch(e) {}
       }
 
-      var textInputs = document.querySelectorAll(`input[id="${qId}_input"], input[id="${qId}_input_mirror"]`);
+      var textInputs = document.querySelectorAll(`input[id="${qId}_input"]`);
       textInputs.forEach(el => {
-        if (el && el.value !== cleanVal) {
-          el.value = cleanVal;
-          el.dispatchEvent(new Event('input', { bubbles: true }));
-        }
+        if (el && el.value !== cleanVal) el.value = cleanVal;
       });
 
       var inputs = document.querySelectorAll(`input[name="${qId}"]`);
@@ -206,68 +217,123 @@
           else parentLabel.classList.remove('selected');
         }
       });
-
-      var sel = document.getElementById(qId + '_select');
-      if (sel && sel.value !== cleanVal) sel.value = cleanVal;
     };
   })();
 
-  window.calculateIELTSListeningBand = function(correct) {
-    if (correct >= 39) return "9.0";
-    if (correct >= 37) return "8.5";
-    if (correct >= 35) return "8.0";
-    if (correct >= 32) return "7.5";
-    if (correct >= 30) return "7.0";
-    if (correct >= 26) return "6.5";
-    if (correct >= 23) return "6.0";
-    if (correct >= 18) return "5.5";
-    if (correct >= 16) return "5.0";
-    if (correct >= 13) return "4.5";
-    if (correct >= 10) return "4.0";
-    return "< 4.0";
-  };
-
-  function initSplitResizer() {
-    const resizer = document.getElementById('dragResizer');
-    const leftBox = document.getElementById('passageBox');
-    const container = document.getElementById('mainContainer');
-    let isResizing = false;
-
-    if (!resizer || !leftBox || !container) return;
-
-    resizer.addEventListener('mousedown', function(e) {
-      isResizing = true;
-      resizer.classList.add('resizing');
-      document.body.style.cursor = 'col-resize';
-      document.body.style.userSelect = 'none';
-    });
-
-    window.addEventListener('mousemove', function(e) {
-      if (!isResizing) return;
-      const containerRect = container.getBoundingClientRect();
-      const newLeftWidth = e.clientX - containerRect.left;
-      const minW = 260;
-      const maxW = containerRect.width - 280;
-
-      if (newLeftWidth >= minW && newLeftWidth <= maxW) {
-        const percentage = (newLeftWidth / containerRect.width) * 100;
-        leftBox.style.width = percentage + '%';
-      }
-    });
-
-    window.addEventListener('mouseup', function() {
-      if (isResizing) {
-        isResizing = false;
-        resizer.classList.remove('resizing');
-        document.body.style.cursor = '';
-        document.body.style.userSelect = '';
-      }
-    });
+  function formatTime(sec) {
+    const m = Math.floor(sec / 60);
+    const s = Math.floor(sec % 60);
+    return `${m < 10 ? '0' : ''}${m}:${s < 10 ? '0' : ''}${s}`;
   }
 
+  /* HÀM XÂY DỰNG GIAO DIỆN BÀI NGHE THỐNG NHẤT */
+  window.buildListeningHtml = function(data, isPart4) {
+    if (!data.groups || !data.questions) return data.questionHtml || "";
+    let html = '';
+
+    data.groups.forEach(group => {
+      html += `<div class="section-title" style="font-size:1.25em; font-weight:800; color:var(--primary-blue); margin-top:16px;">${group.title}</div>`;
+      if (group.instructions) {
+        html += `<p style="color:var(--text-muted); font-size:13.5px; margin-bottom:12px; line-height:1.5;">${group.instructions}</p>`;
+      }
+
+      const isGapFillGroup = group.type === 'table' || group.type === 'notes' || group.tableHtml || group.template;
+
+      if (isGapFillGroup) {
+        // CÂU HỎI ĐIỀN TỪ: ĐIỀN TRỰC TIẾP TRÊN BẢNG / BÀI GHI CHÚ
+        let contentBody = group.tableHtml || group.template || '';
+        
+        group.questionIds.forEach(qId => {
+          const q = data.questions[qId];
+          const width = q?.inputWidth || "130px";
+          const audioTimeStr = q?.time ? `<button type="button" class="btn-audio-pill" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')" title="Bấm để nghe đoạn chứa câu này">▶ ${formatTime(q.time)}</button>` : '';
+
+          const inputReplacement = `
+            <span style="display:inline-block; vertical-align:middle; margin:2px 0;">
+              <input type="text" class="fill-input" id="${qId}_input" style="width:${width}; font-weight:700; color:#0284c7; text-align:center; padding:5px 8px;" placeholder="[Câu ${q?.num || qId}]" oninput="window.syncUserAnswer('${qId}', this.value)">
+              ${audioTimeStr}
+              <div id="${qId}_feedback" class="inline-result-feedback"></div>
+            </span>
+          `;
+          contentBody = contentBody.replace(new RegExp(`{{${qId}}}`, 'g'), inputReplacement);
+        });
+
+        if (group.notesTitle) {
+          contentBody = `<div style="background:var(--bg-subcard); border:1px solid var(--border-color); padding:16px; border-radius:8px;"><h4 style="margin-top:0; margin-bottom:10px;">${group.notesTitle}</h4>${contentBody}</div>`;
+        }
+
+        html += `<div style="margin-bottom:14px; font-size:14.5px; line-height:1.8;">${contentBody}</div>`;
+
+        // KHUNG MẠCH SUY NGHĨ GỌN GÀNG CHO TỪNG CÂU GAP-FILL
+        html += `<div style="background:#f8fafc; border:1px solid #e2e8f0; border-radius:8px; padding:12px; margin-bottom:18px;">
+          <b style="font-size:13px; color:#475569; display:block; margin-bottom:8px;">💭 Ghi chú & Mạch suy nghĩ khi nghe (Questions ${group.questionIds[0].replace('q','')}–${group.questionIds[group.questionIds.length - 1].replace('q','')}):</b>
+          <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 8px;">
+            ${group.questionIds.map(qId => `
+              <div class="inline-thought-box" style="margin:0;">
+                <label>Câu ${data.questions[qId]?.num || qId.replace('q','')}:</label>
+                <textarea id="${qId}_thought" placeholder="Ghi chú từ khóa / lý do em chọn..."></textarea>
+              </div>
+            `).join('')}
+          </div>
+        </div>`;
+
+      } else {
+        // CÂU HỎI TRẮC NGHIỆM MCQ (CHO PART 2 / PART 3)
+        group.questionIds.forEach(qId => {
+          const q = data.questions[qId];
+          if (!q) return;
+
+          let optionsList = '';
+          if (q.options && Array.isArray(q.options)) {
+            optionsList = q.options.map(opt => {
+              const letterMatch = opt.match(/^([A-Z])[\.\:\s]/i);
+              const letter = letterMatch ? letterMatch[1].toUpperCase() : opt.charAt(0);
+              const text = letterMatch ? opt.substring(letterMatch[0].length).trim() : opt;
+
+              return `
+                <label class="mcq-option-item" onclick="window.syncUserAnswer('${qId}', '${letter}')">
+                  <input type="radio" name="${qId}" value="${letter}" style="display:none;">
+                  <span class="mcq-badge">${letter}</span>
+                  <span style="font-size:13.5px; line-height:1.45;">${text}</span>
+                </label>
+              `;
+            }).join('');
+          }
+
+          html += `
+            <div class="lis-question-card" id="${qId}">
+              <div class="lis-card-header">
+                <b style="color:var(--primary-blue); font-size:14.5px;">📍 Câu ${q.num || qId.replace('q','')}: ${q.text || ''}</b>
+                ${q.time ? `<button type="button" class="btn-audio-pill" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')">▶ Nghe đoạn này (${formatTime(q.time)})</button>` : ''}
+              </div>
+              <div class="mcq-options-list">${optionsList}</div>
+              <div class="result" style="margin-top:6px;"></div>
+              <div class="inline-thought-box" style="margin-top:8px;">
+                <label>💭 Mạch suy nghĩ của em:</label>
+                <textarea id="${qId}_thought" placeholder="Ghi chú suy nghĩ của em..."></textarea>
+              </div>
+            </div>
+          `;
+        });
+      }
+    });
+
+    html += `<button type="button" class="btn-submit" onclick="window.checkAnswers()" style="margin-top:25px; width:100%; padding:14px; font-size:16px; font-weight:700;">CHẤM BÀI PHẦN NÀY VÀ MỞ TRANSCRIPT</button>`;
+
+    if (isPart4) {
+      html += `
+        <button type="button" class="btn-full-submit" onclick="window.submitFullListeningTest()" style="margin-top:12px; background:linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%); color:white; border:none; padding:15px; border-radius:8px; width:100%; font-size:16px; font-weight:800; cursor:pointer;">
+          🏆 NỘP TỔNG & TÍNH BAND SCORE CẢ 4 PARTS (40 CÂU)
+        </button>
+      `;
+    }
+
+    return html;
+  };
+
+  /* XỬ LÝ CHẤM ĐIỂM & ĐỐI CHIẾU TRANSCRIPT */
   window.enableSplitViewAfterSubmit = function() {
     document.body.classList.add('submitted');
-
     const passageBox = document.getElementById('passageBox');
     const dragResizer = document.getElementById('dragResizer');
     const mainContainer = document.getElementById('mainContainer');
@@ -283,7 +349,37 @@
       mainContainer.style.setProperty('height', 'calc(100vh - 130px)', 'important');
     }
 
-    initSplitResizer();
+    // Hiển thị kết quả trực tiếp ngay cạnh ô điền
+    if (window.TEST_DATA && window.TEST_DATA.answers) {
+      Object.entries(window.TEST_DATA.answers).forEach(([qId, official]) => {
+        const inp = document.getElementById(`${qId}_input`);
+        const feedback = document.getElementById(`${qId}_feedback`);
+        if (inp && feedback) {
+          const userVal = inp.value.trim().toLowerCase();
+          let isCorrect = false;
+          let correctText = official;
+
+          if (Array.isArray(official)) {
+            isCorrect = official.some(ans => ans.toLowerCase() === userVal);
+            correctText = official.join(' / ');
+          } else {
+            isCorrect = (String(official).trim().toLowerCase() === userVal);
+          }
+
+          if (isCorrect) {
+            inp.style.borderColor = '#16a34a';
+            inp.style.backgroundColor = '#f0fdf4';
+            feedback.className = 'inline-result-feedback correct';
+            feedback.innerHTML = `✓ Đúng!`;
+          } else {
+            inp.style.borderColor = '#dc2626';
+            inp.style.backgroundColor = '#fef2f2';
+            feedback.className = 'inline-result-feedback wrong';
+            feedback.innerHTML = `✗ Sai! Đáp án: <b>${correctText}</b>`;
+          }
+        }
+      });
+    }
 
     const questionBox = document.getElementById('questionBox');
     if (questionBox && !document.getElementById('submitSuccessBanner')) {
@@ -312,287 +408,6 @@
       }, 2200);
     }
   };
-
-  window.buildListeningHtml = function(data, isPart4) {
-    if (!data.groups || !data.questions) return data.questionHtml || "";
-    let html = '';
-
-    data.groups.forEach(group => {
-      html += `<div class="section-title" style="font-size:1.25em; font-weight:800; color:var(--primary-blue); margin-top:20px;">${group.title}</div>`;
-      if (group.instructions) {
-        html += `<p style="color:var(--text-muted); font-size:13.5px; margin-bottom:12px; line-height:1.5;">${group.instructions}</p>`;
-      }
-
-      if (group.type === 'matching' && Array.isArray(group.options)) {
-        html += `
-          <div class="matching-box">
-            ${group.optionsTitle ? `<div style="font-weight:800; color:#0369a1; margin-bottom:10px; text-transform:uppercase; font-size:13px;">📋 ${group.optionsTitle}</div>` : ''}
-            <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 8px;">
-              ${group.options.map(opt => `
-                <div class="matching-item">
-                  <span class="mcq-badge">${opt.key}</span>
-                  <span>${opt.text}</span>
-                </div>
-              `).join('')}
-            </div>
-          </div>
-        `;
-      }
-
-      let contentBody = group.tableHtml || group.template || '';
-      if (group.notesTitle) {
-        contentBody = `<div style="background:var(--bg-subcard); border:1px solid var(--border-color); padding:16px; border-radius:8px;"><h4 style="margin-top:0; margin-bottom:10px;">${group.notesTitle}</h4>${contentBody}</div>`;
-      }
-      if (contentBody) {
-        group.questionIds.forEach(qId => {
-          const q = data.questions[qId];
-          const width = q?.inputWidth || "120px";
-          const inputHtml = `<input type="text" class="fill-input" id="${qId}_input" style="width:${width}; font-weight:700; color:#0284c7; text-align:center;" placeholder="[Câu ${q?.num || qId}]" oninput="window.syncUserAnswer('${qId}', this.value)">`;
-          contentBody = contentBody.replace(new RegExp(`{{${qId}}}`, 'g'), inputHtml);
-        });
-        html += `<div style="margin-bottom:18px;">${contentBody}</div>`;
-      }
-
-      group.questionIds.forEach(qId => {
-        const q = data.questions[qId];
-        if (!q) return;
-
-        let answerControlHtml = '';
-
-        if (q.type === 'mcq' || (q.options && Array.isArray(q.options))) {
-          const optionsList = q.options.map((opt, idx) => {
-            const letterMatch = opt.match(/^([A-Z])[\.\:\s]/i);
-            const letter = letterMatch ? letterMatch[1].toUpperCase() : String.fromCharCode(65 + idx);
-            const text = letterMatch ? opt.substring(letterMatch[0].length).trim() : opt;
-
-            return `
-              <label class="mcq-option-item" onclick="window.syncUserAnswer('${qId}', '${letter}')">
-                <input type="radio" name="${qId}" value="${letter}" style="display:none;">
-                <span class="mcq-badge">${letter}</span>
-                <span style="font-size:13.5px; line-height:1.45;">${text}</span>
-              </label>
-            `;
-          }).join('');
-
-          answerControlHtml = `<div class="mcq-options-list">${optionsList}</div>`;
-        } else if (q.type === 'matching' || group.type === 'matching') {
-          const opts = group.options || [];
-          answerControlHtml = `
-            <div class="gap-fill-answer-bar">
-              <label for="${qId}_select" style="font-size:13.5px; font-weight:700;">👉 Chọn đáp án cho Câu ${q.num || qId}:</label>
-              <select id="${qId}_select" class="fill-input" style="padding:6px 12px; font-weight:700; color:#0284c7; min-width:180px; border-radius:5px;" onchange="window.syncUserAnswer('${qId}', this.value)">
-                <option value="">-- Chọn chữ cái --</option>
-                ${opts.map(o => `<option value="${o.key}">${o.key} - ${o.text}</option>`).join('')}
-              </select>
-            </div>
-          `;
-        } else {
-          answerControlHtml = `
-            <div class="gap-fill-answer-bar">
-              <label for="${qId}_input_mirror" style="font-size:13.5px; font-weight:700;">✍️ Đáp án Câu ${q.num || qId}:</label>
-              <input type="text" class="fill-input" id="${qId}_input_mirror" placeholder="Nhập từ em nghe được..." style="width:220px; font-weight:700;" oninput="window.syncUserAnswer('${qId}', this.value)">
-            </div>
-          `;
-        }
-
-        html += `
-          <div class="lis-question-card" id="${qId}">
-            <div class="lis-card-header">
-              <b style="color:var(--primary-blue); font-size:14.5px;">📍 Câu ${q.num || qId.replace('q','')}: ${q.text || ''}</b>
-              ${q.time ? `<button type="button" class="btn-audio-jump" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')">▶ Nghe câu này (${formatTime(q.time)})</button>` : ''}
-            </div>
-
-            ${answerControlHtml}
-
-            <div class="result" style="margin-top:8px;"></div>
-
-            ${q.explanation && q.explanation.steps ? `
-              <div class="explanation" style="display:none; margin-top:10px;">
-                <div class="kw-exp" style="font-weight:700; color:#0369a1; margin-bottom:6px;">🎯 GIẢI THÍCH:</div>
-                ${q.explanation.steps.map(s => `<div class="exp-step" style="margin:4px 0;">${s}</div>`).join('')}
-                ${q.highlightId ? `<button type="button" class="btn-locate-text" onclick="window.seekAudioTo(${q.time || 'null'}, '${q.highlightId}')">📍 Xem transcript & Nghe lại</button>` : ''}
-              </div>
-            ` : ''}
-
-            <div class="thought-box" style="margin-top:10px;">
-              <label>💭 Mạch suy nghĩ của em:</label>
-              <textarea id="${qId}_thought" placeholder="Ghi chú suy nghĩ của em..."></textarea>
-            </div>
-
-            <div class="ai-assistant-box">
-              <label style="font-weight:700; font-size:12px; color:#475569;">🤖 Hỏi Trợ giảng AI về câu ${q.num || qId}:</label>
-              <div class="ai-input-group">
-                <input type="text" id="ai_ask_${qId}" placeholder="Hỏi lý do chọn đáp án này...">
-                <button type="button" class="ai-btn" onclick="window.askGeminiAI && window.askGeminiAI('${qId}')">Gửi AI</button>
-              </div>
-              <div class="ai-response" id="ai_response_${qId}"></div>
-            </div>
-          </div>
-        `;
-      });
-    });
-
-    html += `<button type="button" class="btn-submit" onclick="window.checkAnswers()" style="margin-top:25px; width:100%; padding:14px; font-size:16px;">CHẤM BÀI PHẦN NÀY VÀ MỞ TRANSCRIPT</button>`;
-
-    if (isPart4) {
-      html += `
-        <button type="button" class="btn-full-submit" onclick="window.submitFullListeningTest()">
-          🏆 NỘP TỔNG & TÍNH BAND SCORE CẢ 4 PARTS (40 CÂU)
-        </button>
-      `;
-    }
-
-    return html;
-  };
-
-  function formatTime(sec) {
-    const m = Math.floor(sec / 60);
-    const s = Math.floor(sec % 60);
-    return `${m < 10 ? '0' : ''}${m}:${s < 10 ? '0' : ''}${s}`;
-  }
-
-  window.submitFullListeningTest = async function() {
-    if (typeof window.checkAnswers === 'function') {
-      window.checkAnswers();
-    }
-
-    const baseTest = window.CURRENT_BASE_TEST;
-    if (!baseTest) {
-      alert("Không tìm thấy mã bài test tương ứng!");
-      return;
-    }
-
-    const modal = document.getElementById('fullScoreModal');
-    const modalBody = document.getElementById('fullScoreModalBody');
-    modalBody.innerHTML = `<div style="text-align:center; padding:30px; font-size:15px; color:#64748b;">⏳ Đang tổng hợp dữ liệu và chấm bài cả 4 Parts (40 câu)...</div>`;
-    modal.style.display = 'flex';
-
-    const storeKey = `ielts_ans_${baseTest}`;
-    let userAnswers = {};
-    try {
-      userAnswers = JSON.parse(localStorage.getItem(storeKey) || '{}');
-    } catch(e) {}
-
-    document.querySelectorAll('.lis-question-card').forEach(card => {
-      const qId = card.id;
-      const inp = card.querySelector(`input[id="${qId}_input_mirror"], input[id="${qId}_input"]`);
-      const radio = card.querySelector(`input[name="${qId}"]:checked`);
-      const sel = card.querySelector(`select[id="${qId}_select"]`);
-
-      if (radio) userAnswers[qId] = radio.value;
-      else if (sel && sel.value) userAnswers[qId] = sel.value;
-      else if (inp && inp.value) userAnswers[qId] = inp.value;
-    });
-
-    const allOfficialAnswers = {};
-    const partScores = { p1: { correct: 0, total: 10 }, p2: { correct: 0, total: 10 }, p3: { correct: 0, total: 10 }, p4: { correct: 0, total: 10 } };
-
-    for (let p = 1; p <= 4; p++) {
-      const partFileName = `${baseTest}-p${p}`;
-      const urls = [
-        `data-l/${baseTest}/${partFileName}.json`,
-        `data-l/${partFileName}.json`,
-        `${partFileName}.json`
-      ];
-
-      for (const url of urls) {
-        try {
-          const res = await fetch(`${url}?t=${Date.now()}`);
-          if (res.ok) {
-            const json = await res.json();
-            const answers = json.answers || (json.questions ? Object.fromEntries(Object.entries(json.questions).map(([k, v]) => [k, v.finalAnswer])) : {});
-            Object.assign(allOfficialAnswers, answers);
-            break;
-          }
-        } catch(e) {}
-      }
-    }
-
-    let totalCorrect = 0;
-    const tableRowsHtml = [];
-
-    for (let i = 1; i <= 40; i++) {
-      const qId = `q${i}`;
-      const official = (allOfficialAnswers[qId] || "").trim();
-      const user = (userAnswers[qId] || "").trim();
-
-      let isCorrect = false;
-      if (official) {
-        if (official.length === 1 && /^[A-Z]$/i.test(official)) {
-          isCorrect = user.toUpperCase() === official.toUpperCase();
-        } else {
-          isCorrect = user.toLowerCase() === official.toLowerCase();
-        }
-      }
-
-      if (isCorrect) {
-        totalCorrect++;
-        const partKey = i <= 10 ? 'p1' : (i <= 20 ? 'p2' : (i <= 30 ? 'p3' : 'p4'));
-        partScores[partKey].correct++;
-      }
-
-      tableRowsHtml.push(`
-        <tr>
-          <td style="text-align:center; font-weight:700;">Câu ${i}</td>
-          <td><b>${user ? user : '<span style="color:#94a3b8; font-style:italic;">(Chưa làm)</span>'}</b></td>
-          <td style="color:#0284c7; font-weight:700;">${official || 'N/A'}</td>
-          <td style="text-align:center;" class="${isCorrect ? 'status-correct' : 'status-wrong'}">
-            ${isCorrect ? '✓ Đúng' : '✗ Sai'}
-          </td>
-        </tr>
-      `);
-    }
-
-    const bandScore = window.calculateIELTSListeningBand(totalCorrect);
-
-    modalBody.innerHTML = `
-      <div class="band-score-banner">
-        <div style="font-size: 15px; font-weight: 700; color: #166534; text-transform: uppercase; letter-spacing: 0.5px;">ĐIỂM IELTS LISTENING CỦA BẠN</div>
-        <div class="band-score-value">BAND ${bandScore}</div>
-        <div style="font-size: 16px; color: #15803d; font-weight: 700;">Đúng ${totalCorrect} / 40 câu</div>
-      </div>
-
-      <div class="summary-grid">
-        <div class="summary-card">
-          <div style="font-size: 12px; color: #64748b;">Part 1 (Câu 1-10)</div>
-          <b>${partScores.p1.correct}/10</b>
-        </div>
-        <div class="summary-card">
-          <div style="font-size: 12px; color: #64748b;">Part 2 (Câu 11-20)</div>
-          <b>${partScores.p2.correct}/10</b>
-        </div>
-        <div class="summary-card">
-          <div style="font-size: 12px; color: #64748b;">Part 3 (Câu 21-30)</div>
-          <b>${partScores.p3.correct}/10</b>
-        </div>
-        <div class="summary-card">
-          <div style="font-size: 12px; color: #64748b;">Part 4 (Câu 31-40)</div>
-          <b>${partScores.p4.correct}/10</b>
-        </div>
-      </div>
-
-      <h4 style="margin: 15px 0 10px; color: #1e293b;">📋 Bảng chi tiết kết quả 40 câu:</h4>
-      <div style="max-height: 280px; overflow-y: auto; border: 1px solid #cbd5e1; border-radius: 6px;">
-        <table class="answers-table">
-          <thead>
-            <tr>
-              <th style="width: 80px; text-align:center;">Câu</th>
-              <th>Bạn chọn</th>
-              <th>Đáp án đúng</th>
-              <th style="width: 90px; text-align:center;">Kết quả</th>
-            </tr>
-          </thead>
-          <tbody>
-            ${tableRowsHtml.join('')}
-          </tbody>
-        </table>
-      </div>
-
-      <button type="button" onclick="document.getElementById('fullScoreModal').style.display='none'" style="margin-top: 15px; width: 100%; padding: 12px; background: #0f172a; color: white; border: none; border-radius: 6px; font-weight: 700; cursor: pointer;">
-        ĐÓNG BẢNG ĐIỂM
-      </button>
-    `;
-  };
 </script>
 
 <script type="module">
@@ -614,7 +429,6 @@
       window.CURRENT_BASE_TEST = folderName;
       const isPart4 = fileName.toLowerCase().endsWith('-p4') || fileName.toLowerCase().includes('-p4');
 
-      // Tải đề từ data-l/
       const urlsToTry = [
         `data-l/${folderName}/${fileName}.json`,
         `data-l/${fileName}.json`,
@@ -661,11 +475,7 @@
         });
       }, 300);
 
-      if (data.groups && window.buildListeningHtml) {
-        document.getElementById('questionBox').innerHTML = window.buildListeningHtml(data, isPart4);
-      } else {
-        document.getElementById('questionBox').innerHTML = data.questionHtml || "";
-      }
+      document.getElementById('questionBox').innerHTML = window.buildListeningHtml(data, isPart4);
       
       if (data.audioUrl) {
         const audioEl = document.getElementById('mainAudioElement');
@@ -681,7 +491,6 @@
         answers: data.answers || (data.questions ? Object.fromEntries(Object.entries(data.questions).map(([k, v]) => [k, v.finalAnswer])) : {})
       };
 
-      // KHỞI ĐỘNG HỆ THỐNG APP LISTENING ĐỘC LẬP
       await initListeningApp();
 
       const realCheckAnswers = window.checkAnswers;
@@ -689,15 +498,6 @@
         if (typeof realCheckAnswers === 'function') realCheckAnswers();
         if (window.enableSplitViewAfterSubmit) window.enableSplitViewAfterSubmit();
       };
-
-      document.addEventListener('click', (e) => {
-        const btn = e.target.closest('button, a');
-        if (btn && (btn.innerText.includes('NỘP') || btn.innerText.includes('CHẤM') || btn.classList.contains('btn-submit'))) {
-          setTimeout(() => {
-            if (window.enableSplitViewAfterSubmit) window.enableSplitViewAfterSubmit();
-          }, 200);
-        }
-      });
       
       initListeningNavigation();
     }
