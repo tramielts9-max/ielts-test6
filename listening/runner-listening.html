@@ -516,34 +516,27 @@
     }
 
 /* ========================================================
-       6. DẠNG MAP LABELLING: MA TRẬN RADIO (HÌNH TO TỐI ĐA)
+       6. DẠNG MAP LABELLING: BẢN ĐỒ Ở TRÊN (TO TỐI ĐA), BẢNG Ở DƯỚI
        ======================================================== */
     .map-labelling-layout {
       display: flex;
-      flex-direction: column;
+      flex-direction: column; /* Xếp dọc: Hình ở trên, Bảng ở dưới */
       gap: 20px;
       margin: 20px 0;
-    }
-    @media (min-width: 820px) {
-      .map-labelling-layout {
-        display: grid;
-        grid-template-columns: 1.35fr 1fr; /* Ưu tiên bề ngang cho cột ảnh to gấp 1.35 lần */
-        align-items: start;
-        gap: 20px;
-      }
+      width: 100%;
     }
     .map-image-card {
       background: #ffffff;
       border: 1.5px solid #cbd5e1;
       border-radius: 10px;
-      padding: 6px; /* Giảm viền trắng để nhường chỗ cho ảnh to hết cỡ */
+      padding: 10px;
       text-align: center;
-      position: sticky; /* Ghim ảnh cố định khi cuộn xuống làm các câu dưới */
-      top: 15px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+      width: 100%;
+      box-sizing: border-box;
     }
     .map-image-card img {
-      width: 100%; /* Bung to 100% kích thước khung */
+      max-width: 100%; /* Bung to hết cỡ bề ngang của đề */
       height: auto;
       border-radius: 6px;
       display: block;
@@ -556,12 +549,13 @@
       border: 1.5px solid #cbd5e1;
       border-radius: 8px;
       overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.02);
     }
     .map-matrix-table th, .map-matrix-table td {
       border: 1px solid #e2e8f0;
-      padding: 9px 4px; /* Thu gọn các cột A-I để bảng gọn gàng hơn */
+      padding: 10px 6px;
       text-align: center;
-      font-size: 13px;
+      font-size: 13.5px;
     }
     .map-matrix-table th {
       background: #f8fafc;
