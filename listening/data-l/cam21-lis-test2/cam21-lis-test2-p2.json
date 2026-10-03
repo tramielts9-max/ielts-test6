@@ -25,20 +25,10 @@
     {
       "id": "g2",
       "title": "Questions 15–20",
-      "instructions": "Label the map below.<br>Choose <b>SIX</b> answers from the box and write the correct letter, <b>A–I</b>, next to Questions 15–20.<div style='text-align:center; margin:16px 0;'><img src='images/cam21-t2-p2-map.png' alt='Melby Coal Mine Map' style='max-width:100%; height:auto; border-radius:8px; border:1.5px solid #cbd5e1; box-shadow:0 3px 10px rgba(0,0,0,0.08);'></div>",
-      "type": "matching",
-      "optionsTitle": "Locations on Map",
-      "options": [
-        { "key": "A", "text": "Location A" },
-        { "key": "B", "text": "Location B" },
-        { "key": "C", "text": "Location C" },
-        { "key": "D", "text": "Location D" },
-        { "key": "E", "text": "Location E" },
-        { "key": "F", "text": "Location F" },
-        { "key": "G", "text": "Location G" },
-        { "key": "H", "text": "Location H" },
-        { "key": "I", "text": "Location I" }
-      ],
+      "instructions": "Label the map below.<br>Write the correct letter, <b>A–I</b>, next to Questions 15–20.",
+      "type": "map",
+      "imageUrl": "data-l/images/cam21-t2-p2-map.png",
+      "optionsCount": 9,
       "questionIds": ["q15", "q16", "q17", "q18", "q19", "q20"]
     }
   ],
@@ -125,7 +115,7 @@
     },
     "q15": {
       "num": 15,
-      "type": "matching",
+      "type": "map",
       "text": "Exhibition",
       "finalAnswer": "F",
       "highlightId": "hl-q15",
@@ -140,7 +130,7 @@
     },
     "q16": {
       "num": 16,
-      "type": "matching",
+      "type": "map",
       "text": "Bath house",
       "finalAnswer": "B",
       "highlightId": "hl-q16",
@@ -155,7 +145,7 @@
     },
     "q17": {
       "num": 17,
-      "type": "matching",
+      "type": "map",
       "text": "Mining tools display",
       "finalAnswer": "D",
       "highlightId": "hl-q17",
@@ -170,7 +160,7 @@
     },
     "q18": {
       "num": 18,
-      "type": "matching",
+      "type": "map",
       "text": "Vehicle shed",
       "finalAnswer": "A",
       "highlightId": "hl-q18",
@@ -185,7 +175,7 @@
     },
     "q19": {
       "num": 19,
-      "type": "matching",
+      "type": "map",
       "text": "Field with ponies",
       "finalAnswer": "H",
       "highlightId": "hl-q19",
@@ -200,7 +190,7 @@
     },
     "q20": {
       "num": 20,
-      "type": "matching",
+      "type": "map",
       "text": "Education Centre",
       "finalAnswer": "E",
       "highlightId": "hl-q20",
