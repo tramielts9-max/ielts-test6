@@ -21,9 +21,9 @@
     body.listening-test:not(.submitted) #dragResizer { display: none !important; }
     body.listening-test:not(.submitted) #questionBox {
       width: 100% !important;
-      max-width: 980px;
+      max-width: 1250px;
       margin: 0 auto;
-      padding: 24px 32px;
+      padding: 20px 24px;
       background: #ffffff;
       border-radius: 12px;
       box-shadow: 0 2px 12px rgba(15, 23, 42, 0.04);
@@ -40,9 +40,9 @@
     }
     body.listening-test.submitted #passageBox {
       display: block !important;
-      width: 48%;
+      width: 45%;
       min-width: 280px;
-      max-width: 75%;
+      max-width: 70%;
       height: 100% !important;
       overflow-y: auto !important;
       padding: 24px 28px;
@@ -75,19 +75,268 @@
       min-width: 340px;
       height: 100% !important;
       overflow-y: auto !important;
-      padding: 24px 30px;
+      padding: 20px 24px;
       background: #ffffff;
       border-radius: 0;
       border: none;
       box-shadow: none;
     }
 
-    /* TIÊU ĐỀ & HƯỚNG DẪN ĐỀ THI */
-    .section-title {
-      font-size: 17px;
+    /* ========================================================
+       2. BỐ CỤC GOOGLE DOCS: BÀI THI BÊN TRÁI - COMMENT BÊN PHẢI
+       ======================================================== */
+    .gdocs-exam-wrapper {
+      display: flex;
+      gap: 22px;
+      align-items: flex-start;
+      position: relative;
+      width: 100%;
+    }
+    .gdocs-paper-col {
+      flex: 1;
+      min-width: 0; /* Cho phép co giãn linh hoạt */
+    }
+    .gdocs-comments-col {
+      width: 325px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 15px;
+      max-height: calc(100vh - 160px);
+      overflow-y: auto;
+      padding-right: 4px;
+      border-left: 1.5px solid #f1f5f9;
+      padding-left: 14px;
+    }
+    @media (max-width: 920px) {
+      .gdocs-exam-wrapper {
+        flex-direction: column;
+      }
+      .gdocs-comments-col {
+        width: 100%;
+        position: static;
+        max-height: none;
+        border-left: none;
+        padding-left: 0;
+        margin-top: 24px;
+      }
+    }
+
+    /* HEADER CỘT BÌNH LUẬN */
+    .gdocs-comments-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1.5px solid #e2e8f0;
+    }
+    .gdocs-header-title {
+      font-size: 13.5px;
       font-weight: 800;
       color: #0f172a;
-      margin: 24px 0 8px 0;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .gdocs-header-actions {
+      display: flex;
+      gap: 5px;
+    }
+    .btn-gdocs-toggle-all {
+      background: #f1f5f9;
+      color: #475569;
+      border: 1px solid #cbd5e1;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .btn-gdocs-toggle-all:hover {
+      background: #0284c7;
+      color: #ffffff;
+      border-color: #0284c7;
+    }
+
+    /* TỪNG BUBBLE BÌNH LUẬN (GOOGLE DOCS COMMENT CARD) */
+    .gdocs-bubbles-container {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .gdocs-comment-bubble {
+      background: #ffffff;
+      border: 1.5px solid #cbd5e1;
+      border-radius: 8px;
+      padding: 10px 12px;
+      transition: all 0.2s ease;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+    }
+    .gdocs-comment-bubble:hover {
+      border-color: #94a3b8;
+    }
+    .gdocs-comment-bubble.is-active {
+      border-color: #0284c7;
+      box-shadow: 0 0 0 2px rgba(2, 132, 199, 0.2), 0 4px 10px rgba(0,0,0,0.06);
+      background: #f0f9ff;
+    }
+    .gdocs-bubble-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+      user-select: none;
+    }
+    .gdocs-bubble-title {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .gdocs-bubble-badge {
+      font-size: 12px;
+      font-weight: 800;
+      background: #e0f2fe;
+      color: #0284c7;
+      padding: 2px 7px;
+      border-radius: 4px;
+    }
+    .gdocs-bubble-preview {
+      font-size: 11.5px;
+      color: #64748b;
+      max-width: 140px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+    .gdocs-bubble-toggle-btn {
+      background: transparent;
+      border: none;
+      color: #64748b;
+      font-size: 14px;
+      cursor: pointer;
+      padding: 0 4px;
+      transition: transform 0.2s;
+    }
+
+    /* KHI THU GỌN BUBBLE */
+    .gdocs-comment-bubble.is-collapsed .gdocs-bubble-body {
+      display: none;
+    }
+    .gdocs-comment-bubble.is-collapsed .gdocs-bubble-toggle-btn {
+      transform: rotate(-90deg);
+    }
+
+    /* THÂN BUBBLE CHỨA GHI CHÚ & TRỢ GIẢNG AI */
+    .gdocs-bubble-body {
+      margin-top: 10px;
+      padding-top: 8px;
+      border-top: 1px solid #e2e8f0;
+    }
+    .inline-thought-box {
+      margin-bottom: 8px;
+      padding: 6px 10px;
+      background: #f0fdf4;
+      border: 1px solid #bbf7d0;
+      border-left: 3px solid #16a34a;
+      border-radius: 5px;
+    }
+    .inline-thought-box label {
+      font-size: 11.5px;
+      font-weight: 700;
+      color: #166534;
+      display: block;
+      margin-bottom: 3px;
+    }
+    .inline-thought-box textarea {
+      width: 100%;
+      height: 34px;
+      min-height: 34px;
+      padding: 5px 8px;
+      font-size: 12.5px;
+      border: 1px solid #cbd5e1;
+      border-radius: 4px;
+      background: #ffffff;
+      color: #0f172a;
+      resize: vertical;
+      outline: none;
+      box-sizing: border-box;
+      font-family: inherit;
+    }
+    .ai-assistant-box {
+      padding: 6px 10px;
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-left: 3px solid #0284c7;
+      border-radius: 5px;
+    }
+    .ai-assistant-box label {
+      font-size: 11.5px;
+      font-weight: 700;
+      color: #0369a1;
+      display: block;
+      margin-bottom: 3px;
+    }
+    .ai-input-group {
+      display: flex;
+      gap: 5px;
+    }
+    .ai-input-group input {
+      flex: 1;
+      padding: 5px 8px;
+      font-size: 12px;
+      border: 1px solid #cbd5e1;
+      border-radius: 4px;
+      outline: none;
+    }
+    .ai-input-group input:focus { border-color: #0284c7; }
+    .ai-btn {
+      background: #0284c7;
+      color: #ffffff;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 4px;
+      font-weight: 700;
+      font-size: 11.5px;
+      cursor: pointer;
+    }
+    .ai-btn:hover { background: #0369a1; }
+    .ai-response {
+      margin-top: 6px;
+      font-size: 12px;
+      line-height: 1.45;
+      color: #1e293b;
+      padding: 6px 8px;
+      background: #f0fdf4;
+      border: 1px solid #bbf7d0;
+      border-radius: 5px;
+      display: none;
+    }
+
+    /* NÚT ICON BÌNH LUẬN TRONG BÀI THI */
+    .btn-comment-anchor {
+      background: #f1f5f9;
+      color: #0369a1;
+      border: 1px solid #cbd5e1;
+      padding: 2px 6px;
+      border-radius: 10px;
+      font-size: 11px;
+      cursor: pointer;
+      margin-left: 5px;
+      vertical-align: middle;
+      transition: all 0.15s;
+    }
+    .btn-comment-anchor:hover {
+      background: #0284c7;
+      color: #ffffff;
+    }
+
+    /* TIÊU ĐỀ & HƯỚNG DẪN ĐỀ THI */
+    .section-title {
+      font-size: 16.5px;
+      font-weight: 800;
+      color: #0f172a;
+      margin: 20px 0 8px 0;
       display: flex;
       align-items: center;
       gap: 8px;
@@ -99,19 +348,17 @@
       border-radius: 6px;
       padding: 10px 14px;
       color: #334155;
-      font-size: 14px;
+      font-size: 13.5px;
       line-height: 1.5;
-      margin-bottom: 20px;
+      margin-bottom: 16px;
       border-left: 3px solid #94a3b8;
     }
-
-    /* NÚT PHÁT AUDIO TỪNG CÂU */
     .btn-audio-pill {
       background: #f1f5f9;
       color: #0369a1;
       border: 1px solid #cbd5e1;
-      padding: 3px 9px;
-      border-radius: 14px;
+      padding: 3px 8px;
+      border-radius: 12px;
       font-weight: 700;
       font-size: 11.5px;
       cursor: pointer;
@@ -121,554 +368,154 @@
       transition: all 0.15s ease;
       vertical-align: middle;
     }
-    .btn-audio-pill:hover {
-      background: #0284c7;
-      color: #ffffff;
-      border-color: #0284c7;
-    }
+    .btn-audio-pill:hover { background: #0284c7; color: #ffffff; }
 
-    /* ========================================================
-       2. MẠCH SUY NGHĨ (THEO READING) & TRỢ GIẢNG AI (TỰ LƯU)
-       ======================================================== */
-    .inline-qa-card {
-      margin: 8px 0 16px 0;
-      padding: 10px 14px;
-      background: #f8fafc;
-      border: 1px solid #e2e8f0;
-      border-radius: 8px;
-    }
-    .inline-thought-box {
-      margin-bottom: 8px;
-      padding: 8px 12px;
-      background: #f0fdf4;
-      border: 1px solid #bbf7d0;
-      border-left: 3.5px solid #16a34a;
-      border-radius: 6px;
-      line-height: 1.4;
-    }
-    .inline-thought-box label {
-      font-size: 12px;
-      font-weight: 700;
-      color: #166534;
-      display: block;
-      margin-bottom: 4px;
-    }
-    .inline-thought-box textarea {
-      width: 100%;
-      height: 38px;
-      min-height: 38px;
-      padding: 6px 10px;
-      font-size: 13px;
-      border: 1px solid #cbd5e1;
-      border-radius: 4px;
-      background: #ffffff;
-      color: #0f172a;
-      resize: vertical;
-      outline: none;
-      box-sizing: border-box;
-      font-family: inherit;
-    }
-
-    .ai-assistant-box {
-      padding: 8px 12px;
-      background: #ffffff;
-      border: 1px solid #e2e8f0;
-      border-left: 3.5px solid #0284c7;
-      border-radius: 6px;
-    }
-    .ai-assistant-box label {
-      font-size: 12px;
-      font-weight: 700;
-      color: #0369a1;
-      display: block;
-      margin-bottom: 4px;
-    }
-    .ai-input-group {
-      display: flex;
-      gap: 6px;
-    }
-    .ai-input-group input {
-      flex: 1;
-      padding: 6px 10px;
-      font-size: 12.5px;
-      border: 1px solid #cbd5e1;
-      border-radius: 4px;
-      outline: none;
-    }
-    .ai-input-group input:focus {
-      border-color: #0284c7;
-    }
-    .ai-btn {
-      background: #0284c7;
-      color: #ffffff;
-      border: none;
-      padding: 6px 12px;
-      border-radius: 4px;
-      font-weight: 700;
-      font-size: 12px;
-      cursor: pointer;
-      transition: background 0.15s;
-    }
-    .ai-btn:hover { background: #0369a1; }
-    .ai-response {
-      margin-top: 8px;
-      font-size: 13px;
-      line-height: 1.5;
-      color: #1e293b;
-      padding: 8px 10px;
-      background: #f0fdf4;
-      border: 1px solid #bbf7d0;
-      border-radius: 6px;
-      display: none;
-    }
-
-    /* ========================================================
-       3. DẠNG ĐIỀN TỪ (TABLE / NOTES)
-       ======================================================== */
+    /* DẠNG ĐIỀN TỪ */
     .table-question {
       width: 100%;
       border-collapse: collapse;
-      margin: 16px 0 20px 0;
+      margin: 14px 0 18px 0;
       background: #ffffff;
       border: 1.5px solid #cbd5e1;
       border-radius: 8px;
       overflow: hidden;
-      font-size: 14.5px;
+      font-size: 14px;
     }
     .table-question th, .table-question td {
       border: 1px solid #e2e8f0;
-      padding: 12px 14px;
-      line-height: 1.6;
-      vertical-align: top;
+      padding: 10px 12px;
+      line-height: 1.5;
+      vertical-align: middle;
     }
-    .table-question th {
-      background: #f8fafc;
-      color: #1e293b;
-      font-weight: 800;
-      text-align: left;
-    }
-    .table-question tbody tr:nth-child(even) {
-      background: #fafafa;
-    }
-
+    .table-question th { background: #f8fafc; color: #1e293b; font-weight: 800; }
+    .table-question tbody tr:nth-child(even) { background: #fafafa; }
     .fill-input {
-      font-family: inherit;
-      font-size: 14.5px;
-      font-weight: 700;
-      color: #0284c7;
-      background: #ffffff;
-      border: 1.5px solid #94a3b8;
-      border-radius: 5px;
-      padding: 6px 10px;
-      text-align: center;
-      outline: none;
-      transition: all 0.2s ease;
-      margin: 0 4px;
+      font-family: inherit; font-size: 14px; font-weight: 700; color: #0284c7;
+      background: #ffffff; border: 1.5px solid #94a3b8; border-radius: 5px;
+      padding: 5px 8px; text-align: center; outline: none; transition: all 0.2s ease; margin: 0 3px;
     }
     .fill-input:focus {
-      border-color: #0284c7;
-      box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.18);
-      background: #f0f9ff;
+      border-color: #0284c7; box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.18); background: #f0f9ff;
     }
-
     .inline-result-feedback {
-      display: none;
-      margin-top: 4px;
-      padding: 4px 8px;
-      border-radius: 4px;
-      font-size: 12.5px;
-      font-weight: 600;
+      display: none; margin-top: 3px; padding: 3px 6px; border-radius: 4px; font-size: 12px; font-weight: 600;
     }
-    .inline-result-feedback.correct {
-      background: #f0fdf4;
-      border: 1px solid #86efac;
-      color: #166534;
-      display: inline-block;
-    }
-    .inline-result-feedback.wrong {
-      background: #fef2f2;
-      border: 1px solid #fca5a5;
-      color: #991b1b;
-      display: inline-block;
-    }
+    .inline-result-feedback.correct { background: #f0fdf4; border: 1px solid #86efac; color: #166534; display: inline-block; }
+    .inline-result-feedback.wrong { background: #fef2f2; border: 1px solid #fca5a5; color: #991b1b; display: inline-block; }
 
-    /* ========================================================
-       4. DẠNG TRẮC NGHIỆM MCQ (PART 2 & PART 3)
-       ======================================================== */
+    /* DẠNG TRẮC NGHIỆM */
     .lis-question-card {
-      background: #ffffff;
-      border: 1.5px solid #e2e8f0;
-      border-radius: 8px;
-      padding: 16px 18px;
-      margin-top: 14px;
+      background: #ffffff; border: 1.5px solid #e2e8f0; border-radius: 8px;
+      padding: 14px 16px; margin-top: 12px;
     }
     .lis-card-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 12px;
-      flex-wrap: wrap;
-      gap: 8px;
+      display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; flex-wrap: wrap; gap: 6px;
     }
-    .lis-card-title {
-      color: #0f172a;
-      font-size: 15px;
-      font-weight: 800;
-      line-height: 1.45;
-    }
-    .mcq-options-list {
-      display: flex;
-      flex-direction: column;
-      gap: 9px;
-      margin: 10px 0;
-    }
+    .lis-card-title { color: #0f172a; font-size: 14.5px; font-weight: 800; line-height: 1.4; }
+    .mcq-options-list { display: flex; flex-direction: column; gap: 8px; margin: 8px 0; }
     .mcq-option-item {
-      display: flex;
-      align-items: flex-start;
-      gap: 12px;
-      padding: 11px 16px;
-      border: 1.5px solid #e2e8f0;
-      border-radius: 8px;
-      background: #ffffff;
-      cursor: pointer;
-      transition: all 0.15s ease;
-      user-select: none;
+      display: flex; align-items: flex-start; gap: 10px; padding: 9px 14px;
+      border: 1.5px solid #e2e8f0; border-radius: 7px; background: #ffffff; cursor: pointer; transition: all 0.15s ease;
     }
-    .mcq-option-item:hover {
-      border-color: #94a3b8;
-      background: #f8fafc;
-    }
-    .mcq-option-item.selected {
-      border-color: #0284c7;
-      background: #f0f9ff;
-      box-shadow: 0 0 0 1px #0284c7;
-    }
+    .mcq-option-item:hover { border-color: #94a3b8; background: #f8fafc; }
+    .mcq-option-item.selected { border-color: #0284c7; background: #f0f9ff; box-shadow: 0 0 0 1px #0284c7; }
     .mcq-badge {
-      font-weight: 800;
-      color: #0284c7;
-      background: #e0f2fe;
-      padding: 3px 8px;
-      border-radius: 5px;
-      font-size: 13px;
-      min-width: 24px;
-      text-align: center;
-      flex-shrink: 0;
+      font-weight: 800; color: #0284c7; background: #e0f2fe; padding: 2px 7px;
+      border-radius: 4px; font-size: 12.5px; min-width: 22px; text-align: center; flex-shrink: 0;
     }
-    .mcq-option-item.selected .mcq-badge {
-      background: #0284c7;
-      color: #ffffff;
-    }
+    .mcq-option-item.selected .mcq-badge { background: #0284c7; color: #ffffff; }
 
-    /* ========================================================
-       5. DẠNG KÉO - THẢ (DRAG & DROP) PHONG CÁCH ENGNOVATE
-       ======================================================== */
-    .drag-drop-area { margin: 20px 0; }
+    /* DẠNG KÉO - THẢ */
+    .drag-drop-area { margin: 16px 0; }
     .flowchart-step {
-      margin-bottom: 18px;
-      background: #ffffff;
-      padding: 14px 16px;
-      border-radius: 8px;
-      border: 1px solid #e2e8f0;
+      margin-bottom: 14px; background: #ffffff; padding: 12px 14px;
+      border-radius: 8px; border: 1px solid #e2e8f0;
     }
     .flowchart-step-title {
-      font-size: 15px;
-      font-weight: 700;
-      color: #0f172a;
-      margin-bottom: 8px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+      font-size: 14.5px; font-weight: 700; color: #0f172a; margin-bottom: 8px;
+      display: flex; align-items: center; justify-content: space-between;
     }
     .dropzone-box {
-      min-height: 46px;
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      padding: 6px 14px;
-      border: 2px dashed #94a3b8;
-      border-radius: 8px;
-      background: #f8fafc;
-      cursor: pointer;
-      transition: all 0.2s ease;
-      min-width: 300px;
-      max-width: 100%;
-      box-sizing: border-box;
-      margin-bottom: 8px;
+      min-height: 44px; display: inline-flex; align-items: center; gap: 8px;
+      padding: 5px 12px; border: 2px dashed #94a3b8; border-radius: 7px;
+      background: #f8fafc; cursor: pointer; transition: all 0.2s ease; width: 100%; box-sizing: border-box;
     }
-    .dropzone-box:hover, .dropzone-box.drag-over {
-      border-color: #0284c7;
-      background: #f0f9ff;
-      border-style: solid;
-    }
-    .dropzone-box.filled {
-      border-style: solid;
-      border-color: #0284c7;
-      background: #ffffff;
-      box-shadow: 0 2px 6px rgba(2, 132, 199, 0.08);
-    }
-    .dropzone-box.correct-drop {
-      border-color: #16a34a !important;
-      background: #f0fdf4 !important;
-    }
-    .dropzone-box.wrong-drop {
-      border-color: #dc2626 !important;
-      background: #fef2f2 !important;
-    }
+    .dropzone-box:hover, .dropzone-box.drag-over { border-color: #0284c7; background: #f0f9ff; border-style: solid; }
+    .dropzone-box.filled { border-style: solid; border-color: #0284c7; background: #ffffff; box-shadow: 0 2px 5px rgba(2, 132, 199, 0.08); }
+    .dropzone-box.correct-drop { border-color: #16a34a !important; background: #f0fdf4 !important; }
+    .dropzone-box.wrong-drop { border-color: #dc2626 !important; background: #fef2f2 !important; }
     .drop-q-badge {
-      font-weight: 800;
-      font-size: 13px;
-      color: #0f172a;
-      padding: 3px 8px;
-      border: 1px solid #cbd5e1;
-      border-radius: 5px;
-      background: #ffffff;
-      flex-shrink: 0;
+      font-weight: 800; font-size: 12.5px; color: #0f172a; padding: 2px 7px;
+      border: 1px solid #cbd5e1; border-radius: 4px; background: #ffffff; flex-shrink: 0;
     }
-    .drop-placeholder {
-      color: #94a3b8;
-      font-size: 13.5px;
-      font-style: italic;
-      user-select: none;
-    }
-    .drop-content {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 10px;
-      width: 100%;
-    }
-    .drop-content .drop-text {
-      font-size: 14px;
-      font-weight: 700;
-      color: #0369a1;
-      line-height: 1.35;
-    }
+    .drop-placeholder { color: #94a3b8; font-size: 13px; font-style: italic; }
+    .drop-content { display: flex; align-items: center; justify-content: space-between; gap: 8px; width: 100%; }
+    .drop-content .drop-text { font-size: 13.5px; font-weight: 700; color: #0369a1; }
     .btn-clear-drop {
-      background: #fee2e2;
-      color: #dc2626;
-      border: none;
-      border-radius: 50%;
-      width: 22px;
-      height: 22px;
-      font-size: 12px;
-      font-weight: bold;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
+      background: #fee2e2; color: #dc2626; border: none; border-radius: 50%;
+      width: 20px; height: 20px; font-size: 11px; font-weight: bold; cursor: pointer;
+      display: flex; align-items: center; justify-content: center; flex-shrink: 0;
     }
-    .btn-clear-drop:hover {
-      background: #dc2626;
-      color: #ffffff;
-    }
+    .btn-clear-drop:hover { background: #dc2626; color: #ffffff; }
 
     .drag-bank-wrapper {
-      margin-top: 25px;
-      padding: 16px 20px;
-      background: #f8fafc;
-      border: 1.5px solid #cbd5e1;
-      border-radius: 10px;
+      margin-top: 20px; padding: 14px 16px; background: #f8fafc; border: 1.5px solid #cbd5e1; border-radius: 8px;
     }
-    .drag-bank-header {
-      font-size: 14px;
-      font-weight: 800;
-      color: #1e293b;
-      margin-bottom: 12px;
-    }
-    .drag-items-grid {
-      display: flex;
-      flex-direction: column;
-      gap: 9px;
-    }
+    .drag-bank-header { font-size: 13.5px; font-weight: 800; color: #1e293b; margin-bottom: 10px; }
+    .drag-items-grid { display: flex; flex-direction: column; gap: 8px; }
     .draggable-card {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      padding: 11px 16px;
-      background: #ffffff;
-      border: 1.5px solid #cbd5e1;
-      border-radius: 8px;
-      cursor: grab;
-      user-select: none;
-      transition: all 0.15s ease;
+      display: flex; align-items: center; gap: 10px; padding: 9px 14px;
+      background: #ffffff; border: 1.5px solid #cbd5e1; border-radius: 6px;
+      cursor: grab; user-select: none; transition: all 0.15s ease;
     }
-    .draggable-card:hover {
-      border-color: #0284c7;
-      background: #f0f9ff;
-      box-shadow: 0 3px 8px rgba(0,0,0,0.06);
-    }
-    .draggable-card.is-used {
-      opacity: 0.45;
-      background: #f1f5f9;
-      border-color: #e2e8f0;
-      cursor: not-allowed;
-      text-decoration: line-through;
-    }
+    .draggable-card:hover { border-color: #0284c7; background: #f0f9ff; }
+    .draggable-card.is-used { opacity: 0.45; background: #f1f5f9; border-color: #e2e8f0; cursor: not-allowed; text-decoration: line-through; }
     .drag-card-letter {
-      background: #0284c7;
-      color: #ffffff;
-      font-weight: 800;
-      font-size: 13.5px;
-      padding: 3px 9px;
-      border-radius: 5px;
-      flex-shrink: 0;
+      background: #0284c7; color: #ffffff; font-weight: 800; font-size: 12.5px; padding: 2px 7px; border-radius: 4px; flex-shrink: 0;
     }
 
-/* ========================================================
-       6. DẠNG MAP LABELLING: BẢN ĐỒ Ở TRÊN (TO TỐI ĐA), BẢNG Ở DƯỚI
-       ======================================================== */
-    .map-labelling-layout {
-      display: flex;
-      flex-direction: column; /* Xếp dọc: Hình ở trên, Bảng ở dưới */
-      gap: 20px;
-      margin: 20px 0;
-      width: 100%;
-    }
+    /* DẠNG BẢN ĐỒ MAP LABELLING: HÌNH Ở TRÊN, BẢNG Ở DƯỚI */
+    .map-labelling-layout { display: flex; flex-direction: column; gap: 18px; margin: 18px 0; width: 100%; }
     .map-image-card {
-      background: #ffffff;
-      border: 1.5px solid #cbd5e1;
-      border-radius: 10px;
-      padding: 10px;
-      text-align: center;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-      width: 100%;
-      box-sizing: border-box;
+      background: #ffffff; border: 1.5px solid #cbd5e1; border-radius: 8px; padding: 8px; text-align: center; width: 100%; box-sizing: border-box;
     }
-    .map-image-card img {
-      max-width: 100%; /* Bung to hết cỡ bề ngang của đề */
-      height: auto;
-      border-radius: 6px;
-      display: block;
-      margin: 0 auto;
-    }
-    .map-matrix-table {
-      width: 100%;
-      border-collapse: collapse;
-      background: #ffffff;
-      border: 1.5px solid #cbd5e1;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.02);
-    }
-    .map-matrix-table th, .map-matrix-table td {
-      border: 1px solid #e2e8f0;
-      padding: 10px 6px;
-      text-align: center;
-      font-size: 13.5px;
-    }
-    .map-matrix-table th {
-      background: #f8fafc;
-      font-weight: 800;
-      color: #1e293b;
-    }
-    .map-matrix-table tr:hover td {
-      background: #f0f9ff;
-    }
-    .map-matrix-table td.map-item-label {
-      text-align: left;
-      font-weight: 700;
-      color: #0f172a;
-      padding-left: 14px;
-    }
-    .map-radio-custom {
-      cursor: pointer;
-      width: 18px;
-      height: 18px;
-      accent-color: #0284c7;
-    }
+    .map-image-card img { max-width: 100%; height: auto; border-radius: 5px; display: block; margin: 0 auto; }
+    .map-matrix-table { width: 100%; border-collapse: collapse; background: #ffffff; border: 1.5px solid #cbd5e1; border-radius: 8px; overflow: hidden; }
+    .map-matrix-table th, .map-matrix-table td { border: 1px solid #e2e8f0; padding: 9px 6px; text-align: center; font-size: 13px; }
+    .map-matrix-table th { background: #f8fafc; font-weight: 800; color: #1e293b; }
+    .map-matrix-table tr:hover td { background: #f0f9ff; }
+    .map-matrix-table td.map-item-label { text-align: left; font-weight: 700; color: #0f172a; padding-left: 12px; }
+    .map-radio-custom { cursor: pointer; width: 18px; height: 18px; accent-color: #0284c7; }
 
-    /* NÚT NỘP BÀI & POPUP */
+    /* NÚT NỘP BÀI & MODAL */
     .btn-submit {
-      background: #0284c7;
-      color: white;
-      border: none;
-      padding: 14px 20px;
-      font-size: 15.5px;
-      font-weight: 800;
-      border-radius: 8px;
-      width: 100%;
-      cursor: pointer;
-      margin-top: 24px;
-      box-shadow: 0 3px 10px rgba(2, 132, 199, 0.25);
-      transition: all 0.2s ease;
+      background: #0284c7; color: white; border: none; padding: 13px 18px;
+      font-size: 15px; font-weight: 800; border-radius: 8px; width: 100%; cursor: pointer; margin-top: 22px;
     }
-    .btn-submit:hover {
-      background: #0369a1;
-      transform: translateY(-1px);
-    }
+    .btn-submit:hover { background: #0369a1; }
     .btn-full-submit {
-      margin-top: 14px;
-      background: linear-gradient(135deg, #4f46e5 0%, #3730a3 100%);
-      color: white;
-      border: none;
-      padding: 16px;
-      border-radius: 8px;
-      width: 100%;
-      font-size: 16px;
-      font-weight: 800;
-      cursor: pointer;
+      margin-top: 12px; background: linear-gradient(135deg, #4f46e5 0%, #3730a3 100%);
+      color: white; border: none; padding: 15px; border-radius: 8px; width: 100%; font-size: 15.5px; font-weight: 800; cursor: pointer;
     }
 
     .modal-backdrop {
-      position: fixed; inset: 0;
-      background: rgba(15, 23, 42, 0.75);
-      backdrop-filter: blur(4px);
-      display: none !important;
-      align-items: center; justify-content: center;
-      z-index: 9999; padding: 15px;
+      position: fixed; inset: 0; background: rgba(15, 23, 42, 0.75); backdrop-filter: blur(4px);
+      display: none !important; align-items: center; justify-content: center; z-index: 9999; padding: 15px;
     }
-    .modal-backdrop.is-active {
-      display: flex !important;
-    }
+    .modal-backdrop.is-active { display: flex !important; }
     .modal-content {
-      background: #ffffff;
-      width: 100%;
-      max-width: 780px;
-      max-height: 90vh;
-      border-radius: 12px;
-      display: flex;
-      flex-direction: column;
-      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);
-      overflow: hidden;
+      background: #ffffff; width: 100%; max-width: 780px; max-height: 90vh; border-radius: 12px;
+      display: flex; flex-direction: column; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3); overflow: hidden;
     }
-    .modal-header {
-      background: #0f172a;
-      color: white;
-      padding: 16px 20px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
+    .modal-header { background: #0f172a; color: white; padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; }
     .modal-body { padding: 20px; overflow-y: auto; }
     .band-score-banner {
-      background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
-      border: 2px solid #22c55e;
-      border-radius: 10px;
-      padding: 20px;
-      text-align: center;
-      margin-bottom: 20px;
+      background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border: 2px solid #22c55e;
+      border-radius: 10px; padding: 20px; text-align: center; margin-bottom: 20px;
     }
-    .band-score-value {
-      font-size: 46px;
-      font-weight: 900;
-      color: #15803d;
-      line-height: 1.1;
-      margin: 4px 0;
-    }
-    .summary-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-      gap: 10px;
-      margin-bottom: 20px;
-    }
-    .summary-card {
-      background: #f8fafc;
-      border: 1px solid #e2e8f0;
-      padding: 12px;
-      border-radius: 8px;
-      text-align: center;
-    }
+    .band-score-value { font-size: 46px; font-weight: 900; color: #15803d; line-height: 1.1; margin: 4px 0; }
+    .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; margin-bottom: 20px; }
+    .summary-card { background: #f8fafc; border: 1px solid #e2e8f0; padding: 12px; border-radius: 8px; text-align: center; }
     .summary-card b { font-size: 18px; color: #0284c7; }
     .answers-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
     .answers-table th, .answers-table td { border: 1px solid #e2e8f0; padding: 9px 12px; text-align: left; }
@@ -734,7 +581,7 @@
 
 <script>
   /* ========================================================
-     HỆ THỐNG LƯU TRỮ VĨNH VIỄN (AUTO-SAVE PERSISTENCE)
+     HỆ THỐNG LƯU TRỮ VĨNH VIỄN (AUTO-SAVE)
      ======================================================== */
   window.saveThought = function(qId, val) {
     if (!window.CURRENT_BASE_TEST) return;
@@ -743,6 +590,7 @@
       const store = JSON.parse(localStorage.getItem(key) || '{}');
       store[qId] = val;
       localStorage.setItem(key, JSON.stringify(store));
+      window.updateBubblePreview(qId, val);
     } catch(e) {}
   };
 
@@ -770,21 +618,22 @@
   window.restoreSavedUserData = function() {
     if (!window.CURRENT_BASE_TEST) return;
 
-    // 1. Phục hồi Mạch suy nghĩ
     try {
       const thoughtKey = `ielts_thought_${window.CURRENT_BASE_TEST}`;
       const thoughtStore = JSON.parse(localStorage.getItem(thoughtKey) || '{}');
       Object.entries(thoughtStore).forEach(([qId, text]) => {
         const el = document.getElementById(`${qId}_thought`);
-        if (el && text) el.value = text;
+        if (el && text) {
+          el.value = text;
+          window.updateBubblePreview(qId, text);
+        }
       });
     } catch(e) {}
 
-    // 2. Phục hồi Câu hỏi & Câu trả lời của AI
     try {
       const aiKey = `ielts_ai_${window.CURRENT_BASE_TEST}`;
       const aiStore = JSON.parse(localStorage.getItem(aiKey) || '{}');
-      Object.entries(aiKey ? aiStore : {}).forEach(([qId, item]) => {
+      Object.entries(aiStore).forEach(([qId, item]) => {
         const askInp = document.getElementById(`ai_ask_${qId}`);
         const respEl = document.getElementById(`ai_response_${qId}`);
         if (askInp && item && item.question) askInp.value = item.question;
@@ -796,7 +645,6 @@
     } catch(e) {}
   };
 
-  // Giám sát tự động lưu câu trả lời của AI khi AI phản hồi xong
   function setupAiObserver() {
     const qBox = document.getElementById('questionBox');
     if (!qBox) return;
@@ -816,6 +664,41 @@
     });
     observer.observe(qBox, { childList: true, subtree: true, characterData: true });
   }
+
+  /* ========================================================
+     ĐIỀU HƯỚNG BÌNH LUẬN KIỂU GOOGLE DOCS
+     ======================================================== */
+  window.activateCommentBubble = function(qId) {
+    document.querySelectorAll('.gdocs-comment-bubble').forEach(b => b.classList.remove('is-active'));
+    const target = document.getElementById(`bubble_${qId}`);
+    if (target) {
+      target.classList.add('is-active');
+      target.classList.remove('is-collapsed'); // Tự động mở ra khi được chọn
+      target.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+  };
+
+  window.toggleSingleCommentBubble = function(qId, e) {
+    if (e) e.stopPropagation();
+    const target = document.getElementById(`bubble_${qId}`);
+    if (target) {
+      target.classList.toggle('is-collapsed');
+    }
+  };
+
+  window.toggleAllCommentBubbles = function(shouldExpand) {
+    document.querySelectorAll('.gdocs-comment-bubble').forEach(b => {
+      if (shouldExpand) b.classList.remove('is-collapsed');
+      else b.classList.add('is-collapsed');
+    });
+  };
+
+  window.updateBubblePreview = function(qId, text) {
+    const prev = document.getElementById(`bubble_prev_${qId}`);
+    if (prev) {
+      prev.innerText = text.trim() ? `• ${text.trim().substring(0, 18)}...` : '';
+    }
+  };
 
   (function() {
     window.seekAudioTo = function(seconds, highlightId) {
@@ -866,7 +749,7 @@
     return `${m < 10 ? '0' : ''}${m}:${s < 10 ? '0' : ''}${s}`;
   }
 
-  /* KÉO - THẢ CHO MATCHING / FLOWCHART */
+  /* KÉO - THẢ CHO FLOWCHART */
   window.draggedData = null;
   window.selectedOptionForPlacement = null;
 
@@ -914,6 +797,7 @@
   };
 
   window.handleDropzoneClick = function(qId) {
+    window.activateCommentBubble(qId);
     if (window.selectedOptionForPlacement) {
       window.placeAnswerIntoDropzone(qId, window.selectedOptionForPlacement.key, window.selectedOptionForPlacement.text);
       document.querySelectorAll('.draggable-card').forEach(c => c.style.outline = '');
@@ -968,37 +852,18 @@
     });
   };
 
-  /* HÀM TRỢ GIÚP TẠO KHUNG MẠCH SUY NGHĨ + TRỢ GIẢNG AI CHO TỪNG CÂU */
-  function renderThoughtAndAiBox(qId, num) {
-    return `
-      <div class="inline-qa-card">
-        <div class="inline-thought-box">
-          <label>💭 Mạch suy nghĩ của em (Câu ${num}):</label>
-          <textarea id="${qId}_thought" placeholder="Ghi chú lý do em chọn đáp án này..." oninput="window.saveThought('${qId}', this.value)"></textarea>
-        </div>
-        <div class="ai-assistant-box">
-          <label>🤖 Hỏi Trợ giảng AI về câu ${num}:</label>
-          <div class="ai-input-group">
-            <input type="text" id="ai_ask_${qId}" placeholder="Hỏi lý do chọn đáp án này..." oninput="window.saveAiDraft('${qId}', this.value)">
-            <button type="button" class="ai-btn" onclick="window.askGeminiAI && window.askGeminiAI('${qId}')">Gửi AI</button>
-          </div>
-          <div class="ai-response" id="ai_response_${qId}"></div>
-        </div>
-      </div>
-    `;
-  }
-
   /* ========================================================
-     XÂY DỰNG GIAO DIỆN BÀI THI HOÀN CHỈNH
+     BUILD BÀI THI (GOOGLE DOCS LAYOUT 2 CỘT)
      ======================================================== */
   window.buildListeningHtml = function(data, isPart4) {
     if (!data.groups || !data.questions) return data.questionHtml || "";
-    let html = '';
+    let paperHtml = '';
+    const allQIds = [];
 
     data.groups.forEach(group => {
-      html += `<div class="section-title">${group.title}</div>`;
+      paperHtml += `<div class="section-title">${group.title}</div>`;
       if (group.instructions) {
-        html += `<div class="instructions-box">${group.instructions}</div>`;
+        paperHtml += `<div class="instructions-box">${group.instructions}</div>`;
       }
 
       const isGapFillGroup = group.type === 'table' || group.type === 'notes' || group.tableHtml || (group.template && !group.options);
@@ -1006,11 +871,11 @@
       const isMapGroup = group.type === 'map' || group.imageUrl;
 
       if (isMapGroup) {
-        // 1. DẠNG BẢN ĐỒ MAP LABELLING
+        // MAP LABELLING: HÌNH Ở TRÊN, MA TRẬN BẢNG Ở DƯỚI
         const optsLetters = ['A','B','C','D','E','F','G','H','I','J'].slice(0, group.optionsCount || 9);
         const imgPath = group.imageUrl || 'data-l/images/cam21-t2-p2-map.png';
 
-        html += `
+        paperHtml += `
           <div class="map-labelling-layout">
             <div class="map-image-card">
               <img src="${imgPath}" alt="Map Diagram" onerror="this.src='data-l/images/cam21-t2-p2-map.png';">
@@ -1019,18 +884,20 @@
               <table class="map-matrix-table">
                 <thead>
                   <tr>
-                    <th style="text-align:left; padding-left:14px;">Questions</th>
+                    <th style="text-align:left; padding-left:12px;">Questions</th>
                     ${optsLetters.map(l => `<th>${l}</th>`).join('')}
                   </tr>
                 </thead>
                 <tbody>
                   ${group.questionIds.map(qId => {
+                    allQIds.push(qId);
                     const q = data.questions[qId];
                     return `
-                      <tr id="row_${qId}">
+                      <tr id="row_${qId}" onclick="window.activateCommentBubble('${qId}')">
                         <td class="map-item-label">
                           <b>${q?.num || qId.replace('q','')}</b>. ${q?.text || ''}
-                          ${q?.time ? `<button type="button" class="btn-audio-pill" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')">▶ ${formatTime(q.time)}</button>` : ''}
+                          ${q?.time ? `<button type="button" class="btn-audio-pill" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')">▶</button>` : ''}
+                          <button type="button" class="btn-comment-anchor" onclick="window.activateCommentBubble('${qId}')" title="Mở ghi chú & hỏi AI">💬</button>
                         </td>
                         ${optsLetters.map(letter => `
                           <td>
@@ -1046,25 +913,23 @@
           </div>
         `;
 
-        // Khung suy nghĩ & AI cho từng câu của phần Map
-        group.questionIds.forEach(qId => {
-          const q = data.questions[qId];
-          html += renderThoughtAndAiBox(qId, q?.num || qId.replace('q',''));
-        });
-
       } else if (isMatchingDragDrop) {
-        // 2. DẠNG KÉO - THẢ MATCHING / FLOW-CHART
-        html += `<div class="drag-drop-area">`;
+        // FLOWCHART KÉO THẢ (SẠCH SẼ, KHÔNG BỊ CHOÁN CHỖ)
+        paperHtml += `<div class="drag-drop-area">`;
         if (group.notesTitle) {
-          html += `<h4 style="margin: 0 0 14px 0; color:#0f172a; font-size:16px; font-weight:800;">${group.notesTitle}</h4>`;
+          paperHtml += `<h4 style="margin: 0 0 12px 0; color:#0f172a; font-size:15px; font-weight:800;">${group.notesTitle}</h4>`;
         }
 
         group.questionIds.forEach(qId => {
+          allQIds.push(qId);
           const q = data.questions[qId];
-          html += `
+          paperHtml += `
             <div class="flowchart-step" id="${qId}">
               <div class="flowchart-step-title">
-                <span><b>${q?.num || qId.replace('q','')}.</b> ${q?.stepTitle || q?.text || ''}</span>
+                <span>
+                  <b>${q?.num || qId.replace('q','')}.</b> ${q?.stepTitle || q?.text || ''}
+                  <button type="button" class="btn-comment-anchor" onclick="window.activateCommentBubble('${qId}')" title="Ghi chú & hỏi AI">💬</button>
+                </span>
                 ${q?.time ? `<button type="button" class="btn-audio-pill" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')">▶ ${formatTime(q.time)}</button>` : ''}
               </div>
               <div class="dropzone-box" id="dropzone_${qId}" data-qid="${qId}" 
@@ -1075,17 +940,13 @@
                 <span class="drop-q-badge">Câu ${q?.num || qId.replace('q','')}</span>
                 <span class="drop-placeholder">Drop answer here</span>
               </div>
-              ${renderThoughtAndAiBox(qId, q?.num || qId.replace('q',''))}
             </div>
           `;
         });
 
-        // KHO LỰA CHỌN ĐỂ KÉO
-        html += `
+        paperHtml += `
           <div class="drag-bank-wrapper">
-            <div class="drag-bank-header">
-              <span>🎯 <b>Drag and drop an option to fill in each blank</b> (hoặc click vào ô rồi click vào thẻ):</span>
-            </div>
+            <div class="drag-bank-header">🎯 <b>Drag and drop an option to fill in each blank</b>:</div>
             <div class="drag-items-grid">
               ${group.options.map(opt => `
                 <div class="draggable-card" draggable="true" data-key="${opt.key}"
@@ -1093,7 +954,7 @@
                      ondragend="window.handleDragEnd(event)"
                      onclick="window.selectOptionToPlace('${opt.key}', '${opt.text.replace(/'/g, "\\'")}', this)">
                   <span class="drag-card-letter">${opt.key}</span>
-                  <span style="font-size:14px; font-weight:600; line-height:1.4;">${opt.text}</span>
+                  <span style="font-size:13.5px; font-weight:600;">${opt.text}</span>
                 </div>
               `).join('')}
             </div>
@@ -1101,18 +962,22 @@
         </div>`;
 
       } else if (isGapFillGroup) {
-        // 3. DẠNG ĐIỀN TỪ (PART 1 & PART 4)
+        // ĐIỀN TỪ TRỰC TIẾP
         let contentBody = group.tableHtml || group.template || '';
         
         group.questionIds.forEach(qId => {
+          allQIds.push(qId);
           const q = data.questions[qId];
-          const width = q?.inputWidth || "130px";
-          const audioTimeStr = q?.time ? `<button type="button" class="btn-audio-pill" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')" title="Bấm để nghe đoạn câu này">▶ ${formatTime(q.time)}</button>` : '';
+          const width = q?.inputWidth || "120px";
+          const audioTimeStr = q?.time ? `<button type="button" class="btn-audio-pill" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')">▶ ${formatTime(q.time)}</button>` : '';
 
           const inputReplacement = `
             <span style="display:inline-block; vertical-align:middle; margin:2px 0;">
-              <input type="text" class="fill-input" id="${qId}_input" style="width:${width};" placeholder="[Câu ${q?.num || qId}]" oninput="window.syncUserAnswer('${qId}', this.value)">
+              <input type="text" class="fill-input" id="${qId}_input" style="width:${width};" placeholder="[Câu ${q?.num || qId}]" 
+                     onfocus="window.activateCommentBubble('${qId}')"
+                     oninput="window.syncUserAnswer('${qId}', this.value)">
               ${audioTimeStr}
+              <button type="button" class="btn-comment-anchor" onclick="window.activateCommentBubble('${qId}')" title="Ghi chú & hỏi AI">💬</button>
               <div id="${qId}_feedback" class="inline-result-feedback"></div>
             </span>
           `;
@@ -1120,22 +985,15 @@
         });
 
         if (group.notesTitle) {
-          contentBody = `<div style="background:#f8fafc; border:1.5px solid #e2e8f0; padding:18px; border-radius:8px;"><h4 style="margin-top:0; margin-bottom:12px; font-size:16px;">${group.notesTitle}</h4>${contentBody}</div>`;
+          contentBody = `<div style="background:#f8fafc; border:1.5px solid #e2e8f0; padding:16px; border-radius:8px;"><h4 style="margin-top:0; margin-bottom:10px; font-size:15px;">${group.notesTitle}</h4>${contentBody}</div>`;
         }
 
-        html += `<div style="margin-bottom:16px; font-size:15px; line-height:1.8;">${contentBody}</div>`;
-
-        // KHUNG MẠCH SUY NGHĨ + TRỢ GIẢNG AI TỪNG CÂU CHO GAP-FILL
-        html += `<div style="margin: 16px 0 24px 0;">`;
-        group.questionIds.forEach(qId => {
-          const q = data.questions[qId];
-          html += renderThoughtAndAiBox(qId, q?.num || qId.replace('q',''));
-        });
-        html += `</div>`;
+        paperHtml += `<div style="margin-bottom:16px; font-size:14.5px; line-height:1.75;">${contentBody}</div>`;
 
       } else {
-        // 4. DẠNG TRẮC NGHIỆM TIÊU CHUẨN (MCQ)
+        // TRẮC NGHIỆM TIÊU CHUẨN
         group.questionIds.forEach(qId => {
+          allQIds.push(qId);
           const q = data.questions[qId];
           if (!q) return;
 
@@ -1147,41 +1005,91 @@
               const text = letterMatch ? opt.substring(letterMatch[0].length).trim() : opt;
 
               return `
-                <label class="mcq-option-item" onclick="window.syncUserAnswer('${qId}', '${letter}')">
+                <label class="mcq-option-item" onclick="window.syncUserAnswer('${qId}', '${letter}'); window.activateCommentBubble('${qId}');">
                   <input type="radio" name="${qId}" value="${letter}" style="display:none;">
                   <span class="mcq-badge">${letter}</span>
-                  <span style="font-size:14.5px; line-height:1.45; color:#1e293b;">${text}</span>
+                  <span style="font-size:14px; line-height:1.4; color:#1e293b;">${text}</span>
                 </label>
               `;
             }).join('');
           }
 
-          html += `
-            <div class="lis-question-card" id="${qId}">
+          paperHtml += `
+            <div class="lis-question-card" id="${qId}" onclick="window.activateCommentBubble('${qId}')">
               <div class="lis-card-header">
-                <span class="lis-card-title"><b>Câu ${q.num || qId.replace('q','')}.</b> ${q.text || ''}</span>
-                ${q.time ? `<button type="button" class="btn-audio-pill" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')">▶ Nghe đoạn này (${formatTime(q.time)})</button>` : ''}
+                <span class="lis-card-title">
+                  <b>Câu ${q.num || qId.replace('q','')}.</b> ${q.text || ''}
+                  <button type="button" class="btn-comment-anchor" onclick="window.activateCommentBubble('${qId}')" title="Ghi chú & hỏi AI">💬</button>
+                </span>
+                ${q.time ? `<button type="button" class="btn-audio-pill" onclick="window.seekAudioTo(${q.time}, '${q.highlightId || ''}')">▶ ${formatTime(q.time)}</button>` : ''}
               </div>
               <div class="mcq-options-list">${optionsList}</div>
               <div class="result" style="margin-top:6px;"></div>
-              ${renderThoughtAndAiBox(qId, q.num || qId.replace('q',''))}
             </div>
           `;
         });
       }
     });
 
-    html += `<button type="button" class="btn-submit" onclick="window.checkAnswers()">CHẤM BÀI PHẦN NÀY VÀ MỞ TRANSCRIPT</button>`;
+    paperHtml += `<button type="button" class="btn-submit" onclick="window.checkAnswers()">CHẤM BÀI PHẦN NÀY VÀ MỞ TRANSCRIPT</button>`;
 
     if (isPart4) {
-      html += `
+      paperHtml += `
         <button type="button" class="btn-full-submit" onclick="window.submitFullListeningTest()">
           🏆 NỘP TỔNG & TÍNH BAND SCORE CẢ 4 PARTS (40 CÂU)
         </button>
       `;
     }
 
-    return html;
+    // SINH TOÀN BỘ CỘT BÌNH LUẬN KIỂU GOOGLE DOCS BÊN TAY PHẢI
+    const commentsListHtml = allQIds.map(qId => {
+      const num = data.questions[qId]?.num || qId.replace('q','');
+      return `
+        <div class="gdocs-comment-bubble is-collapsed" id="bubble_${qId}" onclick="window.activateCommentBubble('${qId}')">
+          <div class="gdocs-bubble-header" onclick="window.toggleSingleCommentBubble('${qId}', event)">
+            <div class="gdocs-bubble-title">
+              <span class="gdocs-bubble-badge">Câu ${num}</span>
+              <span class="gdocs-bubble-preview" id="bubble_prev_${qId}"></span>
+            </div>
+            <button type="button" class="gdocs-bubble-toggle-btn" title="Thu gọn / Mở rộng">▾</button>
+          </div>
+          <div class="gdocs-bubble-body">
+            <div class="inline-thought-box">
+              <label>💭 Mạch suy nghĩ của em:</label>
+              <textarea id="${qId}_thought" placeholder="Ghi chú suy nghĩ..." oninput="window.saveThought('${qId}', this.value)"></textarea>
+            </div>
+            <div class="ai-assistant-box">
+              <label>🤖 Hỏi Trợ giảng AI:</label>
+              <div class="ai-input-group">
+                <input type="text" id="ai_ask_${qId}" placeholder="Hỏi AI về câu này..." oninput="window.saveAiDraft('${qId}', this.value)">
+                <button type="button" class="ai-btn" onclick="window.askGeminiAI && window.askGeminiAI('${qId}')">Gửi</button>
+              </div>
+              <div class="ai-response" id="ai_response_${qId}"></div>
+            </div>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    return `
+      <div class="gdocs-exam-wrapper">
+        <div class="gdocs-paper-col">
+          ${paperHtml}
+        </div>
+        <div class="gdocs-comments-col">
+          <div class="gdocs-comments-header">
+            <span class="gdocs-header-title">💬 Ghi chú & AI</span>
+            <div class="gdocs-header-actions">
+              <button type="button" class="btn-gdocs-toggle-all" onclick="window.toggleAllCommentBubbles(true)" title="Mở tất cả">Mở hết</button>
+              <button type="button" class="btn-gdocs-toggle-all" onclick="window.toggleAllCommentBubbles(false)" title="Thu gọn tất cả">Thu gọn</button>
+            </div>
+          </div>
+          <div class="gdocs-bubbles-container">
+            ${commentsListHtml}
+          </div>
+        </div>
+      </div>
+    `;
   };
 
   /* XỬ LÝ CHẤM BÀI */
@@ -1204,7 +1112,6 @@
 
     if (window.TEST_DATA && window.TEST_DATA.answers) {
       Object.entries(window.TEST_DATA.answers).forEach(([qId, official]) => {
-        // Feedback Gap-fill
         const inp = document.getElementById(`${qId}_input`);
         const feedback = document.getElementById(`${qId}_feedback`);
         if (inp && feedback) {
@@ -1219,7 +1126,6 @@
           }
         }
 
-        // Feedback Dropzone
         const dz = document.getElementById(`dropzone_${qId}`);
         if (dz) {
           const badge = dz.querySelector('.mcq-badge');
@@ -1343,7 +1249,6 @@
 
       await initListeningApp();
 
-      // Phục hồi lại toàn bộ Mạch suy nghĩ & Lịch sử AI đã lưu
       window.restoreSavedUserData();
       setupAiObserver();
 
